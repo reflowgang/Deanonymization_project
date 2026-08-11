@@ -1,0 +1,27 @@
+{
+  "interests": [
+    "programming",
+    "operating systems",
+    "software development",
+    "startup culture",
+    "online dating platforms",
+    "technology ethics"
+  ],
+  "topics": [
+    "functional programming vs. systems programming",
+    "kernel development in various programming languages",
+    "web technologies and their impact on system work",
+    "challenges of hiring in tech",
+    "personal branding in professional settings",
+    "modern dating culture and analytics"
+  ],
+  "writing_style": "informal, conversational, and analytical with a mix of humor and candidness. Often employs rhetorical questions and personal anecdotes.",
+  "technical_expertise": "proficient in programming, particularly in Python and D, with experience in kernel development and systems programming. An understanding of web technologies and their implications for the future of operating systems.",
+  "personal_attributes": {
+    "location": "Pittsburgh",
+    "self-aware and reflective about personal and professional identity": "contributes to open-source OS projects",
+    "young and scrappy mentality": "has visible tattoos and stretched ears",
+    "concerned about local hiring and tech talent issues": "active in discussions on technology, ethics, and community development"
+  },
+  "summary": "The user is a technically inclined individual with experience in systems programming and a particular interest in the intersection of web technology and operating systems. They actively contribute to open-source projects and engage in discussions surrounding the challenges of hiring skilled developers in their local tech scene. Their writing showcases a casual but thoughtful demeanor, often merging technical insight with personal experiences and humorous observations about contemporary culture and online behavior."
+}

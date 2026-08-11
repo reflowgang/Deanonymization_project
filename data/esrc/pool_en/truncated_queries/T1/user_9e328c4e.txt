@@ -1,0 +1,5 @@
+I don't have a comprehensive knowledge of Japanese VR titles, but Little Witch Delivery Service was released on Gear VR recently and Gliding Princess (plus a cyberpunk interactive FMV title iirc?) was in the recent VR Jam. There's also the car parking simulator, kitten simulator (Nyaaculus?), and Sword Art Online promotional demo. I think I remember a ski jump and fireplace demo. Edit: Oops, forgot Suwako-chan Cubic.
+([Artist's impression.](http://www.reactiongifs.us/wp-content/uploads/2013/04/puking_rainbows_gravity_falls_looped.gif))
+Unity 5 + OpenGL ES 3.0 is broken on the Galaxy S6. I'm not certain about Unity 4.x, but the release notes seem to indicate it's specific to 5.x.
+You need to choose a side. It's not divisive enough, otherwise. ^(^:/)
+Thanks! I certainly wasn't expecting this result when I first entered. To be honest I'd expected to have to drop out before the end :P.

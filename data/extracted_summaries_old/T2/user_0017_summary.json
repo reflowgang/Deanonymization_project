@@ -1,0 +1,29 @@
+{
+  "interests": [
+    "economics",
+    "tax policy",
+    "technology",
+    "artificial intelligence",
+    "genomics",
+    "social safety net"
+  ],
+  "topics": [
+    "living wage",
+    "income inequality",
+    "autonomous weapons",
+    "taxation of the wealthy",
+    "economic stimulus",
+    "machine intelligence",
+    "genome modification"
+  ],
+  "writing_style": "Analytical and argumentative, featuring detailed explanations and references. The user displays a conversational but informed tone, often challenging opposing viewpoints and providing evidence to support claims.",
+  "technical_expertise": "Educated and practical understanding of technology and economics, specifically in areas such as artificial intelligence, tax policy, and genomics. The user likely possesses advanced knowledge in their field, evidenced by references to specific technologies and economic theories.",
+  "personal_attributes": {
+    "educated": true,
+    "concerned_about_technology": true,
+    "working_on_genome_sequencing": true,
+    "supportive_of_social_safety_nets": true,
+    "engaged_in_economic_discourses": true
+  },
+  "summary": "The user is deeply interested in economic policies, particularly regarding taxation and social safety nets, and exhibits significant concern for the implications of advanced technology, especially machine intelligence. They showcase a blend of technical expertise and a practical approach to both economic and technological discussions, suggesting a background in a related professional field. The user is personally invested in genomics, working on a project related to their wife's health, indicating a commitment to applying technical knowledge for practical, personal reasons."
+}

@@ -1,0 +1,100 @@
+With regard to the weather, check out southeast Asian Muslims wearing veils in 30 degree weather with 90% humidity. They don't even sweat. Meanwhile the white tourists wearing tank tops and bike shorts sweat buckets.
+What is the percentage in London though?
+They believe that they are superior in all aspect..., and that their countries are being overtaken by these primitive savages? I don't understand that contradiction.
+Practical-minded practices are like laying down a towel before sitting on a public bench to not transfer fecal matter. What practical reason is there for hiding a natural spontaneous erection?
+I agree. Once you see that immigrants are just people trying to find a better live, it's hard to spout hate at them.
+I occasionally one shot a beast with mechablast rocket, then act surprised that I was able to loot anything useful from it.
+I disagree. Languages can be changed forcefully, if the desire behind it is strong enough. What gives me hope is the recent addition of a new word in English, santorum. (Disclaimer: I don't have any stand in that matter, only interested in the process of getting the word out.) What I hope to see is a movement by all German esperantists to introduce something like 'dojcxo' to mean Germany. If they can push out enough literature, change all of eo.wikipedia and use it in conversation, I believe that the change can be made.
+Apparently a land like the Sahara can support that population. Wikipedia puts the population of the [Tuareg prople](http://en.wikipedia.org/wiki/Tuareg_people) at 1.2 million, and the 3-fold land is way bigger than the extent of the Tuareg people I think. They mainly inhabit across interior Sahara. EDIT: Granted, today's Tuareg probably buy food from coastal cities, I don't know...
+Like it or not, Microsoft, Apple and Android are the trendsetters in this field. As of June 2015, "modern" means a flat design with two or three bright colors, no grays, and simple silhouette icons. XFCE is about ten years behind I think.
+When live gives you a hole in the wall, you make a door.
+I figured it out. Replace 'thus' with 'this'.
+The portuguese, as always. The portuguese word for France is Franca (sorry for spelling), but the language, people and adjective form is frances. From there, it's just the usual Austronesian vowel and consonant transformations. F becomes p, double consonants have a schwa inserted between them, and c and e is morphed.
+Does he actually believe that those are respectable sites, or is he aware of OP's bullshit and is cryptically conveying it by suggesting those sites to him? I seriously can't tell.
+Vorto de Mormont-Domo: Cxi tie mi staras.
+Reading the title, I assumed it's from fakemalaysiannews.com
+Thank god we know at least ONE thing that jet fuel can't do.
+I am actually impressed. I can't come up with half of that even if I were to try really hard.
+Rare because there aren't that many living channellers anyway. With the surge of new recruit, that would be subject to change. Furthermore, policing is definitely needed to stop the kind of harmful experimentation that Semirhage was doing.
+Shirene is still alive in the book.
+You should keep your job in a safe then. If you're parading it around, you're just asking to be robbed.
+Could be his luck at work there. Though at that point in the series I feel like you could cast a net at a busy intersection and catch a darkfriend everytime.
+You actually made the trollocs look cute... They look like furries.
+Reddit has more than a hundred million users. (That needs clarification. I think it's unique visitors not user accounts, but not sure.)
+Yeah, it's like that where I'm from. When I went to mainland US, it weirded me out that it rains only when a front passes over.
+And the company is supposed to repair and maintain the fleet. Fuck, that's a really good deal.
+I strived to maintain 100% uptime on movement, just to piss off the clothies.
+She's the freaking Amyrlin during the Last Battle. That's like, the fourth most important and most heavy role behind the three Taverrens. If you want to excuse Rand for being the Dragon, you should excuse Egwene for being Amyrlin.
+Sorry non-american here. What's the difference between Nebraska and Wyoming?
+I think that was a shower head.
+Ellaria is secretly an Aes Sedai.
+Is a pound of wheat equal to a pound of lettuce? One you need to eat in bulk to supply energy, the other you need to eat only a little to supply all the vitamins and minerals you need. If two pound of water yields one pound of wheat but only half a pound of lettuce, which is more "efficient"?
+Let it flow to the ocean?
+They don't have to side with Dorne. Highgarden is completely self-sufficient in all aspects, and gaining Sunspear's favor gives little benefit to them. As long as they can keep their heirs alive under the sept, KL can burn for all they care.
+Then she'll use that army of the world's best light cavalry to launch a naval assault on King's Landing. Unsullied 2.0
+&gt; Separating out the AsyncTask would mean somehow passing everything I need to the AsyncTask, which makes no sense No, that makes all the sense in the world. Make the AsyncTask into its own class, give it a proper name that indicates what it does, then pass in all the data it need through the constructor. Pass in the reference to the TextView through the constructor as well. Why do you think that's a bad idea? \* passing a reference to a View to AsyncTask might cause trouble, so hopefully your Task is shortlived. Otherwise, use something else.
+They were stoic, not emotionless. Maybe you just read their faces differently from me, I don't know. They were doing their duty, no different than when they patrol the wall or when they scrub the floor. Just doing their job. For the Watch. Nothing personal.
+Yeah, until you end up with a 2000 line file. Different people have different style I guess, but I believe in breaking up the procedure into logically independent parts. Whether I use the method or class anywhere else doesn't matter at all.
+So tell us, are you a sociopathic jihadist lizardian atheist paedo trans furry, or do you order steak well-done?
+Dance was released 4 years ago, so for book readers it's not "too soon"
+I don't know about that. Outside on a warm day, your skin can be pretty conductive.
+The regulators do a fine enough job of making sure the information is out there. The workers on the other hand, it's a case of you don't know what you don't know. I don't want to demean them, but the kind of people who work in places that uses those chemicals, well, you know... People WILL protest if the government requires every janitor to take a two weeks course on industrial chemicals to get a license, so what can we do?
+It makes sense only if your native language uses the same convention. Otherwise, 'Chu' and 'Cxu' are fairly equal, with the x-system having the advantage of preserving Esperanto's one-letter-one-sound principle. As it turns out the h-system lines up well with English's usage of the ch and sh double consonants. If it "makes sense" to you, that may be why. You know what's the most important goal of Esperanto that lead to its creation? To be a tool that allows everybody to speak on the same level. So we have two systems, one makes sense in the context of Esperanto in general, the other makes sense only to native English speakers. I hope you understand now why we should choose one over the other.
+Why swap numbers like that? It doesn't require you to allocate a `temp`. There's probably some niche reason for that, maybe you're working on an 80's computer that has 8 bytes of memory, I don't know.
+Hunter would still make more sense than warrior, what with their engineered guns an all.
+Do Forsakens still have a functioning digestive system? I imagine the brews and teas would just leak out as soon as they're chugged.
+Hey, there was that change to the layout some time ago. That caused some stir.
+You are correct in that "noon" would be at midnight during winter, because when the earth goes halfway through its orbit, it is also going through a half rotation (12 hours approximately). The key that you're missing here is that humans are not stupid. The second key is that the tilt doesn't happen in an instant, rather the sun's track through the sky shift slowly over 6 months. What's happening is that we cleverly defined a period of one day to not be exactly one rotation of the earth around its axis, but slightly longer (or shorter, doesn't matter), such that after 6 months that difference of 12 hours is compensated for, and the sun shines brightly overhead at 12 noon on the clock.
+Jew crime: we must take all of their money.
+I'm just laughing here because to most people, your sentence is completely gibberish. =D
+You can learn to throw the knife to kill a deer too.
+Unless they present measurements of load time under controlled condition, I'd assume it's placebo.
+It's like laundering money, but with your dead daughter-niece instead.
+How was puberty like?
+That poor chimp
+"Bebo" en la angla sonas kiel "porko" en la malaja/indonezia. Estas amuze por ni.
+But redditors said the jewish slaughter is not ethical, because it causes pain to the animal. I'm confused.
+Do we really have to suffer 10 months of this?
+It's ugly because it's not what their work is about. Is not that hard to understand. Book authors, their homes and offices is a mess of notes and scribbles and scraps of paper. But it doesn't matter because their works are in the form of the published books. They would hire a professional typesetter and publisher to put their words in a nice package and get it to nice bookshelves. There are [scanned pictures](http://i.imgur.com/sQoutLh.jpg) of handwritten partially-finished scores from famous composers, and they are atrocious chicken scratches. That doesn't matter either, because their works are in the form of music played by professional musicians, who read from professionally made scores. It's not hard to understand that mathematicians would consider writing programs as secondary. The software's only purpose is to run the simulation and give them the data that they need, and its beauty or elegance is irrelevant. Then they export that data into Latex, and publish their data in nicely typeset papers in nice journals. Programmers, to you the code itself is your work. It is also understandable then that you would have higher standard for code quality than anyone else, and you must also understand that others don't share that standard, and they are perfectly fine with that.
+If the dog is innocent it shouldn't need to defend itself against the government. The fact that it's so defensive means that the police should really search the cage, could be hiding smuggled bones.
+TFW /r/shittyprogramming is stricter and more thorough than your workplace's code review
+Tornadoes can't melt two feet thick concrete radiation shield.
+Yeah, she said it many times in her monologoues, how much she hated the inter-ajah catfights.
+That's the new subliminal mind control system patented by Swype.
+Nobody said you can't, it's just that you end up with shiny turd instead of gold.
+Actually if it's a story of a lad avoiding a colour for his girlfriend, it would be crossposted to TRP and immediately be on their front page.
+But only once in a blue moon, otherwise my hope in humanity would crash.
+So instead of adjusting the supply of taxi in the city every year and weeding out unprofitable cars out of the system, they put up scaffolding up until the whole industry collapse catastrophically? Everybody with a job are at risk of losing their livelihood every year. Companies do employee performance reviews. They figure out how much revenue they're making, and whether their current pool of employee can be supported by that revenue.
+&gt; a large number of my close friends are at Harvard or brown That uncapitalized 'b' is very unfortunate.
+On the other hand, the greater movement of people and internationalization means that we no longer have situations where everyone in a small town is related to everyone else by at most two or three degrees of separation. Greater genetic spread (geographically) means that cousins-born children are less prone to genetic defect than before.
+It absolutely is. Your clothing, accessories, skin ornaments, hair styles, body composition, posture. All tell a story of how you think of yourself and of other people.
+Similar charges repel. When you store a boatload of charge in a battery, the anode and cathode swell because of that repulsion. Many methods are currently used to contain and stabilize the electrode material so that they retain their integrity after many swell-contract cycles, but even then there are limits. Battery makers are now peeking over the shoulders of Material, Mechanical and Civil engineers, who are experts at dealing with stresses and fatigues in materials. Multi-layering/compositing is a known technique in construction and mechanical design to stop crack propagation in load bearing structure, so now they're thinking of using it in batteries to stop the electrode from disintegrating.
+Just recast your Galleons into Shekels. The IRS won't touch Shekels.
+He was ambushed by Ser Pounce in his bedroom. It was bloody.
+As a kid, I just spammed prism tanks.
+I passed in a PDF of my yearly scrapbook with all the pictures and journal entries of me mountaineering down the Andes as well volunteering at my local church and feeding the homeless. The function returned false. It is obviously buggy.
+As a non-american, what the hell is a credit rating?
+First situation, no, there wouldn't be any difference in meaning, though *daripada* is more appropriate. Second situation, depends on context. If it is a letter or something that is being sent "from me, to you", then use *daripada/kepada*. Even if the thing being sent is ethereal, like love or thought, still use the *-pada* form. In this context, *untuk* works too. I can think of one way where that phrase would be translated using *ke/dari*. "Adam shifted his gaze from Bela to Chad." "Adam mengalihkan pandangannya dari Bela ke Chad." /u/OookOok has some good example.
+What do you mean by the lower spine having to take all the weight? Muscles can't push, and the spine is the only solid support in the trunk. There's no way for the lower spine to take less than the weight of the upper body when standing up. There's no way for a stronger core muscles to take weight off the spine. I guess I misunderstand the terminology, and you're talking about torque or shear stress.
+When you get older, and your friends and families scatters to all corners of the country, some dead, some missing, you'll realise you can never have enough of the faces of the people you love.
+The person I replied to was arguing about photos with faces versus without faces.
+That's Stephen king basically. Even at the end of the book there're still questions that are left unanswered. It really makes you appreciate the sheer effectiveness of HBO marketing to be able to maintain public interest in GoT after the first season
+If your problem space allows for a constant 'g' assumption, then it's perfectly valid to interchange mass and force (with proper conversions of course). People who chides you for saying "I weigh 50 kg" are just being pedantic.
+It's weird when somebody would get laughed at on most subreddits for saying that they invested in BC "in case shit hits the fan", when in fact BC is currently being used for that very reason right now. It's not really a case of paranoia when the possibility is real.
+They squished the numbers, but power progression still has to continue. What's your point exactly? How is the big numbers today violating the squish?
+I don't even know what the title was, I just came home when I saw the ending. There was a huge procession of African school students along a long dirt road. They were dancing and singing and laughing, all dressed up in white school uniforms. The group marched up to an army roadblock. The soldiers opened fire. The children ran.
+"My super conservative parents cut my hood even though I protested loudly and vehemently when I was a Star Wars loving boy. Now though, I don't mind it as much, and my gf loves it, so I guess it's okay"
+I just can't imagine playing my mage without that double blink glyph
+Software bugs are in the realm of unknown unknowns. You can't build something to perfection if you don't know what perfection is. Once a software system gets past the hello world stage of complexity, its number of components increase. Each interaction between each component is a potential source of bugs. The number of interactions increases by a factorial of the number of components. When the software is running, events are fired off and executed. Each sequence of events is also a potential source of bugs. The number of sequence of events also increases by a factorial of the number of events. See, not all bugs come from negligence and laziness. A perfect software system is a mathematical impossibility.
+Haha yeah, I hate the attitude so much "hurr durr, I'm 13/13M why won't blizzard suck my ass more". Like, come on, go on wowprogress and look up how many people have done heroic archie even. There's even the big movement to help people boost up to get that moose. Blizzard spent the entire early portion of the expac catering to those elite raiders, fixing bugs and hotpatching mechanics. Now late into the expac they are starting to shift their attention towards the rest of the player base, the elites suddenly start crying that Blizzard is "abbandoning" them.
+They didn't dig the hole themselves, but the early american pioneers did something similar with buffaloes
+how do you know there's a last word that you can't see, if you can't see it?
+Your memory of specific formulas and techniques do decay over time, but somehow there's an imprint of understanding left in place (how does that work anyway?) so when you pick up the book again to relearn you'd say "Aha, I **do** remember these things!".
+But what if the vulture is literally groping his dog and whispering sexually suggestive phrases? Surely the man has a right to punch the vulture in defense of his dog without being charged of battery.
+In capitalist USA, companies boycott you
+If you squint a little, yeah, it does look like an onion
+What are these glorious orc- and troll-like creatures who are not hunchbacked? Blasphemy I say
+Heh, I'll modify a Russian joke for you. &gt; Who's more pathetic, the Russians or the people who lost to Russians?
+In that regard, pandaren actually have a stronger case than gnomes.
+What do you mean by shit exactly? WoD and MoP have incredible zones, in terms of graphics, physical layout, story, content density and music
+Lobbying for more convenient farming versus more utilities/tricks for cutting edge progression? I hope you like that bench, cause you'll be sitting on it if you keep this up.

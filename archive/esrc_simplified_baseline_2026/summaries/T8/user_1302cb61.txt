@@ -1,0 +1,47 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Engaging and conversational tone.
+  - Uses humor and light sarcasm (e.g., jokes about games and humorous anecdotes).
+  - Provides detailed explanations and recommendations, often with personal anecdotes.
+
+- **Recurring Interests:**
+  - Strong interest in 3D platformers and metroidvanias.
+  - Enjoys indie games and often discusses game mechanics and storytelling.
+  - Engages in discussions about game giveaways and trades.
+
+- **Hobbies:**
+  - Gaming, particularly focused on 3D platformers and exploration-based games.
+  - Participates in online gaming communities, including trading and giveaways.
+  - Enjoys sharing game recommendations and experiences.
+
+- **Technical Knowledge:**
+  - Familiar with gaming hardware and software, including Steam and game optimization.
+  - Knowledgeable about game mechanics, genres, and industry trends.
+
+- **Location Clues:**
+  - User mentions being in the US.
+
+- **Profession or Education Clues:**
+  - References to past educational experiences (e.g., AP US History).
+  - Engages in discussions that suggest familiarity with technology and gaming culture.
+
+- **Demographic Clues:**
+  - Likely in their 20s based on references to age (e.g., "21, thanks for the giveaway").
+  - Engages with a community that includes younger gamers.
+
+- **Opinions and Values:**
+  - Values exploration and storytelling in games over competitive speedrunning.
+  - Prefers games with strong narratives and artistic design.
+  - Advocates for indie games and supports developers through purchases and recommendations.
+
+- **Repeated Topics:**
+  - Frequently discusses specific games (e.g., Ori and the Blind Forest, Psychonauts, Hollow Knight).
+  - Engages in discussions about game sales, bundles, and trading.
+  - Shares personal gaming experiences and recommendations.
+
+- **Subreddit/Community Clues:**
+  - Active in gaming subreddits, particularly those focused on indie games, giveaways, and trading (e.g., r/indiegameswap).
+  - Participates in discussions about game mechanics, recommendations, and community events.
+
+This structured summary captures the user's stable attributes based on their Reddit comments, which can help in matching them to future profiles.

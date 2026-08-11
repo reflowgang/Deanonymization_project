@@ -1,0 +1,50 @@
+Because then you can shard it and the performance will be better
+No, use bcrypt
+Try meteor, makes apps a cake to make
+Yes, meteor isn't a replacement for express, it's also sockets, mongoose, front end, handlebars etc etc
+KLISTRADE TRÅDEN KAMRAT  MVH MODJICK
+Modular development!
+Why not Web sockets
+https://i.imgur.com/Odhyx6S.jpg this?
+&gt; authentication  meteor add accounts-password
+Another host: https://gurf.at
+What game is the walking person?
+Hey that's my multisite :D
+How would changing my master password make a dB dump outdated?
+FindOne is shorthand for fetch() [0] with the limit 1 to expand on your answer
+Ownership
+Digital ocean, linode, any other vps provider
+You must have misread, I wrote fetch()[0], not find.  From the docs  &gt; Equivalent to find(selector, options).fetch()[0] with options.limit = 1.
+Hey no problem mate
+Why not? Why rent a host when you can run a server in your garage?
+stickt mvh modjick
+&gt; that requires Amiibo (which are impossible to find)  Is there a shortage of Amiibos in the US?
+Interesting, I thought the master password wasn't stored. Thank you
+How much for the paintings?
+What is this?!  http://gfycat.com/DownrightAdoredKawala
+Cool, works. But only for Youtube
+Last week on this sub?
+&gt; Currently, Meteor does not have a documented way of doing this, but the pieces to do it are there.  What about `Comments.find({}, {reactive: false})` then?  - http://docs.meteor.com/#/full/find
+Would you have to pay license for your own product?
+Add some swap and you'll be okay
+And cask
+Irc (freenode) and gitter
+confirmed
+Thank you. What SPF would the other domain need? Anything referencing ab.se?
+Got here from all
+Check out meteor. It has official user accounts packages.
+Wasn't it two?
+What's onboarding?
+Dagens Swedditör?
+Tried long pressing, nothing happens. What should happen?
+So, is it available online?
+Who said without testing?
+Great vid!
+Why not meteor which you mention?
+Maybe nodal, found it the other day, looks cool enough
+This might be why, should be one up tomorrow  https://www.reddit.com/r/AutoModerator/comments/3zn16q/for_some_reason_am_skipped_a_scheduled_post/
+Jump to top doesn't work in the demo   Chrome on Android 6
+How could you use alpha as a prefix if blink and webkit would implement it differently?
+Isn't masking just a frame?
+Then how is the URL being masked?
+Games for other games?

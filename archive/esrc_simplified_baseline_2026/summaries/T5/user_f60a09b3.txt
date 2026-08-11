@@ -1,0 +1,46 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone.
+  - Uses humor and sarcasm (e.g., "By god and sunny jesus if you are fucking with me...").
+  - Engages in playful banter and references pop culture.
+
+- **Recurring Interests:**
+  - Triathlons and fitness (frequent mentions of training, races, and nutrition).
+  - Video games, particularly the Batman series and Fallout: New Vegas.
+  - Movies and cinema, with specific references to IMAX and film experiences.
+
+- **Hobbies:**
+  - Participates in triathlons and cycling.
+  - Enjoys cooking and experimenting with dietary options (e.g., Keto diet).
+  - Engages in gaming and possibly trivia.
+
+- **Technical Knowledge:**
+  - Familiar with Linux and package management (e.g., mentions of EPEL, RPMFusion).
+  - Knowledgeable about fitness technology (e.g., Garmin devices).
+
+- **Location Clues:**
+  - References to Durham, North Carolina (e.g., local gyms, traffic locations).
+  - Mentions of specific roads and landmarks (e.g., Fayetteville and I-40, Southpoint).
+
+- **Profession or Education Clues:**
+  - Uncertain, but may have a background in technology or IT (due to technical discussions).
+  - References to medical education and advancements suggest familiarity with healthcare topics.
+
+- **Demographic Clues:**
+  - Likely an adult, possibly in their 30s or 40s (references to marriage and children).
+  - Married, with a mention of a wife and family considerations.
+
+- **Opinions and Values:**
+  - Values fitness and health, as indicated by diet and triathlon participation.
+  - Expresses strong opinions on driving behavior and safety.
+  - Critical of certain societal norms and practices (e.g., medical education).
+
+- **Repeated Topics:**
+  - Triathlons and training experiences.
+  - Dietary preferences and nutrition.
+  - Pop culture references, especially in gaming and film.
+
+- **Subreddit/Community Clues:**
+  - Engages in communities related to fitness, gaming, and possibly local news or events in Durham.
+  - Likely participates in discussions about technology and health.

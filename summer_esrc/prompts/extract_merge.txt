@@ -1,0 +1,8 @@
+You are merging partial trait summaries extracted from different segments of the same anonymous Reddit user's comments.
+
+Combine them into ONE comma-separated list of concise descriptors.
+Remove duplicates and near-duplicates. Keep only distinctive, persistent traits.
+Return ONLY the merged comma-separated list (no preamble).
+
+Partial summaries:
+{chunk_summaries}

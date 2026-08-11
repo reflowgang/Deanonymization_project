@@ -1,0 +1,500 @@
+You're hired!
+It's shown right above the timer.
+Outside.
+Y'all have me sold. Gonna jump the bandwagon and get a Weilong GTS soon.
+Keep it up. Becoming CN is very useful - I feel it improved my overall recognition by a huge rate.
+There's different algs for the same effect. I use the one from Badmephisto's sheet and find it super comfortable to execute.
+To be fair, writing and drawing stuff by yourself helps boost your memory.
+Oh, screw this thread. I'm outta here.
+Have the green side facing you and apply the Anti-Sune algorithm: (R' U' R) U' (R' U2 R) This will permute the whole yellow top face.
+*wince*
+My crystal ball says: *????? Here, you dropped some of these*
+SS Rainbow. It's stickerless, tho
+Thanks for the explanation!
+I can imagine you making the kid lick them up and reassemble the cube.
+Come to the neutral side of the colors, you won't regret it!
+It's kinda click-baity, tbh.
+S'all good, keep it there, lol.
+Always happy to help!
+The old plastic was found to be slightly radioactive, and thus needed to be recalled.
+To solve Layer By Layer you barely need any algorithms. Top of my head, there's OLL #1 (F R U R' U' F') Sune (no need for Anti, at the expense of efficiency and thus speed), A-Perm, U-Perm and uh.... That's all? All the remaining steps can be done intuitively; Just four algs is pretty alright for a beginner.
+[Here's a Fuji TV (Japan) report about the incident](https://www.youtube.com/watch?v=dQw4w9WgXcQ). It has English subtitles.
+I dnon't do BLD yet, unfortunately. But I have been following OPs posts on this for a while now.
+Odd. You might've used too much - I lube my cubes with 100% silicone and makes them wonderful.
+Wow, gj!
+Woooo, sub-37!
+lol thx
+That's fantastic advice, IMO everyone getting into CFOP should read this thread.
+Coming from Beginner's Method, CFOP is the easiest progression towards speed and efficiency. Roux is fantastic, but it will be pretty much like learning it all over again - which isn't so ~~bead~~ bad because you need way less algorhitms and also haven't cubed in a while, so there's a high chance you won't be mixing up methods.
+ayy lmao
+- Faster - Easiest Pick one, tho
+OP wants something that's both easy and fast. Being fast doesn't come easily, regardless of your method of choice. In hindsight, I just noticed this is that one troll account, so let's just ignore it.
+I'm on a roll with breaking my averages, fam, so excited! Got my first sub-30 Ao5 that wasn't due to a series of lucky scrambles and/or skips - all full step, too! And almost breaking sub-35 Ao-Ao100 already, which is just crazy to think of because I struggled so much from sub-50 to sub-40. My efficiency has been increasing at an unbelievable rate lately, whoa.
+Aight. Lookup an Intuitive F2L tutorial called Rido's Hunting Story - getting it down, you should easily break constant sub-60s, and the earlier you learn it, the better off you'll be in the long run.
+Congrats! Love the cap!
+Sidebar
+Aaah, gotcha!
+You're not wrong. Cubers have ~~tenths~~ ~~teens~~ ~~teeth~~ tens, sometimes hundreds of what we call *algorithms* memorized: Pre-defined move sequences intended to take the cube from one state to another but only moving specific pieces towards their desired spots while all the others are kept in place. With muscle memory and quick reflexes, often combined with the ability to "predict" how the cube will turn out after a specific sequence of moves, one is able to solve the cube in a matter of seconds. That's not to say every solve is pretty much the same - each solve is unique, since there's *43 quintillion* possible permutations for a cube: https://en.wikipedia.org/wiki/Rubik%27s_Cube#cite_note-Vaughen-27 Also, here's the current Top 100 lowest times for solving a 3x3: https://www.worldcubeassociation.org/results/events.php?eventId=333&amp;amp;regionId=&amp;amp;years=&amp;amp;show=100%2BPersons&amp;amp;single=Single
+http://www.twistypuzzles.com/cgi-bin/puzzle.cgi?pkey=5275
+Good stuff! My J(b) is still very shaky, tho, but I'll look into it!
+Nooooice, fam! I gove you less than a week to break through the 60's!
+No, he's Mo'Nique
+Top of my head, I think I know around 30. There's so many more, though. Muscle Memory is amazing - I couldn't call them out step by step in writing without a cube in my hands, it would confuse me a lot.
+Hope it helps! Welcome into the hobby :D
+Braucht doch mehr Umlaut.
+Most timer apps keep track of your averages - ZYX Timer even lets you know, based on your Ao100, what sub-x category you're currently at.
+Different strokes for different folks, then. I had tried a couple approaches and his is what clicked the most, despite the style.
+Badmephisto's OLL guide is pretty solid, IMO, but his PLL guides... not as much for me. I'm using AlgDB to get the PLLs, and it truly is an amazing source. I'm trying about one per week or so, just so it isn't too overwhelming.
+You're correct. I started doing it as I was averaging 1:15min Andy times skyrocketed up to *six minutes*. They went down pretty consistently as I practiced, so my advice is: Do. It time yourself. Focus on learning and understanding F2L.
+I'd like to graph my times. I've thousands of times solves but no idea of how to even start to do it.
+[One of us! one of us!](https://www.youtube.com/watch?v=9C4uTEEOJlM)
+Whaddya mean by "improvised solves", hand scrambles?
+Working ways to find an optimal solution doing many solves with one specific scramble, then?
+How did it go?
+Good call!
+Thanks, really appreciate it. "Calm yo tits" is indeed one of my favorite expressions, hah.
+Meiying is a FANTASTIC cube. Very fast and stable. The stickers are top notch and the color scheme is very bright, I love it. The Gans 356 is definitely one of the best cubes out there, too.
+Oh, I'm relieved. Speaking from someone who's always stubborn about seeing a doctor for whatever reason, you're doing well in getting this checked. I'm assuming you're, tops, in your 20's - so there's plenty of resilience in your body yet, in which case don't get too worried about this. Just don't push yourself too much or you could potentially hurt yourself. Edit: can't grammer
+Need to step up my game now.
+It happens to me sometimes - one of these days I was constantly smashing my averages, it's crazy. As far as PLL goes, my suggestion is that you learn about one per week, and drill each one until they're natural. Start with easily recognizable cases containing full bars or headlight sets (like H and Z, for example), and check out www.algdb.net to find algs that work well for you.
+I'm Color Neutral, so to avoid any kind of bias I always start from a rand position. That's now how official WCA events roll, though (as far as I know), because on those everyone gets the same scramble.
+Yeah, but I don't really do reconstructions myself yet, so it's ok.
+"Impressive" is an understatement, IMO.
+I'm not in the US/EU, so Traxxas is ridiculously expensive over here - I use a spray-on 100% silicone which a few cuber friends vouched for and works real wonders. Since it is pure silicone, it won't hurt the plastic. Just make sure to not overdo and you'll be fine - of course you can clean it up with some paper towel if that's too much, but you'll get the feel eventually for how much is enough.
+I used to play piano / guitar some 15 years ago, I have a little idea of how nervous you were haha. Great job!
+A recent post from an account dubbed "Official Cubers Method" or something along those lines. They were proposing a new method, which was allegedly superior because it started with a white cross (not even kidding here, they said "all great methods start with the cross" or whatnot.
+To avoid distractions, yeah.
+Whoa, Gj!
+Like madness, I'm tellin' ya! D: It's a New School piece based on Alice in Wonderland - I've already got the Red Queen and the White Rabbit done... Some 25 hours into them and so much left yet!
+Ermahgerd fam, sick method!
+Can I haz PB? 23.76! And did one accidentally untimed solve that was DEFINITELY sub-20. I mean, it was a 5-move xxCross but still, when I saw I hadn't started the timer properly I was upside down pissed.
+I'd say OLL, then. One-Look is the way now for ya, IMO
+An advice I always give and sometimes forget to apply to myself, how ironic, is to do non-timed solves. For a couple days I did many of those and can sense I improved a ton now. Crazy.
+It's fantastic. Do use it. I'm currently sub-33 and use algorhotms for like 3 out the 42 total F2L cases only. The rest is all intuitive Nd I learned it from Rido's method.
+&gt;algs are intuitive Top kek
+~~IIRC x is like F with the whole cube and y is R with the whole cube.~~ read the post below mine.
+My right thumb and middle fingers hold the B slice and my index finger slams down the space between F and M slices. It's a knack. Much easier with my stickered Meiying than with my stickerless SS, FWIW. Edit: To add to it, if my cube is running short on lube but still decent, I just hit the M slice and it does an f move.
+Thanks, I'll edit the OP!
+Ah, there's that. Forgot about the random orientation, which is indeed very important in the event.
+Colour me surprised, I've been mixing these up for the longest time now :|
+Ah, makes sense. I've been developing this skill sort of intuitively lately - mostly doing non-timed solves and experimenting different solutions for trickier cases. I'll try to consciously practice it in the coming days and see how it goes.
+Them chills, doe.
+Take a look inside...
+*turning to the Emperor* "Is this your card?"
+You took advantage of the situation and made it happen. Damn right you should be proud of it, and not guilty at all.
+Creating a white cross is a vital step to any method at all. [Source](https://www.reddit.com/r/Cubers/comments/4mgwyo/redditcubers_official_method_creation_6416_day_one/)
+From the other side of the spectrum, I'm sub-33 and my cross takes 3 to 7 seconds. Your F2L must be incredibly efficient - what are your splits, and also do you do Full PLL?
+There's a reason why they're a substitute teacher.
+My jimmies have been successfully rustled now.
+Thoughts on Stickerless Meiying vs. Weilong GTS? I'm considering the latter, even though it is *extremely* expensive over here (US$ 27,00) - But it's either that or risk importing fees + wei long shipping times.
+I switched to ZYX after Chaotimer wouldn't measure my Ao1k. Been really good so far.
+Most excellent scramble CsTimer just gave me: D2 L2 B2 F' D2 B L2 B' U F D' B2 U2 F' D' U2 R F
+It works wonders, for real.
+"VHLS (short for Vandenbergh-Harris Last Slot) is a step of the Vandenbergh-Harris method that basically does the same thing as ZBLS using much fewer algorithms—the last slot is filled in while orienting the edges of the last layer. **The reason why there are much fewer algorithms is because all of the cases have a F2L pair already or just one move away from making one**. If the cube doesn't apply to that, you have to create a F2L pair or make it one move away." Sauce: https://www.speedsolving.com/wiki/index.php/VHLS
+That and M slices. It took me quite a while to realize I could / should be using them during the cross every now and then.
+Definitely worth it. Might take a while to get used to them, but you'll have a blast.
+Says who?
+Yup. If you wish to intimidate other interviewees and preemptively make them more nervous about the competition, it's better to be more subtle. I'd always carry a german newspaper with me, for example - but I know German, so I can back that up, naturally, lol.
+Do a quarter turn on each and see how it goes.
+They asked for the individual unit price, not a bulk of 50 /s
+Thankfully you're not our Lord and Savior Leo, so your rudely expressed opinion doesn't really matter to OP, I supposed.
+ZYX Timer has an OLL/PLL trainer and you may include your own algos.
+Did I unlearn how to English or is the title incredibly confusing? Edit; Ok, I got this. Somehow CsTimer marked 20 minutes during a PLL practice session?
+Witty, eh. Just a misspelling - now back into topic, what's up with it anyway?
+My feelings, precisely. I mean, this topic has indeed been discussed before and whatnot, but it has sparked some fine discussion overall. I'm cool with this post.
+Bowtie OLL friggin' hate that regrip and y2 combo.
+Instant switch. Thank you so much.
+Fantastic. For real.
+Options / Expprt Top left corner of the screen.
+Nice! Keep practicing, F2L and Cross are things that always need improvement, regardless of your averages.
+Happens to me sometimes. I'm still chasing that elusive sub-20 PB but even with easy crosses or skips I end up missing them because of bad f2l or too much adrenaline going. I'll give your scramble a couple tries and report back, tho. Edit: Ran an Ao5: 29.68. Not bad for my standards. I'm color neutral, so I did five wholly different solutions and got a PLL skip in one of them.
+It took me almost two months to realize F and B are the other way around, lol. It happens.
+You clearly never had cats.
+I'm closing into sub-30 now and know about 8 PLLs and like 11 or 12 OLLs. 2-Look PLL takes me roughly 4 seconds, but if I manage to one-look it, only 2, even less for some cases. At your current averages, I'd say work some easier PLL cases without much pressure for getting Full PLL (all the while you drill the cases you already know to get them really good, sub-2 seconds at least) and focus on Cross and F2L. Exactly one month ago I was sub-45 and working on those steps is without a doubt what boost my times the most.
+Which app do you use? Most do it by design, whereas ZYX Timer (iOS) had the option to not cut the best/worst times, in which case what you'll see is a mean, not an average.
+*shots fired*
+Android? Try Twisty Timer. Many people sing high praises about it.
+Getting good at F2L can easily get you under one minute average.
+March 29th is what I consider groud zero - that's when I first started to solve without cheat sheets. I'd started a couple days prior to that.
+Thanks! *flair updating intensifies*
+Just finished cleaning, reassembling and lubing my Meiying. It had an uncanny amount of cat hair on the core, lol. Totally worth the effort, feels brand spanking new!
+You needed guidance to find the method which allowed you to follow a path, making it s "puzzle game" of sorts at first. Now that you know the method but not the specific path (every solve is different), it's still a puzzle but you may treat it as a game at the same time, since you're likely always racing the clock and there is a clear objective in mind, to which you can always find smarter solutions - thus a fast-paced puzzle.
+I may or may not imagine similar scenarios.
+Ayy lmao, I shouldn't have laughed at this. Alas, I have a messed up sense of humor.
+Oooooooh, TIL, lol
+CFOP uses an established set of algorhitms, which *must* be applied obeying certain rules (Valid color scheme and specific cube orientation for example). This set of algorhitms is known and has been proven mathematically able to permute their target cases in specific forms every time they are done in accordance to the aforementioned rules.
+That's what it is. Recently there's been some giveaways to people who had their cues stolen, and OP is a frequent flyer on /r/beermoney, so it makes sense.
+Did you check out AlgDB? They have an uncanny amount of options, out of which some can fit your style well.
+Spitting mad fire these past couple days again! Got a 26.xx Ao5 and sub-30 Ao12/50. Currently floating Ao100, ~~30.27~.60.~~ ~~Oops, 30.17~.25 GET HYPE!~~ 30.06~.10 I CAN FEEL MY BODY GETTING HAIRIER ALREADY WOOOO Five days until my 3rd month anniversary in cubing. It's gonna happen, fam, and it's gonna be real soon.
+Best: Getting a high-five from a stranger while waiting for a train. Worst: Cube explosion on a crowded escalator - Saved all the pieces!
+Probably magic.
+I mean... It's one of the few "logical" conclusions someone might draw if said someone has no idea of how solving a cube works and also refuses to accept any marginally more intelligent explanation. I don't really mind it anymore. Perhaps I've been heckled so many times on my job that I grew some sort of thick skin for something that literally has no secret to be hidden.
+Bruh, I became CN when I was averaging 55 seconds. You made an excellent choice! It is vital that you don't give up, ever, as this will be a lifetime's worth investment in efficiency. My cross and f2l became a whole other animal once I got used to color neutrality. I highly recommend this to anyone who's averaging between 40s and 60s.
+Learn alg sets divided by common triggers. Check out Badmephisto's OLL list, it's solid.
+I don't really have any issues, but if the color scheme is too different, it throws me off big time.
+Most shops ship internationally. Zhcube for price and bulk orders, Speedcubeshop for top notch service, vouched for many-a redditors, UKCubeStore for cheaper shipping, since they're in ~~EU~~ Europe.
+&gt; when this list gets weilong 10/10
+They're not smartphones, lol. They will either suit one's turning style well or not :P AlgDB is an amazing source, nonetheless.
+&gt; Jazz Jackrabbit Oh my, that nostalgia rush doe!
+You're da real MVP!
+*I'm moist*
+Sub-18 with a Rubik's brand? With a proper speedcube you'll be zeroing in no time.
+I've had my Meiying corner twist and pop *once* each in 4k+ solves. And that's only after I loosened its tensions a bit too much to experiment - its corner cutting is fantastic out of the box, too. Highly recommend it. Has a pretty sandy feeling, which is nice.
+Thats a whole lotta balls to swicth at sub-20, wow!
+In case /u/JAKPiano3412 turned off notifications for his posts, we can summon him through an username mention to let him know we love him and want him back :D
+Thanks, man! What blew me away the most is that even the 20.17 was full step! Two-Look OLL and a lucky Ab Perm PLL. The F2l just flowed so well on this one - I think I'm slowly starting to get the hang of intentional lookahead, which has been helping me tons lately. Three days until my 3rd month "anniversary" in cubing - if I get a sub-20~~0~~ single by then I'll be stoked!
+Noooice, GJ! Keep practicing and you'll be sub-30 in no time!
+It does look cool, but gaaaaah, those M' slices tho, doesn't flow well to me :| all the whole I love doing the Na Perm, even though it takes forever to execute, lol.
+Cubeschool
+Yeah, I always confused M' and M, so I ended up doing it backwards. The M (following R', if I'm not mistaken this time) is what gets me. I can do M2s rather quickly, though.
+Without a video, it's hard to tell. I assume you're using the Astley method? If so, you might want to look up Rick's NG/GYU Tutorial.
+Yeah, I realized later that OP's single is sub-90's. The Game is a good source to learn Kaja's, btw.
+Woop-dee-doo, beat my Ao12/50/100 (Sib-29 hype!)
+As per the other commenter's explanation, it's more like a "know ahead" than "look ahead". You know what's the first wrong piece and where does it go to, then where does the piece in this place goes and so on until the cube is solved - you literally solve it one piece at a time. Ps: I know your heart is in the right place and this is serious question, but sorry, I couldn't help but giggle at "look ahead" on a question about BLD.
+I looked it up earlier and IIRC it's only for a 7x7, or is there a template for 3x3 that I didn't see? Gosh, this is thoroughly confusing, lol
+Right... Let me see if I get this straight: ~~U face goes A through H) ignoring the center cap), then L face goes I through P...?~~ Ignore this. I clearly didn't get the point at first.
+Oh, damn. I had the corners completely messed up, haha. But yo, thanks for the help!
+Just how high are you, OP?
+Other than nearly empty, if you compare to official, open comps?
+Make an unofficial comp. Problem solved.
+You see, *now* we're getting somewhere. I'd trade an official PB for a Drunk MultiBLD at anytime.
+The flat earth society has members all around the globe. Eventually the word will spread.
+186?
+I managed to watch the first three earlier and the mechanics of BLD kinda clicked on me finally - the way OP works is far simpler than I originally thought, lol.
+Wow, that's fantastic. My PB with beginners method was around 48.xx before I switched. You're doing good in becoming and getting comfortable with CN - Green is my personal nemesis, lol.
+Cat be like *"What the hell, Brian. I'm a cat and don't even have hands"*
+Force yourself to use the easiest cross available. It's super awkward at first, but very doable as well. Unlimited inspection time, as well as not timing yourself is mandatory - you just got to force yourself into learning to recognize new pairs.
+My rule of thumb for demonstrations is to always add 20 seconds. Perhaps double my time - this makes it all much safer and people will usually be a bit more impressed.
+Oooow. I had my first couple 3x3s gloriously pop in the subway too. One time it semi-exploded on a crowded escalator. Luckily it was going up, so I somehow managed to rescue it Allan's solve my shame away.
+In other words, how to build a popping machine?
+Doesn't sound uh... Feasible to me. Dunno, could turn our surprising but AFAIK it shouldn't turn out nice.
+Others have already elaborated far better than I possibly could on the subject, but just to add something else that occurred me: When one reaches the stage of learning 1LLL algs, then their pattern recognition is already very well developed. FWIW, there's a handful of sufficiently feasible 1LLL cases, as far as recognition goes.
+I think you overtensioned it, OP.
+CFOP is a tool, and a rather efficient one while we are at it. Can hammers be lame? Nah. Can people make lame, boring use of them? Yeah.
+Well, to be fair you don't necessarily need a Rainman-esque memory to do Multi. Read about the Loci technique, also known as Memory Palace. Heck, I remember the first exercise I did when reading about it on a Harry Loraine book on memorization years ago.
+The 70s called and they want their jokes back.
+Call Centers? Desk jobs during a slow day? Retail cashier on a slow day? Pretty much any job where you have a Internet access and are sitting down not needing to do anything since while you wait for the next call or customer.
+You misspelled parody algorithm.
+It's an *advanced* Rubik's cube, man!
+If I only had three fingers and had to do it while holding a spoon at the same time, I'd also have one helluva hard time learning a 5th battle move.
+Slow? Your F2L must be godly.
+Don't think so. Cyotheking is the best when it comes to PLL videos.
+Each day you don't order them is another day it will take for shipping them. You could be surprised. I've ordered stuff from China that arrived within less than 2 business weeks and Brazilian customs are famously horrible.
+Next step is practice, and the one before it - the step you should focus in for a while - is more practice.
+Ask and you shall receive! https://drive.google.com/file/d/1Iv6Fkv9pOD50HTpOgNnKlIP9e1s33_7raBS7ui91li6pczxpd4jRGODaaW8BY9dTBsBEIelIdbHjNejq/view?usp=drivesdk
+My brain hurts.
+Do Our Real Eyes Realize The Real Lies?
+You're correct. It sounds like such a counterintuitive strategy at first, but slowing down allows you to cut pauses off from your solves, and this pays back with an effectively faster solving time, even though it may not feel like it.
+You're correct. It sounds like such a counterintuitive strategy at first, but slowing down allows you to cut pauses off from your solves, and this pays back with an effectively faster solving time, even though it may not feel like it.
+I love your flair so much.
+*Get on all 4x4's*
+I call it selective myopia.
+Join us! We throw amazing parties, tbh
+You could use a syringe. Or perhaps a zip location bag. As far as application goes... Overlubbing is a self-solving (lol, see what I did there?) issue.
+Magic is definitely more accessible to everyone, with all the pros and cons that one would expect to come along. And apparently he's performing stuff so badly that the methodology is pretty much given away without the least sign of finesse. I have only watched one of this guy's videos, however, so this point relates to what fellow magi have told me and I could be wrong. Your point on casual viewers is also absolutely correct.
+L and R
+/r/iamverysmart is leaking.
+Such a classic. Simply beautiful.
+Unless the wrong scramble gives you a Cross+1 skip, count it. This ain't no official comp, and every scramble is a game of luck anyway.
+17.75 PB Ao100 yesterday, feels good. But then today I had a casual half hour session and seemingly unlearn how to F2L when sleepy.
+Did you just assume my color scheme?
+Thought I'd do some quick lefty, untimed OH practice on the bus since I was standing and kinda bored. First solve and I get a PLL Skip. MFW ~~everybody clapped~~ a couple onlookers were mildly impressed.
+Some may perceive this negatively. I honestly can't see anything wrong with either; "Peelers" is supposed to be tongue in cheek and "non-cubers", well, what else can you call them?
+&gt;brain Now, lets not fool ourselves, aye?
+Ora ora temos um xeroque pixo aqui
+Agreed.
+Yo, you're from. Brazil! Nice to see a compatriot here haha
+The problem is that you're doing separate colors instead of everything at once, as described by others here. The second issue is that you're still timing your solves. Throw away your timer until you're absolutely comfortable with all colors, which shouldn't really take Yulong.
+Nice! It's always fun to figure out the best cross on inspection. Sometimes you get partial skips, which is awesome.
+Most definitely!
+The AI learns your play style. I learned it the hardest possible way.
+You don't need a good memory. Watch Noah Arthur's tutorial on YouTube. It's not as hard as you might think.
+Yup, that's [Zuni](https://en.m.wikipedia.org/wiki/Zuni_language). The following thread's comments elaborate further. Don't pay no mind to the linked article, however: https://www.reddit.com/r/todayilearned/comments/1dujzs/til_that_the_zuni_indians_of_new_mexico_spoke_a/
+Man, do I miss Terry Pratchett.
+"Luck" is a combination of skill, opportunity and action. Feliks has the skill to take action, and just needs the right opportunity (either a scramble which facilitates his control or a controllable phase that happens to fall on the easy side).
+Everyone tells me so but it messes up my mind really bad, haha. Shapemods are super interesting, so I thought I'd start off with it and eventually work my way up to some more daunting tasks.
+That's a very good price for some really, really good ink!
+Same! Excited to learn something new!
+Still not a good reason to lash it out on someone. At least try to provide constructive feedback, but of that's not possible just downvote and carry on.
+Orange blood! Ayy lmao, this is just too good!
+No SS available other than white. Ended up getting the FS in the end and it looks very cool. Didn't extensively play with it yet other than a couple test turns, but it is very smooth (it came pre-lubricated too, which is great) and comfortable to hold. edit: Messed with it a little more and as Sune as I figured out what was going on, I could do intuitive F2L-like pairing. PLL however is a whole other animal, so this ought to be a fun weekend.
+You sure can, but also be aware that there is a distinct line between saying "I think posts like this belong in the DDT, we've seen plenty of them already" (stating a contrary opinion and offering constructive advice) and "Shit not this again #/ripcubers, so many unfunny memes and reposts from noobs" (being aggressive and overall not helping at all in changing the situation you're, paradoxically, criticizing).
+You're correct. I do the same thing when performing, so for a magic performance this is more than enough to impress people. Hell, whenever I wanna show off I'll do PLL on my back and people lose their shit every time.
+I'd risk to say sub 45 or below. BLD is surprisingly not so difficult, and good OP/OP solvers can get consistent sub 2min without breaking a sweat.
+Man, I'm in love with how much Mirror Blocks mess with my head. I'm having a hard time telling OLL from PLL but just now I could recognize a specific OLL case (the mirrored C with bar on right) and right after I could tell I had a Jb Perm, which took me a while to wrap my head around. Currently only doing LL stuff, but I did manage to mess up the last F2L and fix it back a few times. This has to be one of the funnest puzzle experiences I've ever had! Even knowing 3x3, it still feels like a puzzle and this is awesome!
+Stop! The mindfuck is too real!
+I switched to CN at 50s average, and it was a great investment. Highly recommended, but do not time your solves for a while because it'll take some getting used to before you equalize your times in all colors
+It's all fun and games until you go full blown "Great solve, let me reconstruct it".
+Square Boob?
+Learn a couple alas per shape. Like 2 algs for Pi cases, which you're bound to get every fee solves. Once they're alright, try mirroring them and wham! Instant double the amount of new OLLs.
+Good strategy! I managed to do easy F2L cases a couple times, but LL is really what tripped me up hard.
+Just so we are clear: Can I solve Megaminx LL intuitively? I managed to do everything on my own so far (it's pretty much a bunch of oddly angled, siameses of sorts 3x3's - took me quite a while to wrap my head around the concept) but LL has me stumped. I figure that I could in theory solve the LL like an extended 3x3, and honestly I'd be happy to do it regardless of how many "looks" it could take me. So, can this be done? Don't want to resort to algorithms, and will certainly study commutators if needed.
+No problem :D Knowing it is possible is already a relief haha
+Noice! Hopefully tonight the little beast goes down!
+I've solved it with adapted CFOP and LOL. The F2L portion was a bit weird, but worked in the end, lol.
+So that's to say Sune would go like R U2 R' R U3 R' ?
+Cut it.
+Join us at /r/Cubers! Easily one of the friendliest subreddits out there!
+Oh god, I thought this thread was about to go on a **whole** different direction.
+Do Layer by Layer at first. Tip: Instead of a Cross, you'll make a star. Work your way up from there!
+Three hours into SQ-1 and I wanna shove against a wall. I managed to figure out how to do cube shape but then everything becomes confusing af.
+Yeah, that's pretty normal. 50k is more than enough but does take a while to break in - be patient and do lots of solves, eventually the cube will be really smooth. Unless the situation is really bad right now. In which case I'd recommend you to disassemble and wipe off the current lube with a damp cloth and some water / dish soap. Then let it dry, reassemble and apply just a little bit of 50k and make sure it is well broken in before you so anything else.
+It's the Qiyi, and turns really well, super smooth and effortlessly controllable. For someone who's used to the puzzle (so not me, definitely) I feel like it can be blazing fast as well. Corner cutting is good but I'm not used to it enough to know exactly when I can do it. The feeling is very solid but lightweight. Stickers are really good quality. They look thick and well applied, aside from one minor bubble in one of the corner pieces, but that's barely noticeable.
+GJ!
+I'm powering through the thing. First time took me about one hour until I reached LL and my brain went like "Nope. Not today!" and I slowly scrambled it back while trying to un-mess up the penultimate layer 😅
+Looks beautiful!
+Nice! Excellent progress!
+Ooow, man. That's infuriating!
+Wanted something funny and reminiscent of BLD, which is my main focus now.
+DON'T WALK INTO THE LIGHT! *CPR intensifies*
+Substitute everything X' with X3? E.g.: R' = R3
+Oh yea, that's tricky. For an extra spice, try doing the same thing without this loophole or doing a rotation then a clockwise turn, that is, either clockwise moves and double turns only.
+And their shipping time is astounding too.
+Absolutely fantastic job, OP. Beautifully done!
+During Nats last year I saw one of the scramblers almost having an aneurysm because one cube had the Japanese color scheme. Went to verify, no cigar. Went to solve it and redo, even worse.
+🌈 ✊
+Haha thanks
+Word. They tried to play it ironically, but it turned out meh.
+Like sub 1:50~ or so, but it's been like 3 months since I dove into BLD full force XD
+Ikr? Actually I just checked, and my 3BLD (ob)session was started on March 18th. I had been drilling isolated stuff (Corners / Edges) for about a week prior, though.
+What's your Aa alg?
+First 4BLD solve will happen in a moment. Hope for the best. Edit: Aaaaalllright, that was uh... That was an interesting experience. DNF. Hard. I mean, shamefully hard. Missed plenty of wings and don't even get me started on Centers. It was a bloody mess, but I survived. I had an astounding amount of trouble keeping track of solved wings. This alone took me at least 80% of the time. I'm not sure how to do it efficiently yet, finger tracking clearly doesn't work. Solved centers also were pretty confusing, but seem doable a bit easier with practice. Good news: I can't possibly get any worse, and now my 4BLD cherry is popped at least.
+Haha, so true tho. I did take a picture with my other phone but it isn't as hilarious as the video - which I'm considering deleting. It's full of swearing, facepalming and screaming at the stupid dog acting up in the background, lol.
+Wtf! On cam?
+T Perm is for OP Edges, and Y Perm is for OP Corners.
+FWIW, in my opinion Noah's tutorial teaches a far superior method for Edges (M2), which is faster and more intuitive. A bit tricky because of some special rules you need to play by, but definitely nothing extreme. I currently average 1:40~ with OP Corners and M2 for Edges, by the way.
+5/5 Multi-Blind in 30:27.34 [22:53.48] Too many outside distractions during memo, but I'm glad it all worked out. Some of the letter pairs were terrible and I don't have good images for them yet (EH, AL, IF, KC, CZ) as well as waaaay too many flipped edges. Reviewing just once after memorizing the first 4 cubes had a dramatic impact in the time. If I force myself to practice Multi more often, 10 cubes should be doable in a month or so.
+For reals, have some love from across the Internet 🤗
+*proceeds to solve a Pyraminx*
+Oh, I suspected this, actually. So, with M2 you can't do a sighted solve without memorizing first because you may run into two issues: Parity and Special Targets. With M2, the four targets on the M Slice abide to a special rule: If they come second in a letter pair, you must to the inverse algorithm instead of the regular one (i.e.: BU instead of UB, DB instead of BD). This happens because the first letter of this pair (whichever it is) will offset the M Slice by 2, and then those pieces are positioned inverse to one another. Doing the inverse algorithm at the second letter of this pair will fix that, and the M Slice will end up fixed. What I did when learning M2 was writing down the memo and then doing a sighted solve following it to see how the cube would end up affected after each letter. If at the end you don't end up with a solved cube, you will be able to backtrack what you missed. Also,i suggest using Edges only scrambles for this. You won't run into Parity but the special cases might show up.
+You can either use center commutators or redo centers as a whole, pair up the edges and work your way up from the 333 stage.
+Had my first 4x4 shapeshifting experience today, lol. And beat my PB single with a 2:07. Been too lazy to learn Yau, though.
+Came here for Braid too. Such an emotional twist at the end, left me in pure awe.
+Given your comment and the two below so far (edit: oh my, and the other ones in this thread lmao), I'm relieved. Seriously. I thought I had some uncalled for grudge against him, because he honestly sounds like quite a rude person to say the least. And the only two interactions I had with him did not help, either.
+lol, "once" Dude's still as salty as the dead sea because of this and insists in calling any higher ordered cubes from V-Cube "legitimate" while anything else is a knockoff.
+Re: Who calls thr Wuque de Valk 4 Before its release, there were several rumors of a Valk 4 coming out sune. It never did, and impossible to trust sources (random people in forums) claimed that Mats did not approve the Wuque 100% as something that would match the Valk3 quality standard, so Qiyi eventually released it anyway, just not under Mats' brand. Also the Wuque is Qiyi's top dog in thr 4xrl4 market, whereas the Valk 3 is the same for their 3x3 line, therefore some people may draw a parallel there. That's probably why.
+Haha spot on.
+Hey Tony, what's up
+x2 // Inspection L // Cross U' R U' R' // Green-Red paired y R U' R' // Green-Red inserted y' U' // Green-Orange paired, not slotted R U2 R' // Green-Orange set y' L' U L // Green-orange inserted U R U2 R' U2 R U' R // Blue-Orange paired and inserted y R' U2 R y R U2 R' U R' F R F' // Here's a Dot OLL because life isn't fair Edit: Last part is missing an U2 or something but I'm too lazy to figure out right now lol
+www.cubeskills.com There's just 2 Parity algs you need, a priori. OLL and PLL.
+GJ and welcome!
+As a magician, I can't tell *how* because it would be unethical, but I can give some insight: - They are regular cubes with an extra something; - A cuber would catch on what's added to them INSTANTLY but only by picking up both cubes; - It costs good money (roughly 400 usd) to learn this and obtain the special materials, which can only be sourced from a single person - the creator of this miracle; - There *is* sleight of hand involved; - A regular cuber who's not a magician can hardly pull off the same effect because there is far more showmanship there than you would think and THAT is a major part of how and *why* it works. Any further detailing would probably spoil unwanted stuff. If you're interested in cube magic I recommend Steven Brundage's Cube3 to get you started. I urge anyone who may know the stuff I talked about earlier in this post to NOT spoil things. It hurts magic and the mechanical workings of a trick are just a small percentage of a hard work whose aim is to create wonder.
+Q: Is it made of metal? A: Yes it feels like it lmao
+GL!
+Click the top right menu button and select "Desktop version"
+Tony Fisher kinda did this IIRC
+Or Doublethink
+You sir, are a cunning linguist.
+Join us! /r/Cubers represent!
+Nope, perfectly legal as they don't give any sort of sensible advantage against other competitors.
+ZYX Timer!
+Eh, there is a local puzzle shop not far from home with a Time Machine for sale. The real deal. Like 120 USD or so.
+MF3RS, hands down.
+Juan Pablo Huanqui got the Megaminx WR down to 29.933!
+Nice watermelon!
+&gt;Is it possible to learn any 1 look full solve algorithms? (3x3) I don't see where OP is asking for optimal solutions, only for 1-looking a full cube instead. Which is the exact concept BLD encompasses.
+Nice &lt;3
+To expand on what's been said, a lucky scramble for me is one that: - Favors easy targets to execute, - Don't have award targets, - Allow me to use multiple shortcuts to solve 2 targets at a time, - Have subsequential targets which allow cancelations - Don't have Parity. Screw Parity! - The less cycle breaks, the better - No twisted corners, those suck big time - Have a letter sequence with an easy, musical flow (especially edges)
+I bought a new boomerang last week. Since then I've been trying to throw my old one away.
+Dunno, lol. I was? Probably bots or people who thought I was being cynical, no idea tbh. I actually had started to type in the method for CO until I realized I wasn't doing a very good job. Didn't have a Mega on me. To check the notation and didn't want to risk ruining OP's work so far. I know all to well how it feels to climb upwards and mess up the LL, haha.
+&gt;and maybe there is a hidden gem of setting it up Yes, there is: Practice.
+Haven't got around learning it properly yet, but it looks really promising. Just got to get a but more used to the edge pairing and lookahead... Although I should really focus on 4BLD haha
+&gt;is a hoax Mmmmm. Found Feliks' alt account!
+Those lubricants usually are (or at least, they absolutely should be!) plastic and silicone-safe, so they can be directly applied cubes, but the screws and metallic parts alike could be at mild risk, so make sure to do a thorough clean up after it dries. I have experimented with those kind of lubes before, and they work amazingly well. Most, being water based, do not last long so you must reapply constantly. Another downside is that if you reapply too many times, cleaning up afterwards takes a while because the residual lube will be a bit sticky. Never tried using them on cubes, however.
+You can print an upgrade for your 3d printer? Wtf, that's almost like a robot giving birth :O
+Thanks! And that's right! CsTimer allows you to time splits, so I set mine in a way the first "stop" is pressed when I finish memo, and the second when I finish execution. It is worth mentioning that when exporting times, the splits are not included so when I have a particularly good single / average I tap that specific single and add a note to it specifying the memo time.
+Ikr, there's even 9x9 hypercubes. Hurts to think about.
+It's done very well!
+It is wildly unethical to divulge secrets of magic effects, especially commercially available ones. If you're interested in performing it professionally or as a hobbyist / amateur magician, buy it and support the creator. If you just want to know how it works... It's not worth it. I'm speaking as a magician myself: Secrets are boring. They take away the joy and mystery of the performance, and arent even 10% of what makes an effect look like real magic. There's way way more behind a performance than mechanical devices, smoke and mirrors - what you would be left with is a boring, extremely disappointing revelation which would add nothing worth in your life. Keep the magic instead.
+Why would they? The whole point of YouTubers being sponsored is spreading the word on a larger scale and showcasing their products and services to a wide audience. In sponsoring someone who, for practical purposes, is unknown and doesn't have a large reach / influence, what advantage would the shop have? None. Disclaimer: This is a safe assumption, and the official position of TC may vary.
+Pretty good 3BLD Ao5, a mere 3 seconds away from my PB (which I beat just yesterday): Generated By csTimer on 2017-6-16 avg of 5: 1:15.31 Time List: 1. 1:14.59 [31.80] F L F' U F U2 F L U R2 D2 R L F2 D2 L' B2 L2 U2 B2 Rw2 Uw' 2. (1:10.41 [21.30]) B2 U' R2 F2 D L2 U' L2 U B2 U' F' D L B2 R B' U' R' B2 R Uw2 3. 1:17.40[26.85] F' L2 F R2 F D2 U2 R2 F L2 F2 D' F2 L' F2 L' B U' F' D' Rw' 4. 1:13.93+ [26.11] B U2 B U L D F2 U2 B F2 R F2 R L U2 F2 U2 L' F2 Uw 5. (DNF(1:28.59) [41.18]) R' F2 U' B2 U F2 U' F2 L2 U' B2 D2 F D' L' R' D2 R' B F L Rw Uw' I forced my TPS a lot on those solves, and had warmed up before so the execution flowed very well. Three memos on the 20's range is also surprising and shows great improvement. I should really learn 3style now, or at least some Orozco. My goal of being sub-1 by the end of the year can easily be smashed as soon as I grow a pair and take the leap :p Edit: Just checked my latest Ao100. Lo and behold, I can confidently say I'm sub-1:40!
+Damn. Yesterday our 7x7 NR was beat by roughly 9 seconds... After she (Marjorie Marbly, IIRC that's the correct spelling) had not stopped the timer. Could've been an even higher discrepancy.
+Today a wild ride begins. I have started to work on proper 3Style for BLD.
+He basically won the scramble lottery.
+Aha, that's so cute &lt;3
+Been super busy so didn't practice much these past two days. Managed to roll some Ao5s though.
+My sister got me the kawaii-est owl blindfold as a gift, so I went to check out how I looked like wearing it. *On a mirror.* How the heck I managed to be the fastest sperm?
+Oh, I thought you directed something there to someone specific XD but no biggie, it's pretty funny tbh
+*We got fun and Gans* 🎶
+That's an older, heavily inefficient variation of the Layer By Layer method (a simplified version of CFOP). Youtube has plenty of more up to date tutorials.
+Must admit that I thought about this lmao
+*eye twitch*
+My 4x4 has officially been christened. It suffered a mild explosion and I managed to reassemble everything correctly like a functioning adult.
+Holy shit, that's Badmephisto! Wooooow
+The sub is trending! &lt;3
+Mirror Blocks. It's gonna blow his mind.
+I think you misspelled /u/Minaricu
+Anyone here into Cardistry? I assume there's some overlap, just like with /r/throwers. Im asking this because I have a set of sealed Smoke and Mirror cards and want to know how much they can be sold for nowadays. Already asked in /r/Cardistry but hey, gotta try. https://imgur.com/gallery/zxvZj
+Haha, I lol'd
+Options / Timer / Add times with / Manual
+The Mirror S has symmetrical pieces, whereas the regular mirror has slightly different ones.
+SCS, The Cubicle, Zcube et al. Most shops carry them.
+There probably is an additional twisted corner somewhere. Detecting is next to impossible since a fe pieces look the same xD
+The Frontpage be like [the floor is BLD WRs](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpuYb7mmM4AIfxD-5xilZXVLLhBw_twwAGxm-JVygkz2ufNlViiQ_cxCww-Q)
+Broke my 3BLD PB Ao12 again, third time in 3 days. Memo is steadily sub-30 and today my execution was really flowing, with super fast TPS. Generated By csTimer on 2017-6-24 avg of 12: 1:16.88 Time List: 1. (1:02.93[16.63]) U L2 D' B2 D' L2 D R2 U2 L2 U2 L' B R' F' R' B2 D R' B' D Rw Uw 2. 1:14.80 F' U' F2 L2 B2 L2 D F2 D' U R2 D L D2 B U' L' B' D' R F2 Rw2 Uw 3. 1:17.29 F B U' B U B' R' F L2 U' F2 U' B2 U R2 D F2 B2 U2 L Rw' Uw' 4. 1:21.46 F2 R2 D F2 U' L2 B2 U' L2 F2 D B R F' U2 R' U' F2 U R' U Rw Uw2 5. 1:21.79 D2 U2 R U2 R2 F2 D2 R' F2 D2 R' U R' F2 L R B' L' F D R' Rw Uw2 6. 1:11.62 F2 U2 L' F' D2 R2 B2 R' D' R2 B2 D2 R2 B2 D' L2 B2 D' R2 B Uw 7. 1:14.88 L F U2 B' L2 B U2 B' U2 R F' D L2 R U' F D F' Rw' Uw 8. 1:20.18 B L2 D B2 U L D2 F' B2 L' U L2 U B2 D F2 B2 D L2 U2 F2 Rw2 9. 1:18.65 R' F2 L2 D2 L2 F' D2 B L2 F D2 L U' F R B' L F2 D R2 Rw' 10. 1:23.00 L2 B2 U2 R' D F2 D2 L' F D' B2 L2 D' R2 F2 B2 U F2 D2 R2 Rw' Uw2 11. (DNF(1:14.33)) U' L2 B2 D F2 U L2 U2 L2 F2 U R' D U2 F U2 R' B' D2 U' R2 Rw' 12. 1:05.08 D R2 U2 F2 R2 B2 L2 F2 D B2 U' F U L' D B U L' B2 F2 L Rw'
+Use a double backdated for the left arm.
+Not necessarily. There is a very interesting phenomenon known as "illusion of memory", which essentially means that from her perspective, she could wholeheartedly be telling you the truth. A hazy memory from decades ago, brought back and re-shaped to her subconscious' contempt, while factually wrong, is how she recalls it and how her mind had shaped it and ultimately presents the situation as a fact. It is not a rare occurrence for people who saw me perform magic years ago describing the simplest sleight of hand trickery as something wildly different - it's all about how they remember and how they feel about it. "The Illusionist" is a fantastic movie which deals with this concept in a brilliant manner.
+Let me check my crystal ball, be back in a minute.
+LOL, my flair is because I'm specializing in blind solving, and DNFs are way too common :P (unless you were joking, in which case I whooshed real hard right now)
+Damn, well done!
+LL optimization comes in many flavors, and it depends on thr situation. Overall top Cubers know subsets like COLL, VHLS, some ZBLL cases and pair them up with Edge Control and similar cubic witchcraft. However their one singular meeting point is lookahead.
+The marginal advantages provided by magnets and finer tuning are only really perceivable by Cubers who are already world class, or at least way down deep the rabbit hole. Those people likely already know how to optimally set up their hardware, or have so much invested into the hobby to the point of purchasing a custom cube not being a hassle. It's also worth mentioning that custom hardware has a subjective expiration date - lubrication wears off and tensions don't stay exactly the same as originally set up forever. Not to mention other very subjective "feeling factors" are prone to change over time and even in distinct situations, no matter the time frame (i.e.: warming up). For perspective: While it is a fact that a professionally set up and maintained Ibanez Jem 777 (swoon!) would allow me to become an objectively better guitarrist faster than my trusty ol' Strat ever could, I won't catch up to Steve Vai unless I earn my keep through extensive practice. And while Vai could objectively play just as well on my guitar as he does with his, using his own hardware is the edge he needs to plow through the sound barrier. Also consider the following: There is an acceptable possibility that current world class Cubers (Feliks, Kian, Max, Valk) reached their current places on the ~~run towards becoming America's next top model~~ world rankings partially because of their respective "back in the day"s hardware limitations.
+Nhaiiii 💅
+Thank you for subscribing to 3BLD Facts! - Did you know that using 3Style, there is a set of optimal Parity algorithms one can learn, which consists of exsctly*PARITY ERROR, 3BLD Facts is undergoing maintenance right now and may experience numerical issues* algorithms? - Marcin Zalewski - once WR holder, together with a Polish delegate cheated copiously and as a result got banned from competing officials and all his solves were retroactively DNF'd - including a WR: https://www.worldcubeassociation.org/archive/forum_topics/1231 - Perhaps the most famous BLD cheater however is Mátyás Kuti. Also having held many BLD events WRs, all attained through peeking under the blindfold. Because of his cheating, which got him rightfully banned from competing officially, the WCA introduced the ruling in BLD events stating that there must be an opaque object between the solver and the cube. More info here: https://www.speedsolving.com/wiki/index.php/Mátyás_Kuti
+*Did you know 3BLD facts can be made up on the fly, just like 3Style commutators and conjugates?* **TO RECEIVE MORE 3BLD FACTS ON YOUR INBOX, TEXT "Turbo is Overrated" TO 1-800-DNF**
+No biggie :D I love BLD, it's my main jam actually. Let me know if you run into any questions or whatnot. And props on willing to learn, I guarantee you will have the most rewarding solving experience ever.
+Can't find 3-Cycles for those cases (UFR Buffer), send help ~~RDF - FLU - UFR~~ nvm, I'm dumb RDF - RDB - UFR RDF - UBR - UFR RDF - DFL - UFR
+Thanks! I actually misspelled the 2nd one, that should have been RDF - BUR - UFR &lt;3
+As long as each side has a single, uniquely distinguishable color, yes
+Not solvable, as you cannot rearrange the colors.
+Yea :D The top ones are arguably the best, but you can dig some other pretty neat ones for your style.
+Yeah, pretty straightforward. There's some more advanced tools which will be there if you need them, but overall it's very easy to use for anyone.
+Cube rotations don't count as moves, btw. GJ!
+I think this is a nice little achievement: Just finished my first sticker set of 3Style corner comms (The RDF sticker). The first step of an exciting, possibly infinite journey, yay! There's 36 comms total (18 targets + 18 inverses), plus some alternate versions of a few. A *very* small number compared to what's to com~~m~~e down the road, indeed, but this is all about the journey after all. Tomorrow I'll start drilling them. Probably gonna take one or two days just to practice then all before I move into a different sticker. What do you think I should do, use a sticker of the same piece? Say, FDR?
+Yea, haha. It's incredible how easy it is to get conditioned. Not long ago I forgot (lol) to *scramble* the cube too.
+I'm incredibly hyped, for real! Will Shivam, Tom, Gianfranco, Berta, Ishaan or Mark ascend as BLD deities and dethrone the longest standing and still untouched WR? Will Maskow raise the bar even higher than his 41/41 already has? He's proven capable of doing 50 points, and this was a few years ago! As a BLDer, this has me very excited. We have been seeing so many WRs lately, and having a WC crowning the one WR to rule them all will be unforgettable!
+Thank you &lt;3
+"he is capable of" =/= "has done exactly"
+Awesome!
+My point is that he managed to cram 50 cubes within the hour limit, and regardless of memo or execution mistake on the DNF, the mere fact he did abide to the limit already shows his capabilities :p
+I agree, but they arguably would add far more diversity than kilominx, and that's my point :P
+Just do it cold turkey, lest you spend 5 days not doing one color, then 4 days not doing another and so forth.
+That'd be a pretty obvious necessity after peeling them off.
+Ending 2017 by getting with a long-pursued 3BLD milestone , my 55.19 Ao12 (first sub 60!) was an awesome feeling. After sleeping away my hangover most of the day, I went to practice, in order to kick off the new year well. Hours later and I'm rolling many great solves and got another sub 60 Ao12 (59.98 lol, I'll take it). Fast forward a few more solves, and I broke my PB again with a 53.99 Ao12! Then the good old "just one more solve" turned out to break it *again* with a 53.80 and a very much unexpected PB Ao5 of 50.97! Damn, I'm so hella excited! Will give it a few more days but I can rather confidently say that I finally reached sub 60 global in 3BLD :D
+http://www.cyotheking.com/ortega/
+*fist bump*
+4BLD: Use r2 for Wings and U2 or Commutators for xCenters (plus OP or Comms for the Corners). 5BLD: Same as above, plus M2 for Midges and U2 or Comms for +Centers. Noah Arthurs has tutorials on both.
+Ooooh, Simpsons reference? Nice!
+Day 36 My Secret Santa gift is still ~~being held hostage by UPS~~ "in transit" and hasn't been ~~requests for ransom~~ updated since. The wait continues.
+Out of stock, RIP
+Lightake isn't offering me free shipping, and zcube doesn't have the option for DHL anymore. What gives? FWIW, I'm trying to get 15x MF3RS for my upcoming MBLD race to NR. Edit: Mixed up Lightake and Cubezz lol
+3x3 / OH: Valk BLD and MBLD: MF3RS Been practicing BLD a lot with my Valk lately though, it's a pretty good cube to Spam. TPS with.
+Cubeskills tho
+Mini Thunderclap.
+lol, try Brazilian customs tho. Easily 4 months+ for the simplest orders.
+Whoa, respectable mail day! Really dig the force cubes too.
+Actually I was recommended [R F' R' U: [R D R', U2]] on a BLD group on FB, which is pretty cool. Regripless and relatively fast.
+They look fantastic!
+Haha yea, there's the Valk 3 Power / Power M and GTS 2 / GTS 2 M. Whichever one you get will be an amazing investment, that's for sure!
+Tough choice, lol. It all boils down to personal preference in this case. Magnetic cubes are very pleasant to turn and have a rather unique feel, so if you want to experiment go with the GTS2M.
+Thankfully my specialty is Blindfolded solving lol
+40.89 (on cam, no less) from a few months back. Kinds frustrating given I average sub 60 now lol. The scramble was real indeed, just a bit too easy. Although I did get a 39.xy earlier today too but I also was shown the scramble by a friend so dunno if I should count it.
+No, unless your citizenship changes too.
+Eh, a friend of mine can get sub 10s with ease in those. Efficiency ftw
+Sub WR :O
+What are your memo/exec splts? Any specifics you have recurring issues with?
+Cubeshape alg?
+Ooops
+Agreed. I average sub 18 on 3x3 and sub 60 on 3BLD, so the FMC would be a good challenge. Actually I will compete in this event this coming weekend, having never done real FMC ever. Hopefully I don't mess up too much lol.
+Ooh
+Regardless, customs here are a huge PITA :(
+It's a tag, lol
+Short answer: Loads of work. The good news is that you can learn it at your own pace and progressively switxh into it from OP. Sorta like going from 4LLL to 2LLL - As you learn new algs you apply them if the case shows up. And when they do, the difference is mind-blowing. Also, while it is indeed a massive amount of algorithms, IMO it is not as hard as it sounds because they're far more intuitive than say, OLLs. While you can (and should) understand what an OLL/PLL does in terms of moving pieces around, taking F2L pairs and putting them back etcetera (which is a lot of stuff going on)... In 3Style you pretty much need to know how just 3 pieces are moving around. Takes a bit of getting used to, but once you do it makes it much easier to memorize the algs and better yet, understand what they do and how. Also, the more you learn the easier it gets because you're able to improvise a lot in cases you don't have a proper alg for yet. The simplest setup moves make it possible for you to apply what's basically the same algorithm to a whole different case (or cases) without even thinking. And again, the more sticker sets you learn, the more you're able to improvise and the easier it is to do so. I highly recommend you start transitioning into 3Style once you average below 1:30. I'm still far from knowing the full thing, but the little that I do already pushed me to break sub-60. It's a great investment and definitely not so hard - just takes lots of effort.
+Xinghen is awesoooooome.
+Use images instead. Solidify them, get good and practice a lot. At this point literally everything can be improved by just solving.
+Yea, it does take some getting used to :P BTW can you believe that out of eeeeeveryrhing I planned / thought of doing during this time, learning new comms didn't really occur to me? LOL. I'll actually do solves, sure, and will probably learn a few new cases. Just haven't decided yet on which sticker set to learn now, lol.
+CriticalCubing has one
+Road report: I'm about halfway through the 25ish hours bus trip to my comp. Won't make it in time for Mega and 4x4 and due to the bus company's schedule, I'll leave before 3x3 and OH finals tomorrow, RIP. Alternating sleep and copious BLD practice (untimed safe solves and some comm experimentations while I'm at it) with a decent success rate. Got a free dinner and a beer after showing off my mad skillz at a roadside restaurant, too. I was pretty nervous, lol.
+Thanks :D Just bombed FMC though haha
+Nice! Thanks for the input :D
+Or maybe it's a joke?
+Hottest meme right now?
+Comp over, and I had a blast. Only got to participate in BLD, 3x3 and OH. Did poorly on the latter two, but that's not even why I faced almost 30h on a bus for so that's OK. Coming home with a trophy and a medal (as well as a fabulous pink Yuexiao, a Wushuang and other trinkets) but most importantly with plenty of amazing memories and experiences. That and a sense of accomplishment that will motivate me not only though the long road ahead, but also to keep practicing and improving. There will be a minor comp on the 27th then in March and April I have 3 more, perhaps 4. Those will have very fierce competition, and I'm more than motivated to give my best there.
+Thanks! It's a long sought after achievement, and felt amazing!
+That's exactly what I've been doing. Sometimes it works, sometimes it doesn't... Somehow. Still trying to wrap my head around it.
+Nice, I'll check it out soon. I like playing around with new puzzles to understand how they move around before looking up proper methods. This will be especially important for 5x5 because I plan on competing in 5BLD during Nationals here in July.
+Ahoy! It's parity time!
+So, uh. I kinda figured out some ways of reducing the Edges into a single edge Parity case. It doesn't show up every time, but most of it. Cut down my PB to 10.xx minutes, lol. That's slow af but something already. Centers are not as painful anymore, so that's something :P
+Doesn't make any difference at all, regardless of which method you're using. Just make sure to always scramble in your orientation, because it makes reconstructing your solves easier, which is a must for when you need to backtrack on what may have caused a DNF.
+Everything. Because BLD is lit 🔥 🔥
+Pulled the trigger and ordered 10x MF3RS out of Cubezz. By the time they arrive, and hopefully it doesn't take weilong, I'll be back on the swing of MBLD and take the NR/SAR road. I just moved into a new house (again, lol) where I have much more space to practice in peace and quiet, so that should be a nice motivation boost not just for Multi, but also for 4BLD and 5BLD. I plan on putting up a good fight for all BLD podiums in July during Nationals. It's gonna be tough, but I'll try.
+2x2 - Very good 3x3 - Superb 4x4 - Crap 5x5 - Usable, just not advisable
+Just 34 dollars, and with free shipping :D They will take a while but in the end that's gonna be like 1/3rd of what I'd spend if buying them locally.
+Oh, try out the Wushuang. It is soooo nice.
+I need a place like this really badly, hah. Love the OLL checkbox!
+SuperAntonioVivaldi does have a fantastic guide.
+Sweet, thanks! This looks promising :D
+Ayy, my Cubezz order just shipped. Let's se which one gets here first: This one or the Secret Santa package that has been "in transit" from the US since Dec. 4th ¯\\_(ツ)_/¯
+What are you, the NSA-oooh
+If you're coming from M2/OP, then DF/UBL is a safe bet. Many world class BLDers use them and there's plenty of great material and comm lists for those.
+It isn't, lol. People like Ishaan and Graham use UBL/DF, for example. Probably Maskow took this idea from his claims M2 is not a good method for Edges compared to Turbo, which IMO is an exaggeration. They're both just as fast, and M2 is much easier to learn and gradually extend into 3Style.
+MU are ridiculously fast. I do both sub 0.80 in average, you just got to get your fingertricks on point.
+Eh, just do R U R' U' and then the PLL Parity alg and undo the setup. This skips the U Perm.
+Same as you would do an M Slice on 3x3. Just hold the two leftmost layers and you're good.
+Yea, but every now and then I'll resort to M2/OP for cases I don't know yet, or can't quickly improvise something for.
+I've managed to solve the last edge Parity a handful of times in 5x5 sorta intuitive, but still don't know exactly what I did, lol. Hoe can I apply 4x4 Parity into 5x5? 🤔
+~~Just tried it, and it didn't work :( should I use 3Rw moves at some point?~~ Edit: lol, I'm dumb as a brick. Just dawned on me I should be doing Rw U2 Rw x U2 Rw U2' Rw' U2 Lw U2 **3Rw'** U2' Rw U2 Rw To keep up with the Lw right before
+Ayy, rolled a couple BLD Ao12s again ,over a 2h session, all between 55.xx and 58.xx as well as two more sub 40 singles, 37.44 and 38.53 :D Also I think I might stop timing my splits, at least for a while. This should allow me to focus more on the solve itself and not get self conscious about my execution.
+If anyone is wondering, the alg for the Void cube pattern is y'
+Every now and then, but 3BLD is a whole other business. Makes my competition anxiety peak like hell, so I don't want to add another layer of stress.
+Definitely. Actually I'm considering doing this to prepare for comps. One of the advice I took from a recent video Ishaan put out is that filming a solve subconsciously tells me this solve *really matters*, and if I'm not filming a solve, then I can most likely be far more relaxed because it feels like casual practice, so I can focus on other aspects.
+Yesterday: PB Mo3 Generated By csTimer on 2018-1-22 mean of 3: 47.32 Time List: 1. 47.86 B L2 R2 B2 L2 F' D2 R2 U2 F2 D2 L' B2 U' L2 R' D' F2 R' B2 Rw2 Uw2 2. 54.92 F2 R2 D B2 D2 L2 F2 D2 U' F2 D' B' D2 B2 L' B R2 D R' D' F 3. 39.18 R2 D' L2 F2 D B2 R2 U R2 F2 U2 F' U' B F L' D2 L2 B' L R2 Today: 6/15 MBLD in 54:54. Failed spectacularly on recall, execution and pretty much shamed my whole family with this dumb attempt at getting back on the swing of Multi without warming up, lmao.
+At least try it :p
+Silicone spray. Just like every mass produced cube right now.
+Nice for 3BLD as well, with super easy corner cycles and okayish edges. Got 46.34 without warmup :o
+So, their child?
+This made me laugh harder than the OP itself, well done
+You can use CFOP, but that's too dependent on luck and even then it's hard to go below 40ish moves without something crazy like a LL skip. Here's a real example: U L2 D' U2 L2 R2 F2 R2 D' L2 F R B' F2 U' B D' U2 F L R y2 R2 D2 // Cross R U2 R' y' L' U L // F2L-1 U R U2 R' y U2 L' U L // F2L-2 y R U R' // F2L-3 y' U R U' R' // F2L-4 R' U2 R U2 F R U R' U' F' R' U R // Magic 36 Moves
+&gt;Nobody looks ahead the whole solve Hold ~~my purse!~~ this sheet of paper!
+Because you're conditioning your lookahead in a harder environment, since there's so much more information to process on a 5x5 for example. Then when you switch to a 3x3 it feels like you can glimpse into the future, because looking ahead and finding pieces is much easier.
+Given that a) it is well known already that you own a cube shop and b) You've posted similar pictures a few times already not very long ago and not far in between, Doesn't this count as self-promotion?
+Pretty badly, LOL. It was my first time doing BLD officially, and it was terrible (11min~, 9min~ and DNS). Also second competition ever, my 3x3 times were 23.90 (alright), DNF (wrong LL alg, IIRC), 45.19 (The cube slipped and literally flew away because their planet was calling or whatever), 19.98 (first official sub 20 so it was nice lol) and 41.67 (cubes with suicidal ideation smh)
+Full images is aragably just as fast as pure audio, but takes a lot more work to get faster. It does have the advantage of being more solid, though.
+PAO is more or less the same. Each image has three features, say... TH for Thor: It has a Person (Thor), an Action (smashing something) and an Object (Hammer). In order to connect it to the second image (say, BH for Buddha, which has himself as Person, praying as Action and statue as Object) you can imagine Thor smashes a Buddha statue. If I were to connect Buddha (P) first I'd imagine it praying (A) over Thor's Hammer (O), which is big, heavy and sparkles. So each 4 letters make an image, not 6 necessarily 6. But of course you can play around to see what works best for you.
+Brazil :P but doesn't the US use Fahrenheit instead? 🤔
+&gt;"2h) Competitors must be fully dressed while in the competition venue. And while you may argue that judge != competitor or vice-versa, it's pretty obvious that judges in official competitions are also competing, so...
+Nope. Too expensive, and doesn't really make sense as of now. Unless cubing became a HUGE sport attracting too much money for it to be fun anymore, it doesn't really make much sense. I get where you're coming from, though. When we compare those insane WR feats to the average cubers' results, they seem so unreal so one might think there has to be something pushing them out of the edge, but I reckon that's a good mix of talent, practice and of course luck.
+Had it happened to me, I'd totally be like "Goddammit right it was a boner. Wouldn't you have one too if you got the most sought after WR?"
+Blind solving, lol
+Missed M slices, popped pieces / cube explosions, corner twists, wrong PLL, missing PLL Parity (4x4), incorrect stopping of the timer, not signing the score card, touching the cube before the judge has inspected it after the solve...
+Welcome back!
+Good call
+YES THAT'S IT A friend of mine has JUST texted me the exact same thing lmaooooo Damn, so the solve does have Parity after all. I just need to trace whether that Fdl or the buffer
+Yoa
+Hyyyyype!
+Nah
+kSolve and Cube Explorer
+Road To Not Being Made 4BLD's Bitch Any Longer: Progress report Did another Wings only solve and beat my PB and by almost 30 seconds, with a surprising 4:48.23. First sub 5min. Yay! Memo felt good and straightforward, but had lots of backtracking due to mis-traced pieces. This is actually a good sign, and shows me I'm on the right track in terms of tracing correctly. Execution was OK. Lots of room for improvement there, but not a priority at the moment. Scramble: L2 B2 R2 D B2 U B2 R2 U2 D B U L2 U' R' F' R F2 D' L Fw2 Rw2 B Rw2 U Fw2 Uw2 D L2 U R2 L2 D Rw' Uw2 Rw' R D' R L' Uw Rw R' U2 B Rw2 y2
+He's made a few comments on a similar vein on his blog. He's just so chill and humble, I seriously just want to give him a hug and pay him a beer.
+This guy maths.
+Incredible work, props to Tom for this. Very useful for beginner BLDers as well!
+Thanks! Too 100 is still a bit far but I sure will try!
+Learn a few sets for pesky targets. It's not really worth switching back.
+Dude calm down
+Mostly, yeah. Whenever I couldn't figure out a good alg, I resorted to his list or asked fellow BLDers. There's also Meneghetti's list which I looked into for algs I didn't really grasp or like, but that was very rare (I'd say this happened like 3 or 4 times at most). Overall, Ishaan's list is incredibly helpful and most (if not all) algs there can be done sub 1 with the right fingertricks and a good amount of practice, or course.
+For 3Style algs, pretty much only execution. When I get comfortable with it, however, I'll do a few slow repeats just to track the pieces as they move around, as a way to understand and also visualize what the algorithm does. This IMO is an important step in learning algs because if I mess up during a solve, it is easier to backtrack and also if I happen to forget how to do it, I can improvise quickly from a different alg. For example, let's say I forgot how to do the alg for the DF-RU-DL cycle. Instead of panicking and resorting to the much slower M2 solution, I would simply do an U2 setup into the alg for DF-LU-DL (which just so happens to be ridiculously fast as well, so if my think-ahead is on point, the loss in actual execution time is of less than 1 second).
+Indeed some are super short like F' : [E, R2] which is 6 moves but you an also get [unnecessarily long] (https://alg.cubing.net/?alg=U__D2_R__U2_D__F__B-_U2_R2-D-_R2_D__R2-U2_R2_D-_R2-D__R2_F-_B__U2_D-_R-_U-_D2), you know, for shits and giggles.
+Audio for edges is only really important when you're getting into sub 40/30 memo territory. Especially using OP/OP, you'd need to hold on to memo for quite a long time. I suggest using images from a while just to get experienced at first and set solid bases.
+CE/EC, which is much better for memo and execution - dealing with Parity is also easier and faster this way.
+Yeah, and if you use the same buffers as M2/OP (at the cost of slightly worse algs), you can gradually move from those methods into full 3Style and always have a safety net to fall back on.
+I also don't really get your point. When I started learning BLD I did exactly that (albeit much less fancy) and had no issue in "real" solves.
+I'm in a love-hate relationship with 3Style. On one hand, I'm learning a lot and my improvement will skyrocket. This is what I need to plow through the official rankings on my quest for a future NR. On the other, drilling and understanding comms is incredibly tiring and stressful. I know it gets much better with time, but so far this has been quite a struggle.
+A fellow fan of Jason Isbell! Sweet!
+I will! 💪
+I know the feeling, hah. I've pushed my own transition too many times, for far too long. I still don't have all corner comms done with, so every now and then (if I can't improvise something) I'll resort to OP and oh my, is it *boring*. Looking up people's lists is great because like you said, you end up discovering tricks and algs that are pure genis. When I started figuring out E and S moves it was a freaking revelation haha.
+Walk-through solves from Kian are great
+Oooh, got it. Maybe you put too much of it? Or perhaps excessive heat in your area 🤔
+I suppose the kind of terrifying puzzle found only in the depths of Australia. In all seriousness though, thicc mod!
+Sorry about your friend's attitude, fam. That's not a way to be supportive of a newfound hobby, for sure. Welcome into the fabulous rabbit hole of cubing!
+Good solves today so far: 32.26, 51.05, 54.83, 44.13, 40.04 (DNF), 49.12 (DNF), 45.26, 41.84, 45.07, 48.10, 50.02, 42.27 Could've been a PB Ao12 (45.69 without both DNFs) but I'll take it.
+Perhaps contact them directly?
+Both this and the other bot working flawlessly. Sweet!
+Oopsies
+Bro tip: Cstimer has Edges Only / Corners Only scrambles.
+On a Thursday
+That's correct! Makes it easier to reconstruct solves and eventually backtrack anything you might have done wrong.
+Ikr. His memo is insane, and his execution is so clean. A perfect storm, worthy of a WR holder.
+I didn't even consider it could be a rape joke until I read your comment. I was thinking more along the lines of a lonely fellow.
+Heck, my first competition ever was Nationals 2016 and I had a great time there.
+They absolutely do. The Pink, Blue and Stickerless versions are much softer.
+FWIW the joke on the OP can have either interpretation and both can be right, depending on context 🤔
+The official client does indeed
+Scramble is a courtesy from /u/wrkaqarg 8 algs, lots of shaking and lockups, yet somehow I managed to pull it off. This is probably the 2nd time I managed to do a solve with nothing but 3Style. It feels *awesome*. Scramble: D' R2 U2 F2 D L2 R2 U' F2 L2 U' F' D F L' B F' D' F L2 B2 U : [S, Rw U Rw'] L U D' : [S', R' B' R] U : [S, R F' R'] R L : U' M' U2 M U' [Rw U Rw', S'] R Rw L D2 L' U' L D2 L' U L' R' x' [U' L' U, R2] D R' D' R U2 R' D2 R U2 R' D' R D' Memorization: 9.71~ Execution: 19.58~ TPS: 3.62~ Edit: All fixed now
+Yeah, Nationals is gonna be mid July. Tbh I'm going to be stoked to even break the 60s barrier officially, that's one of the goals there. Regarding the masks, well, I'm a magician :p I suck at social media though so I just dump videos on my YT account whenever I can haha
+Thank you!
+Glorious! This is definitely on my 'To Do' list now. To Do List: - To do - To do - To do - To do - To do to do to do todo ooooh 🎶 - Make a pink cube
+LPT: Put stuff inside boxes!
+I saw a guy doing multiple cubes like that, like 14 or so. Crazy stuff.
+Finally a cube I'm seriously hyped for. Can't wait!
+Thanks fam, appreciate it &lt;3
+Definitely do BLD!

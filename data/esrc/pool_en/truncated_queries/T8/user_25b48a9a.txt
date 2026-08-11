@@ -1,0 +1,500 @@
+as a space sim for old space sim fans, integrity is already lost. Originally the claim was to not include the freelancer-style mouse control, fast forward a couple years and and we have it in. Like every space game to ever have it, it ruins balance.
+And then they say "we'll fix it" without any sprcific discussion of how, and refusing the easiest solution (removing mouselancer mode, or seperation of aim&amp;flight,) yet they only have 7 months until sq42 is expected as a quality release. That freelancer mode was promised (in early wingman's hangar) to explicitly NOT be part of the game, how it snuck in really shits on the open development concept a lot more than not showing all the WIP assets
+"pound for pound" sounds like price bracket (as in british pounds), the scythe was up in the connie/vangaurd/irredeemable price bracket, and shouldn't be on their level. or its weak because it can't equip gimballed guns which are OP as fuck. 8 missile hardpoints, 2 size 5 guns, and all that maneuvering thrust is very powerful for a fighter, remembering when the M50 was very competitive (and possibly OP) way back when, speed is effectively armor
+Definitely. This is tragically a mouse game and the developers don't care about controls, they would rather focus on making being a space TV reporter a thing
+Hell, The P51D that the mosquito sees can out run it while also carrying double the bomb weight Also lame, the 57mm version can't pop full pillboxes.
+Xur gave me an exotic pair on Sunday They're actually briefs
+My notes: * the base interior looked odd, the tunnels were extra high but the hangar was extra narrow compared to the movies and compared to pandemic's battlefronts * ATAT ride along was indeed a killstreak/powerup/limited time reward, one could see the health draining on its own, but topping up when the user killed rebels * usual DICE choreographed "moments" * the sounds and effects are good * I find the HUD is ugly * jetpacks EVERYWHERE. not sure that's good for map flow * walking around the ion cannon to get at the generator, REALLY? * orbital strikes while the shield generator is up? * luke, Y U NO PILOT OUTFIT? simply sloppy of DICE to not show a map-appropriate hero outfit. * flying around doesn't seem to have a timer though, might be decent as long as "ion torpedoes" are not a vehicle kit unlock, such a system would render the game irredeemable to me. This probably reads bitter, I should note that battlefront and battlefield 1942/2 were my favorite games of that era. battlefield 3 was rather disappointing, BF4 was lame. I expect a bad game, but still hope I'm wrong.
+However that nerf to mice just made it awkward and annoying for its users and makes the game look like it favors joysticks. Automating gimballs (and unmanned turrets) with signature strength based tracking and accuracy would add depth and importance to stealth and emissions management, and then allow having a person in a gunner seat confir the advantages of mouse aim at a reasonable cost of a second person
+mystery is what you do when you're afraid of reaction, because you fear you haven't done a good enough job.
+'sledge commander' was a terrible example because it made fixed weapons complete downgrade, as the sledge is small enough to gimball on most mounts. it did mean that any input device had a chance if they get the jump on the opponent however. And that diminishing concept is simply incorrect as it ignores that a mouser can 'improve aim' as its purely the user getting used to their target's movement.The likes of darkstar one, X3 are proof enough that a longer TTK with freelancer-style mouse aim of gimballs means that even if the game technically supports a joystick, the gameplay itself becomes simply frustrating. ED does show that a long TTK isn't bad thing on its own, but that game is entirely saved by the fact that they don't have a mouselancer mode and they restrict movement in ways conducive to better gameplay, so that one can predict their target's movements
+On that aspect I can only agree. Just a pity to me that a loathsome mechanic was the one to shine a light on the shoddy foundation
+Wouldn't it be more efficient to make a space station that we can freely enter and exit? Inside and out combat tested together using an asset that would be useful in PU. I mean, the gold horizon station surely IS a prototype for a station in PU, surely? On a related note, the concept of SATAball sounds like I'd be competitive if it were between teams of 4, the 32 players seem very inappropriate here. Test larger player counts with battle for a space station
+but don't worry, another CONCEPT SALE next week! Priorities.
+You hope. But if there is one thing CIG is great at, its making us hope.
+except the avenger was supposed to be able to go fast, just not handle as well as the 300 series.
+And in both cases, rest of the world will be 'Really America, still using slaves?'
+everything else around it has grown a few sizes, leaving the avenger relatively tiny
+A+ post I'd just like to tangentially add that those that are seen as "whiners" are often that as a result of disappointment, for any number of reasons. It could be the controls and reluctance from CIG to admit there is a problem, it could be the delays, it could be the inefficient communication of what's going on, it could be that their specific shipfu is kept in the basement with written content about it hidden because it can't be bundled with pictures into a sales pitch (cough, avenger variants, cough, personal reason) likewise many that usually gave a lot of money are convinced that the project has to go right, and are willing to cut CIG as much slack as needed, that the ends will justify the means. both should take a step back and empathize with the other extreme, even if its tough when so much vitriol is spewed by both.
+I guarantee that if arena commander was fly free for everything all the time, pay2win wouldn't have nearly the support it has. Ships bought were just thank-you's for the PU and hangar. It'd be silly to restrict alpha testing to just a user's pledge ship, the 1.1 spike in AC players is good proof of that, because no one really wanted to play after they tried their PU ship
+That would be nice. However by the time it's out, a "good" PC might be one with the equivalent of a high end system today. I for one would of liked if CIG kept the original minimum spec target in mind (a GTX 460 as I recall), especially since renderer is apparently using the lion's share of frametime. PBR doesn't make it prettier enough to justify cost, IMO.
+If we had a better idea what the scale of a star system is with regards to 'in game travel time' and how it relates to fuel capacity (we see carrier based ships with jump drives...that would imply pretty long range if you can go between star systems) it'd be easier to visualize the use of this kind of ship. Maybe it's for cruises through a system's various senic points of interest, a close fly by of the star, a weird moon, skimming a planet's ring and then after the ingame weekend it goes into port again for new passengers. I have been under the impression that star systems in SC are intended to be rather dense, with a couple dozen points of interest and landing zones. That one could spend most of their time happily doing a variety of stuff in one system.
+My priority is more to make piloting less descent HD than to justify gunners, I believe the current style of pilot mouse aimed gimballed weapons has to go or be rendered uncompetitive.
+Thing is, arena commander was delayed from December 2013 to mid 2014 mainly so they could rewrite netcode and 'expand the scope' It's not a new issue for CIG and one they should of seen coming a year away.
+&gt;still not revealing the avenger ariants other than 'warlock' FFFFFFFUUUUUUUUUUUU For a ship that's been reduced from the SQ42 trainer to CIG knows what, it could use just POSTING WHAT THE PLAN IS beyond 'modular' Even something as basic as &gt; * warlock - does Ewar stuff * ranger - high speed, big center mount fixed gun. No cargo space as result * paladin - up-armored with jump seats for boarding parties
+Well it is the topic CIG doesn't communicate well about, ever, despite being important for over a year, a thread with more posts than several sub-forums combined.. And it's an attitude problem at CIG, see the controller roundtable
+That reeks of skirting the issue, because how the game is controlled is its foundation. Making the rest of the stuff beforehand only makes changing the foundation more difficult. A 'don't look at it and hope it goes away' kind of deal. Plus, the most recent estimate has sq42 was slated for the end of THIS YEAR, controls need to take priority with the dogfight based SP game coming up. I would go so far as to say its more important than the netcode.
+the idris should be one, unless its lost its spinal cannon. since that described feature, I had hoped that a mission in SQ42 would see you have to fly the idris in some sort of capital clusterfuck, weaving around trying to pop destroyers, the turrets independently going after their own targets, ship slowly being worn down by enemy fire. But with the fattening the idris got, and my lack of investment in one, I don't know if its lost that heavy gun.
+was travis influential though? His talk of changes to the flight model sounded downright fantastic, but I haven't seen an iota of word of their implementation even being planned. In fact the relatively recent comment that the flight model is "decently representative of what they want" seems to be in conflict with it. Perhaps that is part of why he's left, to pursue a dream and have better influence in a project.
+came in before Xmas 2014, and gjelly dropped for me -twice- when doing the first time opening POE28 big chest on two of my characters.
+I can count 3 directions really, over to the base across the field, to the echo base entrance and trenches, or focus on the shield generator. But DICE doesn't do maps without chokepoints anymore, so it might as well
+Problem is real eyes automatically compensate for your movement, so you can read stuff while walking. In a game, any noticeable head Bob will shift your view, causing some degree of motion blur you wouldn't get IRL. Real life natural systems (and real life microcontrollers used for fly-by-wire) often act and react faster than cryengine could ever hope to put out a frame, so simulating them is not going to work very well. I and probably SQB might agree that what's needed is to 'fake' (or emulate) the results of such systems with some detail sacrificed
+Months ago it was just 'network and animations' Today it is " network rewrite, and animations". They simply grossly underestimated how much time it would take, and its quite possible that the *perfect* animations wanted for FPS are impossible.
+It's best case is faster, but lost packets or another client's lag still results in laggy experience for all who interact with them, and its simply a result of too much data being sent around for a chokepoints in any one client's route to the server. With 64 players, you're bound to have someone with mediocre connection because their region can't sustain a server on its own. I'm guilty of this having to connect from Canada to the Netherlands to get into a populated CTE server, for example
+A two map, MP-only, discrete, FPS mode with 3 static classes (on one, second map is a gimmick/tech demo mode IMO) isn't going to help that impression unless it's flawless
+I loved both series during the mid 2000's Battlefront was star wars version of BF1942 without gun inaccuracy, with better hitreg, more class diversity, 3rd person option, splitscreen AI, and a neat meta-game played accross the maps in the form of galatic conquest, or the historical campaign where you play through the maps in a chronological order. DICE's battlefront is something...else. Simple looking and with an amount of content I expect from a 15-30$ game (such as FC3:blood dragon). The producers at DICE sweden don't seem to like to associate themselves with their classic titles, at least that's how BF3/3.5 feel to me, especially when the in-testing dragon valley remake is shitting all over every other map the game has ever had.
+I'd agree with your idea a year and two months ago. But AC has come out now. To further your analogy, its like the appetizer has come out and isn't what was claimed on the menu, and tastes a bit bitter to boot, despite assurances it'd be sweet.
+I heard in recent 10FTP that flight model is sufficiently representative of what they want. And the best hope for revisions to it, Travis, is gone. There is potential to change, but the likelihood has been diminishing, especially with SQ42 still slated for the end of this year, SURELY FLIGHT MODEL should be finalized.
+The Auroa is uncompetitive because of the stupidly low speed cap, over 150km/h slower than the next slowest ingame. Travis's idea of universal speed cap would of saved it. REC is F2P bullshit for an " alpha" And the HUD is understandable, that's not the problem. The issues are poor control and wasting screenspace
+I can only agree. I was just hung up on the claim that it would solve that issue, the only thing that would matter is if the two animations run the same amount of time (a detail DICE of sweden were too lazy to do) not line up 1:1.
+I roll my eyes at Hux's little Hitler speech, complete with salute. Because blowing up a system is apparently too subtle a way to say these are bad guys. Ideological fanaticism is a lazy way to make your villans, and only makes Finn's defection seem more hackney. If he was a volunteer, swayed by propaganda to join, then his change of heart would make sense. He definitely doesn't act like a programmed soldier, and we're told he was excellent in training.
+I reckon it is. The USSR player can fill up with T-34's, which at that tier have great firepower, good protection and mobility. Other nations can't have all of that in the same package, the PzIV and marder are fragile, the STUG has no turret making it awful in urban areas (aka many objectives).
+That is important. The pecking order is pretty agreeable. However what's really important is the *power gap* between ships. AKA How much of an advantage should a Hornet have? I really want it to be smaller than it is, maybe 15% advantage over a combat-tailored multirole ship. Price should not be proportional linearly to effectiveness. Most games also know better than to do that as well, 10% more DPS can cost often 3x as much in many MMO I reckon the SH is currently a nearly twice as effective as some other combat ships, so I'd like to either see it be tuned down or others brought closer to its level. Of course, properly quantifying a ship's effectiveness is the tricky thing, because there are some very varied levels of proficiency due to many factors such as input, technical issues. I think raw firepower and health are a good indicator, with maneuverability being a rather minor help. Because Newtonian physics means fights are face to face, gimballs make hitting a target easy too.
+We already know shields in SC are going to do things like hold in atmosphere (CIG's response to why the cutlass has no airlock, as reference) so protecting from radiation is definitely going to be handwaved in a similar manner.
+&gt; loved sensibilities were a lot different back then. Domestic violence should never be okay when a famous athlete does it. Doesn't matter if its an adrien peterson, or ronda rousey. It's tragic that society is saying "these are terrible people but because they're good at this GAME, we'll keep paying them millions"
+That's guns. Components run on small/medium/large/capital for sizes now
+&gt; But It also puts pressure on the devs to add official modding support to make up for increased difficulty. I've failed to see that materialize. &gt;Devs which don't add modding tools will see lower sales than devs who do. Again, MGSV begs to differ.
+It screams that the manufacturing cost of the rift is not actually near the $600 they're selling for, otherwise there is no way they could afford to pretty much giveaway them to a sizeable portion of the VR market.
+well his last scene in the cartoon has Mace Windu crippling him with a torso crush, which creates the cough
+Luke lost only a hand Anakin lost more of his arm
+Probably because he likes his job
+Could be a generic slave's surname, and could be he fact that Anakin had no intention to return to tatoonie after his mum died
+I find his idea of P2W too forgiving, I think it should be as simple as in-game advantage through paying real money instantly and always makes the game P2W. I do think there are lite-P2W games where its okay-ish, but it's still a flavor of P2W. "Cinematic" is to me a good way to describe a game more about showing the player stuff than letting the player do stuff. And overrated he's just being a bit dismissive, calling its use a last ditch way to discredit things. I totally disagree. I believe that there are games some consider greatest of all time, which are merely competent.
+Chaos moshpit in bonus section is populated &amp; gives some variety
+I feel like the FL should have its S4 mounts, but they should overheat VERY fast, making its turrets like "git off mah lawn" double barrel shotguns Meanwhile s vanguard's fixed weapons should be efficient cooling and potentially fire all day. In general, gimbals would be better balanced by overheating faster (because the flexible mount can't pipe away heat from guns to ship radiation well)
+&gt; 7.0 &gt;Brits Not possible, 8.0 it is!
+It does matter. If the hornets have "enough" range for 99% of missions, then it doesn't really matter that it can't go across human space on a single fill up. "Range" is a terrible balance method for a game with infinite maneuvering fuel.
+&gt; I don't understand Gaijin's thought process 1. Make british high tier GF super strong 2. Receive money from chumps that pay their way to top tier
+&gt; That's because there wasn't anything to show off, they were just modules for the base model released seperately because the tech doesn't yet support applying a module to a ship. (Or rather, supports it, but is not yet implemented). The modules were just a man-fridge delete and a gimmicky EMP. "The variants are a stripped down cargo carrier, the one you already have, and the warlock has an EMP machine in the hold" That's all they had, that's pretty much all the have now, and was communicable in a sentence. As for JP's, they do have some good stuff every so often, those and the design posts are the best content I see from CIG, but they feel infrequent compared to 10 for the X/AtV/RtV
+There were Griffon spitfires produced in 1943. Best merlin, the LF mk IX was produced starting in 1943 too. You're acting awfully naziboo trying to get undue advantages. Historical BR would not be balanced, it'd be worse than current in many matchups.
+Just *try* to impeach him
+Mixture varies with altitude, I find maxing it on the deck usually helps down there, and turn it down gradually with altitude, depending on plane. What mixture is good varies a lot with plane, if it's automated by the plane, best to leave it. If you go into test flight with your desired plane, and bring up that thing that tells you detailed telementry, then you could adjust mixture gradually to see what setting gives best power at altitudes Prop Pitch is something you generally want to be turned up to 100, but turning it up too fast can over-rev and kill engine. Best to leave automatic. My Best use of MEC is simply to manually control the radiator, set it full close (0%) when going quick and when cool for that reduced drag. great for keeping every knot of speed in BnZ
+I agree 60% is way too high. I reckon reducing damage to 1/4 or 1/3 would be a better way.
+With the way QD is working, Camping the jump-points seems like the only way for players to interdict each other. But hey, maybe they'll rethink their crappy linear-only QD given the procedural planets with free flight potential are a thing now
+Why not? Just give it 0 aim assist and it'll be on par with snipers!
+In being damn powerful on PC? Yeah, i see it
+And after that the actress had a new character to play in a few more episodes
+But it was pretty shitty until it was 🔥🔥
+many ships can strafe as fast as they go forward though
+2015 Meek is bodied by a singing nigga 2016 BoB is bodied by a sciencing nigga
+So Pretty much what 2k does to teams like GTAVMP, ban/shut down alternatives to their controlled, microtransaction-loaded MP experience. This is just further proof valve is no longer mod friendly, if the whole paid mods fiasco wasn't proof enough
+&gt; It would just be a high resolution shadow map overlaid on the texture, How would that be different from AO?
+There are several instances over time of ships' accelerations being greater laterally than they are forward
+As far as 8.0 planes go, horten is above average, *some* having use as ground attacker and a comparative advantage in its turning. Most 8.0's can only bait or hope an enemy stalls in front of them
+Its something when other 8.0's have nothing on the sabers&amp;MiG15/17&amp;hunters Its not a super advantage, but it is **one**
+&gt;Canon Helmet-less stormtroopers already destroy any semblance of canon in that game.
+With how often I see a saber crash on takeoff on maps like Hokkaido (how?) I guess I see why the stats would be that way.
+&gt; be that only the US and Britain have true super-props in that class Hokkaido, the superprop arena! Also, there is room for superprops especially in great britain which has *nothing* between 6.3 and 8.0 (maybe the premium wyvern will get sentanced to 6.7)
+That's where Her Majesty's Finest airmen try to defend the earth from alien invaders!
+You're getting simply bullied by people here. That's rough. Rest of you should be ashamed, when someone tries to make constructive comments, don't pick on them for past behavior, either leave it be or hide it if their existence is so offensive to you.
+Pretty sure 2011 would have given NDP government under the systems city slickers deride like instand runoff/preferential ballot. They wouldn't win government forever, because if/when they mess up, other parties will take over as long as they're acceptable to most people.
+This game should never, ever be balanced for who paid more for their ship in real money, ever. If someone spends a lot of **UEC** on upgrading their aurora, it should be able to be better than someone's grey-market bought superhornet
+He's trying to do twin linked but fixed, so the S2 uses just a twin link modifier, 2xS1.
+They've partially fixed that now with daily&amp;weekly bounty missions and intel gathering
+There are ways one could customize old weapons. Scratched in wood some personal markings, wrapping a barrel or stock with cloth for a more comfortable gip, cutting off a stock for quicker aim at cost of terrible recoil.
+INT's skill points is overpowered Maybe it should have been changed so that each skill's associated SPECIAL(s) influenced the cost to improve that skill, while level up points are constant. INT is still huge for NV because OWB has so many INT checks
+its a pass in canada. Need to keep your average over a certain level to keep in the program, but a 50 in a course is still a pass
+Long before, a racecar's lateral loads are usually in the 3-4g range, at their peak Sustaining even 1g takes a high performance vehicle and great tires. I suspect its more that the way the G effect system is percieving G force is bugged. A 6g turn in a car would be insane
+I remember middle of 2012 when people found these .cas/.cat files were unsecured and among cheating things like weapon stat changing there were options to remove colour grading and change contrast settings, removing DICE's art direction. They banned that stuff, called the shots of beautified BF3 (looked like their later battlefront actually, but less glare so it was easier on the eyes) "to colorful" and refused to open up the graphics tweaks. Using sweetFX just doesn't quite compare sadly
+They should have had female models with same height and similar build rigged the same way as male models at least for the sq42 project where nearly everyone is military trained, maybe genetically tweaked. especially since its ostensibly coming out this winter. Making the sexes unique in terms of animation can be way down the line for the PU which can better excuse taking its time
+You're not a real stan when you've been acknowledged in flair form You're a PHONY
+I "use cover" but rarely use the cover system now. Usually in PvE its best to be standing behind a corver and peak around it and shoot' because they don't quite "see" you while shoulder camera sees them. Meanwhile taking cover they see and hit you nearly instantly when you peak to shoot.
+And in those cases you may want a little notice, so I thought I'd help
+To even imply that a fan of the genre of space sims is listening to *that tool* is quite offensive as I see it.
+Basicially until they tweaked missles
+&gt; where you can also FPS If you complete *The Ritual* (illegal in 7 of the G20 countries) and blood sacrifices needed to get any hit registration. No SM has let CIG avoid significant netcode related scrutiny for a while.
+Drifter outfit clips with leather armor quite nicely I find, looks like the outfit is reinforced
+Honestly I prefer the handling of the likes of the aurora and cutlass more than any other ships. Would like to see a little more "shake" when stressing the ship too Their poor handling gives character, unlike a "good" ship which is simple point-and-fly. Too bad the poor handling is a stupidly huge disadvantage that could make them very hard to be profitable with compared to other ships thanks to aim-based combat
+hey, you didn't ask for a *good* special bonus! that costs extra
+SM parties where each player has a SM and the game takes the players though everyone's maps would be dope
+For now its a % based damage reduction. A ship may have 40% armor while another has 10% armor is the current system. In the future they'll use a function of projectile (hopefully impact) speed and mass to make an armor penetration value which if greater than the section's armor value will allow a hit to do full damage. A non-penetration hits' effect isn't confirmed, likely just a damage reduction (maybe twice that of current DR-like system). The current system does approximate the future systems' intended effect in most cases.
+I'd go for all the weapon (attachment) variant bribes, because that's what I want most out of SD's after the ranged weapons.
+like me at a bar
+&gt; lights out for Cabal in the system That was a small scout group.
+You can't deny the irony of calling anything a girl's car while owning miata*s*
+Do that wrong and you give it a spread that makes killing something *easier*
+&gt;its okay because my cancerously undertiered jet can take them on with its never actually used armament
+However it has to calculate a bunch of pirate ships doing their thing, each of their IFCS systems, many of them having their own physics grids (300 series for example) and the various grids in the universe.
+I believe an AI ship and a player ship would be the same functionally, I know that the eventual goal will be AI playing by the same rules. However you could easily be right and the AI ships are using some dramatic shortcuts in the name of play-ability. Maybe an instance is only as fast as the slowest client attached with the current setup.
+Some of the names in that skit made sense, but what the fuck kind of name is "Dan Smith"
+#FREEDOM
+Hornet-A with its special features and more modern aesthetic
+then don't look. CIG shouldn't need to hide away stuff because some people don't want to be spoiled. Other people want to see as much as they can
+Difference would be wether the developer is accountable for advertised features
+That it was allowed to live after 2 attacks is a failing of regulation, calling for regulation of the breed is a way to help prevent future attacks. The pitbull is not an average large dog, its aggressive, small but strong making it a dangerous combination, statistically proven to be the most harmful breed. Even ones that were raised "well" by a person that apologized for the breed whenever these stories appear, can eventually just snap and kill someone.
+Israel didn't like Obama specifically, to the point that they talked to congress directly
+Of any comment in this thread, is this controversial?
+Why make them paid? They saw the failure, so far only valve insists it was a good idea handled poorly. It was more valve's idea that bethesda was willing to try
+you're crazy! But mostly right. WW2 sims might be able to use this though, as you spend more time with eyes out of cockpit and can map the fewer functions to feelable controls
+That's a matter of opinion. It sure feels incomplete with the lack of QC on the campaign and the crappy roster colourless maps that blend together in mediocrity.
+I'm touching 18k miles on my focus, and its been just fine so far. But I also don't use manual mode very often, and I feel like creeping in it will wear out the clutch(es) so I handle it carefully at under 20mph
+There will be with the new xbox play
+Isn't it literally an M16 though?
+Announcers just shill some shit and/or put on replays. its not like the field ceases existence when an ad break is on
+Some of it is I want to believe people will get smarter and online adspace is overvalued hugely.
+With *my focus* one can feel when its a slip speed as it is unsmooth, I leave a little bigger space in traffic and give the gas just a little tap to get it past slipping speed
+Since we've yet to see anything of SQ42 except a poorly lit cinematic, that's not exactly a fair statement. CIG has been using the "cinematic" word more and more for thier game, which may mean limited control
+Indeed. In this case, a magazine restriction could have *reduced* the damage though
+Also interiors for everything and more varied car roster instead of 60 kinds of skyline/GTR made after 1989
+Any force imbalance can move stuff, after all. With our thrust suits we could push anything, it would just take some time to get up to speed
+aRPG mechanics kind of shoved in the cinematic shooting is my guess
+Painfully true. But the harder it is for them, the less damage they can do.
+OneWeb soon Unless bell gets the RCAF to try shooting down satellites, that is
+Yeah, the xbox store has sales frequently, I know I have bought several games through it because they were offering a decent deal.
+BO3 is the one that's more like titanfall. And Mirror's Edge did first person wallrunning long before either And even then, TF and BO3 are totally different scales that make them both distinct games. I really disliked laggy players with the smart pistol in TF.
+Have they said if they're removing that kind of weapon in TF2? I'm not letting myself care for that game until I hear so.
+Put it all in Boeing B.R.A.
+France lost 20x the number of men and this is how they're treated? I wouldn't be surprised if an american company neglected france for USA, but *swedish company?* shameful.
+Its a shame, they're basicially making another ww2 game, merely wearing the face ww1. No actual risks are being taken.
+How many of those millenials own property? If you can afford to own in vancouver without getting any of those, I'd love to see it
+They willingly enteted EA to avoid paying trauma studios for their work on BF2. The guy that sold DICE to EA got to be high end exec that has allowed DICE to do as they please This steampunked WW1 is typical DICE "lowering the threshold"
+If you have a disc copy of TARGET, don't use it. I recently installed TARGET and it worked on my machine, had to give it admin rights
+indeed. But they aren't doing double duty as controllers for some drones. that added stuff is where I believe a 2 seat would justify its cost.
+what, fire boats? because fires do happen in places a boat can get to while a truck may not.
+Yes , however the point is a PC player can play these games on their current system. Complaining about something not being on steam is a bit like whining you can't buy a new BMW from your chevy dealer.
+I badly desire the dragonfly to fit in a (reworked) cutlass its already very close, either cut the floor or make the rear door bigger
+I think formal groups in DZ may be inherently broken a would be body-block should risk damage from both sides, and supers shouldn't spread among a group in DZ, because its a huge advantage to have 4x the uptime
+As though BF3, BF3.5, mirror's edge remake featuing unlocking bullshit and grapples, and battlefront haven't been enough proof DICE are bad at game design. Their WW1 game still has their horrible colour grading (seriously. when it was hackable to remove from BF3, the game looked about as good as battlefront in 2012)
+This is where the MiG-21's nuke needs to be applied
+Pretty much any time a developer "surprises" their fans, its not in a good way
+I don't agree. They can make the cutlass whatever they want, they just need to designate a spot and opening wide enough, or make a clamp somewhere (turret replacement?) Its not like a space TSA will say they can't do it
+Crossbows were the assassin's weapon. Bow&amp;arrow are more for war
+&gt; &gt; &gt; Piracy can't exist in-game until cargo exists. Right now, there's only blowing people up for scripted cash. Not really immersive. Piracy to steal the whole ship can exist though
+The required stats for talents scale up with GS, talent effect not so much
+Don't forget the suicide booths (airlocks)
+I believe it would be preferable to give him a sendoff more like what Paul Walker got in F&amp;F7. Not killing the character off, but a touching sendoff
+At least they'll be able to hurt each other if they're not careful and they would be unable to chain super abilities for 4x the uptime
+&gt; The only benefit being able to purchase ships will provide is for players who haven't backed the game to get access to them. Except we all have backed the game to play it. What buying ships with aUEC would allow is for 'lesser' backers to finally try to earn some ships to keep (until major patch) at their own paces. And then the balancing of how much time it takes for so much of an upgrade can finally *begin*
+&gt;Plinkett You mean the prequel review guy?
+I didn't get to make 25% more in those 2 years, so prices of digital goods shouldn't shoot up (especially since its in my county's dollars)
+Even the F-15 can also be fuel starved if inverted long enough
+You know there are many, many modifications and total conversions of games that approach standalone status based on star wars, right? Shutting down a fan project won't be defensible unless they make an effort to shut down all of them.
+Occlusion Culling is when your computer doesn't render stuff behind other stuff Network LOD is updating what's going on really far away less frequently. Closer stuff would update more frequently (IE more detail) and far away stuff less frequently (less detail)
+Few seconds actually, sustained negative G load messes up the fuel pumps in many modern jets Blue angles have modified fuel systems in order to do their inverted stunts
+well making money fighting became a lot more difficult, and therefore takes a lot longer
+they really should have just slashed the cost to roll the dice. We have seen in numerous other games that RNG stats on gear can work if they're being thrown at the player all the time. Like, kill any NPC that has an expiremental component, and get a chance to take it and have an engineer turn it into a mod for your closest equipment
+And then you woke up?
+We can all decide for ourselves when it is. I am thinking that when the &lt;&lt;USE&gt;&gt; is fully removed, that will be the tipping point from CE to their own thing.
+planes of the same BR and same type (ie "fighter" or "attacker" or "bomber") share their timer. So you die in one of the spits, they both go on respawn timer, while the wyvern is an attacker on its own timer
+Top respect points for being a sport
+Since they're unwilling to commit to saying the cutlass will be able to use it, I'll hold off buying one. Its going to be very cheap to buy ingame especially if it needs a pricey freelancer or bigger to use.
+&gt; no reason You mean good reason, as a Bills fan I like the brady suspsension because game 4 is @NE
+DCS mirage 2000c Fallout 4 Stellaris Diablo 3 Might learn falcon4 BMS; House of the dying sun and Naval Action are on my wishlist for the steam sale Even with35h/week of work I have some time for these games
+So Hot
+Sheev Palpatine did nothing wrong, the dark side was needed to prepare the galaxy for the eventual vong invasion. Alderaan shot first
+It should fit, but without a clear promise I can't trust CIG. Because I was hyped about things they said they were planning to do but eventually dropped a few too many times, things like capture the idris for AC and dark souls like MP in SQ42. Its saner for me to save that $35 (more like $45-50 in my moose monies) for stuff like the steam sale than to but a 'fly and hope it fits in my cutlass CCU
+Best flipper I've seen in any robot fighting show has to be 2015's battlebots' "BRONCO II" Strong enough that it would do a skateboard ollie if it missed its flip it could probably send sir killalot airborne
+there are some mods to fix that, fortunately
+Extremely painful, perhaps?
+To be fair SC chose saitek because only saitek was willing to try their trackballs idea, thrustmaster would not have cared to change their design for SC's quirks
+So, like, the empire becomes the FIRST ORDER which uses the same stuff with white trim!! But they have a super death star that blows up 5 planets at once!!!11
+"Why do you shave your cat?" Because racecar
+I am so not surprised that automakers come up with the cheapest way to simply win a test, not achieve the "spirit" of the test. Emissions, safety, fuel economy, its very hard to trust ratings, especially in competitive segments
+[deleted comment was referring to Detroit as a war zone] They are allowed to settle anywhere else in the US though
+RemindMe! 9 months "Is there a connie taurus flyable?"
+the prospect of scotland and northern ireland leaving the UK to stay in the EU is why Britain will *not exit* in spite of the referendum.
+With "Manufacturing Extended" you could break down items, outputting components, then use a sorter to send the needed items to the forge while the rest go to a workshop container
+Which could be anything from 2.5 to 2017.
+They have a fair number of ships flying, while components are more in flux, so the possible excuses I see for delaying buying will remind me of the kind of greedy excuses an EA would give for their bullshit
+Fool me once, shame on you Fool me twice, shame on all of you that trust him still
+I see your idea, but after nearly 4 years of ship sales its a bit ridiculous. Even when aUEC can buy ships, a pledge reward would be immune to the likely every major patch resets, would bestow earlier access to the ship (hangar ready, the aUEC version could be held a patch after being flight ready too in case a ship is broken), and be eligible for special skins like the dragonfly So I think there would still be fair incentive to buy if you want to support the game.
+[if only indeed](http://www.nexusmods.com/fallout4/mods/14575/?)
+I look forward to this, optimistic shows are what I prefer over modern edgy shows
+They put out battlefront, and the mirror edge reboot in the last year. And they repeat their same mistakes every single time, it won't be different with this one.
+At the cost of almost all your perks and grenades Plus old features like the not very impressive 1.4x headshot damage were moved to an attachment
+Actually that seems a bit low for american lives Life Value in the US[edit] The following estimates have been applied to the value of life. The estimates are either for one year of additional life or for the statistical value of a single life. &gt;$9.1 million (Environmental Protection Agency, 2010)[6] &gt;$7.9 million (Food and Drug Administration, 2010)[6] &gt;$9.4 million (Transportation Department, 2015)[7] &gt;$9.1 million (Prof. W. Kip Viscusi, Vanderbilt University, 2013)[8] &gt;The income elasticity of the value of statistical life has been estimated at 0.5 to 0.6.[2] Developing markets have smaller statistical value of life.[2] The statistical value of life also decreases with age.[2] &gt;Life value in Russia &gt;According to different estimates life value in Russia varies from $40,000 up to $2 million. On the results of opinion poll life value (as the cost of financial compensation for the death) in the beginning of 2015 was about $71,500 So those gays are worth more than an average russian, but less than an average american
+The biggest problem with it is how uneven and incomplete the customization feels And the always online no-pause possible
+Probably people that sell keys on G2A and/or are sponsored by them for their shitty youtube channel
+GDP goes up = good for country, and investors Median wages stagnate/decline, not good for many canadians
+thing about JT&amp;ZE is they create an impression they're nice guys, they'll laugh about their past with you. JB still seems like a spoiled cunt getting an (undeserved) second light.
+get to spawnkill players and feel like real big ballers
+Its a bit too subtle for here I reckon, I know I never read those things Fellow Kids would draw attention to itself
+I think I'm lucky to have grown up with cell phones only becoming popular as I was in high school Literal children with smartphones and tablets worries me
+Luke was bringing back the jedi Republic was to be reborn Han&amp;Leia were now happily together
+Then fans of the game that are deeply offended/triggered by this wouldn't be aware until campo shares. A public apology makes sense as the way to stop people harassing them.
+Literally just turn off auto repair and play other stuff while it repairs You enjoy the income with reduced cost And the 10 free repairs can last 20 games in several japanese planes
+If they would just call it the first warp 6 ship it'd all be fine
+You both win and wind up with a stable marriage that lasts, giving your kids a pretty good upbringing
+&gt;Conversion, missionary work, etc are all forbidden by Sikhism I'm very impressed by this
+Only a direct hit to the exact detonator could do that, even modern explosive compounds tend to not explode if shot, they require a precise electric charge to react. Plus, this is a game with super strong clear windows and transport ships with what should be a huge structural flaw being written off as fine. if missiles could be detonated then a connie with its dozens of missiles in its racks would be even more vulnerable
+They'll do patches of course, performance and a planetside location. I'm aware of as much of their plan as they released, but the thing I'm doubting now is that they'll patch in the ability to use aUEC to buy ships anytime soon.
+See there we go! UTILITY ITEMS ON OUR MISSILE PYLONS PLS WHEN CHRIS?
+This is now the wurst thing Germany has ever done **#edgy**
+Don't board the train, open your group, wait for 4 people
+I wouldn't be so sure because there are already a bunch of ships working, the items however need working
+&gt; A character might have hundreds of items on them in WoW, but with just the ships in the game and the items you can purchase on the store ranges into the thousands. This must 'only' be referring to inventories
+Naziboos' wunderwaffle rejoices as it is sent to 6.7 which guarantees it never has to face the meteor mk. m3anies 5.7 allied is now once again the bullshitzone
+Germany has historically had a smattering of ridiculous advantages, like having the very first good premium plane that used to get down-tiered to see then rank 5 (now ~BR3) planes and made grinding out its tree utterly trivial compared to every other nation. In a good game they would fix both, but since the 229 was once fixed (sent to 8.0) and then **quickly sent back to clubberiffic 7.0** in response to complaints from its users, the whinewaffle meme is more truthful than *russian bias.*
+Difference is that there have been front-engine Porsches before. They're not 911's In that sense, a mid-engine GM thing would be fine, but calling it a corvette would be silly. the idea that the entry level would be front and the Z06 mid would be even sillier, that's two totally different cars.
+so ARMA-like action menus.
+For real though, Obama has come up to canada to thank us for this
+there is a point where the text gets too big And ~~dodge~~ RAM passes it Just too few letters trying to fill the tailgate
+Is that some downward visibility? Brilliant!
+Its danger-ass
+Canadian McDonald's is the best McDonald's though
+Toughens them up I say
+This coming from the types throwing tantrums because bernie was 'screwed over' is rich.
+They don't want to take care of tens of millions of refugees that would come if they didn't support
+NK has simple artillery guns in range of Seoul. Cheap technology that works and can kill many south koreans without preparation The surprise first strike would have to be hundreds of bombings in a fairly small area, all within minutes to eliminate those guns (many could be hidden in underground bunkers, so the intel required to coordinate the strike would be massive as well) AND they'd need a very effective missile interception system that won't be confused by hundreds of stealthy bombing sorties going over them or the munitions those planes are deploying on north korea. If any one of many low ranking commanders in range loses contact with command and hears bombs exploding, they probably have a standing order for their crew to fire on Seoul. when (if they don't already) have a nuclear-tipped artillery shell, then only a couple would have to hit to inflict millions of casualties.
+Glad EA's done being dicks with that deal. Too bad its because they got a similar/better exclusivity deal with "star wars"
+&gt; So essentially we are being rated unfairly since we have to subsidize other pools That's how insurance has to work with an aging population. The insurers have to stay profitable, and that means taking more money from you to deal the 60 year old on pain meds for his back and a new hip. Nothing short of socialized healthcare can stop that without people suffering without coverage.
+but if the skintight suit sealed itself, wouldn't that seal the wound as well, preventing the fatal blood loss?
+such places shouldn't be promoted on the website. Not saying their mods should be banned for running their thing their way. Just not promoted by the website.
+The GOP is the champion of local rights (to be a bigot against gays/non christians)
+Overnight from japan
+I like to watch a game if its something very complicated or they provide good insight into how the game works and/or make a good story around it or allows for some creativity. I watch those for inspiration. But that's not the typical popular games being streamed with picture-in-picture of their ugly faces.
+The pentagon won't be subjected to these purges
+https://www.youtube.com/watch?v=BtqqLMI-olw
+With 3.0 requiring very good netcode (something CIG and diehard fans perpetually underestimate in terms of time to do), its nowhere near release. And with loadouts not working very well they should fix that in the interim months
+&gt; downsized engine That makes more power. Which means its designed to burn more go juice
+Oh I was focused on FPS TTK as well. To get to a battle we'll have to fly there unless we can respawn and get outfitted in the field, so there will be a similar time penalty even if we can get our fighting gear back totally free&amp;easy.
+Top Gear/Grand Tour can be like the WWE but with cars
+&gt; The only artificial elements are speed caps and should remain such. The ships have artificial rotation limits too. IIRC they're not dependent on speed however.
+Yeah my point is that the rotation caps are low enough that the free body physics calculations and variable thruster power/positioning end up not really being important
+&gt; The number of new jobs being created isn't always an equal amount, and with the future of automation moving to eliminate just about any kind of service job, there really won't be enough jobs to go around. Which is where socialization is needed. Otherwise the investors that own the robots doing the work will rule and the poor have no way out but to be the .1% that make it big as an entertainer for the rich.
+Buying stuff is in already, that's the bulk of the work needed to make it in the PU. It is *trivial* to allow the purchase of ships and ship parts. They've shown work on the simple terminal interface to allow it **months ago** Fixing the broken starter ships will require working with the far more complex physics grids, and how they interact with network code.
+If the "haves" have infinite supplies but only allow the rental of them in exchange for service from have-nots, capitalism (or at least greed) can still exist.
+4.0 will most likely not show up in 2017. Anything past 3.1 I think we'll be lucky to see this year, given the planned scope and comparing to their rate of progress to this point. I suspect 3.0 in the summer, maybe cut down a bit from their initial plans, much like how 2.5/2.6 were pushed out without all planned features.
+&gt;Top aide Until he says it himself, I wouldn't believe it.
+AARON GODGERS
+Blowing The Fuck Out (of NY?)
+I hate the cosnetics added in that break faction aesthetics. Call it petty, but the game was way better to me way back in the early beta days.
+Hardening makes the steel more brittle as well. Increasing chance of failure when subject to repeated blows, as well as increased spalling.
+Come to canada, might be able to claim refugee status by saying your government is trying to kill you
+I've only flown a viper with track IR and it feels like a boat bridge with one chair
+For when the 162 isn't dangerous enough! (would still be cool though. Tricky to BR like the komet though.)
+I for one welcome such games. I haven't had a game with a plot I loved since new vegas. I may enjoy the characters and aesthetics, but the stories haven't been good (to me). I feel like most games don't use being a videogame well enough and their stories are better suited to another medium. I suspect most people don't care for a story in a game either. Look at the most popular games: they're multiplayer or sandbox or both in nature.
+Competition culture is what I think would be the cause. In NA we believe that doing the most work will lead to "winning", especially working beyond what you're required to do.
+There's a youtube playlist of going through the tutorials which may help you. That and chuck_owl's guide could help you. Then again, your setup is probably really helpful too. I've found the warhog hotas makes learning the A10 far easier.
+I don't believe their schedule will be useful in any way for estimating 3.0's release. They always have delays, the bigger the scope the bigger the delay
+Knitting is just tying yarn together until a sweater comes out. A loss of yarn does not make me freeze.
+To employ the gau an A10 has to get close enough that the BMP's and infantry with IR missile launchers attached to the tank units would be firing back. Attrition would be significant
+Considering its been over a year since they showed planetary procedural generation, yet have not released any of it, they're definitely slipping out of any sort of "agile" development.
+That's a damn sloppy stakeholder analysis and would be objectively bad management (in the sense that it is being willfully ignorant). One doesn't get to choose all stakeholders. A good manager will identify **all stakeholders** and evaluate their influence, priorities, and tolerances which should guide how their project is organized.
+And the challenge cannot be underestimated. Other games have procedural generated planets, who else remembers the "infinity:quest for earth" project? They had a jaw dropping tech demo of flying from a station down to a planet. The procedural planets CIG have shown off look very nice, but they're not as ambitious as their network goals. I don't see how action combat and the server meshing single shard will combine nicely. Neither does that really smart network programmer for Dual Universe, which I think validates skepticism of CIG's claims. The "your PC (rendering ability) will be the limit of scale" that I've seen CIG&amp;earnest fans say smells like a bullshit smokescreen to me, because RTS's like supreme commander manage hundreds of units.
+Wow, being such a jerk seems pretty uncalled for. I was talking about the popular response chris gives when people ask *about how netcode will handle their goals for scale.* Chris liked to claim that **[our] PC's** will be the limiting factor for SC's scale(so not their netcode).
+&gt; PC ONLY gamer I'm far from that, I play on my xbox and playstation as well as a computer. &gt; I also don't really get why you're arguing that people don't like story-based games. I'm not. I said I haven't found a story I *loved* in years. I've liked a few and find them good. Just not amazingly impressive. I disagree that narrative focus drives sales. Consider the top five selling games: Super Mario Bros. ( 40+ million), Grand Theft Auto V (65 million), Wii Sports (82.78 million), Minecraft (106.86 million), Tetris (495 million) Only GTAV even has a remotely complex story. And that game is still a sandbox with multiplayer. I would argue that a story focus does not make gaming more accessible. &gt; Don't be a douche Well that's a mean way to disagree.
+This must be why they're pregnant for 9 months: time to customize the new character
+Well cold is like the upside down of warm
+The more they say some bullshit, the more they believe it. The stupid chumps believe in maga because they keep saying it. nothing more, nothing less.
+&gt; There's an interview with him back in the first part of the trilogy Which trilogy? Because after the original trilogy, his company ILM became the gold standard for special effects and pioneered CGI. He made CGI cheaper and more adaptable
+The biggest day was just before citcon's stream, fueled by hype to see sq42 at last. I know I was two clicks from giving them more money before that stream.
+they didn't give all those warnings initially. Yet I still have a pair of garbage neutron guns from that shitstore.
+People like blowjobs GOP betting against them was pretty silly in hindsight
+There is a Minneapolis suburb called "little canada" They're always going to be welcome in Canada
+&gt; He does not understand hypocrisy Too big a word for him
+There should be one tomorrow though.
+I'll disagree. China (and the rest of the world except russia) want a stable US that buys stuff. DJT is unstable, and that's bad for the whole world
+I had the unintended privilege of spectaring a sooper hornet last night, and it had a few visual glitches, missing bottom and panels jittering.
+No you're really not getting up there A freelancer is really big, those boats would actually fit in its cargo bay 24' is less than 1/2 an aurora in length
+I think killing Zod was a good moment to create the character that will develop a no killing rule. I like the idea of developing into the superman, complete with stumbles.
+I acknowledge others may enjoy it. However, I feel like this is the kind of thing that would have been good filler, perhaps for last week. But this week there is a hankering for more gameplay info, info about the hotly anticipated patches and the ever missing sq42 gameplay. This kind of info feels like stuff I don't want to know before playing. Ironically, this is what I'd consider spoiler content
+J. Cole + NO FEATURES
+She'll get on twitter and just post "lock him up!"
+We rely on stable economy of US with lots of cross border trade. Insanity in the US will spill over here
+Too bad you guys won't be able to afford our far longer wall
+Our scanners are looking at sprinting and shooting above anything else, unless they redesign that system to use signatures over actions.
+Two r's there Maybe "mah popetay"
+A loveable wife beater...
+My hope for their AI is its good enough to let a player join on a pirate crew. No need to organize a bunch of players as a crew or deal with players that will scortched earth if pirated.
+&gt; but they have learnt that lesson by now. Just like they learned their lessons about setting deadlines in 20~~14,15,~~ 16?
+There is cause, his call for harassing that union leader lead to actual threats from his rabid fans. Advocating illegal activity is bannable and he should be removed
+Russia's initial actions in Crimea weren't that bad, I thought they were understandable when they happened. Especially because they didn't shoot anybody. However, the extending actions and violence in the east, the possibly coerced referendum in Crimea, and the covering up of the MH-17 shoot down are not okay and warrant the actions the west has taken against russia. Plus, war crimes over syria are bad too.
+Call for deporting millions turns to putting them in camps because nowhere will take them, then those camps kill off the people because they don't want to deal with them.
+Frankly the article linked isn't very good. [this one from nytimes seems to have some better information, but then again, it also doesn't make this expansion sound so bad, by implying the other agencies have to follow the same rules he put on info in 2014](https://www.nytimes.com/2017/01/12/us/politics/nsa-gets-more-latitude-to-share-intercepted-communications.html) &gt;The N.S.A. has been required to apply similar privacy protections to foreigners’ information since early 2014, an unprecedented step that President Obama took after the disclosures of N.S.A. documents by the former intelligence contractor Edward J. Snowden. **The other intelligence agencies will now have to follow those rules, too.** bold emphasis mine.
+&gt; isn't a total fucking mess please. Pretty much all of them. They're not flawless, however they're dramatically better than what the US has.
+I prefer it to baby, honestly. Feels kind of wrong to call a romantic interest an infant
+Look at /r/sweden 's top posts
+NZ is like the southern hemisphere's Canada
+Pew
+Most americans did not do the one thing needed to stop him, because they were fooled by the geopolitics narrative and horrifically false equivalence.
+No that's not fair. That flint primary debate isn't a debate being discussed here
+IM has been an issue for nearly 3 years
+He avoided the VC too though
+CIA should have someone out in mexico to "hack" the IRS and leak his taxes. Would make drone striking his inauguration look merciful
+&gt; Yes, you log out and you come back and your homestead’s razed by the bad guys and you got to come back and track them down for vengeance Ugh. Space rust but if the bombers were bought with real money
+well according to our president elect, the families of terrorists (and therefore war criminals, because they consider themselves in a state of war and flagrantly defy those conventions) are fair game.
+Just like real life for once!
+Standing by the results is not denying the russian actions had influence on *the will of the american people.*
+I think what he'll do is run a narrative that there is a noble, peaceful faction in the US that he's working with to avoid a crisis, making him the hero to russia and his american counterpart a hero to americans. Both him and his counterpart will boast they saved the world (from each other) to retain power.
+buying the lotto ticket gives someone a few days to daydream about winning.
+I hear the pretzels might get their revenge
+I can't divine their intentions very well either. However, I remain on the skeptical side. Because of how they slipped in the Interactive Mouse (IM) mode in spite of a direct quote from ben promising nothing like it. I personally feel tricked by CIG with that feature. I loathe that mode and have passed on backing other projects when they showed their plans have such a mode. (for anyone asking: IM mode is where you aim your gimballs and the ship follows that cursor. )
+With the flight model and controller support still leaving much to be desired, there is opportunity to have a productive dialogue. There has been this oppurtunity for years, however to get CIG to talk about it has been like pulling teeth
+With so much uncertain about how the game will play, I see the risk of falling to that level, depending on how player interaction and death penalties wind up.
+&gt; everything you can do is supposed to be designed to be fun being murdered by far superior ships and losing hours of progress isn't my idea of fun.
+There are numerous other preferable solutions instead: PVP slider, PVE world option, or forgiving death mechanics would be preferable.
+The point is the cool ways to deal with NPC's were removed because of PvP complaint.
+Replaces hull+any stock components lost.
+&gt; Episode I is so boring. Pod racing, Maul, and the space battle are too cool.
+I'm hopeful because it balances the teams in theory. if it winds up like too many online FPS where premade groups can "pubstomp" then I'll stop playing it though.
+This project was founded for fans of spaceship games, so especially among the hardcore fans your line of thinking, especially the taking 10% out of ships for characters should be extremely out of place.
+That is something fairly unique to SC, and developer content about how they bring things together is something I enjoy. But its not the only special thing. My point is that the ship development is another unique thing and worth seeing more about than the characters/clothing, which many games do.
+To promote tolerance, one cannot be tolerant of the intolerant.
+And WC isn't even that good in terms of function [let's Step it up to a TIE interceptor. Good view with some immersive framing, AND has a lot of useful info](http://www.oocities.org/hal1234_2000/tutorial/cphelp03.gif)
+on this normal mode its reminding me more of *mercenaries* than ghost recon. But I loved that game so I don't mind. I'm curious how the top difficulty where you can't be sloppy will play
+Go across the rockies and you're in a colder, more depressed texas.
+&gt; They were pushing hard for 3.0 by the end of the year They did imply such. But much like how the sq42 slice, it's far from implausible that they were not being totally honest with us.
+I wouldn't say people are shocked. More like "disappointed". This isn't the first and won't be the last time CIG fails to meet a goal they gave us by more than 3 months
+And even then, how'd he wind up leaving office?
+I'm going to bet that trump won't try running for a second term. He'll say he won and he's made america great again and then go off to be a troll columnist (twitter is going to die early 2018 when they ratchet up the ads to try to make money for once)
+&gt; How could pirates even operate if they could only board willing PvPers? Pirate the AI traders. A big part of the game is supposed to be that AI can be a boarding pirate, and that there is AI travelling around doing the same kinds of jobs players do (trading, smuggling, etc )
+The single shard idea chris has recently been into is just not feasible with action combat. There needs to be some instancing, and the slider concept is a good way to partition players by their interest
+His election is why I have axed any plans to move to the US for my career
+I half expected [this](http://i3.kym-cdn.com/entries/icons/facebook/000/016/212/manning.png)
+The friday happy hour thing
+Wear a prison jumpsuit, steal something, then run around the corner and jump out of it. Everyone still looking for that guy in a jumpsuit.
+So do west coasters, we'd all fit in well
+Race wins &gt; cylinders
+Yep. Diverse interests
+I never recall it being declared as being in sq42. I recall comments from chris (before it was the winner) about TNGS maybe having a role in sq42, but I don't recall them explicitly saying "the redeemer will be used in sq42" If it were to be designed for 42, I would have imaginged some stricter dimensions (height especially) so it would fit in planned UEE capital ships.
+bad data is even worse than no data. Hell, can we even trust the controller stat? Does it say joystick if you touch the input once per round?
+I imagine ivanka and kushner are doing that with the paid cheers
+I'm saying 100 may be *too large*. When looking at players in SB by playtime, we see there are less than 1000 with over 3h played, which makes 100 player sample *too big*, generally you have to sample less than 10% And interestingly, there are several top100 with less than 3h played. 89th on the SB leaderboard (by rating) has 1.5h played!
+I think with modern times we should elect couples. And a great combo would be lawyer+scientist. So would many other combinations, because good government work requires diverse skillsets, experience, and ideas.
+My dad and I play a game: how long we can hold them up. Usually he'll play dumb ("but I can see through my windows fine") or be pervy, asking what they're wearing, I like to fake it for a bit and then have things go horribly wrong,
+[And Award winning Canadian literature](https://en.m.wikipedia.org/wiki/Bear_(novel))
+Divide the "other side" and promote them fighting each other.
+The common feature is stability. China has a top down (totalitarian) approach while in europe there is a bottom up (socialist) approach. It comes around to if you believe a "benevolent dictator" is possible. China is making an interesting case for that currently.
+I'm not saying they are one and their history is far from clean. However their current activity isn't too bad
+ED has a similar mission feature, however its more annoying in practice because rewards are so low and ships are so expensive that you have to do that mission dozens of times
+Subsumltion is trying to do a lot of the same stuff as bethesda's AI since oblivion. AI which has had work done on it for over a decade now...
+&gt; Kill for the loot? Or help a fellow agent? That aspect has long left the game This is the key. Once the risks for going rogue became negligible through massive's tweaks and players accumulating top end gear, the DZ broke and will remain broken.
+-Actually believes in his Christian faith -support trump These should be mutually exclusive. Jesus would be disappointed in these people.
+Character Art Director Josh Herman joins Community Managers Jared Huckaby and Tyler Witkin as they play Star Citizen with community streamer BristolBoy88.
+After over 4 years, "when the time is right" doesn't really do it for me.
+When CIG started out, they gave us a 2 year estimate for sq42. That would have been 2014. Now they've fallen into a pattern of pretending its coming (current year) up until gamescon and citcon when they have shit all they're willing to show, so they change to (next year)
+Hell even I was close to doubling my pledge in the citcon hype. Had my credit card out, listening to the stream. Put it away when the polaris commercial showed its true face
+The eligable yet non voting and 3rd party voters are also responsible.
+Does pence have a problem with non whites? I thought he was fine with them as long as they meet his other criteria
+Well if one paper tank's turret can fit the gun but the other cannot...
+Also isn't a woman
+Its like when your dad puts a xhristmas gift in a box in a box in another box in a tube.
+Its a bit suspicious that something like fate people hate was purged, yet that shit is allowed to thrive. It's still hate
+Exception to that rule is being a rogue group that camps checkpoints.
+maybe use the existing EMP grenades?
+&gt; except a few details" I bet those details are 80% of the video
+They pushed hard to get 2.6 out, and probably little else
+&gt; They want a terrorist attack. this needs to be the mainstream narrative. That these actions of prejudice are what enables terrorism, that any attack later this year is the direct fault of DT&amp;SB
+I never trust cat people.
+ehh the colouring really guides the eyes into reading it as two columns
+&gt;They and their kids should be required to wear a scarlet "T" on their foreheads for the rest of their lives so we know who to blame when things start getting really bad. in 65 years we can have a inglorious basterds style virtual entertainment unit where holographic Brad Pitt carves a "T" in the foreheads of trumpzies.
+&gt;more trump than Ki Adi Stunted slime.
+&gt;FarCryUK BRexit seems like less of a mistake now. Let the sea swallow them whole
+IANA developer, but the way I read it is like this: Turbulent makes "the face" of the patcher. That work is relatively easy and pretty much done. Frankfurt has to go deeper to make changes to the file structure of SC and write what the patcher should look for changes in said file structure.
+I feel like you should emphasize the fact that when high ground exists, it [always belongs to kenobi from his point of view, with an image](http://suptg.thisisnotatrueending.com/archive/43411095/images/1446412209259.jpg)
+I've been working on plans to go to Spa this year as well and would be interested in such a meetup. r/formula1 Beligan GP Camping?
+Also terrible reverse gearing on british tanks makes them harder to use
+Snow camping is canadian hobby
+Movie theater popcorn prices are grosser
+From the KS: &gt;Real quick, Star Citizen is: &gt; * A rich universe focused on epic space adventure, trading and dogfighting in first person. &gt; * Single Player – Offline or Online(Drop in / Drop out co-op play) (referring to squadron 42) &gt; * Persistent Universe (hosted by US) &gt; * Mod-able multiplayer (hosted by YOU) &gt; * No Subscriptions &gt; * No Pay to Win A persistent online MP universe was always part of the plan. Now I am slightly wrong in that there is a freelancer reference in the KS, but it was minor, with wing commander and privateer being the main references. I'm thinking mainly of the now infamous quote among joystick fans "[on the flight control planned for SC] nothing like freelancer, sadly, I know a lot of people liked that mouse-aiming stuff"
+I'm pretty sure CIG tracks gifting and there are some restrictions on what kinds of accounts can gift.
+Twist is they still say Gavrilo did it
+I just write down last week's lotto numbers and go back to just before the draw before that one to buy a ticket.
+I *hope* they will, but with how the mouse-aimed gimball debacle has gone I don't have much faith they will.
+The disease was the main threat there, without that it would have been contained
+Maybe the captain america super will be able to give out an AOE buff to our allies when it absorbs enemy fire
+But a welcome one!
+&gt; much higher minimum acceptable quality That is pretty subjective. In fact due to hardware contraints on PSVR, lower thab average quality assets are used. Now my VR experience is limited to some floor demos at autoshows, but simple, clean art assets work just fine. &gt; Also there is typically a lot more time needed to experiment with game mechanics (and time is money) You don't need 400 people that a AAA studio uses to work on those VR specific issues. The added cost is marginal at best for a large studio. As little as just one person can work on it, making the cost a ^tiny fraction of modern development.
+&gt;but then again can see an argument for it being a bit of a griefing weapon. The sale of a *stealth bomber* would make not including some space C4 because of griefing potential seem extremely hypocritical from CIG.
+KD: "Instructions unclear, joined GSW"
+Gotta do it ^^^^/like ^^^^/this ^^^^/like ^^^^/this
+They wouldn't do it themselves if they have a "friend" who likes having trump in the white house. But that person needs some skills and ruthlessness. Like someone who used to be a spy. Said person would probably need to be pretty powerful in their own right. Maybe even have the ability to make a soviet nuclear device "go missing". Now where could such a person be...?
+Wasn't Seven involved in the development of the temporal shielding in "Year of Hell"? Those shields could have saved the lives pretty easily
+That'd get in the way of the lessons on how walking coat hangars called fashion models aren't realistic.
+Last friday they talked about focusing on MFD functions, wether that means clumsy mouse only clicking on a little subscreen, or being able to bind a joystick hat/dpad/arrow keys + accept&amp;go back we don't know yet. I hope they evolve their control settings page to be more like DCS's, with Device IDs, 3 position abstractions, and more.
+Clinton would never, ever lift the sanctions though. Any reports of russian interference would strengthen her resolve, and that's not good for their finances. With trump there is a real chance he will manage to lift them.
+You forgot *clothes shopping*
+There is more than just the eventual AI authorities. There is the simple fact that if it takes a very long time to move cargo, then the activity is way too inefficient to justify the inherent added risk.
+a 1080 is $200-350 more than a 1070
+I'd swear Chris's favorite plane is the boston paul defiant, he keeps wanted manned turrets on fighters when that is literally the only ww2 attempt. And it was thrown out for sucking in less time than you spend reading this comment.
+( ͡° ͜ʖ ͡°) - ᕤ
+Cringe was seeing EA's plants vs zombies reveal, they played danger zone while a guy in a zombie or plant suit came out to the silent crowd of kids and tried to hype them up. Aisha towering over puny developers and their akward antics like the walking meme is hilarious
+My facebook friends can't know my DCS secret
+But the mocapped animations won't be appropriate as they're done on 1g earth.
+The King's speech: "Fuck" is replaced with "Fudge" for literally one scene.
+&gt; Star Citizen is a game where Chris Roberts had a fairly clear vision from the beginning and amazingly enough, I think they've been fairly consistent with that vision years later Disagree right there. There has been a lot of feature creep which screams that Chris doesn't have a definite vision he's able to commit to. There have been changes throughout development, from SQ42 pivoting away from co-op experience to cinematic, to the inclusion of a freelancer-like mouse aim mode. Ship design pivoted away from being a variety of multi role designs users would be encouraged to modify, to hyper-specialists players are encouraged to "donate for" years before their gameplay is developed. The networking goals have grown in scope from being play with your friends to be netcode that somehow allow EVE scale battles but with counter-strike response times. All in all, Chris has been a "let's see what we can do with technology" kind of leader. I'm not going to say that's purely bad. But its frustrating when they mainly just give us videos of the cool shit. They've held onto planets for nearly 2 years since first reveal video, they've held off on letting us buy the working ships and swappable weapons for what is now over a year of having the technical capacity via the "persistence" update. The funding model with ship sales and the game seemingly being deliberately being made in a way to minimize its impact on ship sales is what I really don't like about SC. Notice their demo videos never involve the common starter ships. Always the fairly expensive ships. I would be perfectly content with a relatively a mediocre but playable SQ42 released in 2015/16 to whatever they eventually release. Because it would be something to play with while they do their "let's see what we can do" thing.
+If they matter that much to you than SC must be ruined. Because just like every release so far, sq42 episode 1 would have fewer features than SC eventually will
+M1/2 carbine has a lot of the same design ideas as the STG, but was in service a year before. Though it wasn't as powerful as the STG thanks to a weaker round, it was still more effective at range than submachine guns and lighter than infantry rifles, capable of automatic fire with late war conversion kits and the M2 improvement which was used for over a decade later in korea and other places.
+Crimea and ukraine, the destruction of the malaysian jetliner filled with doctors or whatever was all 2014. Liberals tend to evolve positions based on what happens.
+Still waiting for Rogue One on netflix... ...though the blue ray could be a fine addition to my collection
+Baleman's batmobile was a (modified) rejected military contract vehicle, which is also what thd cutlass is. Black out the cutlass, hopefully unmount the turret to save power and reduce mass. Even has space to stow a dragonfly which can be its bat-bike
+I saw the guy drink from the fake grail in the last crusade. I imagine that's exactly what would happen.
+&gt; &gt; &gt; &gt; &gt; Sprinting from point to point is how 90% of the players do it. No one is sitting on a point and defending it. Its a constant zerg from one enemy point to another. That's what happens sometimes in TE, there are always people who just want to run at the enemy and then shoot at something. My most recent round of supremecy on Ayy Lnao we had a fair bit of fighting and people defending against flanking helicopter dropoffs. A squad was holding B against helicopter based raids and dropoffs, my squad set up a tunnel to attack E, and overall less than half the match was being fought over C. It wasn't a battlefield-like cap roulette.
+Trump has been their ticket to power, and without having to include brown people which would upset the racist base, or making sound policies which would cost them money. That is the main motive behind their actions. They wanted to win so they can make their families as rich as possible. Money and Power to take more money
+Most don't for sure, however the game is still young and most are still learning what works. I have some faith the mode can keep working especially when more people learn the value of certain map points
+Client being movement authoritive means your movement feels snappy. Prediction leads to warping and inferior response time, especially if packets are lost. Having physics for the grenades and enviroment on server lets them be consistent accross players
+The "WW1" game where americans are on the cover and the russians and french are DLC.
+I'm disappointed R1 wasn't more of an ensemble (star) war movie. It was too much about Jin.
+I remember the bit about how they were using a "simplify mesh" tool to generate LOD for the cutlass. It looked neat to the casual observer, but was actually a bad way to do things because it lead to a mesh with holes you could see through and general hidiousness. Since then I've read they're doing LODs by hand which should be way better
+The early plan was basicially that switching to a landing zone map would be a cinematic transition that lets you wall about your ship
+France and Canada will welcome refugees
+"Cinematic" to me includes any sort of limiting control. Like in half life you would be locked in a room and not allowed to shoot while characters talk.
+The problem with it is the fact that the store puts full games like forza horizon 3 right next to the mobile cookie cutter/clickers, which makes browsing the store a shitty experience when you are only looking for games of a certain production quality and significant size. If they would create a separate store for PC-xbox games and keep the candy crushes to a separate mobile store then I would be alright with things. As-is with the store I've only ever downloaded halo 5 forge for PC, and only by searching for it by name.
+Reminder that nearly a decade ago the PS3 was unveiled with $599 pricetag. the fact that this "premium" console is launching at $100 *cheaper* is pretty impressive.
+https://en.wikipedia.org/wiki/Shooting_of_Philando_Castile
+The **only** standard SC&amp;SQ42 should be judged by is what CIG claims for them. The majority of honest complaints about time are focused on SQ42 which has been claimed to be coming in 2014, 2015, 2016, now 2017, but at this point probably will be 2018. And CIG is 100% the cause of this frustration. No one but CIG pulls this "its coming at the end of this year" and then when that times comes say "oops next year" every year for 3-4 years.
+I'll bet *they'll say* its coming 2018 late this year, regardless of whether that's the time the finally do what they say.
+Maybe something like making the terms fixed unless the president and the courts agree on a cause for removal
+there are a pair of Ta's above the lot of them, so I'm not that surprised. The griffon engine isn't as good past 6km
+&gt; The one month exclusivity on The Division damn near killed the game on PS4. The myriad of other issues are what hurt The Division during its lifespan.
+&gt;...apple exclusive for phones and computers for the last 5 years So he's an MS hater that was just looking for any excuse to say its not better piece of hardware in every single way.
+&gt;Portraying something isn't the same as endorsing it. It only makes the "clean Wehrmacht" myth stronger. I think you're very right about that. To me, censoring nazi symbols makes people more afraid of them. It gives the symbols a power to attract contrarian minds and when you limit the people using the symbol to just those that believe in its evil ideas, it appears stronger than it should be allowed to. Our media that portrays nazis and portrays them losing should never be afraid to include their symbols, especially when they portray many of their horrors. Like you say, Removing the symbols literally cleans up the wehrmacht image.
+I'm sorry if it looks like I was being specific about Germany's law. I was just thinking about the idea of blocking symbols. It doesn't have to be a law, just the voluntary act. I don't mean to say Germany's law is dumb, hell the more I read the more it seems fairly well intended, albiet with the exception for the classifying of videogames as toys.
+No woman on fox news is followed for their personality. They're liked by their audience because they're pretty blonde boobs saying the things they have been told they agree with.
+Yeah but you have to get to it instead of being able to set as default.
+I've seen plenty of criticism of the games on their subs' front pages when they do something bad like the recent enabling of kill trading. Equating it with r/the_deplorable is pretty dishonest. Now I'm not saying they're totally hands off, I bet they are quick to delete threads saying the series sucks because of its engine or core gameplay though. Because frankly that "cod sucks" bandwagon has gotten pretty big.
+&gt;SWTOR Is he responsible for SWTOR's less than satisfying Revan and exile conclusions?
+Rare Replay needs to fufill its destiny, and be on the switch
+It was said to be hopefully be included months ago before the schedule. Since then I don't recall them saying its planned for 3.0, and it's not on the schedule even as a stretch goal. I suspect when they finally sat down and figured out everything 3.0 needs, they saw mining would be that little bit too much.
+The old Fi-douche-iary duty. The Dodge Brothers sued Henry Ford for giving his workers good wages (to help them afford the cars they were making)
+If they're not going to actively ban the makers of the shit, then ordering it would be the reasonably alternative.
+&gt; Which they bundled the game with for $60 There was the digital option for just TTK, it was priced at about half that just before its release.
+GT sport is their next title. Appears to be focused on racing cars with new models instead of having over 50 skylines, over 1/2 of which are PS2 holdovers. Also has some more realistic racing rule options I think I'll be curious how that game handles compared for Forza 7.
+The woman on fire scream is a bit unsettling
+Especially seeing the lengths the far right will go to discredit a candidate, the democrats shouldn't say who's running for as long as possible
+Key question about this bike: will it use more space in a cargo bay than the dragonfly?
+So effectively less space given one can't really park these things on cargo or put cargo on top!
+Two executables can look to the same files for assets like models, textures, and audio which are the vast majority of file space. It would actually just be like 5mb bigger
+Expense is relative. For a player that also bought a large Hull 75,000UEC could be a single safe trade run. Whereas for the freelancer victim the same 75,000 is several high risk runs.
+&gt; As far as private servers, they have said they will be significantly scaled down from what's available in the MMO Indeed. I wouldn't expect one to be able to host thousands of players at once. However handling 32 or fewer players and the AI for fairly big battles like we should see in sq42 should be very achievable on a relatively humble server.
+The "avenger is a hauler" is a poor excuse for being shit at fighting.
+Can you name one from a remotely mainstream outlet since he was mathematically eliminated last May?
+Thanks to Sony's restrictions for uncertified content (PS4 players cannot get any mods that use new sounds or art) I assume the CC is bethesda's only way to get PS4 users any of the neat mods, and said process will cost them money for every release, so they have to recover the costs. If the PS4 wasn't so restricted, I would be very cynical about this program. But because it is the way it is, it seems kind of fair in that bethesda wants user content support to be their niche on as many platforms as possible. And this club is how they can get stuff to PS4 and without devestating the modding scene with a repeat of the ugly valve sponsored free for all.
+Sony could for sure, but they don't want to for "security" reasons.
+CreepiO O O CreepiO O O Creepi Creepi Creepi Creepi O O O
+The Vietnamese and many others would contest the idea the first cold war was cold. But the definition is americans aren't shooting russians
+Fett yes, because he's cool, faceless character with little screentime But a solo solo? He already was a main character in 4 episodes. He had his arc from smuggler to hero.
+"A star wars war movie" was the R1 pitch, and that was a cool idea which gave it some awesome sequences.
+"A jury of his peers"
+Sound like common engineering type colleagues to me.
+Is she good?
+Kasdans was a mistake.
+Hopefully they won't label threatening witnesses with "doubt" again
+Be the active, empowered wife of a successful and generally well thought of president that the GOP was desperate to destroy, as they embraced their worst supporters. Anyone that headlines against them is their target, the campaign against an alternate nominee or threat would have been similarly vicious. Their playbook is really, really dirty now.
+Force people onto their online node if they want new content
+Except recoil is visible on E3 footage https://www.youtube.com/watch?v=lJEIpwYnDco&amp;feature=youtu.be&amp;t=8m55s
+Generally their impression of the 80's and 90's in the USSR and after breakup. However if they're Ukrainian I suspect their perspective will be a bit different and less relevant, in the way I don't expect someone from new york to be able to give good insight about nashville
+use 3.25% milk and then the ice will just turn it into the perfect 2%
+Obi wan Ben Larry Snoke Kenobi If the name fits...
+Of equal or more importance would ensuring everyone is registered.
+A good person would not kill so quickly, and would not make up such excuses. He is a bad person.
+Dumper's depot was in Port O in the FPS stabilization peek, pre 2.6. so I won't let myself be let down again by thinking its happening now
+The new GT is only 400lbs heavier in street trim than the classic racer, with creature comforts and far better stiffness
+Sell a nox now. Then next year sell a nox-al which is just a faster nox.
+It's 2017 man, not 2030. I'm talking about the 2016-2020 model
+Patently false; subscribing is the easiest method of gaining REC and by design. These abysmal payouts are 100% intended by CIG
+&gt; so no reason why they wouldn't at quantum speeds If you went from .2c to 100m/s like quantum dropouts do, your eyes would leave your head and organs would be cut by ribs Quantum ignores G forces already
+&gt; The other surplus ships we can get are explicitly demilitarized versions. I don't recall Ben making that up for the saber. He seemed to have just ignored that old lore about UEE not selling military tech. Note that the F7C is pretty adaptable, able to carry a fair bit of stuff by default, whereas designs since he became "ship director" have been highly specialized.
+&gt; Drive, I'll be surprised if anyone actually knows what that is That the one where Nathan Fillion is forced into a coast to coast race because baddies kidnapped his daughter or something? I remember it, literally a couple of us saw it
+Hard to hit until hitreg and the scattershot weapons are made working. I wouldn't suggest spending real money on a ship relying on broken game systems
+I too like to live dangerously.
+&gt; does not I think you said "not" by accident
+Which episode is this from? Can't watch the clip in my country
+&gt; This is no competition Open PVP with penalties for death makes it a contest Like if you could buy a tank spawning for you in a survival game.
+I imagine they just spawn the store all on the ship like a weapon appears on the ship. The cargo will be faked inside, maybe the virtual list is used to give a mass value
+Forcing a board upgrade means they lose a hundred in price advantage vs. switching to AMD though.
+And yet there are people that still hate on George. The man was visionairy.
+Forgot "genetically"
+I believe its safe to assume his MIL is married to a father in law, and for 25+ years. The "them" in his statement I quoted implies she isn't alone. And similarly whe she says she would lose money, I assume she refers to her household.
+I'm not an accountant, not even american However the US does encourage income splitting. https://en.wikipedia.org/wiki/Income_splitting has some stuff about it
+You can see plane contrails way more easily than actual planes, in real life and in games like DCS or war thunder
+SCM is infinite fuel though. CIG says intakes generate enough fuel to sustain unboosted thrust 24/7 So a hornet player could fly all the way around a planet backwards and upside down.
+&gt; If you can jump in any super car Maybe the fact that supercars are more common than candy is the problem. Outrunning the cops with a faster car should be fine, they set up roadblocks ahead of you anyway.
+Mark Cuban is richer than donny, so he hates Mark. He has no respect, he fears Putin, which makes sense if he owes vlad something
+Liberals need to gentrify the countryside.
+Numerous legal things if one partner is very ill, their spouse can do things on their behalf when married vs. Being roomates that kiss n stuff. Though most places have common law stuff, it doesn't always bring all of the exact same rights as marriage.
+He used charity foundation money for a tebow helmet and is notorious for not paying debts. Theres reasons why US banks won't lend to him
+I will point out that crate income rate can be made to be pretty bad at any time, so if its generous early on I would not use that as a suggestion "all will be fine". Alpha/beta/gamma test reports will likely be more generous than release version.
+I think "Chemotherapy" might be appropriate, with the way the cancerous parts of conservatism have hitched onto him, if he goes down he could take that with him. He's ruining the national body like chemo ruins you body, the question is if the body can endure. And like chemo, the best chance to endure is to try to be active (ie participate in political activity) and drink tons of water.
+This guy pays to fuck

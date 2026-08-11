@@ -1,0 +1,200 @@
+&gt; Eve Online was a very different experience, and could have evolved into much more than "Spreadsheets in space" had CCP made tough choices back when their universe was young. To be honest, this is very much overrated. Unless you're doing manufacturing/industry stuff, you really don't need to touch a spread sheet. As far as min/maxing loadouts goes EFT/Pyfa and other tools takes care of this in a more user friendly manner. Also, we already have spreadsheets for Star Citizen :P
+Just noticed your flair... How did you become a Alpha tester for Ara?
+I don't think they'll have a Ara Nexus next year, but I can definitely see something limited like Google Glasses and the associated Explorer program.
+Still better than schools in the US denying evolution....
+So much bezel.
+Interesting they went with the Snapdragon on the Selfie and went with the Atoms on the tablets. If the 10" tablet is any good especially considering it has the new 14nm Atom, I might get it as a replacement for my aging 1st gen Nexus 7. Currently using the Surface Pro 2 as my primary tablet. Also, FINALLY USB Type C in a mass market device!
+This is a ridiculous statement. You really expect your average kid to build an app that can do the same things say Snapchat/Twitter/Facebook/whatever popular games are??? DO YOU write your own apps or programs? If so, what apps/programs?
+Hah lol! That makes a lot more sense.
+&gt; ZenSelfie: I got my Zenfone2 and i dont take selfies. The Phone is great and a flagship shaker for 200-300, depending where you live. If you like Selfies, good, if not, dont bother. Even if you don't like selfies, having a good front camera is nice. I use my phone to video chat with friends/family all over the world, so having decently good camera helps.
+Aoba, Myoko, Mogami are all solid ship when played right. Love my OP Mogami right now :P
+If that PCs still on 7 and is bootable, you can recover the key using something like Magical Jelly Bean.
+The AMD 3xx should be out in a few weeks. So obviously, wait.
+&gt; They should include the new stacked memory (which AMD is implementing in some of the 300s) and a die shrink. Late 2015/early 2016 will be where it's at. It would depend on if nVidia can get the volumes they need. Right now, AMD has bit of an upper hand as far as partnerships goes since they've been working with Hynix for a few years and AMD expect a full year or so of competitive advantage with HBM.
+You... Stop tempting me to buy a 3D printer XD
+100% agree. It *screams* "SC fan" but does so quite subtly.
+Play it as more of a support ship and help out your teams BBs with added firepower, killing DDs and providing AA cover. Also, modules make a pretty noticeable difference.
+The website still needs a lot of work though.
+WinZip and 7zip can use at least AES 128. Both have supported this since ~2004. Not sure which one WinZip use by default though.
+How much are you willing to spend? And how often do you print?
+It's a joke... And also pointing out that their ultrabooks have more than 1 USB port.
+&gt; This makes putting it in the devices make even more sense. It's additional cost in most cases. However, boost converters are used in say things like fitness trackers (ie. FitBit) already to improve endurance as the MCU + sensors don't need a lot of power. &gt;If it's not going to work in every scenario, why pretend it will with this thing. Apart from the article, most people in this thread has pointed out why it's not very cost efficient and has limited application.
+&gt;"I hope WG does away with 3-4 cap circle matches as, IMO, they're too difficult to get a pub team to cooperate with" I disagree. 3 caps with some map changes can work well especially as people start to learn the basics of the maps. Yes, they'll be terrible people, but that's just the nature of multiplayer games.
+Dude... you're the Ancient One :P
+Man, the Aurora is tiny :P
+No no, honey pot in in the sense that it keeps those people off here for the most part.
+2 weeks ^tm
+Probably don't have the manufacturing volume to satisfy all three models with Exynos SoCs.
+Damn lego, you're fast. &gt;The problem could be even worse for Hurston, if rumors of them developing a new line of antimatter-based weapons are true. Not the first time we've hard about this... wonder if we'll be able to get/steal them down the road.
+It'll become the standard in the next 2 years or so. ASUS already has a phone that'll have a Type C connector.
+Thunderbolt is an Intel standard that only Apple has adopted so far. Hopefully, this will become a more mainstream standard for when you need higher bandwidth than USB 3.1.
+You do realize VirtualBox and a few others on the list are Oracle projects? I have no issues with Oracle taking down *their own projects* from SF esp. if they are infected.
+If people want memes, fine, but they should be tagged just like the leaked stuff so I can use [Reddit Enhancement Suite](http://redditenhancementsuite.com/) to filter that shit out.
+I've used both Anker and Aukey chargers/batteries and they all work well. As long as the Anker one says QC 2.0 you'll be fine. And obviously, you need a QC 2.0 compatible phone/tablet as well.
+Are you talking about car chargers or regular chargers?
+Well... this was an unexpected post.
+&gt; Anything I can set in the BIOS to prevent this? Or some keywords I can get for Google as I can't seem to find a solution. Not really. This is done on almost all boards now. This is done so that the motherboard can figure out the max rpm of the fan so that the PWM values can be adjusted properly.
+&gt; Probably had a hidden account or something Don't even need a hidden account, a test/dev account with the right permissions can easily be overlooked especially if said dev/test account is a department shared (yes... I know) account.
+The charge current is completely dependent on how much capacity you have left and battery size. It has little to do with the charger as long as the charger can provide 1C or slightly more.
+Minefields would be interesting... But I'm afraid half of my random team will die to them for a variety of reasons.
+Really? Are you going by that unsourced post that random blog made and everyone else reblogged?
+&gt; I know quite a few companies still run XP That's just a recipe for disaster...
+Dude, just look at the performance. It does worse than a $200-250ish phone.
+Hopefully, Google isn't crazy... but with Google, you may never know.
+Psh. Amateur. . :P Just set up IFTTT or some other page monitor tool to alert on new posts on the RSI RSS.
+Lol. Fail on my part. Fixed now.
+&gt; mine has developed ever expanding cracks in the window. The cracks are more than likely because you over tightened the fittings.
+S6. Some random blog said their Samsung source said "S6 sales less than expected" and most blogs re ran it.
+Yup!
+How did you crack the band? I wear it 24/7 and do swimming, running, jogging, sleep, etc all with the band on since December, and no issues.
+Just look at /r/runescape and /r/2007scape. There's still a sizable chunk of people playing this surprisingly.
+Xiaomi has a pretty sizable presence in the Asian/Southeast Asian markets. Also remember there's a TON of other Chinese brands and OEMs they are competing against.
+It's fully waterproof.
+&gt;No amount of "polishing" is going to fix the complaining. Amen to that. Even with the PU being released and years afterwards people are going to continue posting [CONCERN] threads.
+99 little bugs in the code, 99 little bugs in the code, fix one bug, compile it again, 101 little bugs in the code. 101 little bugs in the code..... (Repeat until no more bugs)
+It maybe the point of view, but the 2nd image makes it look huge.
+Ben works closely with designers on ships as he's the guy that originally came up with the ship descriptions and such. Not sure how involved the rest of the community team is with this other than maybe dealing with the marketing/website related things.
+Heck, lots of things in the game are names by Ben too. For example, the Graycat was named after his childhood cat. Ben was one of the first people to join the team and has a pretty big impact.
+Nice. You're the kind of ignorant person companies love to pray on.
+The ship interior was all out of whack as in not enough cargo space, too small holding cells in the Blue, too short ceilings, etc.
+Sooo something like [this](http://en.wikipedia.org/wiki/Russian_monitor_Novgorod)? :P
+They are working on it judging by the revamped model present in the leak.
+Look up the "The Batteriser" that made the rounds a few days ago. The 8x life gain is complete bullshit. [Watch this](https://www.youtube.com/watch?v=4iEshd6izgk) if you'd like to see the problems with it broken down point by point.
+Hamill has worked with Chris on Wing Commander III so it's possible he's going it cheap.
+Display accuracy is part of judging display quality.
+I'm really happy that Foundry 42 Germany is growing and pretty much dedicated to developing CryEngine. Also, judging by all the optimizations they've mentioned, I suspect quite a lot of us will get better performance in AC and FPS in the coming months.
+No logic analyzer or o-scope at hand?
+So THAT'S what you all bought at Toys R Us
+Well, fire suppression in this case may be venting to space so yeah.
+Hah definitely not cheap ($350ish I think) but cheaper than 5 years ago!
+My primary rig is still a i7 920 OCed to 4+ Ghz. Still a beast and works very well. Gonna upgrade this next year.
+Actually, not true. The Aurora Anniversary Package was $20, so you can consider that to be a "sale" over the regular price.
+James...?
+&gt;Are you suggesting that potential new backers wait to see if they can get one of those again this anniversary? assuming CIG even does it? Absolutely, especially if they are short on cash, willing to wait, and/or unsure about backing yet at higher prices.
+Now that you mentioned it, that makes a lot of sense and rather clever way to do that.
+The prices went up at each stage just like CIG said (Concept -&gt; Hangar -&gt; Flyable). For the flyable ships this no longer matters and the prices will more or less be static unless they change pricing due to VAT/exchange rates in certain regions. Unless you're getting a unflyable ship right now, the pricing is already set and can only go lower during say a sale. They aren't going to increase it unless they bundle Alpha access on to the package.
+&gt; Feel free to link your time-travel sources Look at the price of the Gladius. Has it increased after it became flyable despite having 2-3 sales after it getting in AC?
+Man, you're probably going to hate the head bobbing and such that'll happen when sprinting/under gforce.
+Woah, really? edit: Just looked online, looks like you're right. $350 seems to be fore the dev kit. You can get the module for cheap as $200 if salvaged from a FLIR One. Not bad at all.
+Imo, Google is likely to stick to the "flat" design going forward, at least for the next 3ish years or so I think. Google seems to be in the process of changing the web versions of their services to follow Polymer (ie.https://contacts.google.com/u/0/preview/all) which more or less directly borrows from Material Design. Google didn't do this for HOLO and previous designs so to me it seems like Google as a company is heading towards the MD/Polymer design language. It does make sense when you consider that by doing this, Google will be able to standardize design across PC and mobile for their services/applications and MD/Polymer seems to be flexible enough to look nice for both platforms.
+Sooo... you want mind reading?
+Heh yeah. I'm guessing quite a bunch of people on this sub play KSP and FTL.
+Yep. Really glad to see a studio pretty much dedicated to engine development because how well the engine will perform will determine if we'll be able to have many dozens of ships in a battle.
+Lmao. I avoid chat for the most part because it's the same shit questions over and over again. Besides I have better things to do with my time.
+Cool, now how about Windows 8 and 10? :-P:-P:-P
+Right, but Intel owns x86 so no ARM licencing costs here, as for R&amp;D costs, this will be a big factor. But R&amp;D for the most part, is a sunk cost considering they have spent this on the desktop/server side esp. to get performance/Watt up for the last decade or so.
+There's some significant cross sharing between these two. Yes, they are different, but the expertise and R&amp;D spent on the desktop/server space apply to Mobile SoCs as well.
+&gt; But for the general public, I suspect it has more to do with the camera quality (besides the lack of marketing). Eh, the general news media did cover the overheating thing so I'd expect this along with camera influenced decisions. Not to mention the overwhelmingly positive press the S6 got as well as the Samsung marketing machine being very, very, very good at what they do.
+Nice. Good luck! Hope you break 4Ghz on the Xeon.
+&gt; There are some much more in depth questions and answers in the various chat rooms than YT,RTV, Reddit gives at this point. Care to post an example?
+Yeah but if you were having a shitty marriage they would found out and you probably wouldn't have made the cut anyway.
+The S3 was a legend. Still know a few people using one with custom ROMs (they have the SD/US version). I do wonder if the combined S6 and S6 Edge sales will be able to outsell the S3.
+&gt; My grammar does suck so that's valid teach me the ways of the language claim to know? lol.
+This is completely normal in development. You build a prototype to see if it gives you the performance you want, if not, you go and see if you can do some optimizations. If that still doesn't work, you go with Option B. Also, it's important they get things like this right the first time around, because changing certain parts down the road is going to involve a LOT more work and complexity as you'll be dealing with multiple sub systems that are dependent and will break if you change some part significantly.
+&gt; As far as I know the only way to get rid of the downvote button is to use an overlay. Won't make a difference. You can just use RES to turn it off. And won't work on mobile apps either as they don't do custom overlays.
+Are there even 3D ultrawides? I'm looking at the 34" ultrawides btw. I currently have 3x 22" LCDs in an eyefinity setup but I absolutely hate the bezels so I'd rather have 1x ultrawide + 1x 22" setup with the ultrawide being the primary LCD for gaming.
+&gt; Ultra wide would piss me off though as your average video doesn't really use that ratio. I get pissed from 4:3 or 16:10 format even, lol. Heh, that's why I still have the 2nd LCD and a TV ;) The ultrawide is mainly for gaming and productivity.
+Have you tried this with colored printouts?
+Yup. Exactly.
+You can't do any of that if you don't learn to fly well first. At least try Vanduul Swarm.
+They use your search patterns and such you know...
+Your boss seems pretty decent, so you should write a short report for him withe links/content from Oracle and other security companies about the issue. Then hand it to your boss so he can hopefully bring it up at a meeting.
+&gt; If they made thrusters much weaker for the smaller ships, once the larger ships are released, their turn speed would be abysmal. And by the time you're flying the capital ships, the experience would be horrible. You are correct, however, I think this is EXACTLY what some people want for the larger esp. capital ships. They want the ships to feel like a WW2 ship battle where ships slug it out like at Midway, Jutland, Leyte, etc. Personally, I don't want this, but I also don't want large capital ships to be able to maneuver like a 300i/Hornet.
+I don't think they'll reach S6/G4 levels, but even if they get close enough, it's already too late for the M9 as old reviews are unlikely to be updated to reflect the changes, so your average person won't know about it and won't get the M9.
+Yup. I totally get that, but some people actually seems to be fine with this.
+How can you be so sure? It could be Android Wear based.
+Ah, gotcha. Still though, I'm hoping it's not and they go with Android Wear with their own Samsung flavor on top.
+For large scale applications, it's definitely expensive, but you can get small scale stuff printed pretty cheaply in steel/brass.
+I don't get why they don't use the light sensor to check if it's in a pocket or not. Light sensor says dark + accelerometer gives readings -&gt; most likely in a pocket/backpack/handbag.
+Well, Microsoft seems to be going in a new and better direction, so... Microsoft buys off HTC and they become the next Nokia?
+UltraPixel as a concept was a good idea, but HTCs image processing was pretty bad just like with the M9.
+This. For example, last time I checked, they said the 1st gen Moto G had a SD card slot...
+Ok, that's nice, but how about pointing out some important specs like leakage current/power for gates? Just saying "make a completely functional circuit with performance comparable to existing chips" doesn't tell much at all. Unfortunately don't have access to the actual paper so if anyone can go through and look for this kind of info in it I'd appreciate that.
+Yup. Btw, have you played EVE and/or been a leader in a org?
+&gt; the grand finale will explain why people were talking about our spam filter and the invasion of Iraq in the same sentence. All right, you've piqued my curiosity level. ETA on the story?
+&gt; Since my girlfriend is on the team too, we could even say I'm in love with it. :) Sooo when are you and Amelia getting married? And TFTS is invited to the wedding right??? :D
+&gt; We both neither want marriage Does this not impact your taxes? In the USA this has a noticeable impact depending on your income bracket. &gt; But we're very happy together right now. :D
+Ironic how he said those things yet gave a "personal recommendation" for Pao becoming the new interim (likely permanent) CEO.
+Ah, gotcha. That sounds like a pretty good deal.
+So... she's khajiiti?
+This sub along with others like /r/conspiracy will be in the chopping block in the coming months/years. Only a matter of time.
+Moneyyyyyy! Pao wants the site to become more mainstream so the ad money will start to roll in.
+The funny thing is, SRS is notorious for not using np links which encourages brigading, while FPH and other subs monitor/delete posts that link to other subs.
+It's the reddit hug of death due to people checking it out.
+Lol. And some people here were saying Xposed and other apps will never be on x86.
+Which modules are you using? Also, have you been able to uninstall all the bloat? If you have managed to get rid of the bloat, what's your SOT and overall battery life? I really like the design and price vs performance of the Zenfone 2, but the bloat and SOT/battery life has been putting me off. ASUS forums and other places are reporting lots of wakelock issues.
+Mmm ok.
+But the point he was making was 50 battles really isn't that many games at all...
+&gt; The hope is that it will change as we get closer to release. I don't think it will unfortunately. I think at most around 10% female. edit: Just saw your poll results, looks like majority of the replies are from this sub, so it would have sample bias as reddit itself is mainly a male population. Still though, I don't expect more than 10% actual female population.
+What size?
+Type 59s were pretty OP in WoT man!
+I meant physical size lol. 34"?
+I can just imagine the mental gymnastics OP is going through to try and counter these points.
+It's speculated that the family has some incest issues...
+Health at every size.
+It will completely depend on developer support. From what I've seen more developers have been working with the Rift.
+If a male CEO did the same thing, he'd be a asshole/dick/bastard/whatever too. I never said otherwise.
+[ZOOM....ENHANCE](http://i.imgur.com/AHL0nq7.png)... ^^Possible ^^SQ42 ^^spoiler Assuming that's a ship and not a station, my guess is Bengal.
+Let's see if we can summon Ben... /u/banditloaf he was around a few minutes ago: http://www.reddit.com/r/starcitizen/comments/39g0dq/was_just_thinking_they_should_release_the_fps/cs388io?context=3
+Soon^TM +2 weeks.
+I thought reddit has said they don't do IP bans before...
+Pretty much most of the phones take pretty good outdoor photos.
+Throwing more money at a project does not make it go faster despite having extra money. What CIG needs is a [Time Turner](http://harrypotter.wikia.com/wiki/Time-Turner).
+Biowarfare... as your entire division farting at the same time so they evacuate the ship? :P
+Bingo. Ran it multiple times with different priorities and carriers, and these were pretty much the choices all the time.
+Well done. Glad to see CIG hiring people from the community. They have hired Disco, Elwin, you and who else so far?
+&gt; how it's going to interact with other ships and how that role has changed as the game has developed. You are not going to get the answer to that until the Professions (miner, salvager, bounty hunter, etc) and their mechanics are ironed out. Some of these design posts should be up in the coming weeks as per the monthly report and Ben on INN. Also, the "role ship X has" is already covered by the flavor text, brochures, lore, etc. What more do you want? Do you really want her to just repeat that same stuff and add a few tidbits? For example, for the Hornet we know it's the defacto carrier based ship for the UEE and has been in the front lines against the Vanduul. It's role is a fighter. edit: &gt;I've seen enough about HUDs, style guides, and lore. I very, very, very strongly disagree with this. I haven't seen enough technical details on HUD design/tech other than what Zain has said, I want to see his current progress. Further more, the style guides really give you a good idea of the universe especially the look and feel CIG is going for. There's a lot of other technical things (ie. data compression for multicrew ships) I'd like to see before the whole ship role/profession thing. &gt;I was hoping there would be some Q&amp;A so we had a ship-specific version of the Forum Feedback from WMH. You and I both know this is just going to bring up the same old questions over and over again and it's going to end up being like 10FTC questions.
+Yessssssss! Still my biggest complain as far as performance goes.
+Dude, the entire CIG Germany team was setup so that they can fix engine issues like the net code. And they have some of the best ex Crytek guys there, including some that were responsible for building the engine in the first place.
+Good luck with that. The main reason they managed to get them was because Crytek wasn't doing well financially.
+So pretty much like 90% of middle management?
+I don't think you realize how involved CR is. In the INN interview Ben mentioned off hand that he got a flood of Emails from Chris on various stuff he had seen on the forums and their internal shotgun posts.
+Agreed, and honestly the closer we get to release the worse it's going to get because a feature they want probably won't make it to V1 so they are going to start screaming like crazy.
+My guess is management vs engineers/QA. Doesn't matter if QA/engineering warns them but management chooses to ignore it because ultimately it's management that makes these decisions.
+Save the money and upgrade your GPU. You'll get better bang for your buck especially if you're running at 1440p.
+This. It's easier to sell to existing customers than to sell to new customers. Marketing 101 really.
+He's worked on the FPS UI and Planetside/MobiGlas stuff in the meantime. We won't see his work until these modules are released.
+Do yourself a favor and learn to fly on one of the toy micro quads first. Something like the Syma X11.
+Moose is not real. He is skynet. :-P
+Not quite, it's the CPU is x86 but the rest of the things like modems and interconnects are not standardized like they are on the PC.
+Keep in mind it says Max Crew not max passengers. Think about a small turbo prop or helicopter. You have a crew of 2 and the rest are passengers. You don't count the passengers as crew.
+Yeah sure for phones, but these Mi Bands and other Xiomi accessories like ear buds are very rarely sold out.
+And the 1GB RAM. I have the Moto G and the 1GB RAM is really starting to show its limits especially with Lollipop.
+It's been there since like Windows XP. At least in the US.
+No, the 2GB Zenphone 2 is $200.
+Yup. If you're looking for more of a stock experience Idol 3 is the way to go. Or you could hold out a month or so to see if someone makes a AOSP like ROM for the Zenphone 2.
+Remember Motorola is now owned by Lenovo.
+Zenphone 2 for $200 but I'd wait a 1-3 months to see if devs get some ROMs especially a AOSP one out. If you want a more AOSP/Nexus like experience and want a phone now, then get the Idol 3 at $250.
+So you built an expensive PC/bought one without seeing if your favorite games are available? Nice going.
+Heh to be fair they didn't really have many choices. None of the existing engines are designed for SC. They still saved a lot of work and time by using an existing engine than doing it from scratch.
+There's going to be sooooooo much raging and negativity that I wouldn't be surprised if CR comes out and make Forum post on it. A lot are pissed there's no FPS out yet, people don't like the price, and some people never liked the idea of this ship and think it's a waste of development time.
+Heh you certainly can, but imo that would be kinda setting your self up for disappointment.
+IPhone 4 had an attenuation issue that caused call drops and such. The issue surfaces itself depending on how you hold the phone.
+Agreed. This is something Twitch needs to deal with since it's their platform.
+Agreed on all points. This needs to be done and sooner the better so there's more time to fix bugs down the road towards PU alpha.
+That's exactly what they are trying to fix! Because right now from the demo it did not look like that.
+That's not too bad for something like this considering just 5 years ago you'd have paid almost double that.
+Pneumatics would hiss. Hydraulic will not since they hydraulics are generally a close loop.
+The 4690 should be more than enough for gaming for quite a while. I'm still using an OCed i7 920 for gaming and it's still running strong. If you think you'll OC get the unlocked version for a little more. Also consider that the price for used CPUs drop like crazy. For example, you can get used LGA 1366 CPUs under $50 now.
+Obviously. But they had to have the sale. Ben already said the sale was delayed by more than two weeks and they couldn't delay it longer since the company needs the revenue for credit reasons.
+They just set up an office in Germany and moving the Santa Monica office. It's NOT about the money in the bank. It's about the ability to get a good credit rating for the company. Also, 2M/mo isn't enough for a business the size of CIG especially since they are doing something very non traditional.
+Nope. Count the squares. Those will not be impacts by the shadows and stuff.
+Well at least you/company got some easy money out of it.
+Get a dash cam now if you don't already have one.
+You'll be fine. You're probably drawing less than 100W at full tilt.
+Isn't McLaren making a good portion of their money from their McLaren Applied Technologies subsidiary? This seems pretty similar to it.
+You're correct, but most banks will still take care of it it as a courtesy/obe time thing.
+They also have STREAM = Science, Technology, Engineering, Robotics, Arts, and Math. Not quite sure why they've split up Robotics from Tech/Engineering, but it is a thing now.
+Go to Advanced Auto or whatever. They should have either 1K or 2K. Both should work fine for this kind of thing.
+Alclad is great. Highly recommend it. You will need an airbrush to apply it though. I don't think it comes in aerosol cans. Another thing is if you apply a few coats of Alclad you can then use a rotary tool with a buffing pad to shine it up if you want that shiny look.
+( ͡° ͜ʖ ͡°)
+Dude, transfer to another school next semester.
+Back in the Galaxy Nexus days I managed to get about 20-30min extra SOT with under volting. Pretty big deal when the GNex had such shit battery life.
+You're reading the ramblings of someone without much self control and driven by the hype built by CIG and the community.
+This is STILL standard industry practice. It doesn't matter if it's a small $100k contract or $50M contract. A good project will almost always use a modular approach. This is nothing new.
+Hah, who ever that student is will have a great story to tell his buddies about how he accidentally took down a shitty school network.
+Great photos. I assume you did some post processing on these? If so, good job on that.
+Thanks. I was just about to ask that same question. That strap does look quite good on the Bambino.
+Yeah, you don't want to go to Christie's for this. They deal with more expensive things. Check with your insurance company. Also do some research on appraisers in your area.
+I'm guessing the manufacturer have spent a small fortune on focus groups and other market research and found people like that look.
+Also, France helped us out back in the day!

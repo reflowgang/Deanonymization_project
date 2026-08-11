@@ -1,0 +1,100 @@
+&gt; It's worse because you regen a little bit of your missing mana throughout the entire 5 seconds with Mana Font, whereas with Meditation you've already regened 5 seconds worth of mana (based on your base MP5) before gaining that burst of 1.5% missing mana. This doesn't make sense. I can present an alternate way of looking at it. Say you have 0 mana at t=0s. At t=0s, you get a burst of 1.5% missing mana. Then for the next 5 seconds, you regenerate mana normally. Viewed this way, the burst regen is actually more efficient than the chalice style, because you get 5 seconds worth of regen immediately, and before the amount regenerated is lessened by your natural regen. So is the burst regen better or worse than the trickle regen? It depends on the timing of the ticks and when you expend your mana. Let's say you have a pool of 500 mana and somehow your full combo costs 300 mana. Every 5 seconds, meditation ticks. If you cast your combo right after a tick, then you get your scenario and burst regen is worse than trickle regen. If you cast your combo right before a tick, then you get my scenario and burst regen is better than trickle regen. In practice, you wouldn't actually time your spells based on a fairly opaque mastery like this (you could, and you'd get slightly better mana efficiency, but it's probably better just to optimize your spell timing for actually important stuff like hitting the opponent or farming). So you're going to get the good case and the bad case roughly 50% of the time each. Therefore there is no expected difference in efficiency between the meditation style of regen and the chalice style. (I think meditation should still be changed to use the chalice style however, just because it's simpler). tl;dr: you're wrong. about half the time, the opposite scenario occurs which makes up for what you described. the actual result is that there is no difference in efficiency.
+I'm confused. What kind of memory did you reawaken?
+Is there something wrong with eating old cheese that's been left out? How old are we talking? I do the same thing except I also eat the dried part.
+&gt; Meditation (MED) doesn't calculate its first tick until t1. If it calculated at t0, then Meditation would technically have a 5 second lead on Mana Font, which could only be equalized if Mana Font regenerated mana for 5 more seconds after the final calculated interval. Here's the part I disagree with. How can you say it doesn't calculate its first tick until t1? Let's use an extreme example. You're playing Lux with a mana pool of 100. A single E uses up your entire mana pool. You spend some arbitrary amount of time shopping in base and walking back to lane. During this entire time, your mana regeneration is effectively 0 because your mana is full. At some point, you will cast your first spell. At that point your mana will become 0 and we can begin tracking mana regeneration (time of first spell is t0). Now, you said that the first tick of MED only occurs after 5 ticks of MF. This is not always true. If your first spell was cast at 1:59, then you will get your MED tick along with the next MF tick. In this scenario, MED effectively calculates its first tick at t0, which as you state means it beats MF.
+\&gt; investing in apple/microsoft/google instead of just stealing their ideas and making that company yourself
+Wait really? Source?
+I only down voted because of your stupid "inb4 I get downvoted haha I don't care". That's not relevant to the discussion and makes your comment low quality.
+&gt; no reason not to click beginner It's pretty easy to win even if you click expert. After a few games smurf detection kicks in and games actually get interesting. I don't think people like stomping pointless games that much or else they'd just play intro bots.
+oom, don't fight, my bad, timer for drag, timer for baron
+Ah, I also ban Brand and Mordekaiser every game.
+Vi is still banned or picked a good percentage of the time.
+What are you saying?
+That's the only way disaster relief funding works.
+Sure. But it has as much counterplay as Annie W and R, which are "skillshots".
+LOL if you max Q then you aren't farming with W either.
+You can build qss anyway. You don't have to finish mercurial scimitar. Qss didn't even build into anything at all before season 3.
+Slot efficiency isn't that important until 6 items anyway. QSS is still a powerful item even if it's cheap. Like I said, it used to not even build into anything at all and it was still good. What's wrong with the stat efficiency? Do you not like having MR vs Malzahar?
+That's just greedy if you expect a defensive item to not put you behind on damage. It also delays ADC damage in the same way.
+Zyra's decent, just niche. I honestly don't want to see her at 20% pick rate because that just leads to more nerfs.
+MODS COME BACK
+You can fit another QEQ after the ult.
+6 Sightstone Kog incoming
+5.10 buffed him, and people discovered a new way of playing him (max W).
+Use sharex. Probably the best screenshot software and it lets you automatically upload to imgur or any other site. Gyazo really does suck ass.
+Try sharex. Like gyazo, but it uploads to imgur.
+You found the meme!
+Ryze was reworked too. I don't recall them disabling other champions after their reworks. I think Lucian was just too obviously broken to handle.
+Why not? That's like saying it doesn't make sense that Zed doesn't use mana or that Miss Fortune can't stun people. Champions don't all have to be the same.
+Like Xerath Ult but global and can be cast 26 times
+Valve monetization leaves me with a bad taste in my mouth. I hate the crate/case/chest system they have in all their games. It feels like they're throwing combination flyer/lottery tickets at you and pretending it's some kind of reward. The whole system is set up to prey on as many mental vulnerabilities as possible.
+Valve only sells cosmetics, while Riot also sells gameplay content. But Valve markets far more aggressively than Riot (maybe because they only make money from cosmetics?). The aggressive marketing is what turns me off, while I don't really mind having a small champion pool. You have your opinion, and I have mine. It just depends on whether you prefer a paywall or very aggressive marketing.
+Formula is 5+depth/3.
+Anti-entropy is pretty good! You just need a scroll holder.
+Need to see the grin to confirm
+A true ninja
+I'll counterstack 'em on Garen. If I burn, so do you.
+You mean, it would make them much less effective. Poke mages don't win by going all in on full health opponents. If you buy an early revolver against Ziggs, he'd lose all his kill potential. Basically the lane would be shitty and boring for everyone involved.
+Then Jayce and Pantheon can build it.
+Broken on Ryze. You could just stack AP and vamp and 1v5.
+If Rammus were released tomorrow, then maybe he wouldn't be so braindead easy to play.
+200 global IP for tower kill
+It's relative to your elo, so if your rank 5 players are garbage that speaks to the elo.
+Is this even a bug? It's been that way for as long as I can remember and I always played Jayce just thinking that this was the expected behaviour (kinda like how karma Q only explodes if you hit it or you used R)
+Use sharex, same thing but uploads to imgur
+I'm 50/50 about Morello or Athene's normally, but if the enemy team has Aatrox, I guarantee you I'll be picking up Morello.
+You can also do that now, and besides I'm not even sure that would work
+I've never had the luxury of deciding where I want to be when the Fiora Ult ends. That thing one shots me every time.
+The threshold to trigger the audit is a lot weaker.
+Someone learned a bad word at school but is too scared to actually say it.
+Yeah I played a game where we had a nami go 0/15 versus a botlane poppy. Everyone knew she was feeding like crazy and you could tell our jungler wanted to say something, but all he said the whole game was "support stop standing next to the wall". Pleasantly surprised no one said anything else.
+The latter
+Sure. Even Lyte acknowledged that showing only the threshold game's log was not a great solution.
+It's all based on context and who you say it to. You can say "fuck their nidalee, that shit is fucking bullshit" in team chat but you can't say "dumbass" or "you're shit" to a team mate.
+This is because the stats only show 125+ players who haven't truly mastered the champion. They play him a lot but haven't really mastered time travel. The real Zilean experts who have almost 90% winrate have already gone back in time to when they've only played 1-5 games, and are bringing that statistic up.
+There are other ways to solve that, like butcher.
+T
+And Lucian can just cleanse it in 1 second. Dashgod Lucian's dash was up every other second.
+s/everyone/a lot of smart people/
+People in low elo thinking they know how to play better than other people in low elo, so they post their impotent rage on Reddit, thinly disguised as advice
+Of course, there's a reason Riot entrusted this emote to Rank 5 masters only.
+Shh, don't let the plebs know. This info is Rank 5-classified.
+Apparently now there's a bug where she becomes visible permanently.
+Nope, visage doesn't affect allied healing, only regeneration and self-help.
+You're confusing millionaires with billionaires. Millionaires are regular people with good jobs and sound investments who have worked all their lives. If you own a decent house in a city, you're a millionaire. Nothing illuminati about that. Don't lump billionaires in with millionaires. Billionaires have a thousand times as much money -- they're the ones pulling strings in the back and crashing markets for profit.
+Unless Riot open sources everything, they're not going to be able to recreate LoL. No matter how good of a job they do wil porting champion, minions will aggro differently and waves will push differently. This affects the entire dynamic of the game.
+There's already the PBE for that.
+100K points with your favourite champion and you still don't have all the skins? What kind of casual are you?
+These bugs are caused precisely because it is riot's most popular server.
+Still a better scheme that Valve's chest crap.
+What? No. The big 3 of burst APs got nerfed (Luden, Zhonya, Dcap). If you're suggesting that burst mages will build archangel or roa instead that delays their mid game damage too much.
+This is insane. Liandry's buff (30 AP for 100 gold), Rylai's change that lets plants apply a 40% slow semi-permanently, Void Staff is more slot efficient, and NLR is easier to build as a support. I'm gonna enjoy the freelo while it lasts, but I'm worried about nerfs.
+Right, so in this case you are the banner carrier and you inspired courage and resilience in that cannon minion who is now going ham in a side lane. It doesn't make sense for the cannon minion to be the banner carrier, because it's not buffing anything. It's the one who was buffed.
+You mean right now? Released champions are 7800.
+If there's any grass in the room you can kill the wraith easily. Just leave a 1x1 tile of grass and let the wraith chase you around that tile. If he follows you for 2 turns consecutively, you can surprise attack him.
+It could be something like how Rengar's top laning requires him to abuse the bushes heavily. This might be the opposite, where he needs to go visit the river every so often to get more mana or health.
+Cons: enemy no longer has to decide between focusing Zyra and focusing ADC.
+New liandry's will be strong but still situational (please don't rush it on katarina). The best parts of the item are also unique. These two factors mean that we won't see league of liandry's like the league of cleavers where everyone stacked at least 2 cleavers. What will actually happen is that liandry's champions will be stronger, but champions that didn't build liandry's before still won't build liandry's.
+If you want to build differently, then play Corki or Kalista or Kog'Maw or whatever. The build for traditional ADCs is very "constant", but that's like saying the build for LeBlanc is very "constant". Even after the AP item changes you won't ever see LeBlanc building Liandry's, Nashor's, or Rod of Ages (sorry Siv HD). The reason AP seems more diverse is because there are more types of AP champions (some burst, some kite, some autoattack, some have utility).
+It's possible that OP noticed less movespeed as a result of the recent utility changes.
+No it's easy to tell when the stacks are going to drop off, because the timer is the same as for his passive. Basically if you have attack speed from your passive, then your ult stacks haven't expired yet.
+What will that accomplish? EUNE was supposed to be that split you described. If you mean split the server but still play together, that wouldn't have prevented the gameid overflow spectator bug.
+You can flash during the windup of Lux ult, or Ahri's charm. So why not Ashe ult? Whether or not that will give you the desired effect is another matter.
+stop front page from filling up with gfys
+Nope, all the rewards other than the teamup IP are released at the end.
+He probably meant leagueoflegends.wikia.com
+The bad amulets are only generated cursed 90% of the time.
+Lol I remember once I set the scroll on fire with my blazing weapon.
+If you prematurely cast it during the delay, it locks in the cast and as soon as it's actually ready, it automatically fires in the direction that you picked, which is probably wrong at that point.
+Liquid is in direct competition with TSM. If they think this move will improve TSM, it would be in their interests to deny the move, kind of similar to how SKT is holding onto the 2 great mid laners and junglers partially to keep them from joining other teams.
+Kalista was the League implementation of that already.
+Building MR hurts mages more than building armor hurts ADCs. Mages need to burst and have less sustained dps. They also incorporate a lot more flat penetration into their builds, which is very weak against resistance stacking. That's pretty much the reason Riot doesn't want to buff MR itemization for tanks.
+I think it would be cool if you could see into the chests by standing next to them with mind vision or item detection (from the well or the artifact).
+No, it was super snowbally and boring to boot. If you got BT first you were guaranteed to win lane. Lifesteal and extra AD meant that the enemies could neither all in nor whittle you down.
+The RNG nature is a wrinkle, I'll admit. But I firmly believe early lifesteal is terrible for bot lane. With lifesteal: If you are stronger, you are guaranteed to win lane (because you can trade and heal, while they get zoned). You can afford to make mistakes because you can heal back up quickly. Without lifesteal: you are stronger, but your victory isn't assured. You can still get poked out of lane, or at least to the point where the enemy can fight you. If you pick a fight, you'll be able to win, but if you play carelessly (getting hit by random Caitlyn Qs or support poke), you don't have a crutch to fall back on. I think the second scenario is more fair meta. Being ahead still means you have a lead, but it doesn't become suffocating. I'll take the downside of RNGesus rather than the fundamentally suffocating lifesteal meta.
+Udyr would only have 3 passives instead of 5, according to Reddit logic.
+Because this isn't Dota where everyone goes by their title.
+&gt; if an ally is determined to ruin your game, they can already do so. That's not the point. I don't care about how an ability can be used to intentionally troll. I'm worried about well-meaning players (i.e. 95% of players) messing up the ability and hurting teammates. Bard messing up his ult can create a lot more frustration for his team than Annie missing her ult, and this frustration can lead to toxicity. It's like how J4 can "help" his team, and that usually isn't done on purpose.
+This honestly sounds like the worst of both worlds
+Wait are you saying that cancelling an aa still deals the damage? That seems like a much bigger bug.
+Check if you can do crazy dps by spamming right click and s.

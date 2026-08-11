@@ -1,0 +1,1 @@
+Has anyone been able to get this to work? The deploy keeps failing for me. no Didn't seem to work for me in Chrome. I got a face outline, but it never drew the overlay. I'm proud to call myself a nogrammer. I'd much rather use/modify existing code than write from scratch. Are there any adblocker-like/privacy-proxy tools to neuter extensions like this?

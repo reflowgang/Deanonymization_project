@@ -1,0 +1,50 @@
+But...  They're not all symmetrical.
+I tried them. The entire thing has haptic feedback. Having a physical controller that is represented in the VR world also gives you a psychological anchor - you are holding something that you SEE in front of you. It's cool :)
+Nice try, Sepp.
+Awesome :) We updated it, and we're gonna continue to do so - as well as make some more. It's a nice way of making stories :)
+I've been reliably informed that whatever I do I should never go back there.
+/r/iamverysmart ;)
+0:35: that's the face of: "Oh shit... I definitely left the oven on"
+So they can now marry the people they truly want to?
+What's a go pro?
+Having not clicked the link I assume the chant is something like, "we both lost, we both lost, or didn't really win, neither side was great, but we all had fun and the important thing is everyone had a good time at a sporting event".
+"Actually, what the hold up here is... uhhh.... there's some mines..."  Wait... what?
+You know, brutal doom exists if you want it pretty much identical to the original.
+Well, there we go: Plenty of options for the 'Doom 2015 is not Doom 2' crowd.
+Don't worry, the hype will return next season, along with LSH.
+Yes, let's all discuss James Bond. Did you know there was a new movie coming out? How very convenient we should all be discussing James Bond right now in the lead up to it's release.
+"We don't see anything fun yet, at least the sort of fun WE would make. Therefore we are not going to make it."
+&gt;WRONG. its what the VIVE is targeting.  [“Constellation will allow for a bigger room area,” says Oculus CEO Brendan Iribe, “so you will be able to move around in it – and we have a number of different things that we are going to be talking about as we move forward on this.”](http://uploadvr.com/oculus-rift-room-scale/)
+Ok, so it's 'room scale', but our 'room' is 2mx2m. It's a space CV1 works with absolutely fine and pretty much anyone can have access to.  As for:  &gt;Oculus are not targeting room scale.   [“Constellation will allow for a bigger room area,” says Oculus CEO Brendan Iribe, “so you will be able to move around in it – and we have a number of different things that we are going to be talking about as we move forward on this.”](http://uploadvr.com/oculus-rift-room-scale/)
+To clarify... the 'room' is the 2.2m cubed 'tile' you stand on, rather than the entire 'room' those tiles make up. But pretty much everyone will have a 2 by 2 meter space to play in :)
+We could... and indeed did! But it has technical issues that could cause compatibility issues or glitches of various kinds... not to mention there are potential performance issues. Basically we wanted to ensure it was done correctly rather than just botched into existence.
+A nice idea. We're going to be experimenting with a bunch of approaches, so I wouldn't be surprised if we look at this one :)
+Thankfully they roped it off to prevent damage, but stories like the original link show they can go further to protect it.
+They used to use a simple prefab, not unlike Dive. I suspect it will be similar, although am not familiar with the current process.
+It drives steel pins into your skull if you rotate you heard 45 degrees on the Y axis.
+Thanks :)
+Clearly he just want Bulloch to have his voice added in. He probably wants Prowse to voice vader for the same reasons.
+That's a big gift shop.
+Unlikely on the main store, but they will have an area for projects that are more experimental, like they do with 'concepts' on GearVR. Otherwise I can just stick it up somewhere and people can download it.
+yup that's the one.
+It's indeed a very cool thing. The fear creatures all look at you as well - it's the sort of direct interaction that works so well in VR.
+There are story elements that will frame the whole thing, but it's definitely become more 'arcadey' as we've gone along - all the better to focus on the motion controls. If it goes well we'd consider a bigger, more ambitious and story led game built on the same mechanics.  It's not just a 'shooter' as such - the gun is a power, but there are others, including a sword. We'll show more as it becomes ready.
+It's not going to be ready for Rift/Vive launch, but we are hoping to have it launched in time for Touch.
+Unity 5.
+No plans just yet... it's enough to get any sort of game working :)  If the game works well in single and makes sense as multiplayer we might look at it.
+We're looking at using them in the best way we can - it requires some playtesting, which is why early access is great as it allows for many people to try out the different options. Current movement may alter before launch.
+Controls will continue to be tweaked, and there should be Steam Controller improvements in the next update.  Stats are planned for the next update as well :)
+You can avoid the portals?
+I don't know if we're going to look at that for now... we may well consider it after the final launch if the demand is high enough and it makes sense to do so.
+1. We'll be sure to ensure players know how the controls work :)  2. This should be a menu option at a later update.  3. There will be :) - the robot that walks is the first hint of that.
+It's not a teleport, it's a portal ;)  WAY different things.
+You can set them by holding 'alt' as you launch :)  Menu's are currently in the process of being expanded and options will become available as updates are released.
+You've just added another one...
+A neutral expression of mild discomfort because of the cold? Or eye contact?
+It's part of the test!
+We're still working on the assets :) Geometry itself is being improved and as levels are complete we will be doing a lighting bake, which will make everything much prettier :D Plus we have other stuff to add.
+He wanted to strike the bat away and then go for the hit.
+There's no cheap equivalent for facial capture, that's for sure.
+This story sure is, uh, enigmatic?  Ryu looks really worried about that... football? Space virus?  There's a wrestling match, so that's good.  What I know for sure is that Guile is definitely going to be photographed at some point.  I look forward to the 'Concussion' style subplot about all the chronic ailments these fighters have built up over the years of being punched in the head.
+Itt: colonials getting rowdy.
+He IS a hologram.

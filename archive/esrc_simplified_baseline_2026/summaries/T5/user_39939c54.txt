@@ -1,0 +1,55 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone.
+  - Uses humor and sarcasm (e.g., "Why the hell does every single article about Bernie Sanders start off with a sentence like 'of course he'll never win'?").
+  - Engages in detailed explanations and personal anecdotes.
+
+- **Recurring Interests:**
+  - Birds, particularly cockatoos and conures.
+  - Environmental issues and evolution.
+  - Feminist studies and identity politics.
+  - Hiking and outdoor activities, specifically the Pacific Crest Trail.
+  - Thrift shopping and DIY projects.
+
+- **Hobbies:**
+  - Sewing and crafting (making skirts from thrifted materials).
+  - Bird care and training.
+  - Hiking and backpacking.
+  - Cooking, particularly with canned fish.
+
+- **Technical Knowledge:**
+  - Familiar with web development and programming (PHP, Drupal).
+  - Knowledgeable about API documentation and module creation.
+  - Has experience with sewing machines and basic sewing techniques.
+
+- **Location Clues:**
+  - References to Southern California.
+  - Mentions of local thrift stores and the cost of living in California.
+
+- **Profession or Education Clues:**
+  - Holds an associate degree in geology and a BA in Women's Studies.
+  - Has taken programming classes and university extension courses.
+  - Experience in a field that requires technical skills, possibly related to web development or education.
+
+- **Demographic Clues:**
+  - Identifies as a woman.
+  - Over 40 years old.
+  - Describes herself as a "small older lady."
+
+- **Opinions and Values:**
+  - Critiques identity politics and the ranking of oppressions.
+  - Values practical skills and self-sufficiency (e.g., sewing, cooking).
+  - Advocates for environmental awareness and critiques consumer culture.
+  - Believes in the importance of challenging students in educational settings.
+
+- **Repeated Topics:**
+  - Bird behavior and care.
+  - Personal experiences with education and social issues.
+  - The impact of environmental changes on wildlife.
+  - The challenges of living in a high-cost area.
+
+- **Subreddit/Community Clues:**
+  - Engages in communities related to birds, DIY projects, and possibly feminist discussions.
+  - Participates in discussions about web development and programming.
+  - Likely involved in outdoor and hiking communities.

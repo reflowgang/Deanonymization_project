@@ -1,0 +1,49 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Engages in lengthy, detailed responses with a mix of humor and sarcasm.
+  - Uses rhetorical questions and direct address to engage readers.
+  - Often employs a conversational tone, with informal language and slang.
+  - Shows a tendency to reference external sources and links to support arguments.
+
+- **Recurring Interests:**
+  - Strong interest in cryptocurrencies, particularly Bitcoin and Ethereum.
+  - Engages in discussions about technology, particularly in relation to blockchain and its implications.
+  - Shows concern for social issues, including economic inequality and government policies.
+
+- **Hobbies:**
+  - Enjoys outdoor activities, as indicated by hiking references.
+  - Engages in photography, particularly nature and landscape photography.
+  - Interested in motorcycles and related travel.
+
+- **Technical Knowledge:**
+  - Demonstrates a solid understanding of blockchain technology and cryptocurrencies.
+  - Familiar with technical aspects of networking and home setups (e.g., running nodes, managing routers).
+  - Knowledgeable about the implications of various cryptocurrencies and their governance.
+
+- **Location Clues:**
+  - Resides in Canada, specifically mentioning Alberta and Calgary.
+  - References to local Canadian culture and issues.
+
+- **Profession or Education Clues:**
+  - Former journalist, indicating experience in writing and possibly research.
+  - Engaged in discussions that suggest a background in technology or IT.
+
+- **Demographic Clues:**
+  - Likely in the 30-50 age range based on references to life experiences and age-related comments.
+  - Identifies as male, based on language and references to personal experiences.
+
+- **Opinions and Values:**
+  - Strong libertarian views, particularly regarding government intervention and personal freedoms.
+  - Advocates for decentralization and the empowerment of individuals through technology.
+  - Critical of mainstream media and government narratives, often referencing conspiracy theories.
+
+- **Repeated Topics:**
+  - Bitcoin scaling debates and the implications of block size limits.
+  - Critiques of centralized banking and financial systems.
+  - Discussions on the social impact of technology and economic policies.
+
+- **Subreddit/Community Clues:**
+  - Active in cryptocurrency-related subreddits, particularly r/btc and r/ethereum.
+  - Engages in discussions about local Canadian issues, possibly in r/canada or r/calgary.
+  - Participates in discussions about technology and networking, indicating a presence in tech-focused communities.

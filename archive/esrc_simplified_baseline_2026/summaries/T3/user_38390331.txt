@@ -1,0 +1,43 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone, often using humor (e.g., "LOL," "Dude").
+  - Detailed explanations with technical jargon, indicating a strong grasp of the subject matter.
+  - Occasionally rambles but maintains coherence in technical discussions.
+
+- **Recurring Interests:**
+  - Virtualization technology, particularly hypervisors (Type 1 and Type 2).
+  - Operating systems, especially Microsoft Windows and Linux.
+  - Networking and VPN usage, particularly in corporate environments.
+  - Technology-related discussions, including software and hardware configurations.
+
+- **Hobbies:**
+  - Engages in Aikido, as indicated by a personal anecdote about an exhibition.
+  - Enjoys exploring and discussing technology and its applications.
+
+- **Technical Knowledge:**
+  - Strong understanding of virtualization concepts and technologies.
+  - Familiarity with Microsoft products, particularly Windows and Hyper-V.
+  - Knowledge of networking practices, especially regarding VPNs and corporate policies.
+
+- **Location Clues:**
+  - References to "the states" suggest the user is likely located in the United States.
+
+- **Profession or Education Clues:**
+  - Mentions of working with colleagues on use-case testing for clients imply a professional background in IT or a related field.
+  - References to domain controllers and configurations suggest a technical or IT-related education.
+
+- **Demographic Clues:**
+  - Mentions of a spouse, indicating the user is likely an adult, possibly in their 30s or 40s.
+
+- **Opinions and Values:**
+  - Critical of corporate practices, particularly regarding user privacy and security ("absurdity of our security theatre").
+  - Values learning and teaching, as indicated by the desire to understand and present information to others.
+
+- **Repeated Topics:**
+  - Virtualization and hypervisors.
+  - Corporate networking and VPN issues.
+  - Personal anecdotes related to technology and martial arts.
+
+- **Subreddit/Community Clues:**
+  - Engages in technology-focused subreddits, likely those related to IT, virtualization, and possibly martial arts or personal anecdotes.

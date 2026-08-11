@@ -1,0 +1,15 @@
+{
+  "task": "p3_isotonic_full_pool",
+  "scores_dir": "results/runs/p2_full_pool_ab_rescore",
+  "seed": 42,
+  "seed_note": "P3 cal/test split; must not equal regression_50 fixture seed 2026",
+  "target_precision": 0.9,
+  "n_boot": 10000,
+  "n_pool_en": 499,
+  "n_hn": 497,
+  "created_at_utc": "2026-08-06T15:40:25.887169+00:00",
+  "outputs": [
+    "results/p3_calibration/tables_full_pool/table_isotonic_full_pool.csv",
+    "results/p3_calibration/tables_full_pool/DELIVERABLE_isotonic_full_pool.md"
+  ]
+}

@@ -1,0 +1,38 @@
+You are matching Reddit user profiles across two different time periods.
+
+You are given:
+1. One QUERY user profile summary.
+2. 15 CANDIDATE profile summaries.
+
+Your task is to identify which candidate is most likely to be the same person.
+
+A strong match should share multiple distinctive stable traits, such as:
+- location
+- profession
+- technical expertise
+- hobbies
+- beliefs
+- demographic clues
+- repeated life circumstances
+
+Do NOT rely on a single weak overlap.
+
+Always choose the best candidate, even if uncertainty is high.
+
+Return valid JSON only:
+{
+  "selected_candidate_number": 1,
+  "confidence": 0.0,
+  "reasoning_short": "brief explanation"
+}
+
+selected_candidate_number must be an integer from 1 to 15.
+Do not output candidate_user_id as the answer.
+
+Confidence must be between 0 and 1.
+
+QUERY:
+{query_summary}
+
+CANDIDATES:
+{candidate_block}

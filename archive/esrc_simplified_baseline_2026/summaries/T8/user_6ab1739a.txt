@@ -1,0 +1,48 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Engages in detailed, argumentative discourse.
+  - Uses humor and sarcasm frequently.
+  - Employs a mix of formal and informal language, often addressing others directly.
+  - Tends to use rhetorical questions and counterarguments to challenge opposing views.
+
+- **Recurring Interests:**
+  - Technology, particularly Apple products and their competitors.
+  - Canadian culture and politics.
+  - Discussions around social issues, including immigration and healthcare.
+  - Video games and gaming technology.
+
+- **Hobbies:**
+  - Enjoys biking, particularly in urban parks (specifically mentions biking in Edmonton's river valley).
+  - Engages in online discussions and debates on Reddit.
+  - Shows interest in music, mentioning bands like Imagine Dragons.
+
+- **Technical Knowledge:**
+  - Demonstrates a strong understanding of technology, particularly in relation to Apple products and their specifications.
+  - Familiar with economic concepts, indicating a background or interest in economics.
+
+- **Location Clues:**
+  - Identifies as being from Edmonton, Canada.
+  - References local events and places, indicating familiarity with the city and its culture.
+
+- **Profession or Education Clues:**
+  - Mentions being an economics major, suggesting a background in higher education.
+  - Engages in discussions that imply a level of professional or academic knowledge in economics and technology.
+
+- **Demographic Clues:**
+  - Likely a young adult or student, as indicated by references to studying and attending university.
+  - Canadian, with a strong sense of national pride and identity.
+
+- **Opinions and Values:**
+  - Strongly supports Canadian values and expresses pride in Canadian identity.
+  - Advocates for social issues, including immigration and healthcare, while critiquing anti-immigrant sentiments.
+  - Displays a critical view of American politics and expresses pride in Canadian governance.
+
+- **Repeated Topics:**
+  - Frequent discussions about the merits and drawbacks of Apple products versus competitors.
+  - Engages in debates about Canadian politics, particularly regarding provincial relations and federal policies.
+  - Comments on social issues, including racism and gender equality.
+
+- **Subreddit/Community Clues:**
+  - Active in subreddits related to technology, Canadian culture, and social issues (e.g., /r/canada, /r/SiliconValleyHBO).
+  - Participates in discussions that often critique or defend various online communities and their behaviors.

@@ -1,0 +1,500 @@
+It's closer in that test because it's GPU bottlenecked.
+I think you're gonna have a bigger problem with the tank size, unless you get all males or all females. If you have mollies, they will generally eat their fry when given the chance, but guppies and endlers will generally leave them alone (in my experience)
+/r/ultrawidemasterrace ;)
+&gt;Disabled AMD Surface Format Optimization. What does this even do? &gt;Set HBM speed to 800MHz (the minimum). Source? I don't see that anywhere.
+Micro stutter isn’t caused by a bad overclock.
+um.... why not just use an aquarium heater?
+&gt; There is absolutely no reason to biy a 1080p monitor anymore Some of us like high frame rates &amp; high/ultra graphics settings
+&gt; Well you can't be speaking for yourself as the 34UM67 is only 75 Hz refresh rate lol. I used to have LG's 144hz model but I sold it because the UM67 has better response times and input lag, and as you may recall from our VA vs IPS discussions I'm very particular about response times That being said: 1) There are still titles I can't max out (and maintain minimums of 60+), even after overclocking it. Watch Dogs 2 is one of those games. 2) There are a lot of games which I'll still run well above my refresh rate because it's a better experience at high FPS even if my monitor can only push 75 frames. DOOM, for example. &gt; &gt; I've actually considered moving down to 75hz for a 3440x1440p LG Ultrawide but I'm worried about how much i'd miss that extra 25 fps. The perceptible difference between 75 &amp; 100hz is the same as the difference between 60 and 75, if that helps. &gt; &gt; I wish LG would just make a 100hz Freesync 1440p or better nano-IPS monitor already as i'd buy that in a flash. Unfortunately it seems that LG thinks gaming monitor = G-Sync. Which is a shame as I LOVE my Vega. Actually, LG only makes a single G-Sync monitor - the 34uc89-g (2560x1080, 144hz). Most of their ultrawides support FreeSync.
+I’ve become more careful of *what* I say and *how* I say things online since becoming a moderator. This is because I have had to learn to communicate effectively with stubborn users and also because of drama queens who have tried to twist comments I have made into “proof” of an “agenda”.
+&gt; Elio is delivering in 2019 I'll believe that when I see it
+Then they need to gimp the mining capabilities of "gaming" cards
+&gt; How do you have a Vega 56 Liquid? Custom job? I'm using Alphacool's Eiswolf for Vega. It's not a custom loop... but it can be turned into one ;)
+I grabbed my Vega 56 (now flashed to 64 and liquid cooled) in the 'gaming pack' for $500. I was a little annoyed that it was the only sure way to get it in stock. Now I'm half-considering selling it for $1000
+This makes no sense Intel Core i5-2500 (minimum) &gt;= FX-8350 (recommended) in gaming Intel Core i7-3770 (recommended) &gt; Ryzen 1600x (4k HDR) in gaming
+I have an RX 550 laying around and it's sufficient for most games at my resolution at low settings (except for more intensive titles like ROTTR or TW3). With a 1050ti I could increase it to medium.
+I've switched back and forth a few times. When my 290x died, I used a R7 360 until the 470 was available. In anticipation for Vega, I sold my 470 and used a RX 550 for some time. Personally, I'm more concerned about framerate. I would take 75fps low settings over 40fps Ultra settings.
+&gt; but it's hard finding a good one that doesn't have strange limits (e.g. 30-60Hz on a 120Hz monitor) There’s literally only one monitor with strange limits like that
+If you are experiencing FreeSync issues like flicker or stutter, kindly help AMD out by submitting the following information please. It's a lot easier for them to triage problems when they have a better scope of the configurations. *Affected applications or games *CPU / GPU *Specific display model(s) *Description of the behavior observed *How to reproduce Thanks! *posted as stickied comment on behalf of AMD Radeon Software Vanguard Commander /u/AMD-DOWNL1NK*
+It’s not about resolution it’s about framerate. You can run 1440p 144hz at medium settings with a GPU like Vega and still be CPU bottlenecked. Of course that’s going to disappear at higher graphics settings - but when you game at a higher refresh rate you lower your settings to sustain that refresh rate. On a 75hz monitor I aim for minimums of 70fps. On a 144hz monitor I aim for minimums of 100 and averages of 120. At 144hz Intel CPUs will still be king, barring some major latency and clock speed improvements with Ryzen 2xxx At 100hz or lower, and in Crossfire/SLI setups, RyZen will be and is just as good as Intel for a much lower cost.
+I don't like the way most reviewers do CPU tests. They either compare two CPUs at mainly GPU bottlenecked settings most of the time, or they test them in utterly unrealistic scenarios - 720p low settings for example. I decided to do a realistic test of Ryzen running 5 of my commonly played games at 2560x1080 with medium settings. This keeps the bottleneck on the CPU most of the time. The games are both well optimzed for AMD products (such as DOOM) and horribly optimized (such as Watch_Dogs 2). I tested Watch_Dogs 2, DOOM, Middle Earth : Shadows of War, Rise of the Tomb Raider, and Dues Ex - Mankind Divided. In DOOM, Shadows of War, and Rise of the Tomb Raider the CPU bottleneck was relatively minor and did not impede 100fps+ gameplay. In Watch Dogs &amp; Dues Ex the Ryzen 1600 seriously limited the performance of RX Vega. **TLDR** **Across all 5 games, I had an average minimum FPS of *78.8* fps an overall average of *109.6* fps.** *Watch Dogs 2 and Dues Ex had the worst CPU performance, with averages of 60 &amp; 76 fps respectively.*
+&gt; Higher res makes the gpu the limiting factor and you cant see when the cpu becomes the limiting factor. That is why I lowered the graphical settings to the point where the CPU was the bottleneck.
+In some games lowering the resolution on ultra settings will decrease the load as well [Fallout 4 Ultra](https://www.gamersnexus.net/game-bench/2182-fallout-4-cpu-benchmark-huge-performance-difference), for example. At 1080p ultra the i7-5930k and i7-4790k are tied. At 1440p the 5930k has much higher minimum FPS.
+&gt; Rule 2: Don't be a dick. No racism, sexism, personal insults, harassment, etc. Be civil, please.
+Have you tried DDU + reinstall drivers?
+Rule 6: No religion/politics! There are plenty of other places for that.
+The maximum theoretical bandwidth for DisplayPort 1.2 tops out for 3440x1440 at 110fps IIRC. It doesn't have the bandwidth for 120hz.
+That's a lot of endlers
+How long have you had this molly? Sometimes fish will be afraid of humans until they've adjusted to them. It took my guppies a few weeks before they weren't afraid of me.
+&gt; Their SSDs are good but the competition can do better in most cases. Show me a single SSD that performs better than Intel Optane
+Rule 3: Be civil and obey reddiquette. Please remember that behind every poster is a human. This means no brigade incitements, personal attacks, etc.
+Does this *only* happen in GTA V?
+4096x2160@60hz (maximum DP 1.2 supports) is 530,841,600 pixels per second 3440x1440@120hz is 594,432,000 pixels per second
+Interesting. Either they’re using some sort of compression to hit 120hz or the cable is technically capable of it, sorta like how PCI-E has an official limitation of 75w but it’s still possible to pull more
+&gt;AMD has taken the discussion of the last few days as " a Vega feature was discontinued " as an occasion to report on a slide exactly the opposite. And in fact, the Draw Stream Binning Rasterizer is now enabled for much of the game. (Google Translate) And to copy /u/erik98k's top comment in the post in /r/hardware Primitive Shaders must be supported by game devs via a special API. And Radeon RX Vega feature updates ([slide](https://pics.computerbase.de/8/1/4/8/7/1-1080.2660285145.png)) * DSBR enabled for a few PC games * HBCC available since launch * Rapid Packed Math implemented in FutureMark Serra, Wolfenstein II, Far Cry 5 * Next-Gen Geometry Path: * Intelligent workload distributor enabled since launch * Exposing Primitive Shaders to devs requires API changes * Wolfenstein II uses compute shaders to cull geometry in a similar fashion
+&gt; You don't know what the fuck your talking about, so kindly shut the fuck up. * Rule 3: Be civil and obey reddiquette. Please remember that behind every poster is a human. This means no brigade incitements, personal attacks, etc.
+Something isn't right if your hotspot is hitting 90c but the rest of the GPU is at 55c. I'm using Alphacool's Eiswolf for Vega to liquid cool mine, and it's hotspot is never more than 20c higher than the rest of the GPU.
+Does it still happen, if you revert back to the older drivers?
+I don't consider it a solution either But if it happens again after reverting to the old drivers (which are available on the website) then it's not a driver issue but rather your GPU is dieing.
+For comparison I gave mine a whirl in Furmark for 5 minutes GPU temp : 47c Hotspot temp: 70c For the record, my radiator is half the size of yours (120mm)
+Standard (air cooled) bios (1632mhz boost clock) It's running ~1530mhz in Furmark
+I had to RMA my Vega with them. It took about two weeks but the process was fairly straightforward. You might get a Polaris GPU as a replacement.
+&gt; Except I do have a problem with one of the moderators, angrymoose, who was been caught flaming and trolling on r/AMD Since when? I've known him to be a very respectful and courteous person.
+Yeah I know, I'm just kidding. I'm very seriously considering ~~selling a kidney~~ saving up for a few months and picking one of these monitors up (it would be a perfect fit for my Vega GPU)
+&gt; That would be devastating for the GFX card market. The market would get flooded with cheap cards and it would take years for the market to stabilize again. It would be temporary, just like the last time this happened with the R9 290/x GPUs. PC Gamers like cheap cards, but they also like powerful ones. Give them a reason to upgrade and they will.
+FYI if you include a URL shorterner of any type Reddit automatically removes the comment. I manually approved it - next time use the normal URL
+Thanks for posting. Unfortunately, your post has been removed because: * Rule 5: All posts must be related to AMD or AMD products.
+Hrm... I wonder how it would perform on a 1700/x
+I hate to say it, but with the instructions not having been properly followed the first time you may need to replace the thermal pads, break them in for 12 hours, and then tighten the screws again before it will work properly. It shouldn't have hotspot temps anywhere near that - I'm using the Eiswolf with the 120mm radiator and I never get anywhere near 90c at the hotspot.
+Unfortunately, they did not survive. Not because of genetics, but because I had a gyrochennelius in the tank which I didn't realize was killing my fish until it was too late. He has since been moved to the Goldfish tank
+male livebearers have a fairly long and slim gonopodium (penis) on their underside and have thinner stomachs. Your fish appears to have a normal fin and a wider stomach, so it's a female.
+Nothing to worry about. It's normal behavior ;)
+$300?! HUH?!
+You’ll know for sure if you see it humping another fish.
+TIL TY
+AMD needs to do this as well, but they’re probably concerned that it would annoy their partners.
+I had an RX 470. It was sufficient for my monitor, but I still upgraded to Vega. Why? Because now I can max out most games. :D
+Not really because you still have to get it from a 3rd party like Newegg and so there’s no garuantee of MSRP. Also FE is outside of the price range for 95% of the AMD fanbase.
+FYI, your comment has been caught in a Reddit bug. Multiple moderators have attempted to approve your comment. We have submitted a bug report in the thread linked below, but in the meantime you may wish to repost your comment. https://www.reddit.com/r/bugs/comments/8nnpsr/multiple_moderators_cannot_approve_comments/
+The comment was originally caught by AutoModerator, and then a moderator accidentally hit [remove] instead of [approve]
+Upon closer inspection it appears the moderator in question accidentally marked it as spam. I’ve seen this bug happen before where a comment was marked in spam and nothing can be done about it.
+That's not stopping Zhaoxin. Their next generation of x86 CPUs will allegedly be competitive with Ryzen.
+The 8600k ~= i7 (6/7)700k in gaming
+&gt; Having a video game up, having Discord up, and maybe having a YouTube video or Twitch up at the same time really makes my rig lag Something isn’t right. I can do that using a 2200g (lesser amount of cores, weaker clock speeds) with no issues
+Try overclocking *just* the CPU or *just* the iGPU. I had issues when attempting to OC both simultaneously. You should be able to hit 1500mhz on the GPU with some minor voltage adjustments, and that’s going to produce a much more discernible difference in performance than OCing the CPU, since Ryzen 2200g is almost always going to be GPU bottlenecked.
+&gt;Here they are having some strawberries! Wait, you can feed goldfish strawberries?!
+&gt; Why are people upset about this? Because AMD would never milk the consumer like this! /s
+&gt; In hell they are running GTX 580s FTFY
+You’re not the only person having these issues. The only known “solution” is to roll back to the version you had previously
+Use Display Driver Uninstaller (DDU) to remove your drivers and then reinstall the drivers
+Try using DDU to remove your drivers and then reinstall them.
+Created by /u/dayman56
+Keep politics out of this sub. Thanks.
+What voltages did you adjust, and by how much?
+It could be either. I was able to hit 1500mhz (didn’t try higher) with 0.05 adjustments to both the APU &amp; SoC voltages, but I’m using the cooler that comes with Ryzen 1600.
+It could also depend on the motherboard quality. I’m using my 2200g with a x370 board... I imagine most Raven Ridge owners are using b350 or a320 boards.
+My GPU died and with the price gouging going on I didn’t feel it would be worth it to pay $400 more than I originally paid for the same GPU. Now that prices are coming down again, I might buy another dGPU soon
+&gt; Also these are binned chips meaning they were cherry picked out of existing productions which AMD has no reason to do. Isn’t this exactly what AMD is doing with the 2700x? EDIT: a better comparison would be Ryzen 1700x vs 1800x. 200mhz clock speed difference for $100 more
+Could we please *NOT* try to imitate the trolls who brigade this sub?
+Nah it was desktop Vega it died and I couldn’t RMA it because I discarded the stock cooler
+Indeed, a better comparison would be the 1700x vs 1800x - $100 difference in MSRP for a 200mhz bump in clock speeds
+4-way SLI won’t be a thing on this board, but since power bills won’t be of any concern to someone running this board if you’re really interested in mGPU you can always run 4x Vega FE 16gb in Crossfire.
+&gt; still not gonna be anywhere close to TR 32 cores. Got a source for that? TR1 vs x299 of uses similar power consumption.
+ARM CPUs use 1/7 of the die size per core on a similar process https://techreport.com/review/28189/inside-arm-cortex-a72-microarchitecture/2
+Plus.
+When you DDU’d, did you enable the setting which prevents windows from installing Radeon drivers automatically? EDIT: Try this and let me know if it works https://community.amd.com/thread/226333?start=135&amp;tstart=0 &gt;So mine has finally worked,as someone suggested it was a registry error. All you have to do is go to regedit.exe , then go to this key [HKEY_LOCAL_MACHINE\SOFTWARE\AMD\CN] and you will find DriverVersion. Now all you have to do is remove whatever the value data is inside and make it blank.Then open task manager and close all AMD related service and then turn on RadeonSettings.It will work like a charm
+&gt; Bear in mind this is a $1000 industrial grade water chiller and has nothing to do with CPU cooling; Extreme overclockers have been using these units for years (though usually smaller ones), because unlike LN2 cooling phase cooling can be used for daily usage. A few years ago someone did a review of the 3930k at 5ghz and used the $500 version of the cooler Intel used during its demo. That being said, ain’t nobody in the market for a 28c CPU have time for that EDIT: Here's one reviewing the i7-980x at 5ghz https://www.bit-tech.net/reviews/tech/cooling/hailea-hc-500a-water-chiller-review/4/
+Why in the hell would anyone be gaming with a 28 or 32 core CPU? That’d be like buying a Quaddro GPU for gaming
+I’ve tested it in multiple locations in a 60 mile radius and at multiple times of day. Even at 3am in the morning this occurs. It’s definitely not congestion or tower problems. (I’ve checked for tower problems - I work for AT&amp;T’s Advanced Tech Support)
+I don't know what sort of mental gymnastics you're attempting here, but I literally just warned him to stop violating the rules. I didn't say it was "OK" in any way, shape, or form.
+For some users - not for everyone. I had previously recommended DDU + Reinstall for users having this issue and it sometimes worked, sometimes didn't.
+1) If a user was banned, their previous posts are still visible 2) I have left it up so the community could know that this sort of behavior is not acceptable. If I had removed it, users (except for the type that use ceddit to analyze everything mods do) wouldn't know why the warning was issued. 3) Instant bans rarely are effective. Except in the case of the worst trolls, it's generally better to warn someone before taking moderator action EDIT: The user has acknowledged his error and has edited his post to comply with our rules.
+Rover links are referral links - please resubmit your post using the direct link - https://www.ebay.com/itm/192539160634 - and we will approve your post.
+I misread your comment. Either way, reinstalling Windows isn't a practical solution for most users.
+&gt; You could alternatively just go into your BIOS, disable half or more of those cores and be just fine. I'll concede this point, but it would be a bit annoying to have to change your BIOS settings every time you want to game. &gt; Your argument is fail sauce and pretty much invalidates any reasoning to ever purchase a Vega GPU because they use entirely too much power. Not really. In general, Vega uses up to 150w more than the GTX 1080 (without tuning, like undervolting). Running this rig at 5ghz would literally use over 1000w more.
+Don’t know about the legality, but it happens.
+&gt; Try changing to original choice and the back to original plus and see if that changes anything. You can’t do that anymore - both plans are grandfathered
+&gt; We don't see VIA kicking up some badass gaming chip, do we? Actually, VIA (through Zhaoxin) will be releasing 16nm CPUs by the end of the year that will allegedly be competitive with the Ryzen refresh.
+Isn’t that the case for all of Intel’s HEDT parts - i.e. being server CPUs with certain features gimped (and overclocking enabled)?
+It’s one of many reasons I am currently looking for another employer. AT&amp;T has really gone downhill in the past year. They got a tax break that saved them billions, and then the first thing they did was to increase the cost of all of their cellular plans. They’re shutting down American call centers left and right and are outsourcing instead because they have a new troubleshooting system which is basically designed to remove the human from the equation (but it fails to correctly diagnose most SIM card problems). Half of the remaining employees at my call center are currently training agents in the Philippines who will eventually replace them. It’s really a shame. I used to be proud of working for AT&amp;T.
+&gt; VIA's current gen chips are worse than FX by more than a little bit Where are you finding benchmarks for their current CPUs? I haven’t been able to find any benchmarks for the KX-U5680 8c CPU except for a [SPEC CPU 2006](http://www.guru3d.com/news-story/via-zhaoxin-x86-4-and-8-core-processors-launched.html) result vs the 8c Atom C2750, which show it having ~20-30% higher IPC when clock speeds are accounted for.
+Given the controversy surrounding Intel's 28c CPU at Computex, I thought it was worth examining. Phase cooling isn't exactly common, and thus professional reviews of it are scarce. I can only recall two reviews ever of a phase cooled CPU, one being the review linked here, and another of a 3930k (both at 5ghz) but I can't see to find that one anymore.
+Yup. This is definitely an ad, but it’s title isn’t wrong. This product is also one of the few titles where the developer actually bothered to optimize it properly so that it can look good and run great on even low end systems. It’s a shame more developers don’t follow their example
+&gt;I can’t help but think Vega was meant for 7nm from the start but the process wasn’t ready. This certainly explains AMD’s early marketing But.... but.... you’re telling me that it’s not Raja’s fault?! /s
+This is the most upvoted post in this sub as of right now
+Fine, but can this be the last time? This gets posted here every time Intel has a CPU release in one form or another and it’s getting old IMO.
+Vega FE isn’t being produced anymore, so it’s resell value has gone up.
+I’m not upset about it, I just find it mildly annoying. I also moderate /r/AMD, and variations of this meme get posted with every GPU launch. This meme is beyond old. It’s beaten carcass is so bruised that it’s blood has turned into wine.
+Thank you for your input. It will be considered.
+Can you provide a translation of the relevant parts? TIA
+I’m glad to hear this. If anyone else is having this issue and this works for you (or conversely, it doesn’t) please comment in this thread. If we can gather up enough user reports about this issue we can make sure to get this fixed in the future. For now, please go to http://www.amd.com/report Make sure to explain both the previous symptoms and copy a link to this thread so they understand how you fixed it. If enough Redditors submit a bug report AMD *will* listen to our reports and do what’s necessary to fix this
+At $450 the Vega 56 Nano isn’t a bad deal.
+I wonder how they’re going to check against multiple emails. Certainly there are people desperate enough to use VPNs and multiple computers to enter.
+Would you mind messaging us moderators [via modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fintel) so that we can properly verify you? We have a secure system in place that will not compromise your identity that we use because in the past we have had a few people impersonate Intel employees. Thanks in advance EDIT: cyberchief has verified his account with the moderation team
+If we hit “submit” earlier, should we resubmit our entries?
+Yup. When I am talking to persons I suspect of attempting fraudulent activity they’ll usually do something to give themselves away and I’ll do what I can to waste their time. I won’t publicly mention what we look for but I would estimate 95% of the time we’re able to stop these people.
+You could probably overclock Threadripper 2 to similar speeds if you had a x399 motherboard with sufficient VRMs and similar cooling. It would also consume a boatload of electricity but I imagine you should be able to hit at least 4.8 with a chiller
+You think you could cool that with air? Silly kid.
+If you can get 7.2ghz with LN2, would 6ghz be a reasonable target with a chiller setup similar to the one they cooled the 28c CPU at computex?
+You can trust him. The moderation team has verified that he is a Genuine™ Intel® ~~Core i9 CPU~~ erm, employee.
+They certainly are social. And by social, I mean livebearing fish do one of three things as adults: eating, sleeping, and making babies
+Does the link take you to an Intel.com page? If so, it’s legit.
+[PSA: Fix for “Radeon settings version and Driver version do not match” error](https://www.reddit.com/r/Amd/comments/8p48ah/psa_fix_for_radeon_settings_version_and_driver/) Instructions for the fix in the link above
+News flash: Next generation product uses next generation architecture. Up next: Is the Sky really blue?
+I have a 2200g and I've tested it at 2560x1080. For light gaming it will be fine. But if you're going to play anything more intensive than eSports titles you're going to want a dGPU.
+&gt;Freesync/GSync are only useful if you're dropping below your monitor's max refresh rate in games. You won't be doing that with a 1070ti at 2560x1080. Not even 1070ti can consistently provide 144fps at 2560x1080
+&gt; There was an old AMD sub but it was abandoned Which one is that? The only one I can think of was /r/AdvancedMicroDevices, which was created temporarily because this sub was nuked by the original creator.
+&gt; shillboi Can we stop with these petty insults? They contribute nothing of value, and only serve to toxify a discussion.
+&gt; The subreddits of Nvidia and Intel do not, they not surprisingly consider that pretty unacceptable. 1) With the exception of the head moderator, all of the moderators on /r/Intel also moderate on /r/AMD 2) There's no conflict of interest. He doesn't moderate. The only thing he assists with is the CSS aka the subreddit theme.
+https://www.reddit.com/r/ultrawidemasterrace/comments/8qziow/upcoming_monitors_thread/
+https://www.reddit.com/r/ultrawidemasterrace/comments/8qziow/upcoming_monitors_thread/
+&gt;WTF? There shouldn't be a option to flair the post as tech support if this crap is going to happen! I'm not typing up that very long post again. Please remove the tech support flair option so this crap won't happen to other users!! Please post Tech Support questions in the [pinned megathread](https://redd.it/8oijzn) The flair and bot are there for a purpose - for people who don't read the rules.
+&gt; 8700k is the chip for low res gaming, period. Anything 1440p and above on ultra settings, you won't see a difference. It's not the resolution, but the refresh rate, that matters as much - one can always reduce graphical settings to increase framerate even at 1440p. IMO, a better rule of thumb is that even a Ryzen 1600 is fine for 100-120hz. For 120hz+, you're better off with an overclocked Intel CPU.
+Why even bother when most games have CPU PhysX? With any game using the modern implementation of CPU PhysX, you shouldn't see any FPS difference. In Borderlands : The Pre-Sequel, Metro: Last Light, etc. I run the games with full CPU PhysX enabled and the FPS are literally the same within margin of error. The only games I don't advise running full CPU PhysX on are the older games - i.e. the oldest Batman games, Borderlands 2, etc. The version of PhysX in those games is single threaded and poorly optimized resulting in tanked FPS even on an overclocked Intel system.
+I don't know if I would say he sucks at execution. He did very well at Apple and helped them take the lead in ARM iGPUs. I guess we'll know for sure in 2 years. I'm probably being an idealist here, but I'm hoping the increased competition forces both AMD &amp; Nvidia to dramatically increase the quality of their GPUs.
+&gt; intel mods are paid shills so they ban any negative news lolwut have you seen /r/Intel any time a potential security risk is found, or when they screw up by "forgetting" to announce details? All of the most upvoted posts on /r/Intel are negative news. #Top Posts on /r/Intel * 1 A meme video mocking the 5ghz demo * 2 An AdoredTV video titled "Intel : Anti-Competitive, Anti-Consumer, Anti-Technology." * 3 Gamer's Nexus : 28 Cores of Bulls#!t - Intel's "5GHz" Parlor Trick * 4 CPU vulnerability * 5 another CPU vulnerability
+I am working on incorporating a monitor's guide into the FAQ. Here's what I have so far (I will be working on adding other resolutions shortly!): 1) 2560x1080, 25" * We generally do *not* recommend 25" Ultrawide monitors. The reason for this is... well, they're very short. However, if your main use is gaming or watching movies or you really want a high PPI monitor without needing a powerful GPU, then we would recommend any 25" LG monitor. 2) 2560x1080, 29-30" * This is generally considered the "sweet spot" for 2560x1080, offering a compromise between PPI and screen size. For a non-sync monitor, we recommend either **AOC's Q2963pm** or any LG monitor. For gaming, we generally recommend **LG's 29um67** for having the lowest input lag of any ultrawide, good response times, and FreeSync support. For Nvidia users, the only G-Sync monitor at this size is **Acer's Z301C**. It uses a VA panel and has a 144-200hz refresh rate. 3) 2560x1080 34"+ * Users accustomed to high PPI screens will not like using these displays. We don't recommend these monitors for general productivity usage, but they can be great for gaming especially for higher refresh rates (as it is easier to hit 2560x1080@120fps than it is to hit 3440x1440@100fps). For AMD users, we generally recommend either **LG's 34um67** (for it's low input lag and quick response times) or **34UC79g** (for it's 144hz refresh rate). Both of these use IPS panels. There are also a variety of VA panels in this size at varying refresh rates, such as **Acer's XZ350CU**. These monitors do not have the backlight issues that some IPS monitors have, but will have worse response times in certain color transitions. For Nvidia users, we recommend either **LG’s 34uc89g** (144hz, IPS) or **Acer’s Predator z35** (200hz, VA)
+and /u/Cookie_Salesman - I've started creating a recommended monitors list. I'll eventually incorporate it into the FAQ (and change its title to FAQ &amp; Monitor Guide). I've posted what I have so far in the comments of the pinned FAQ thread.
+I had a i5-4690k @ 5ghz when the Witcher 3 was launched - even at 5ghz, it had minimums of 59 in Novigrad. After six or seven months the game patches significantly improved performance and I was able to run it at stock settings and maintain 60+. I recognize that hyperthreading can significantly improve gaming performance on lower core CPU counts, but for most users a 4c/4t CPU will be sufficient for 60fps averages. I haven’t yet tested the 2200g with TW3 yet - I’ll try it out and report back.
+I have a reference Vega GPU but it lacks a cooler.
+1) Reset your network settings. 2) If that doesn’t work , replace the SIM card
+&gt; RX Vega 64 engineering sample How in the world did you obtain one of those?!
+That's very odd. What's your setup?
+What settings are you running?
+What's your CPU usage look like?
+&gt;The first 40 U.S.-based winners of the Intel® 8th Gen Core i7-8086k Limited Edition Sweepstakes (which opened on June 7, 2018 and closed on June 8, 2018) (“Competitor Sweepstakes”) to complete certain steps will be offered the opportunity to exchange their new, in-box prize processor for a flagship 16-core AMD Ryzen™ Threadripper™ 1950X processor built for the gamers and creators who need a processor that can do it all. Those steps will be communicated on this webpage on June 25 at 1:00:00 PM EDT. Check back on June 25 at 1:00:00 PM EDT for complete details on how to participate.
+&gt;The cost of a basic graphics card is similar to the premium you paid to have a motherboard featuring video out in the first place. The "premium"? Crappy $60 motherboards from both vendors have video outputs &gt;There is exactly ZERO situation where an i7 class CPU needs an iGPU. Except when you're having dGPU problems, or you're running a basic server, etc. There are plenty of situation where you need CPU power but don't need GPU power.
+&gt;Getting downvoted LMFAO. God damn there are some stupid fucking people in this world. Get me out of here! How the fuck is this on /r/ultrawidemasterrace? First of all, this is a sub about monitors - not food 2nd of all, you’re being an ass, and we don’t take kindly to that here. 3rd, the best way to get downvoted is to complain about being downvoted
+It sounds like CPU bottlenecking is what's causing the problem. Just Cause 3 really likes powerful CPUs. Unfortunately, JC3 is *very* CPU heavy. It's one of the few games I recommend an i7 or a hexacore Ryzen CPU or better for.
+Huh?! This stickied comment is a summary of AMD's "exchange" offer, the topic of this thread! This post itself was not stickied - au contraire, the only post I have stickied lately is Intel's twitter response to this! I understand that the amount of brigading in this subreddit can be frustrating, but we regularly remove more comments and ban more trolls than you can possibly imagine. If you see someone specifically violating the rules, then use the report button. We'll address it.
+You mean my Ryzen 1600? My dGPU had died and ATM dGPU prices were extremely inflated so I just bought a 2200g instead. (Of course, I forgot I had another GPU in my closet. lol)
+Touche. I've edited the post to clarify this.
+This is the ultimate answer for glow/bleed issues: http://puu.sh/lDz83/b31a64b5e3.png
+In that case, I’ve changed the flair to rumor.
+If it was an article, I would remove it. But as it’s the exact image, I don’t think it should be removed under Rule #6. However, since this is likely faked, I’ve changed the flair to rumor.
+/r/stims is leaking
+I see you don't know how to take a hint either. Hopefully a 7 day vacation will drive the point in. See you in 7 days.
+Rule 3: Be civil and obey reddiquette.
+It's too bad they didn't test the dGPU performance with an AMD GPU as well.
+&gt; Honestly though who fucking cares about HDR and 200hz refresh rates. At this point people will want one or the other since it's a dividing line of competitive FPS gamers and everything else, right? I'd rather they focus on 144hz and low response times than HDR and 200hz.
+The anti-Intel brigading is real. For the first hour this was posted, it was downvoted! On /r/Intel!!!
+&gt; the LG's arent popular here because this sub seems to be mostly gamers who want high refresh more than anything, I'm a gamer and I chose LG's 34um67 because it has a 75hz refresh rate - which while nothing compared to 144hz, is still significantly better than 60hz, and because it also has very good response times, and also because it has the lowest input lag of any ultrawide monitor. IMO, Input Lag &amp; Response Times &gt; Refresh Rate for any FPS gaming (especially competitive)
+I used to have a 32" 16:9 before I switched to a 34" ultrawide and I still miss the vertical resolution.
+And what exactly would you have us do differently? It's easy to criticize, it's much harder to come up with a better plan.
+&gt; Saying anything pro Intel in this sub or bashing AMD has always resulted in a ban. Bullshit.
+Rule #2: Don’t be a dick.
+Q: Is my backlight bleeding bad? A: http://puu.sh/lDz83/b31a64b5e3.png
+&gt; Remove Rule #6 that allows you to basically ignore all of your other rules here, which would mean you can't get out of actually moderating toxic posts just because you think it's funny or "educational" for the people getting dogpiled. A quick look at my comment history and you'll see the only times I've invoked Rule #6 were for hilarious posts and that I both warn and ban people when they get toxic.
+Petition to add /u/XenondiFluoride to the list of known heretics.
+We will censor outright trolling, but we won't censor someone just for being an AMD fanboy. Please use the report button to alert us to comments which do not have any place in this sub.
+If you're looking at a buildzoid review, you aren't talking about minor overclocking. You're talking about LN2 and literal modifications to the hardware. He's very clear when he says products that he would consider inadequate for his uses would be fine for "normal" overclocking. (Re: the controversy regarding the Red Devil RX 470/480 VRMs.)
+I hope you're not implying the boards will blow up. I don't think his comment was a criticism - he was simplying saying the IVRs on existing TR motherboards should be fine.
+&gt; First. Fuck off with the "Bullshit". Alright? Yo. Tone it down. We don't need to turn this thread into a flamefest.
+Rule 2: No referral links, including Amazon! Product links are fine, affiliate or referral links that benefit you are not.
+&gt; When Nvidia gutted their architecture and produced Kepler, it was obvious the route that things needed to go in future Ahh, Kepler. The worst aging GPU architecture of all time.
+&gt; Had intel gave us mainstream 6 core haswell They did. It was known as the i7-5820k, and it was $50 more than the i7-8700k.
+There might be some processing issues with 4k HDR at high refresh rates. We won't know for sure until we see a 4k HDR FreeSync monitor with a &gt;60hz refresh rate.
+&gt; Sure... provided that you would like to turn everything else to play a game. No youtube/twitch playing in background, your browser closed, no discord/teamspeak, no streaming, nothing. Not even mentioning a situation when your code compiles and you have some free time to play a round or two Oh, come on, that's a false herring. I use a Ryzen 2200g with "only" 4c/4t and it handles gaming, having a browser with multiple tabs, discord, etc. open just fine
+&gt; Some ppl getting pissy their 8700k might be obsolete by the end of the year it seems. If you think Intel's most powerful consumer CPU is going to be obsolete because they're going to release another CPU with 2 more cores, you must think that the GTX 1080ti is a bad buy right now because Nvidia might be coming out with the GTX 1180 soon.
+&gt; it is capped at 15GB of full speed internet (after you would get paltry 128kpbs speeds). Technically the original unlimited plus only has 10gb of hotspot, after which the same thing can happen. (Practically, it drops, but not to speeds that low)
+&gt; Not the 2nd best,not the 3rd best.THE BEST I can get There's a huge difference in "merely" owning the 2nd best gaming CPU, and that CPU being obsolete.
+You get an E for effort, but an F for failure. This meme sucks, and has been removed.
+&gt; Your 4690K can't, won't, and never will do 5.0GHz I overclocked a 4690k to 5ghz. Now granted, Haswell CPUs that hit 5ghz are extremely rare (and require extreme amounts of cooling), but that's not to say it can't happen.
+As a moderator of /r/poecilia , this makes me angry
+*if you win the silicon lottery*
+&gt; I had 2 1080tis in x16 and put them dowb to x8 barely even a 5 percent drop Overall FPS doesn't take a huge hit from lesser bandwidth in mGPU, but frametimes are better in x16/x16 vs x8/x8
+What's the difference between the RX 540 in this unit, and the RX 550? Both seem to have the same amount of cores - lower clocks, maybe?
+Please post Tech Support questions in the [pinned megathread](https://www.reddit.com/r/Amd/comments/9u9x5k/november_tech_support_megathread/)
+More likely is that Speccy doesn't understand 9th generation CPUs
+Please post Tech Support questions in the [pinned megathread](https://www.reddit.com/r/Amd/comments/9u9x5k/november_tech_support_megathread/)
+This is news? Really?! Of course the 2048SP version of the "RX 580" is the same as the 2048SP RX 4/570. Did anyone actually doubt this?
+&gt; Reference design cards or aftermarket cards? If I'm going to overclock it, I'll be a reference card with strong VRMs and put it under liquid cooling. If I'm not overclocking it, I prefer a silent but strong dual or triple fan cooler.
+LG's 34UC79-G! It's Ultrawide 2560x1080 and 144hz, has Adaptive Sync and Backlight strobing - and doesn't break the bank, regularly selling for as low as $400!
+RGB is over abused. I don't mind ambient LED lighting, but I dislike hardware that makes me wonder if I'm at a rave.
+Currently, single GPU systems are preferable because of the additional CPU load required by multi-GPU usage, and because of the hit and miss developer support which results in poor experiences 50% of the time. If a "chiplet" style GPU, or a way to make 2 GPUs appear to games as one, were available - I would be much more interested in mGPU again.
+In order of importance: 1) Ultrawide Aspect Ratio &amp; Adaptive Sync Support 2) Response times 3) Input Lag 4) Refresh Rate 5) HDR, ULMB, and other features
+Removed: Belongs in /r/AMD_Stock
+You can pick up a 100hz 3440x1440 FreeSync Ultrawide for less than the price a 34" 60hz 2560x1080 cost when I bought my first ultrawide monitor.
+You're thinking of PPI in 16:9 terms, not 32:9 terms 49" 1440p 32:9 = 2x 27" 1440p 16:9 monitors
+To be fair, the same criticism used to be said of the possibility of high refresh rate ultrawide monitors.
+If you were from the future you'd be sporting a dank Intel Arctic Sound dGPU not Novideo
+RMA the DDR4
+Press X to doubt
+Don't bother with a 120mm model. Those are matched by standard air coolers. If you're going to do liquid AIO , get an Alphacool kit. They have more liquid flow and better, thicker radiators vs standard AIOs. They also are expandable.
+That will be sufficient
+It's generally best to use a direct connection - i.e. no adapters As far as DisplayPort vs HDMI, it only matters if you're using a FreeSync monitor that doesn't support FreeSync over HDMI
+Yeah. Fake CPUs are regularly sold on eBay.
+&gt; Consumer GPUs with locked and unlocked variants. Gigabyte already does that ;) (At least in regards to voltage)
+&gt; 2% better IPC If you're GPU bottlenecked, maybe. If you're not GPU bottlenecked and you use a high refresh rate monitor the difference can be **much** higher than that.
+That's called "Instructions per clock", and despite the misuse of this term - it's not a "one size fits all" sort of thing. IPC will vary based on the type of workload presented. Some things Intel is better at, others AMD will perform better. When you have a 4c/8t CPU Intel CPU defeating a 8c/16t AMD CPU in gaming benchmarks, then it's kinda obvious the "IPC" is *not* the same in that specific workload.
+&gt; and noticeable FPS drop in CSGO as well This is actually an issue with the latest CS:GO patch - right now you can get around this by installing the beta version for AMD GPU &amp; Intel iGPU users.
+Lol I was confused by this comment at first - I haven't seen something go from beta to official this fast before.
+That sounds like it's probably a faulty motherboard. To be sure, do you have other RAM that you could swap and test with?
+I nominate /u/Dan6erbond for [AMD needs to take over driver distribution for Raven Ridge Mobile APUs...](https://www.reddit.com/r/Amd/comments/9uy1zy/amd_needs_to_take_over_driver_distribution_for/)
+I nominate /u/mtrai for [TIL Lisa Su, CEO of AMD is the niece of Nvidia's CEO, President and Co-Founder](https://www.reddit.com/r/Amd/comments/8p9rlf/til_lisa_su_ceo_of_amd_is_the_niece_of_nvidias/)
+I also nominate /u/TERAFLOPPER for [Official Boycott of NVIDIA GPP Partners](https://www.reddit.com/r/Amd/comments/86o2bn/official_boycott_of_nvidia_gpp_partners/)
+I nominate /u/sonnytron [Okay gang, let's see who AREZ really is](https://www.reddit.com/r/Amd/comments/8d2bmv/okay_gang_lets_see_who_arez_really_is/)
+I nominate /u/MasterFanatic for [Intel Commissioned Benchmarks UPDATE (2700X was running as a quad-core)](https://www.reddit.com/r/Amd/comments/9mp04h/intel_commissioned_benchmarks_update_2700x_was/)
+&gt; addition of predatory fish. Which fish?
+I used to throw in a few fry into my goldfish tank for snacks and over the course of the year they started letting them live longer and longer. Now I've got a 60 gallon with 2 big goldfish and a medium group of guppies. I think they realized by letting them have a few adults there are more snacks available.
+&gt; fag This sort of language is not tolerated here. This is your only warning
+Depending on the number of submissions, we may have multiple winners.
+Please post Tech Support questions in the [pinned megathread](https://www.reddit.com/r/Amd/comments/a56mup/december_tech_support_megathread/)
+...and soon, Intel users too!
+* **Best Reviewer post (Gamer's Nexus, HardOCP, Anandtech, etc.)**
+I nominate [Welcome to our very first Ask You Anything](https://www.reddit.com/r/intel/comments/a3ikz8/welcome_to_our_very_first_ask_you_anything/) by /u/PDXcoder2000
+/r/Intel /u/bizude https://www.reddit.com/r/intel/comments/a84zi0/nominatevote_for_rintels_best_of_2018_awards/
+CS:GO is about the only game where I can think of that Intel has that much of a performance difference.
+* **Best Comment**
+That answer varies based on the workload. What sort of benchmarks are you interested in?
+The article mentioned that retailers had it listed for a lower price ($1000) - I'm guessing they had an error in the listing
+/u/Talpss for his comment [here](https://www.reddit.com/r/intel/comments/a84zi0/nominatevote_for_rintels_best_of_2018_awards/ec81ey4/)
+I would like to nominate /u/AMDJoe for [Our Pledge to Reignite Freedom of Choice for AMD Radeon Gamers](https://www.reddit.com/r/Amd/comments/8cx9l6/our_pledge_to_reignite_freedom_of_choice_for_amd/)
+Would y'all be interested in a change where certain things, like build pics, weren't banned per se but only allowed on certain days? Like Build Pic Fridays and Tech Support Tuesdays, for example.
+We have to walk a fine line between enforcing the rules and allowing the content which the community wants. When a post gets hundreds or thousands of upvotes we generally won't remove them if it's not fake news or an absolute shitpost
+This is literally the monitor I have been waiting for years, but given that LG's 75hz FreeSync model is still selling for $1100-1300 I'm scared to think of how much 144hz + G-Sync will cost.
+Having tried LG's implementation of strobing - trust me, you're better off without it If Nvidia made an adaptive sync monitor with adaptive strobing that would make me consider switching to the Green Side.
+Adaptive strobing doesn't yet exist for any monitor yet. However, some G-sync monitors can be modded to support ulmb &amp; adaptive sync support at the same time
+Congrats on your upgrade. I don't like being *that mod*, but box pictures aren't allowed on /r/AMD. Your post has been removed. Please post a picture of your completed build once you've assembled it.
+Only if you're playing old games
+https://blogs-images.forbes.com/johnarcher/files/2018/12/LGBlockingprobinaction.jpg
+None of the above is an upgrade for you unless you need more cores. X99 is stable and overclocks well but uses more energy. But you can get a fully enabled 5930k or 6850k for relatively cheap used if you really need those PCI-E lanes
+&gt; The quality of LG displays are very poor lately. I used to purchase Samsung displays and even a few acers. Switched to LG when I purchased 7 displays needed for my home office and work office. All of them are garbage and can't be returned. Poor colour, wrong colours, no consistency across 3 identical monitors. That's a shame. I've had the opposite experience in my specific niche (Ultrawide monitors)
+&gt; The 7700k is clearly struggling in the video with AC:O and FC5. Its obvious 4 cores, even with HT, are not good enough anymore. If by struggling, you mean matching or beating AMD's 8c/16t CPUs, then sure. According to that article: * Far Cry 5: Ryzen 2700, stock: 80.9 minimum/102.4 average Intel i7 7700k stock : 78.7 minimum/ 114.8 average Ryzen 2700 4.2 ghz : 89.9 minimum/111 average Intel i7 7700k 5.1ghz : 89.2 minimum/ 125.8 average * AC:O Ryzen 2700x (stock) 54.1 min 98.8 avg Intel 7700k (stock) 53.5 min 100.1 avg
+I wonder how this will effect the temperatures of the CPU by having the iGPU disabled, and if that will effect overclocking in any meaningful way. I'm sure Ian will have an answer for that soon - I'll be sure to remind him about that on Twitter ;)
+&gt; less surface to absorb neighboring heat How? The iGPU is still there, it's just disabled. It will literally absorb heat. &gt; Performance in iGPU accelerated work loads will be negatively impacted. No shit sherlock, these CPUs literally won't have an iGPU. Did you even read what I said? &gt;This better come with a hefty price reduction as the iGPU is a HUGE peace of silicon, otherwise this makes no sense even to a simple gamer. I agree with you here.
+You mean like a weekly "Intel vs AMD vs Nvidia recommendation thread" or something like that, instead of allowing "Should I get the RX 470 or GTX 1050ti?" or "i5 9600 or Ryzen 5 for gaming?"
+&gt; A European retailer had the 9900KF listed for 2 euros cheaper than the 9900K WOW! That's the price of a single coffee! How generous of them! /s
+&gt;1 reader &gt;a community for 23 minutes You're going to have to try a lot harder than that.
+Raja! #Arctic Sound 2020
+And Sonic Dash!
+Please post Tech Support questions in the [pinned megathread](https://www.reddit.com/r/Amd/comments/a56mup/december_tech_support_megathread/)
+Please post Tech Support questions in the [pinned megathread](https://www.reddit.com/r/Amd/comments/a56mup/december_tech_support_megathread/)
+Please post Tech Support questions in the [pinned megathread](https://www.reddit.com/r/Amd/comments/a56mup/december_tech_support_megathread/)
+Please post Tech Support questions in the [pinned megathread](https://www.reddit.com/r/Amd/comments/a56mup/december_tech_support_megathread/)
+Please post Tech Support questions in the [pinned megathread](https://www.reddit.com/r/Amd/comments/a56mup/december_tech_support_megathread/)
+Q: Is my backlight bleeding bad? A: http://puu.sh/lDz83/b31a64b5e3.png
+I've mixed endlers and guppies... and now I have a lot of "fancy" guppies with endler-sized bodies!
+I'm told the reason it's so expensive is Afterburner (which is built into the Mac Pro) which is comparable to the Red Rocket X (which is nearly $7k on it's own)
+This was the most active of all of the livebearing subs when I took over this sub, but I didn't create it. /r/livebearers would probably be best, but that sub is also dead (I've put in a request for it though)
+How much RAM do you have, and in what configuration?
+How about other titles?
+It's certainly the best performance per $, but if you're wanting to play more demanding games like Assassin's Creed Odyssey at high settings or better you really need something with more power.
+&gt; They intentionally confused the naming with "GSync compatible" and all that nonsense. As a person who cares about having LFC, but doesn't care about HDR - that's currently the only standard that means a flip to me. Unfortunately, because they haven't even tried to certify any ultrawide monitors yet, it simultaneously means nothing to me.
+They all use it, but currently it's only "standard" is for variable refresh in some form. Technically, a 50-60hz VRR range with flickering falls under that "standard"
+A man can dream, right?
+I agree. However, because HDR is *required* for these monitors - it leaves the vast majority of the market out.
+...the only thing that requires is Adaptive Sync compatibility. You could have a monitor with a 55-60hz range and it counts as "VESA Adaptive Sync"
+You shouldn't have to do anything outside of enabling it in your monitor's OSD + your drivers
+&gt; Edit: V-sync! That's one of the settings that kills Freesync. That should *never* be the case - so long as you have a monitor supporting a decent Variable Refresh Range. In fact, initially G-Sync forced V-Sync on.
+The worst AMD products I ever had: A MSI b350 &amp; x370 motherboard
+TLDR: Ray Tracing is hard
+Tech Support questions are only allowed in the the [Q2 2019 Megathread](https://www.reddit.com/r/Amd/comments/bbag0d/q219_tech_support_megathread/)
+This video shows both CPUs "winning" about half the time. That's what I call a "draw"
+/r/VIA, and it's as dead as the company is
+&gt; You have to think, if he's willing to take such radical liberty with something like this can you really expect fair judgement in all cases from him as a moderator? I might have an unpopular opinion, but that doesn't influence my moderation. Sometimes Reddit agrees with me, sometimes it doesn't. I say things as I see them regardless of how the majority does. I really don't believe in moderation unless it is absolutely necessary, and I won't remove a comment or post unless it is uncivil or explicitly against the rules - even if I think it's a dumb post.
+Steve tasted 8 games in total In the scenes he tested, you had 4 titles that were clearly wins for the Ryzen 1600 You had two which were draws - Hitman 2 &amp; Rage 2, and two titles that were clear wins for the i5 - Far Cry &amp; World War Z So yeah, I'm going to call that a draw until I see a larger sample size.
+You're confusing denial with disagreement. I don't consider either CPU superior to the other for gaming Steve only tested 8 titles, but in the scenes he tested, you had 4 titles that were clearly wins for the Ryzen 1600 You had two which were draws - Hitman 2 &amp; Rage 2, and two titles that were clear wins for the i5 - Far Cry &amp; World War Z That's not a large enough sample to declare a clear winner - more benchmarks are needed.
+You misunderstand I'm annoyed that AMD's only certification which means anything - FreeSync HDR aka FreeSync 2 - requires HDR, because I am not in the market for an HDR monitor but I still want one capable of LFC.
+TLDR: In some games, 21:9 has a higher CPU load. In DX11, Hitman 2 has an average FPS of 72 using CPU bottlenecked settings and a Ryzen 1600 at 16:9 1440p &amp; 1080p. When switching to 21:9, this drops to 63fps (at both 3440 &amp; 2560). This discrepancy disappears when switching to DX12 with an average of 80fps across all resolutions
+6 cores is minimum for high refresh rate gaming, but a good quad core is still sufficient for 60fps in most games
+Benchmarks, please and thanks.
+I'm slightly disappointed with the performance of the last 3 titles as I prefer 80+ fps which isn't feasible even with lowered settings and so I'll usually run those games at 2560x1080 for higher framerates That being said, even 50fps is perfectly playable.
+&gt;All you have confirmed is it is having a more difficult time because there is more pixels. You didn't prove that it wasn't the GPU. If this were the case, then why does 2560x1080 have a lower FPS than 2560x1440? 16:9 1440p &gt; 21:9 1080p in pixels, and thus should be harder to push. 720p, 1080p, &amp; 1440p all have the same framerates at these settings 2560x1080 &amp; 3440x1440 have the same *lower* framerates using the same settings. It's entirely CPU bound. But, to be fair, I'll be testing the same scenario on an Intel CPU soon.
+What resolution is this?
+The question is: What's the chiplet to chiplet communication latency, and does this impact performance in any meaningful way?
+&gt; and msi x370 with the least issues.... Heh, my issues with 1st generation Ryzen motherboards were so bad that I'm never buying a MSI Ryzen motherboard ever again.
+Damn. Strange Reddit didn't catch it. Post deleted.
+&gt; x370? or b350? Yes
+You don't want to turn on V-Sync in his case : this monitor only has a 52-75Hz range, meaning if he's below 52fps and has V-Sync on = traditional V-Sync stutter
+Your monitor doesn't have the greatest freesync range, only 52-75fps. So if you have V-Sync on, and drop below 52 for a fraction of a second, then you'll get stuttering and drops. I would first start try to lower your FreeSync range, if you can get it down to at least 37 then you should be able to have FreeSync work 100% of the time and use V-Sync or a frame limiter.
+I don't know why they haven't already done this. Theoretically Ryzen 1xxx/2xxx CPUs could support 8 more PCI-e lanes
+&gt; In that situation I would actually rather just have the 60fps because it’s acceptable. You could even turn down the settings, which I would do. That was with "Medium" graphics settings. Low looks like crap, and only gains like 10+ more FPS. It's not worth dropping settings further.
+Both you and /u/EnigemCenia need to take a chill pill
+Early adopters of high end ultrawides are always subject to a bit of a lottery when it comes to panel quality, regardless of whom makes it. I recently purchased the 34uc79-g and it has virtually no BLB, but YMMV
+Also AMD: [Fury X's 4GB HBM "exceeds capabilities of 8GB or 12GB" ](https://www.reddit.com/r/Amd/comments/3xn0zf/fury_xs_4gb_hbm_exceeds_capabilities_of_8gb_or/)
+That doesn't mean it exceeds the capabilities of the 12gb, especially when the Fury X a more powerful core powering it. At the end of the day, both companies have plenty of faults to go around.
+*laughs in Assasin's Creed: Odyssey*
+How is that a personal attack? &gt; smug·ly - adverb - in a way that shows excessive satisfaction or pride in oneself. "I smiled smugly to myself"
+&gt; For the longest time, they claimed that AMD GPUs have much higher driver overhead (ie. using more CPU cycles for a given frame) when it's the reverse. I don't think this is as "cut and dry" as you might think. There are some games (Hitman 2, DX11 comes to mind) where AMD GPUs perform 15-20fps worse than Nvidia GPUs when neither is bottlenecked by the GPU.
+&gt; I'm CPU bottlenecked all the way to 1800p with my CF setup Crossfire increases CPU load, you'd likely have a better experience with it turned off in that game.
+&gt;That's funny I play that one in 4k max settings. Sure.... at maybe 20fps A GTX 1080 falls below 60fps with maxed out settings in AC:O.... **at 1080p**!! https://imgur.com/a/q5n9PG0
+Wait a minute... Something is off here. Nvidia's list of G-Sync Compatible monitors includes *zero* ultrawide monitors. Yet, this chart says that 6% of "G-Sync compatible" monitors are 3440x1440
+I'm sticking to 2560x1080@144hz myself
+Battlestation posts are currently only allowed on the weekends (Friday, Saturday, and Sunday). Please repost your build then.
+I don't pretend to be a professional reviewer, just an enthusiast. To clarify - at default settings, the colors were somewhat washed. Adjusting the gamma settings alleviated this, but resulted in either the darkest or brightest colors becoming indistinguishable. The scene was definitely not supposed to be so dark you can't see anything - it was fine when gamma was changed and on an IPS monitor.
+&gt; way to not accept your wrong but dance around to avoid the hit on your ego. you have a learning disability Rule 1: Be civil and obey reddiquette. Use of slurs of any kind, racial, homophobic, or whatever, in any context will result in a ban. This includes derogatory comments such as "retard", "shill", and so on.
+&gt; 0% of the games ryzen did stutter. While that cannot be said about Intel offering. Maybe one day Intel will fix the stuttering. My first generation Ryzen system encounters occasional stuttering in newer, more CPU intensive titles like Shadows of the Tomb Raider &amp; Assassin's Creed: Odyssey
+Depends on the games. With many games, that's true. There are some games that my framerate is the same at both 2560x1080 and 3440x1440, because they are CPU limited.
+Maybe in the absolute newest of titles, but even in Hitman 2 I'm CPU bottlenecked to 90fps (avg) using a GTX 1080 with a Ryzen 1600 in DX12 mode.
+&gt;The difference between a 2600k, 7700k and 1600 is irrelevant to the 98% of people who don't game at 1080p using a $700 videocard. Strawman. You can notice a difference between those CPUs at both 1080 &amp; 1440p with GPUs less than half that cost, like the GTX 1660ti.
+&gt; There are a handful of niche titles where this is true It's more than that. It's pretty much true in most games I play released since 2014. Tomb Raider games (Rise and Shadow, not TR 2013), the division, total war games, Watch Dogs 1 &amp; 2, Assassin's Creed, etc - I am CPU bottlenecked in most games I play unless I apply the highest of graphics settings. And even then, with a GTX 1080 and a "low" resolution of 2560x1080 I am CPU bottlenecked 57% of the time in Shadows of the Tomb Raider with ultra settings + TXAA
+&gt; CS1.6 isn't perceptibly better on a 9900k than a 3GHz Pentium 4 despite 3x IPC and 70% more clock speed and 8x the cores and threads That is not true at all CS:GO is one of the few titles so single threaded that the benchmark from the "Principled Technologies" benchmark of the 9900k vs the 2700x didn't change even after fixing their game mode error -that is, the 9900k's had over a 40% lead in that title compared to the Ryzen 2700x in both 4/8 and 8/16 modes.
+Despite the unusual amount of reports, this posting is staying up. If you disagree with this posting, please explain why in the comments and/or downvote it if you feel necessary - but it does not run afoul of the rules and is not being removed.
+I prioritize framerate over fidelity to a certain extent. I'll only aim for ultra if I can maintain 100-120fps, I like to maintain averages of ~90fps if possible so usually high (but not highest) settings are attainable with my GPU+CPU, but there are some exceptions where I'm both CPU **and** GPU bottlenecked - like Assasin's Creed: Odysseus
+Yeah, those people don't know how to run games with medium or high settings. They like to make CPU comparisons with Ultra settings - which masks CPU bottlenecks even more than higher resolution does. In games like Assasin's Creed: Odyssey, Ultra settings will GPU bottleneck a GTX 1080 to ~60fps, even at 1080p. 1440p Ultra in games like that will hammer even a 2080ti.
+&gt; A 40% boost when you're at "hundreds of frames" per second has basically 0 benefit. Input lag continues to decrease even if you're pushing much further than your monitor's refresh rate. This may not be very useful in single player games, but in competitive gaming it's a different story. Most pro e-sports players don't care for Adaptive Refresh as much as the general population - because most of the time, they're operating outside their maximum refresh rate anyways.
+Please comment about this issue in the stickied thread: https://www.reddit.com/r/intel/comments/c22b42/oneclick_overclocking_with_the_intel_performance/ An Intel employee commented in that thread that they are letting Customer Relations know about the issues mentioned there.
+&gt;LG 34UC79G I have this monitor and it has my full recommendation.
+Their last generation product had performance comparable to Intel's Atom CPUs. So while this isn't exciting when you compare it to IceLake or Zen 7nm, this is a huge step forward for Zhoaxin.
+ZhaoXin is a partnership between VIA + The Shanghai Municipal government. Their designs are based upon (and improved versisons of) VIA's x86 CPUs.
+Try it out in person. I personally don't mind the lower PPI of 2560. And trust me - you don't want to try to push 3440x1440 with a GTX 1060
+Please comment about this issue in the stickied thread: https://www.reddit.com/r/intel/comments/c22b42/oneclick_overclocking_with_the_intel_performance/ An Intel employee commented in that thread that they are letting Customer Relations know about the issues mentioned there.
+Update from Lisa's Twitter: https://twitter.com/gfxlisa/status/1143670938027712512 &gt;We will put together a full view of what we are enabling, the limitations and screen shots to help discuss further. Will circle back here when ready.
+Yeah, you're going to want dual-channel RAM for a better gaming experience. i3 would be slightly better but it's not worth paying extra money to sidegrade like that IMO.
+PSA: Intel's adoption of Integer Scaling happened as a result of user feedback initially posted in [their Discord Server's #suggestion-box channel](https://discord.gg/qRkVx53), "Odyssey" events, and [their last "AYA"](https://www.reddit.com/r/intel/comments/bh9hqh/intel_graphics_aya_starts_at_9_am_pacific_we_want/elr80v8/?context=3)
+Heh, not only should she do well with guppies and endlers but there's a small chance that they'll do the deed with her and produce hybrids.
+I have the opposite problem :|
+I'm guessing the 2% is from tasks that are entirely single threaded, and the 30% is from tasks that are well multi-threaded.
+Stock turbo boost is 5.2ghz, with a "Velocity Boost" of 5.3ghz - so I imagine 5.4/5.5ghz might be a common overclock with 10th gen.
+&gt; bought the 9900ks thinking it's gonna be the faster processor for at least 1 year... damn I was wrong The release window between top end CPUs has been increasing thanks to having actual competition. i7-6700k release date: August 2015 i7-7700k release date: January 3, 2017 i7-8700k release date: October 5, 2017 i7-8086k release date: June 8, 2018 i9-9900k release date: October 19, 2018 i9-9900ks release date: October 30, 2019 &gt;time to pay the finance off and buy a cpu every damn year ? Thanks Intel You should never finance something like a CPU. If anything, you should be thanking AMD for forcing Intel to be less stagnant. It's not like the 9900k is going to be outdated anytime soon.
+If that's true, then you should be able to show a variety of benchmarks of titles where the i7-9700k is beaten by Ryzen 3600/x. I'll wait
+&gt; AMD had 4c8t in 2013, 8c16t in 2017 and 16c32t in 2019. They had 4 modules/8 cores in 2013, not 4 cores/8 threads. AMD didn't adopt SMT until Zen was released, Bulldozer &amp; it's derivatives used CMT.
+&gt; I guarantee you the Ryzen 2700x will outperform the 9700k at some point over the next 5 years. ...by the time that happens, if it ever happens, both CPUs will be obsolete
+Removed: Rule #3: Memes, direct image links, and low effort content will be removed. This includes both posts and comments.
+What's a CIR port?
+The 9700k has better gaming performance, but the 3700x has overall better value. If you are going to build a gaming rig with an Intel CPU, wait for Comet Lake - you'll probably be able to get a 8/16 CML CPU for the price of the 9700k.
+Good find - I'll pass this along to Intel for correction.
+I'm using a MSI MPG z390 Gaming for both my brother's i5-9400 build and my i9-9900k build, my only "complaint" is that it has "only" 2x NVMe slots.
+I'm using MSI's MPG z390 Gaming Plus for two rigs - one with a i5-9400, one with a i9-9900k.
+MSI's AMD motherboards are known to have issues sometimes, but I've never had any problems with their Intel products. Despite being a cheap z390 board, it handles my 9900k well even when overclocked to 5.2ghz.
+IIRC only z370 &amp; z390 boards support RAM above 2667
+&gt; Also should mention that I run three monitors He's running 3 monitors, so if he's running all of them while gaming that's actually a significant load - 3/4 of 4k.
+Are you running the games on a single monitor, or all 3?
+It's a bit early for doom and gloom &gt;Intel tells us that it will reveal more details about [...] Tiger Lake processors this week https://www.tomshardware.com/news/intel-teases-comet-lake-h-ghost-canyon-nucs-and-tiger-lake-processors
+Looks like we have an Xe sighting: https://twitter.com/jdarrenmcphee/status/1214343219992907776
+Centaur, VIA's CPU division, recently announced a new line of x86 CPUs that specialize in AI. Check it out: https://www.businesswire.com/news/home/20191118005199/en/Centaur-Demonstrates-Industry%E2%80%99s-High-Performance-x86-SoC-Server-Class
+More accurately, games which you are noticing the differences in utilize 8+ threads.
+Samsung's latest VA panels are a world of difference vs older, slower VA panels I used to be an "IPS Shill", but I currently have Nixeus' EDG34 (which uses a new Samsung panel), and I'm very happy with it's response times.
+BT devices with AptX support shouldn't have any issues with audio latency
+Unfortunately, since the "Pro" label only applies to 120hz+ monitors, this will continue to be a problem.
+Are you encountering any issues like stuttering? What framerates are you getting?
+That's fair, but even a Ivy Bridge i5 CPU can handle 134fps in this title according to [DSOG](https://www.dsogaming.com/pc-performance-analyses/apex-legends-pc-performance-analysis/), and [GameGPU](https://gamegpu.com/mmorpg-/-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B8%D0%B3%D1%80%D1%8B/apex-legends-test-gpu-cpu) even shows an i3 4330 as able to average 120fps in Apex.
+The permanent ban was a mistake, it was immediately changed to a temporary 4-day ban.
+Do you have one or two sticks of RAM?
+What graphics settings?
+Your title is false clickbait. It is not against the rules to mention or discuss AMD products on /r/Intel. It is, however, in violation when the thread is about only Intel products. I.e. if someone asks what CPU to pick for their next build - suggest what you will. But if someone is asking only about Intel products, i.e. "9700k vs 9900k for a gaming build", then it's not appropriate. I am the moderator who *temporarily* banned that user and I stand by that decision.
+Thank you for your submission! Unfortunately, your submission has been removed for the following reason: * It is a "What should I buy?" type question. * It is unsuitable for /r/hardware. It should instead be posted to /r/monitors. Please read the the [subreddit rules](http://www.reddit.com/r/hardware/about/sidebar) before continuing to post. If you have any questions, please feel free to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2Fhardware).
+We don't know that yet - Intel did just cut their HEDT pricing in half, I would imagine we'll probably see them price their desktop line more competitively as well. If they don't... well, it's probably DOA
+&gt; No sub gets brigaded more than r/amd by Nvidia fanboys during GPU launches for instance. /r/Intel gets brigaded rather frequently. There isn't a day that goes by I don't have to remove AyyMD-style trolling posts, and our discord server gets raided at least once a week.
+This post isn't showing correctly on "old Reddit" - I've referred the error to admins. Below is the text of Joe's post: ------------------------ In one week (Jan 16th, 9AM PT) we will be hosting our next AYA on r/intel! Come let our engineers and execs know what graphics software features and experiences you want to see brought to life in your favorite games and applications! Last year (or should I say decade lol) we flipped the Reddit AMA on its head and hosted our first two Reddit AYAs (Ask You Anything), where we ask YOU the questions. For the AYAs, we get a bunch of our engineers and graphics execs on a call together and engage with the community directly on a thread for an hour or more. Asking for your (the community's) feedback and then actually going and making some of the requested changes. (more on the way btw) See our past AYAs here: First : Second Our next AYA is on Jan 16th at 9AM PT on r/Intel! Come help shape the future of the graphics software features and experiences we'll be providing! See you there? Also, seen the DG1 SDV yet? We showed it to press yesterday and are sampling to software partners now, what do you think? (I've also noticed some rumors floating around on Reddit - DG1 will be a consumer part)
+I've also run into this problem on "old Reddit" I have posted a stickied comment with the text, and will refer the issue to Reddit's admins
+The Lenovo flex 15 has the best specs overall
+For most users, 8gb is sufficient. What sort of tasks are you using it for?
+I could care less whether they are "professionals", or not, as long as their reviews are quality. Plenty of so-called "professionals" make horrible reviews. On the other hand, some non-professionals like buildzoid make excellent reviews.
+Before it was cancelled, [Intel demoed Ray Tracing on the Larrabee GPU](https://www.techpowerup.com/68545/quake-4-run-ray-tracing-enabled-on-intel-larrabee) 12 years ago.
+You're being downvoted, but you're not wrong.
+This... seems off. A 9900k gets 87.2fps [in the same benchmark](https://www.hardwarezone.com.sg/feature-amd-ryzen-9-3900x-review-ryzen-7-3700x-intel-core-i9-9900k-gaming-cpu-performance-specs-features/gaming-benchmarks-5)... with a *single* GPU, and Crossfire increases CPU load - so color me skeptical about a 4c/8t CPU getting 80fps in this benchmark.
+...I play this game
+&gt; I only ever used the one click easy tune but I'm sure it was on normal at the time in the bios. Those automatic overclocking tools have a habit of giving CPUs much higher voltage levels than necessary. It may have caused your CPU to degrade. Try downclocking your CPU, and see if that helps.
+&gt; Sorry to all the salty Intel fanboys. 1) Comments like this only serve to inflame conversations, and are unwelcome on /r/Intel 2) Please refrain from posting the same comment 5x in the same thread.
+&gt; I'm pretty sure this thread is in response to the AdoredTV article I'm not competing with Jim ;)
+I have a noctua nh-u12s cooling a i9-9900k and it handles it fine even at 5ghz
+What device are you using?
+In that case, the easiest way would be to connect one monitor via HDMI, and the other screen via your USB-C port using a USB 3.1 Type-C to DisplayPort Display Adapter or USB 3.1 Type-C to HDMI adapter.
+Yeah, but it will cost more. You'd have to use a hub, like this one: https://www.amazon.com/Cable-Matters-DisplayPort-Featuring-Resolution/dp/B07XYCHGQM/
+&gt; Also, our viewership from reddit is less than like 1% of our total views Out of curiosity, how do you determine that?
+&gt; you sound incredibly stupid. Rule 1: Be civil and obey reddiquette. Uncivil language, slurs, and insults will result in a ban. This includes comments such as "retard", "shill", and so on.
+&gt;Am I missing anything? Nope. The 750 is better in every way.
+I'd be interested in the Cosmonaut Shotgun DLC
+Nice. Pair that with an Ultrawide monitor and you'll be set ;)
+OK, so I ran a variety of game benchmarks at low and high resolutions and the highest system power consumption at the wall was 424 watts. You'll be perfectly fine with a 650w PSU.
+As I mentioned in the other thread, I'd like to see the bug reporting form integrated into the software suite - and have it collect some of the information automatically which you currently have to fill out manually when reporting bugs (such as the CPU you're using, OS, driver version, etc.)
+AsRock Phantom Gaming 7 or 9
+&gt; Do you overclock your GPU? Yes, at 3440x1440 I need every ounce of graphics horsepower I can get &gt;If so, what features would you most like to see in an overclocking utility? I'd like to see a graphics stress testing feature, similar to Intel's Extreme Tuning Utility's CPU stress testing option.
+Dragon Age: Origins
+I don't know if it makes it more likely, but if the game doesn't run well on my graphics card I'm certainly *less* likely to buy it.
+&gt; When you're playing a game that's been optimized for a different graphics vendor, have you had any negative experiences? When the Witcher 3 first was released, some of the fancier graphics options performed horribly on Radeon hardware (due to excessive tessellation IIRC)
+&gt; Do you manually customize your game settings or do you use a control panel? I generally manually tune, but I would really like to see a control panel which adjusts those for you based on a target framerate (30, 60, 90fps, etc.)
+Higher refresh rates - smoother image quality, lower input lag. Higher resolutions are nice, but *only* when you can maintain a good framerate. I have a 3440x1440x144 monitor, but I sometimes switch back to my "low resolution" 2560x1080x144 monitor for better performance
+Adaptive Sync Support Refresh Rate Resolution HDR Support
+For the most part, it's great. But everytime I attempt to click the preferences button, it crashes.
+Another issue: I just tried updating my graphics driver using the Intel driver update tool, but it's telling me my OS isn't supported. I'm running Windows 10.
+&gt; Joseph Seed instead of Joseph Smith was a pretty dead giveaway. FTFY
+If you post in [this thread](https://www.reddit.com/r/intel/comments/ej2wuu/new_decade_new_january_technical_support_thread/), an Intel representative will assist you with your issue.
+You asked for it - so I've stickied your post. Update it with the suggestions made by users in the comments, please ;)
+Look, all the plus signs and whatnot - most of that is just marketing What it basically means, is that they're able to refine a process and make it more efficient as time goes by. The first 14nm 8c Broadwell CPUs could only initially hit 4.3-4.6ghz with an overclock and consumed more energy to achieve those speeds in comparison to the i9-9900k In AMD, you've seen this occur even within a generation. The launch Polaris GPUs often required higher voltages to maintain the same speeds, but as the process matured the same cards often had lower voltages a year after launch
+Also: Intel performs better in workloads sensitive to latency, such as audio production
+&gt; I recently upgraded to 9900k from Ryzen 5 1600x(1080 Ti@1440p) and while the performance is better it's not really that drastic. It might not be as noticeable in averages, but I noticed a significant uplift to minimums in games like Shadow of the Tomb Raider (I also switched from a Ryzen 1600 to a i9-9900k)
+What games are you playing? At what resolution?
+&gt; AMD fans live in a delusion, but as long as they keep buying that crap Please don't antagonize the AMD fans Intel trolling is just as bad AyyMD trolling
+TiL! I didn't realize they had increased the cache size for the quad core model. Even the i7-9700k only has 1.5mb cache per core.
+Have you tried streaming using nvenc instead of the CPU?
+&gt; If this is true It's not
+Removed: **Rule 2**: *No Unoriginal Sources, Referral links or Paywalled Articles*
+You'll be pretty much GPU bottlenecked at 3440x1440
+I wouldn't even bother with a CPU upgrade if you have a 100hz screen. There are a few games which the 8400 won't sustain 100fps in, but not many.
+Would be nice to see "in between" refresh rates tested too, like 100hz in addition to 60 and 144hz.
+Yeah, it would be fairly significant. The optane module will speed up your most commonly used 16gb of files, but that's it. You'd be far better off with a NVMe drive.
+Shouldn't you be using the original source? https://www.matrox.com/graphics/en/press/releases/2020/nvidia-partnership-graphics-cards-video-walls/
+I'll forward this to Intel
+&gt;The company said if you did install it into a motherboard's PCIe slot and run power to it, the Compute Element would boot and run just fine. It just wouldn’t be able to talk to the motherboard it’s plugged into, nor would it be able to access an adjacent GPU. If these boards had HDMI-in ports, they would be killer for a dual-PC streaming setup
+Intel responds: &gt;Hey folks. First of all, we’re so sorry. We hate disappointing our customers and will do our best to make things right. Unfortunately, sometimes things are beyond our control. We are working hard to resolve this issue as quickly as possible. We really appreciate your patience. More news to come. https://www.reddit.com/r/intel/comments/eta6qj/intel_continuously_not_delivering_on_promo_code/ffg6pyu/ EDIT: Codes are available again! See the reply to this comment.
+Have you considered the Nixeus EDG34?
+They're all 3440x1440 Sure adaptive sync won't work across all of them at the same time, but otherwise he should be able to use them simultaneously
+MSI MPG z390 Gaming Plus - It cost me $150 and handles my i9-9900k even with an overclock. It's only downside is the lack of built-in Wifi
+Are you using the old control panel, or using the new Intel Graphics Command Center?
+That's perfectly fine. Intel's CPUs are designed to operate at up to 100c
+&gt;I've read that one guy just tap the screen and broke it. Yeah, maybe if he tapped it with a hammer LG screens, like all other monitors, are fragile - but you don't need to treat it like a brittle antique.
+1) Paying $250 for a RX 580 is highway robbery - you can get one for $160. 2) RX 580-level is good for 2560x1080, but don't use that GPU for 3440x1440
+Wish granted. But not for the comment you made, it doesn't break /r/Intel's rules
+&gt; Yea, you're a fucking idiot. Please don't resort to insults like this. Ignore ignorant users and move on. Thanks.
+&gt; https://i.imgur.com/87sjxQB.png Stock 9900k 121.5fps, 3800x 108.5fps &gt;https://i.imgur.com/fXW0R1z.png Stock 9900k 140fps, Stock 3800x 119.1fps &gt;https://i.imgur.com/ek0SJob.png Stock 9900k 169.9fps, Stock 3800x 143.9 &gt;https://i.imgur.com/qG3UthC.png Stock 9900k 136.2, Stock 3800x 119.5 &gt;https://i.imgur.com/W2xQ7pg.png Stock 9900k 179.1, Stock 3800x 164.1 &gt;https://i.imgur.com/EzpWHn3.png Stock 9900k 312.8, Stock 3800x 279.3 &gt;Now we just wait for someone to show up and call these "unrealistic" or "biased" Actually, I'm wondering why you posted them.... none of these benchmarks show the 3800x beating the 9900k
+PSA: While Eve is claiming these monitors are FreeSync Premium Pro Certified, they have not been yet certified according to AMD's website.
+PSA: While Eve is claiming these monitors are FreeSync Premium Pro Certified, they have not been yet certified according to AMD's website.
+&gt; Optane... Do people realize how big a jump it is and how important it is that it comes to the mainstream market asap. &gt; &gt; Its as big a jump as HDD to SDD was, literally and without exaggeration. This is truth. I'm using a Intel Optane 905p (480gb) as my boot drive and for all of my applications, and everything feels so much snappier since I set it up.
+A Samsung EVO
+Wait... there are modern GPUs that can't run this at 144fps? How did they screw that up?
+Oh? How high is "quite high"?
+We will have also have /u/SceptreMinion from Sceptre Inc's Monitor division and /u/GBT_Brian, /u/GBT_Van, and /u/GBT_John from Gigabyte
+Looking forward to it Peter. Thanks for helping us make this happen.
+&gt; What is your experience overall with Ultrawide if you don't mind me asking? &gt; &gt; I want to purchase an ultrawide monitor but I'm afraid of compatibility issues. The vast majority of games will work with ultrawide, no tinkering required. A few will require things like ini edits. But here's the thing - even if the game doesn't support ultrawide, you can still run it normally! It'll just have black bars on the side.
+To clarify : 1) By next Friday, I actually mean *this coming* Friday 2) The mods will be monitoring this thread and choosing from the best questions in this thread. We will submit the questions to the reps by Wednesday 3) Due to overwhelming support in this subreddit, we will likely host the actual event on Friday on both /r/Monitors AND /r/hardware
+source: https://discord.gg/2fS7XWE
+&gt; quote Intel on the above please. FTFY /s Don't worry, most people understand the difference between an employee speaking on their own and an employee speaking on behalf of the company :)
+&gt; This was a support forum with very few posts a day until a few months before amd launched ryzen, Then came in a swarm of people pushing ryzens and subs blew up, and theyre still here. Truth be told, we've had an increase in just as many Intel fans in the past few years too. /r/Intel is growing at a very fast rate. We're on track to hit 120k+ subscribers by the end of the year if our growth rate sustains itself- and when I started we had 15k. We've had to increase the amount of moderation as a result, because we do get brigaded somewhat regularly, but I think this sub is a much better place than it was a few years ago.
+Centaur (VIA) is coming First only in the x86 market with their specialized AI &amp; AVX512 CPUs But hopefully soon in the consumer market
+&gt; Aren't Hardware Unboxed the Principled Technologies of AMD? They have a tendency to run GPU bottlenecked CPU benchmarks, so in that sense they are typically slanted towards AMD, but their GPU comparisons and their Monitors reviews are top notch. One could argue that their benchmarks are more indicative of "real life usage", but that is a matter of personal preference. I wish most reviewers would use medium settings in their comparisons, and *sometimes* Hardware Unboxed will do so
+Atom by it's nature is a low power potato But next gen atom is going to be a lot better
+38" 1600p 24:10 is pretty nice
+Look at this guy, he doesn't ge tthe difference between the LG 3971HK372901973-B and LG's 3971HK372902973-G Isn't it obvious?! /s
+Until recently, I was still seeing a lot of prebuilts at walmart with i7 7700 CPUs and RTX 2070 GPUs. 7th gen has an end date of October 9, 8th gen is December 18. That's going to free up a lot of their production towards Rocketlake, tbh. Hopefully no shortages at launch?
+*You have been banned from posting to /r/hardwarememes* /s
+&gt; I'm sorry you are broke and have to get AMD These sort of comments are not welcome on /r/Intel
+&gt;Who are you? Do you work for Intel? I do not work for Intel, but I am part of a feedback group for Intel I'll let them know about your logs
+The GL750 will have a much better panel Don't buy the UC79 unless you get it for a killer price.
+&gt; there was no way they would release a new series 5-6 months after the new one. Broadwell i7-5775c: June 2, 2015 Skylake i7-6700k: August 5, 2015
+Just for science, I re-ran a few of my games (Far Cry V, Hitman 2, Shadows of the Tomb Raider) and I'm getting 19% lower framerates on average (2560x1440 vs 3440x1440)
+I'm surprised he didn't try a force installation of the Radeon drivers (in Windows)
+You'll find out by the time the plants have grown
+It sounds like a conspiracy
+Has he done any videos like this, but comparing Intel's iGPU performance?
+If it has DisplayPort, it should be good enough to drive LG's "5k" Ultrawide I've used a 9900k via the Intel iGPU via DisplayPort to power 3440 x 1440 x 144hz, and it worked fine - and that's less demanding than 5120 x 2160 x 60hz
+This worries me. Jim should be leaving because of "Project Complete", not "Personal reasons"
+I'm using a 9900k with a Noctua NH-U12 You'll be fine with an air cooler
+Rule 2: Don't be a dick. No racism, sexism, personal insults, harassment, etc. Be civil, please.
+the i9-9900k will work with a z390 motherboard
+The i5-8400 is still a decent chip for gaming. You could upgrade it, but personally I wouldn't. If anything, I'd upgrade your GPU - but honestly, I'd wait for next gen GPUs before doing that.
+Does his laptop have a dGPU? Because if you're connecting it via the iGPU, it might not work at 144hz
+In games you'll notice a pretty significant improvement from arch improvements + higher frequencies alone, not to mention the additional cores.
+Try unplugging everything. Make sure the motherboard is connected to the case properly, and then only plug in the bare essentials.
+TIL I can't read
+If Optane is crap, then what do you consider good?!
+I saw the link on Twitter when I was on my phone, I didn't realize it had an annoying AMP built into it
+Probably because the market for &gt;27" monitors is very small
+&gt; NO account should be able to post more than a few times an hour Uh, why not? The user mentioned spam comments, and sometimes I'll make a bunch of comments in an hour
+The last I checked with Intel, they reaffirmed their commitment to releasing a consumer dGPU by the end of the year Practically speaking, however, that likely means DG1 in laptops.
+How much did it cost you?
+&gt;I have a Corsair H100i V2 for my cpu cooler, and feeling the intake and outtake lines I can certainly say the cooler is taking the heat out and putting cooler water back in. Either it's not pumping quickly enough and your pump is failing, or you should re-apply your paste.
+Get a 3600, because it's impossible to find a 3300x right now
+What cooler are you using?
+uh, b360 boards can't overclock
+My Vega 56 literally died - first artifacting, then blackscreened - during a driver update. As a result, I'm now running Nvidia.
+I'm having a similar issue, but from the other side. I've been trying to get a 3300x, but every site is always "out of stock" or "pre-order"
+Not bad. /u/Talpss tested his 4900HS and it got 25fps https://adoredtv.com/tiger-lake-xe-lp-graphics-runs-battlefield-v-at-20-higher-fps-than-renoir-4900hs/
+&gt;How is that supposed to be impressive? Ryzen 4900HS gets ~25fps in the same scenario.
+&gt; Besting a processor that debuted 12-15 months before you is fucking table stakes. Renoir was released a few months ago, Tiger Lake is coming at the end of summer.
+I'm using the older U12-S with a 9900k and it's working just fine I can't really hear the fans, but that's probably because I have a noisy PSU.
+The results are different because that video is showing a different part of the game.
+&gt; Look, I don't have a closer comparison on hand, nor is Ryan's little video a proper benchmark honestly. The proper comparison was already done, and you're ignoring it because it doesn't fit your narrative. "The 4900HS managed about 25 FPS in the same scene (which is the beginning of the second objective in the France single player map) and the same details. This makes the Tiger Lake CPU about 20% faster than the 4900HS, which is decent, but I wouldn’t say it’s groundbreaking. " https://adoredtv.com/tiger-lake-xe-lp-graphics-runs-battlefield-v-at-20-higher-fps-than-renoir-4900hs/
+&gt; The Xe laptop is running with automatic quality settings, not actual High preset Shrout said in the video he used the high quality preset, like Matt did, but I'll see if I can have him confirm or deny if he used the automatic settings.
+It's because it's a laptop
+Maybe, but you can't use these without a Xeon CPU
+Please use the report button if you see comments like that, and us mods will deal with it.
+If you're doing video editing, you'll be better off with more cores (even if they run at slower speeds) So even if the i9 throttles badly, it would still be a better choice than the i5 in your specific workload.
+&gt; Will you be reviewing the new LG 34gn850? On paper it looks amazing. I'd love to! Do you have LG's contact information for review units?
+&gt; Will Nixeus monitors be permanently available outside the USA at some point (e.g. the new 4k/144Hz one in Europe)? You can usually find Nixeus products on Amazon UK and sometimes DE, but even here in the USA they can't guarantee permanent availability of their most popular products. My favorite model of theirs, the EDG34, frequently sells out from NewEgg and Amazon here in the states.
+&gt; do you recommend going with Full HD monitor while playing with all the settings set to Ultra in game, or going with a 1440p monitor with all the settings set to Low in game? Neither. If you can do 1080p ultra, you can do 1440p high and medium instead. 720p ultra is often more taxing than 1080p high, for example.
+I'm running a GTX 1080 at 3440x1440 with medium-to-high settings depending on the game I think it's better than 1080p ultra
+&gt; So why can't Nvidia support Freesync over HDMI while they do support HDMI 2.1 VRR? IIRC, as the protocols are essentially the same both should work with Nvidia - but only Turing GPUs have the proper hardware for HDMI VRR.
+Every time you folks make these comments on a build thread, I will ban you. Have some common courtesy for crying out loud.
+I'm going to allow this post this one time, but be aware that most subs - including this one, will ban you if all you post are links to your own material.
+Benchmarks?
+There's no point in liquid cooling a locked CPU. A basic air cooler will be fine.
+For all intents and purposes, they are the same thing.
+Are we going to get a permamute function yet?
+Removed because they aren't claiming support according to your link &gt;Compared to other brands, which from the beginning have opted to announce support for PCIe 4.0 by heart, ASUS has not followed the same strategy covering its backs in case of failure in its attempt to offer functionality that Intel processors 10th generation core does not natively support. &gt;The company has already issued a statement at the time stating that since the Intel Core processors and the tenth-generation Z490 chipset are not PCIe 4.0 compliant, and that there is currently no processor available that could be verified stability, partial or full support of PCIe 4.0 would not be used as an advertising claim on your part.
+Let's be honest you're not going to buy it anyways David lol
+Nope. They're new to the SSD game, but they've been making adapters and other items for a long time.
+Got any benchmarks - like ACO or whatnot? I'm curious how this compares to the i5-9400 I have.
+I was about to say a 5700 would be a better choice, considering it was regularly on sale for ~$300, but it seems like it's completely out of stock everywhere

@@ -1,0 +1,39 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone, often using humor and sarcasm (e.g., "Programmer here, fuck UIs, all of them").
+  - Uses abbreviations and internet slang (e.g., "Iirc," "ftfy").
+  - Occasionally employs emojis and emoticons (e.g., "¯\\_(ツ)_/¯").
+
+- **Recurring Interests:**
+  - Video games, particularly discussing game mechanics and performance (e.g., references to "D3+" and "WoW").
+  - Technology and programming, with a focus on software development and optimization.
+
+- **Hobbies:**
+  - Gaming, with specific mentions of titles like DayZ and World of Warcraft.
+  - Programming and software development.
+
+- **Technical Knowledge:**
+  - Familiar with computer architecture and performance optimization (e.g., discussions about processors, dual booting, and overclocking).
+  - Knowledgeable about operating systems, particularly Linux variants (e.g., Ubuntu, SteamOS).
+
+- **Location Clues:**
+  - References to "EUW" (Europe West) suggest a possible location in Europe, but this is uncertain.
+
+- **Profession or Education Clues:**
+  - Identifies as a programmer, indicating a background in software development or computer science.
+
+- **Demographic Clues:**
+  - No explicit demographic information provided, but the informal tone may suggest a younger audience.
+
+- **Opinions and Values:**
+  - Critical of certain companies and practices (e.g., Oracle's handling of Java).
+  - Values evidence-based discussions and encourages proof in arguments.
+
+- **Repeated Topics:**
+  - Game performance and optimization.
+  - Software development practices and challenges.
+  - Technical discussions about hardware and software.
+
+- **Subreddit/Community Clues:**
+  - Engages in communities related to gaming and technology, likely participating in subreddits focused on programming, gaming, and tech discussions.

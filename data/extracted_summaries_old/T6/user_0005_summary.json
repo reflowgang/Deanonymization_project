@@ -1,0 +1,34 @@
+{
+  "interests": [
+    "programming languages",
+    "software performance",
+    "debugging tools",
+    "compiler design",
+    "artificial intelligence",
+    "game development",
+    "language interoperability",
+    "enterprise IT"
+  ],
+  "topics": [
+    "Clojure development",
+    "performance issues in programming languages",
+    "JVM performance",
+    "C# and game engines",
+    "C and C++ languages",
+    "garbage collection",
+    "memory management",
+    "software architecture",
+    "cross-platform development",
+    "historical context of programming languages"
+  ],
+  "writing_style": "technical and detailed, with a conversational yet analytical tone. The user employs a lot of references to programming practices and terminology, along with historical context. There is a critical yet informative approach to discussions, focusing on practical implications and technical accuracy.",
+  "technical_expertise": "experienced software developer, with extensive knowledge in C, C++, C#, and various programming paradigms. Familiar with debugging, JIT and AOT compilation techniques, performance optimization, and has a strong historical understanding of programming languages and tools. The user exhibits deep technical knowledge and discusses advanced concepts in software development.",
+  "personal_attributes": [
+    "in their 40s",
+    "Portuguese",
+    "has experience in multiple European countries",
+    "self-identified as a former C++ developer",
+    "shows preference for remote work opportunities"
+  ],
+  "summary": "The user is likely a highly experienced software developer with strong interests in programming languages and software performance, particularly in relation to C, C++, and C#. They engage in discussions about historical and contemporary issues in software development, demonstrating a deep technical knowledge and a critical perspective on various technologies and methodologies. Their writing combines a conversational approach with technical detail, reflecting both expertise and a personal connection to the topics. They also self-disclose to be in their 40s, come from Portugal, and value remote work conditions."
+}

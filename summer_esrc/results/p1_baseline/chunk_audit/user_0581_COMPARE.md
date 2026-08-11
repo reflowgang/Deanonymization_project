@@ -1,0 +1,9 @@
+# user_0581 (hn) n_chunks=14 bucket=11+
+
+## gpt-4o archived (539 chars)
+
+Chicago, Illinois, entrepreneur, self-funded tech business owner, experience in manufacturing and robotics, strong belief in personal responsibility and free-market principles, critical of government regulations and unions, advocates for education reform, interest in engineering and technology, experience with embedded systems and FPGA design, passionate about continuous learning and innovation, skeptical of corporate monopolies and practices, family-oriented, values work-life balance, enjoys chess, classical guitar, and programming.
+
+## local merge (1239 chars, trunc=False, dup=0.0, traits≈29)
+
+Self-funded hardware and software entrepreneur, FPGA and embedded systems expert, Verilog/VHDL and Forth programmer, high-power thermal and fluid dynamics specialist, mechanical and electrical engineering background, 20+ years technical experience, former hardware founder, anti-monopoly stance targeting Google and Apple, strong libertarian and fiscal conservative views, anti-union and anti-government spending advocate, low tax and limited government ideology, critical of US political systems and Democratic party, skeptical of corporate regulation and lobbying, open hardware and free software supporter, expert in analog and digital circuit design, FEA and CFD simulation specialist, CNC machining and manufacturing experience, iOS and macOS developer, Linux and Windows user, chess and classical music enthusiast, family man with children, self-taught programmer, values technical excellence and data-driven decision making, critical of modern hiring practices and corporate culture, experienced in legal battles and patent reform, American citizen with international exposure, advocate for flexible work and family balance, skeptical of Apple ecosystem and privacy practices, concerned about data security and government overreach.

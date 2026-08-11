@@ -1,0 +1,44 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone, often using humor and sarcasm (e.g., "Programmer here, fuck UIs, all of them").
+  - Uses technical jargon and abbreviations (e.g., "DDoS", "OC", "FTFY").
+  - Engages in discussions with a mix of technical detail and casual commentary.
+
+- **Recurring Interests:**
+  - Technology, particularly computer hardware and software.
+  - Gaming, with specific references to games like League of Legends, DayZ, and World of Warcraft.
+  - Programming and software development.
+
+- **Hobbies:**
+  - Building and optimizing computer systems.
+  - Playing video games, particularly competitive online games.
+
+- **Technical Knowledge:**
+  - Strong understanding of computer hardware, including CPUs, GPUs, and cooling systems.
+  - Familiarity with programming concepts and software engineering practices.
+  - Knowledge of operating systems, particularly Linux and dual-boot setups.
+
+- **Location Clues:**
+  - References to "Germany" in discussions about parking laws and CPU prices, suggesting the user may reside in or be familiar with Germany.
+
+- **Profession or Education Clues:**
+  - Identifies as a programmer, indicating a background in software development or computer science.
+  - Discusses technical specifications and performance metrics, suggesting a high level of expertise in technology.
+
+- **Demographic Clues:**
+  - Likely male, based on language and cultural references, though this is uncertain.
+  - Age is uncertain but may be in the young adult to middle-aged range based on gaming references and technical discussions.
+
+- **Opinions and Values:**
+  - Values evidence and proof in discussions (e.g., "Maybe you should present proof/evidence of your own if you want people to actually argue your point").
+  - Critical of certain companies and practices (e.g., Oracle's handling of Java).
+  - Believes in accountability in gaming (e.g., punishing intentional feeding in games).
+
+- **Repeated Topics:**
+  - Computer hardware specifications and performance.
+  - Gaming strategies and experiences.
+  - Technical troubleshooting and optimization.
+
+- **Subreddit/Community Clues:**
+  - Engages in communities focused on technology, gaming, and programming, likely participating in subreddits related to PC building, gaming, and software development.

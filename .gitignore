@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+api_key.env
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+data/raw/
+results/tables/*.csv
+results/runs/
+data/cache/
+*.npy
+*.log
+.DS_Store

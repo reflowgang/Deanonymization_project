@@ -1,0 +1,9 @@
+estimator,policy,threshold,n_test,n_accepted,n_correct_accepted,precision,recall,cal_threshold_learned
+a_verbalized,naive_raw_0.9,0.9000,25,4,4,1.0000,0.3636,
+a_verbalized,isotonic_then_0.9,0.9000,25,0,0,,0.0000,
+a_verbalized,raw_thr_from_cal,0.9000,25,4,4,1.0000,0.3636,0.9000
+a_verbalized,isotonic_thr_from_cal,0.9000,25,0,0,,0.0000,0.9000
+b_selected_id_exp_logprob,naive_raw_0.9,0.9000,25,10,8,0.8000,0.7273,
+b_selected_id_exp_logprob,isotonic_then_0.9,0.9000,25,8,7,0.8750,0.6364,
+b_selected_id_exp_logprob,raw_thr_from_cal,0.9712,25,8,7,0.8750,0.6364,0.9712
+b_selected_id_exp_logprob,isotonic_thr_from_cal,1.0000,25,8,7,0.8750,0.6364,1.0000

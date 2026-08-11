@@ -1,0 +1,10 @@
+NES FF1 called them Lit, Lit2, Lit3. I always wondered why they chose thunder over lightning for the later games. Wouldn't lightning hurt more than the sound of lightning?
+No problem. Also, you gotta tap the comment and select the reply icon that pops up underneath to reply directly to a comment. Here's the [iPad user guide](http://www.reddit.com/r/AlienBlue/wiki/ipad) from the sidebar to help familiarize yourself with the different gestures and navigation of the app.
+/u/fattybomchacha wrote up a pretty solid approach to tackling it. http://www.reddit.com/r/FFRecordKeeper/comments/38775l/some_tips_for_phoenix_cave_elite_from_personal/
+All gifs load just fine for me. Running iOS 8.0 using AB version 2.9.2 on an iPhone 5. What version of the app are you using? It can be found in settings &gt; about alien blue
+Here's one example of a [foreign link](http://imgur.com/6YVpB9i)
+For iPhone with the new UI, when in the sub tap the action button in the top right and scroll to 'subscribe'. For iPhone using the 'classic UI', when in the sub tap the action icon at the bottom center of the screen and select 'subscribe'. For iPad, when in the sub tap the alien icon at the top and select 'subscribe'.
+You post a comment and it doesn't post? Does the message pop up saying your post was submitted? I'm wondering if maybe between the time you loaded the post and commented on it, it was either deleted or removed but I think you receive a message saying so when you submit it.
+It's animated text, I think that's why it won't display. Open it in safari and you'll see what's going on. Here's a permalink to that comment: http://www.reddit.com/r/pcmasterrace/comments/38z0w1/just_to_clear_the_air/crz1r39 I'm guessing it has to do with css which AB doesn't display.
+[Here's the stats at lvl 14/20](http://imgur.com/DSVNZ9u), sadly no mag stats.
+It's almost on par with Danjuro plus an AoE SB. All in all, not too bad.

@@ -1,0 +1,38 @@
+{
+  "interests": [
+    "public transportation",
+    "sustainable living",
+    "political representation",
+    "programming (particularly Ruby and assembly languages)",
+    "ethical technology use",
+    "urban planning",
+    "data protection and privacy laws",
+    "Nordic culture and values"
+  ],
+  "topics": [
+    "shopping logistics without a car",
+    "family dynamics and responsibilities",
+    "political systems and representation",
+    "transit systems in Norway and England",
+    "opinion on car ownership and costs",
+    "technical aspects of programming languages",
+    "corporate power vs. government intervention",
+    "memory management in programming",
+    "ethical decision-making in technology",
+    "the concept of freedom to roam in Nordic countries"
+  ],
+  "writing_style": "Detailed, analytical, and thoughtful, with a tendency to provide context and examples to support arguments. Balances personal anecdotes with technical insights.",
+  "technical_expertise": [
+    "programming in Ruby and familiarity with assembly language",
+    "knowledge of software development practices and optimization",
+    "understanding of containerization with Docker",
+    "experience with public transport logistics",
+    "awareness of data protection regulations and ethical implications in technology"
+  ],
+  "personal_attributes": {
+    "age": 34,
+    "nationality": "Norwegian",
+    "experience living in Norway and England": "",
+    "": ""
+  }
+}

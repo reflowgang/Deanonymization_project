@@ -1,0 +1,25 @@
+I don't have a comprehensive knowledge of Japanese VR titles, but Little Witch Delivery Service was released on Gear VR recently and Gliding Princess (plus a cyberpunk interactive FMV title iirc?) was in the recent VR Jam. There's also the car parking simulator, kitten simulator (Nyaaculus?), and Sword Art Online promotional demo. I think I remember a ski jump and fireplace demo. Edit: Oops, forgot Suwako-chan Cubic.
+([Artist's impression.](http://www.reactiongifs.us/wp-content/uploads/2013/04/puking_rainbows_gravity_falls_looped.gif))
+Unity 5 + OpenGL ES 3.0 is broken on the Galaxy S6. I'm not certain about Unity 4.x, but the release notes seem to indicate it's specific to 5.x.
+You need to choose a side. It's not divisive enough, otherwise. ^(^:/)
+Thanks! I certainly wasn't expecting this result when I first entered. To be honest I'd expected to have to drop out before the end :P.
+Oops, I moved something on Dropbox and it broke all links :(. Fixed now. I also hope to have DK2 updates ready to match the new GearVR version, soon.
+Thanks!
+Yeah, I wasn't expecting as many compatibility issues either. Scorched Battalion started working on the S6 once I switched from GLES 3.0 to 2.0.
+Hopefully many people will still be able to expand their games and get them onto the Oculus Store and/or elsewhere.
+They mentioned some way of letting the judges test multiplayer games requiring two headsets seemingly without actually having two headsets in the same room. Presumably some sort of tunnelling to simulate a local network over the Internet? If so, maybe that broke Internet connectivity needed for analytics reports?
+/u/Fastidiocy made the [concept image](http://www.reddit.com/r/oculus/comments/2xohqo/oculus_will_die_if_they_dont_x_at_gdc/cp2mvw9?context=3). I thought up some ideas for the controller, but largely I just evangelise for it. It was inspired by a prototype controller seen in the background of an image from when Oculus acquired Carbon Design. I originally suggested calling it the Palm^(^erluc)Key and /u/jonamaton else said just Palmer would be simpler.
+Jewellery-tracking confirmed as the CV1 input method!
+That's... actually less than I would have expected. A lot of things are admittedly downloaded without going through Share, though.
+There's now a newer, globally-signed version on the [VR Jam page](http://vrjam.challengepost.com/submissions/36332-scorched-battalion). There's also [this alternate version](https://www.dropbox.com/s/f5p0tg7b6ywb2kl/GLnCjc2GS4unSlL4Ktjo_ScorchedBattalion_v0_6_1.apk?dl=1) that was downgraded to SDK 0.5.1 and seems to have better performance as a result.
+I'm not advocating it, but it is technically possible to make something in UE4, or Unity with the right plugins, without particularly doing any programming. You'd need to work within the confines and limitations (and flaws) of whatever GUI system you were using, though, and knowing enough to be able to write at least some simple code would probably make things a lot easier even then. Starting with learning some code (the basics at least) seems like a good idea to me, but it's very difficult to learn from scratch without being able to do anything practical. Once you're familiar with one language you can basically sit down with a book and learn another in many cases, but when starting out, make sure you're at least set up to output text so you can mess about and see results when you want to. I don't know about UE4, but many Unity tutorials try to teach basic programming at the same time as the editor stuff. That may provide a reasonable way for you to be able to test what you write.
+You install and it shows up in the normal app list like a normal, non-VR app. Run from there and it will prompt you to insert the phone into the headset.
+I think Boo has been removed in Unity 5. JavaScript was most common in old Unity tutorials and docs, but they've mostly all used C# more recently. I like C#, though loose typing probably makes things easier to pick up at first.
+They've advertised Lighthouse features as integral to the HTC Vive so far. Imho if the controllers, base stations or associated software fall victim to Valve Time, Vive will end up delayed to match it. (Hopefully not for as long as Steam Machines though.)
+Are the OVR hooks available to change Rift-specific settings, reset the tracking position etc?
+One should only rarely accept advice from a piece of fruit, in my experience.
+I'd like to know if it's still possible to do a completely separate view for something like a telescope or rifle scope. ^(Or an eyepatch for a pirate simulator.)
+"Multi-view rendering" is presumably the layer system added in 0.6.0? Apparently there was also some late-latching code included, but I don't know if it's functional or whether Unity actually makes use of either feature.
+There's an older DK2 version on scorchedbattalion.com . I was thinking about updating it to the latest version once Unity 5.1p1 was available so I could do a Mac port at the same time.
+The dev kit uses a sync cable, but the manual says it'll be gone for the consumer release.
+Sharpen first; wave later.

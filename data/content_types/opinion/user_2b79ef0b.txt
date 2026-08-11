@@ -1,0 +1,50 @@
+Win lane lose game
+50% av 349 är billigare än 200
+Så du lägger ner spelet för att betala 26kr mer på nätet när du ändå var i butiken?
+I didn't state it, hence the questionmark
+But also the worst?
+WordPress for this? Much bloat
+Why should you commit jQuery to your repository? Just add with bower and when the next one who clones your repo does "bower install" he/she will get all libs you've specified, and the same version
+Too laggy for my taste
+All answers here are somewhat wrong.   Use meteor build to build the application then look into running a node js application
+So many places to chat, too many?
+ITT hurt feels
+Det här är Reddit, är väl alltid konflikt
+I'd say docker, because that would be easy in the long run. Else just start your python app on a port and use nginx as a reverse proxy
+Why? Everyone keeps saying it but they don't know why
+Yes, because the support is better now
+The regular user doesn't care about that, they just want to chat with their friends in a game. I have to learn Linux and cli for that? No thanks. That's why discord is popular
+So if I'm a noob, what value does it give me?
+The original statement was ghat they offer little over ts, not having to host a server is a big thing, that was my point
+Yes, but you said they offer little over ts, not managing a server is a big thing
+I've looked into it, but I'm curious in what way they index, if they just traverse groups and store data or if there is some more complex way they are using
+Money talks
+Jo men du har väl ett spetsjobb
+Firebase looks cool, but I'm looking to selfhost
+I think nedb has in memory things
+Isn't jshint as well?
+My friend and I do the opposite, no question mark. It that better or worse
+Greenshot or go home
+It's like 69 in a wheelchair
+Edgy
+Prefer !!
+People need to stop thinking that separating HTML and javascript is "separation of concerns". If it's the same component it's just separation of languages
+&gt; simple  I think more people knows what `!!` means than `~`. It's just obscure
+Reddit: "Evolution is real EXCEPT when it comes to imgur becoming a community instead of just an image host"
+Looks cool but that is one dumb name
+It's all presentation layer, that's a real concern, or do you disagree?   And what about cohesion?
+This is something that would be fun to build. How much would people want to pay for this?
+No need to inject bad language just because you're frustrated
+More technically impressed than anything
+If you're satisfied with that, of course!
+This female specimen is extraordinary
+But wäää it's ugly and I don't understand it therefore it must suck
+Only two? *cries*
+Just use shopify or something like that
+Why aren't you using an open source and well-tested solution?
+And people say fish is like vegetables 😕
+This is not the answer to this question and does not provide anything different than another starter kit
+What's the point of this article?
+This sounds like a bad idea, but look at https://github.com/sergi/jsftp
+Can't, or won't? I believe in you!
+Who needs meat?

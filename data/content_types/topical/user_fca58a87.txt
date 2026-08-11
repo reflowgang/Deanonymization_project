@@ -1,0 +1,50 @@
+Why? Buffalo already had Shady and FredEx.   Off-field issues aside there is no need for him in Buffalo.  Now a cast off CB, OG, QB sure but not another RB.
+So...  about that suicide pact.
+What about Darcy?   I can't think of a team with two assistant GM's.
+Perhaps OWA is disabled in an attempt to prevent email leaking out of the LAN.
+That's great.  Do you know of a version that also works for scheduled tasks?
+That was a really good question OP.  Follow up to /u/vTSE   assuming there is over-subscription leading to some core contention (2x4vCPU, 2x2vCPU, 4x1vCPU) would the same statement be true?  Would the 2x4vCPU systems be split up between pCPU or could you have contention on one PCPU with 8vCPU trying to access 6pCPU, while the other 8(2x2vCPU + 4x1vCPU) try to access 6pCPU?
+I mean 4 vCPU (two VMs), 2 vCPU (two VMs), 1 vCPU (four VMs).  That way I am putting 16 vCPU in 12 pCPU.
+I thought that was Rollins at first.
+So he is basically Morn IRL.
+5.56 will fix any PC. :)
+Just like Clarkson, eh?
+Dont forget Risto.
+/u/dredding is not the manager or anything else.  Before gaspars was the place on friday it was dunderbacks,  however it moved to gaspars to be more central for people.  Heck the first one i went to was 6 people.
+http://www.salon.com/2014/04/11/6_most_absurd_things_the_christian_right_has_blamed_on_gays_partner/
+Chris Gratton
+So basically Adam Oates?
+If it doesn't break NDA can you give me a rough break down of what you purchased?
+How much raw storage?
+a two for one special of Bickell and Oduya.  We get the rights to the latter by taking the former.
+A six pack of Kane's choice and future considerations if Oduya signs.
+Done on the condition Kaner drinks it all before the next sabres game.
+You know I'm down.
+Sr systems, what does that mean?  LAMP stack, cisco, WIMP, as always more details are always good.
+https://imgflip.com/i/mq0le
+We could set up a slip 'n slide on the hill.
+Done!   That's a perfect example.
+Ooh... that looks neat.
+Shot glass works for me.
+How do you feel about cigars?
+&gt; 3-4 years.  We still use dell 755 for a lot of users desktop when the are using TS, RemoteApp or other server side apps 90% of the time.  Those boxes are 7+ years old.
+What is the Sales response to "I'm interested but not this quarter/year call me back in six months"?
+&gt;  T&amp;E case  Travel and expense?
+He didnt even go to Buffalo first.  You traded him to the Islanders for a 4th rounder.
+They got brought over when we hired a new director.
+Yea, problem is the goals would roll into both nets with that line, a questionable D and no goalie as of yet.
+Sound good. There you go Detroit (four 2nd rounders and two 3rds) I know you are going to pick some Scandinavian I've never head of who turns out to be an all star.  Actually now that I think about it that might be a fair trade.  I doubt it happens but the value according to charts is actually right.  It's also a heck of a way to start a rebuild.  http://donttellmeaboutheart.blogspot.com/2014/11/nhl-draft-pick-value-chart.html
+33 overall but not 16.
+Nor do we need to worry about cap hit for the next two years.  Not a lot of teams can absorb $8Mil/yr.
+Dont forget 900k+ of that can get buried in the AHL if need be.  For a 500k cap hit he could, if need be, mentoring the kids in the last year.
+It would mean Buffalo gets the best draft pick.
+http://lmgtfy.com/?q=amazon+glacier+encryption  Q: Is my data encrypted?  Yes, all data in the service will be encrypted on the server side. Amazon Glacier handles key management and key protection for you. Amazon Glacier uses one of the strongest block ciphers available, 256-bit Advanced Encryption Standard (AES-256). 256-bit is the largest key size defined for AES. Customers wishing to manage their own keys can encrypt data prior to uploading it.  http://aws.amazon.com/glacier/faqs/   Having said that, since they manage the keys you could make the argument that is not as secure as it could be.
+So what is Toronto trading Kessel for and how will it help the Leafs win the cup...
+Where did you pull those photos from?  I'd love to see some old aerial photos to see Tampa's growth.
+Awesome!
+Lord knows we have enough practice with booing his father.
+If you are referring to my second paragraph I meant more in the hook Wireshark and IDA pro up and see what it actually does.
+I'm thinking the top of the Riv.
+Wait, Buffalo has a 1st string QB?
+EKane is 24, you dont get him to build a core around 20-24 year olds (EKane, Samson, Grigs, Ennis, Risto, etc...)  just to move a 20 year old for an 18 year old in a position that will take longer to develop (Hanifin) or is not as good relative to the core (Strome/Marmer) in two years.
+So Boston now has 13, 14 and 15.

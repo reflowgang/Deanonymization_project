@@ -1,0 +1,45 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone, often using humor and emojis.
+  - Engages in technical discussions with a focus on clarity and detail.
+  - Uses abbreviations and shorthand (e.g., "iirc," "imho," "DK2").
+
+- **Recurring Interests:**
+  - Virtual Reality (VR) technology and gaming.
+  - Development tools and platforms, particularly Unity and Unreal Engine (UE4).
+  - Specific VR titles and experiences, including those on Gear VR and Oculus.
+
+- **Hobbies:**
+  - Game development and programming.
+  - Engaging in online discussions about VR and gaming technology.
+  - Possibly playing VR games, given the detailed knowledge of titles and technical aspects.
+
+- **Technical Knowledge:**
+  - Familiar with VR hardware and software, including Oculus Rift, Gear VR, and HTC Vive.
+  - Knowledgeable about programming languages, particularly C# and Unity scripting.
+  - Understanding of graphics APIs like OpenGL ES and their implications for mobile devices.
+
+- **Location Clues:**
+  - Mentioned shipping costs to Australia, indicating the user is likely located in or near Australia.
+
+- **Profession or Education Clues:**
+  - Likely has a background in software development or game design, given the technical discussions and familiarity with programming concepts.
+  - May have experience in VR development or a related field, as indicated by the depth of knowledge shared.
+
+- **Demographic Clues:**
+  - Uncertain, but the user appears to be tech-savvy and possibly a young adult or adult based on the context of discussions.
+
+- **Opinions and Values:**
+  - Values practical knowledge and hands-on experience in learning programming.
+  - Advocates for open platforms in VR and expresses concern about potential delays in technology releases.
+  - Shows a critical perspective on industry practices, such as shipping costs and compatibility issues.
+
+- **Repeated Topics:**
+  - VR development challenges and solutions.
+  - Compatibility and performance issues with VR hardware and software.
+  - Specific VR titles and their development status.
+
+- **Subreddit/Community Clues:**
+  - Active in VR-related subreddits, particularly those focused on Oculus and VR development.
+  - Engages with other users in discussions about technical aspects of VR and game development.

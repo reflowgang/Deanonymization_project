@@ -1,0 +1,10 @@
+Because then you can shard it and the performance will be better
+No, use bcrypt
+Try meteor, makes apps a cake to make
+Yes, meteor isn't a replacement for express, it's also sockets, mongoose, front end, handlebars etc etc
+KLISTRADE TRÅDEN KAMRAT MVH MODJICK
+Yeah but for me, I don't go to Reddit for JUST Meteor stuff, I subscribe to many subreddits which are of my interest
+I use detectify to pentest my sites
+Win lane lose game
+Modular development!
+I've built two, but they are in bad shape, just to test out Meteor http://partify.meteor.com/ - collaborative playlists with tracks from soundcloud http://podder.meteor.com/ - search podcasts from iTunes and play them. Saves timestamp if you're logged in. Source code at https://github.com/benjick/podder but it's pretty bad code

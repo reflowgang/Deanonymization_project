@@ -1,0 +1,37 @@
+{
+  "bsp_reference_baselines_T8": {
+    "hit_at_15": 0.56,
+    "hit_at_15_count": 28,
+    "note": "Baselines from existing BSP FAISS/Reason tables on this fixture set only.",
+    "top1_accuracy": 0.5,
+    "top1_correct_count": 25
+  },
+  "checksums_csv_sha256": "d02094e59e6e63f09fb97af487f0a1aec293e02c54f7149371b1df052693d4f5",
+  "created_at_utc": "2026-08-04T12:30:55.511283+00:00",
+  "fixture_id": "regression_50",
+  "n_users": 50,
+  "paths": {
+    "checksums": "data/fixtures/regression_50/checksums.csv",
+    "user_ids": "data/fixtures/regression_50/user_ids.txt"
+  },
+  "pool_id": "pool_en",
+  "seed": 2026,
+  "selection": {
+    "eligible_n": 497,
+    "excluded_missing_t7": [
+      "user_17607ebc",
+      "user_96013176",
+      "user_f3377028"
+    ],
+    "method": "stratified_t8_gpt4o_correctness",
+    "n_correct": 25,
+    "n_incorrect": 25,
+    "reference_level": "T8",
+    "reference_model": "gpt-4o",
+    "reference_reason_csv": "results/tables/pool_en_reason_predictions.csv"
+  },
+  "user_ids_sha256": "955fe8cbc9a39032dfa3bc014baba08bfaa2f2fa8437f19fd51f220a8b94c79b",
+  "warnings": [
+    "This fixture (seed=2026) is separate from the temperature-scaling cal/test split (seed=42). Do not reuse or mix for P3."
+  ]
+}

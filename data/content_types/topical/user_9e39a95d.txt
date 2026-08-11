@@ -1,0 +1,50 @@
+Yes.  What I get looks like this:  http://imgur.com/mO1ayv0
+Run an income app, like Perk TV.  Should work fine on your wifi, and eventually it'll pay for itself.
+Not yet, but as soon as there is one, we will.
+I thought there was some kind of algae bloom that made it unsafe to do this this year...
+Order some powder.
+try the cable that came in the box for charging the gamepad.  i've found the shield remote is fussy about the cable
+Welcome to the wonderful world of open hardware.  Your new purchase will never lock you out of root access, and there will never be an update to it that will prevent you from gaining root.  We are delighted you've decided to join us.  :)
+I have yet to figure out a way to make skip go to 30 seconds during videos, but Next Track during music.  It seems to be all-or-nothing with the new skip.
+Standard Android TV remotes, both on Shield TV and Nexus Player...directional buttons, select and back, that's about it.  Seems up and down will do Next/Previous Track (didn't know that before, but I guess I should have), but I still prefer it the old way.  Wonder if I can change it in the keymap for fullscreen music....
+It won't go to 5, 6 is the minimum, will that be safe?
+How can I tell if it is too high?  Is there any potential danger (tank exploding, coil catching on fire, that kinda thing)?
+I have this remote on my Shield TV, and I am very happy with it.  Note that there are several Mele F10 remotes, each with slightly different features.  The one you linked is the F10 Deluxe, which I consider to be the best of the lot...it can learn functions of other remotes (I taught it to change the volume on my AVR), has Play/Pause (the other F10 remotes don't), and it has much better motion tracking than earlier models.
+Agalloch:  [Dead Winter Days](https://www.youtube.com/watch?v=9Y6UttxEWgk)  [In The Shadow Of Our Pale Companion](https://www.youtube.com/watch?v=4pmwndD2EOw)  [Bloodbirds](https://www.youtube.com/watch?v=GOKcfyo3-xE)
+So, does this mean my obscure Kitkat phone will finally get root?
+Hmm, does this mean they have a modified Coreboot that can load native Android?  Wonder if we can use this to get Android running on the Tegra K1 Chromebooks.....
+None at all.
+Coupons.
+What was the international designator for Nomad?  (2002-045b)
+Does P = NP?
+But you didn't beat that, did you?  You got IP banned.
+adb over network?
+[Here](https://i.ytimg.com/vi/VrZVFn93Yxs/maxresdefault.jpg)'s one wishing a happy new year.  This one was really annoying at Xmas when I was trying to show vids to family.
+It's hard to describe subtly different trips.  HBr is like a daisy, whereas poli is more like a petunia.  Having said that, the whole point of poli is that the drug is released slower, over a longer period of time than HBr.  Because some of the effects of DXM are affected by metabolizing the DXM into DXO, the fact of the poli releasing the drug on a different timescale greatly complexes the effects.  This has advantages and disadvantages.  There's new DXM coming into your system for a longer period of time with poli than there is with HBr, which prolongs the time in which you feel the DXM effects.  The drawback is that the drug comes slower, so it doesn't feel as "strong" as the same amount of HBr.  There's a place for both (and I suspect some very interesting places combining the two in various proportions).
+Sorry for the easy question, but 4-Me-TMP is unknown to me, can you spell it out?  4-methyl-trimethylphenidate?
+Buy a scale.  $20 on Amazon.  No excuses.
+You can also just buy some propylene glycol to dissolve it in.  It's one of the main ingredients in ecigarettes, so vapour stores will have it, as does Amazon, and your local compounding pharmacy.  You can basically make your own syrup this way, at whatever insane concentration you like (200mg/ml?  Sure thing!).
+Atheist website reports 70% of people are atheists.  Let me guess, reader poll?
+But you can exempt yourself by shitposting to at least six different subreddits.
+There's a lot of surveys that use Flash for the selection buttons.
+Is there a good reason to use this vs. the Plex server on my QNAP NAS?
+Why?  What benefit will you get from using Shield as your Plex server, as opposed to your Synology?
+How do you get your home water tested?  Is there some kind of kit?
+Pretty sure you can just use dd on Linux to create the USB.
+So now they take their laptop with the bot to some poor addict's house, pay him an ounce of blow, then use his internet to bot tons of tickets.  Addict gets the rap, asshole scalper laughs to the bank.
+&gt; "34 U.S. dog bite-related fatalities occurred in 2015. Despite being regulated in Military Housing areas and over 700 U.S. cities, pit bulls contributed to 82% (28) of these deaths. Pit bulls make up about 6.6% of the total U.S. dog population."  According to your own quote, that put the entire US at 34 dog bite fatalities in 2015.  Assuming that was an average year (my research suggests it wasn't, that in fact the 2015 numbers should be higher than ever before, but let's assume the worst case here), a 15 year period should expect 510 dog bite deaths.  Are you saying there are more than four times as many dog bite deaths in Quebec than there are in the entire US?
+Starfleet Command does not acknowledge the existence of any such "Section 31".
+[Five](http://www.theonion.com/blogpost/fuck-everything-were-doing-five-blades-11056) [blades](http://gillette.ca/en-ca/products/razor-blades/fusion-proglide-flexball-razors/fusion-proglide-manual-razor-with-flexball).
+Black towels.
+Not precisely what I said.  That talks about cops making arrests, I'm talking about prosecution.
+Sounds like slow flash memory.  When it loads video into the buffer really fast, like it would from real-debrid, it has to write that buffer somewhere to store it till it comes time to play that bit of video.  If your device is real cheap and the flash memory they used is slow, it takes longer to write that stuff to the system, a problem that is compounded by how fast real-debrid is pushing it to you.  That makes Kodi buffer and stutter till the write has a chance to complete.
+You must be new here.
+But it wouldn't have been multiple seasons.  Enterprise had gone to an arc setup, and the Romulan War would have just been another arc.  Maybe longer, 13 episodes as you say but not seasons and seasons.  They had already failed on a multi-season arc with the Temporal Cold War.
+Not to mention the fact that most of the places that are really easy and convenient to farm on, are already owned by people who are farming on them.
+Which dispensaries were targeted?
+http://prntscr.com/blcqm4  That's the point I mean.  Just watched it again, the moon doesn't quite intersect it but the trace certainly does.
+A commit, in this context, refers to a software repository.  When a developer is finished working on a piece of code (either finished for the day or finished period), that code has to be added back to all the rest of the code in the repository.  They call this process a "commit", as in "I commit this code to thine yonder repository, may it rest in peace.".  What all this means for us is that someone at Asus is working on code for a (possible) new product.  If they are still writing the code, that would suggest we're a long way from release of the hardware.
+WTF is with all these ridiculous articles?  There is absolutely zero pirates doing this seriously, they are all at websites messing with torrents.  The clickbait is strong here.
+You'd think that, but other RCs degrade in solution with PG, so it's not a for sure thing that it will keep.  When I have a few grams of powder I can afford to potentially waste I'll try it out.
+Why is this shitpost here?
+I'm not sure, that's why I asked.  As I said, I am considering options.  Edit:  Is a dedicated GPU good for 4K scaling of desktop apps like Office and Chrome?  How about 4K video, is a GPU the best option or will onchip video suffice for that (including HEVC)?  I don't game so I don't care about that.

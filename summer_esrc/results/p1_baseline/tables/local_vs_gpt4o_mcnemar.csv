@@ -1,0 +1,5 @@
+claim,pool,metric,n_paired,n11_both,n10_local_only,n01_gpt4o_only,n00_neither,p_value,significant_0_05
+C1,pool_en,top1,500,126,55,71,248,0.181224,False
+C1,pool_en,hit_at_15,500,174,46,95,185,4.5e-05,True
+C2,hn,top1,499,57,26,133,283,0.0,True
+C2,hn,hit_at_15,499,99,20,197,183,0.0,True

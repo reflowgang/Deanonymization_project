@@ -1,0 +1,45 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Detailed and technical explanations.
+  - Uses specific terminology related to virtualization and IT.
+  - Engages in conversational tone with a hint of humor (e.g., "LOL").
+  - Occasionally rambles but maintains coherence in technical discussions.
+
+- **Recurring Interests:**
+  - Virtualization technologies, particularly hypervisors.
+  - Operating systems, especially Windows and Linux.
+  - Networking and VPN usage.
+  - Corporate IT practices and security.
+
+- **Hobbies:**
+  - Engaging in discussions about technology and IT solutions.
+  - Possibly involved in use-case testing or IT consulting based on context.
+
+- **Technical Knowledge:**
+  - Strong understanding of virtualization concepts (Type 1 and Type 2 hypervisors).
+  - Familiarity with Microsoft products, particularly Windows and Hyper-V.
+  - Knowledge of corporate network security practices and VPN functionality.
+
+- **Location Clues:**
+  - References to "the states" suggest the user is located in the United States.
+
+- **Profession or Education Clues:**
+  - Likely works in IT or a related field, possibly in a role involving system administration, IT consulting, or technical support.
+  - Mentions of colleagues and use-case testing imply a professional environment.
+
+- **Demographic Clues:**
+  - Uncertain, but the use of "my wife" suggests a likely adult male user, possibly in a stable relationship.
+
+- **Opinions and Values:**
+  - Critical of corporate security measures, referring to them as "absurdity of our security theatre."
+  - Values technical knowledge and practical applications of technology.
+  - Shows a sense of humor and relatability in discussions.
+
+- **Repeated Topics:**
+  - Virtualization and hypervisors.
+  - Corporate IT practices, especially regarding VPNs and security.
+  - Operating systems and their functionalities.
+
+- **Subreddit/Community Clues:**
+  - Engages in technology-focused subreddits, likely those related to IT, virtualization, or operating systems.

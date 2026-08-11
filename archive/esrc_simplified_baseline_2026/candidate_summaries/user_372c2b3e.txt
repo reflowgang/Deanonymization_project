@@ -1,0 +1,48 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone, often using humor and sarcasm.
+  - Frequent use of abbreviations and internet slang (e.g., "WTF," "lol," "s/s").
+  - Engages in playful banter and references pop culture.
+
+- **Recurring Interests:**
+  - Technology, particularly related to Apple products and software (e.g., iOS, MacBooks).
+  - Politics, especially UK politics, with a focus on Brexit and political parties.
+  - Music, with mentions of specific artists and genres (e.g., OMD, Paul Humphreys, Star Wars).
+  - DIY projects and home improvement, as indicated by references to DIY-related content.
+
+- **Hobbies:**
+  - Enjoys watching and discussing TV shows and movies, particularly British comedies.
+  - Engages in gaming, specifically mentioning games like Rocket League and Call of Duty.
+  - Interested in photography and possibly videography, as indicated by references to platforms like Flickr.
+
+- **Technical Knowledge:**
+  - Demonstrates a strong understanding of technology, including software engineering concepts and hardware (e.g., mentions of Docker, Raspberry Pi).
+  - Familiar with coding and scripting, as evidenced by discussions about batch files and PowerShell scripts.
+  - Knowledgeable about video and audio technology, including streaming and camera setups.
+
+- **Location Clues:**
+  - Resides in the North East of the UK, with specific references to local geography and weather conditions.
+  - Mentions of local culture and events suggest a familiarity with the region.
+
+- **Profession or Education Clues:**
+  - Possible background in technology or engineering, given the technical discussions and knowledge displayed.
+  - References to education-related topics, such as funding for universities, suggest a level of higher education.
+
+- **Demographic Clues:**
+  - Likely an adult, possibly middle-aged, based on cultural references and political commentary.
+  - Engages with topics that suggest a level of maturity and life experience.
+
+- **Opinions and Values:**
+  - Critical of political figures and policies, particularly regarding Brexit and the handling of political issues in the UK.
+  - Values humor and sarcasm as a means of discussing serious topics.
+  - Shows concern for social issues, including environmental concerns and public health.
+
+- **Repeated Topics:**
+  - Frequent discussions about UK politics, particularly Brexit and its implications.
+  - Technology and its impact on daily life, including critiques of major companies like Apple and their practices.
+  - Cultural commentary on media, including TV shows, movies, and music.
+
+- **Subreddit/Community Clues:**
+  - Active in subreddits related to UK politics, technology, and DIY projects (e.g., r/ukpolitics, r/CasualUK).
+  - Engages with communities that discuss gaming and technology, indicating a diverse range of interests.

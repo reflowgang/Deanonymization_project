@@ -1,0 +1,46 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Technical and detailed, often using jargon specific to electronics and programming.
+  - Engages in thorough explanations and provides links to external resources for further reading.
+  - Uses a conversational tone with occasional humor and sarcasm.
+
+- **Recurring Interests:**
+  - Electronics, particularly microcontrollers and circuit design.
+  - Vintage computing and retro technology.
+  - Programming, especially in C and assembly languages.
+  - DIY projects and repairs related to electronics.
+
+- **Hobbies:**
+  - Building and repairing electronic devices.
+  - Experimenting with programming microcontrollers.
+  - Engaging in discussions about technology and troubleshooting.
+
+- **Technical Knowledge:**
+  - Strong understanding of electronics, including circuit design, soldering, and component specifications.
+  - Familiarity with various programming languages, particularly C and assembly for microcontrollers.
+  - Knowledge of power supply design and troubleshooting.
+
+- **Location Clues:**
+  - References to specific locations (e.g., Wisconsin) suggest a possible residence in the United States.
+
+- **Profession or Education Clues:**
+  - Likely has a background in engineering or a related technical field, given the depth of knowledge in electronics and programming.
+  - Experience in IT field services for a medical organization, indicating a professional role in technology support.
+
+- **Demographic Clues:**
+  - Likely an adult, possibly middle-aged, based on references to personal experiences and professional context.
+
+- **Opinions and Values:**
+  - Values practical knowledge and hands-on experience in technology.
+  - Advocates for open-source solutions and transparency in technology.
+  - Critical of poor design and security practices in consumer electronics.
+
+- **Repeated Topics:**
+  - Discussions about specific microcontrollers, programming techniques, and troubleshooting methods.
+  - Insights into the design and functionality of electronic components and systems.
+  - Commentary on the state of technology and its implications for users.
+
+- **Subreddit/Community Clues:**
+  - Active in communities related to electronics, programming, and vintage computing.
+  - Engages in technical discussions and offers advice to others seeking help with similar interests.

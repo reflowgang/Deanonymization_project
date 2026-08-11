@@ -1,0 +1,46 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone.
+  - Uses humor and sarcasm frequently.
+  - Engages in detailed explanations, especially regarding technical topics.
+
+- **Recurring Interests:**
+  - Technology, particularly related to computers and software (e.g., Plex, NAS).
+  - Video games, especially Grand Theft Auto (GTA) and gaming hardware.
+  - Pop culture references, including TV shows and movies.
+
+- **Hobbies:**
+  - Gaming, particularly online multiplayer games.
+  - Building and maintaining computer systems (e.g., custom-built PCs).
+  - Engaging in discussions about media and entertainment.
+
+- **Technical Knowledge:**
+  - Proficient in computer hardware and software, including troubleshooting and setup.
+  - Familiar with networking concepts and configurations (e.g., NAS, Ethernet).
+  - Knowledgeable about gaming systems and their specifications.
+
+- **Location Clues:**
+  - References to Minnesota, including weather extremes and local culture.
+  - Mentions of local stores and services, indicating familiarity with the area.
+
+- **Profession or Education Clues:**
+  - Possible background in IT or technical support, as indicated by comments about sales technical support and computer setups.
+  - Familiarity with software deployment and management tools (e.g., SCCM, PDQ Deploy).
+
+- **Demographic Clues:**
+  - Likely an adult, possibly in the 20s to 30s age range, based on cultural references and humor style.
+  - Engages in discussions that suggest a level of maturity and experience.
+
+- **Opinions and Values:**
+  - Values personal and economic freedom, as indicated by libertarian-leaning comments.
+  - Critical of corporate practices and government regulations, particularly in relation to technology and personal rights.
+
+- **Repeated Topics:**
+  - Discussions about video games, particularly GTA and its mechanics.
+  - Technical discussions about Plex, NAS, and home networking.
+  - Commentary on social issues and cultural phenomena.
+
+- **Subreddit/Community Clues:**
+  - Active in subreddits related to technology, gaming, and humor (e.g., /r/youseeingthisshit, /r/minnesotavikings, /r/buildapcsales).
+  - Engages with communities that focus on memes and internet culture.

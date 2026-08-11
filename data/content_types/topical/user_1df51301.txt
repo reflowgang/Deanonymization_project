@@ -1,0 +1,50 @@
+&gt; would be needed to produce any meaningful conclusions  Sure they can produce meaningful conclusions, just not about the general population.
+&gt; Wii U ~~Exclusive!~~ Excluded!
+Uhh, the rest of the world has known about this for at least two decades.
+[Everything is more popular around the world than pop music](http://srogers.cartodb.com/viz/14ebbf8c-ac44-11e4-8a55-0e018d66dc29/embed_map)
+Are you saying that someone first needs assets to be eligible to be sued?  I'm no legal scholar, but I was under the impression that the company could sue (and possibly win a judgement) on lost profits due to her actions; if she can't pay up, then eventually they would probably garnish wages, and she'd never get out from under that debt.
+I tried to predict when GRR Martin's books would be published based on his past publishing history.  It turns out that the *interval* between book publishings is roughly linear, with slope 0.6197 (book indices on y-axis--i.e., 1st book, 2nd book etc.--with intervals between book publishings on the x-axis), and an intercept at (0,1).  This empirical model suggests that if GRR Martin's past publishing schedule holds for the future, the 6th book will be released in 2019, and, given that, the final book will be released in 2028.
+For most purposes, pseudo random number generators produce strings of numbers that are sufficiently random.
+..the internet?
+I thought that after it reached '0' it would do a check that lasted 0.5-1 second to register a click 'at zero' (for the flair), and then if that failed, it would end.
+Maybe he's renting out the upstairs..
+Who took these photos?
+This is an old story.  Has to be a repost?
+Closing one eye does the same thing...
+&gt;Think of how stupid the average person is, and realize half of them are stupider than that  Of course he would really mean "median," not average.
+Don't you resign *after* you've accepted the competing offer from another company?  This whole thing doesn't make sense; the first time you're employer is hearing about your offer is when you've already resigned.  How could they keep you on board "to find a replacement?"
+&gt; What you do with that knowledge (action) can be bad  It is also in how the data are obtained.  Even now, there is a lot of paperwork that must be filed for performing experiments on/using humans (even as simple as watching them play video games), and even approval must be gained to show that experiments on animals are humane (e.g., that they don't suffer when sacrificed).
+Humans do not think like or as quickly as CPUs.  Of course a CPU may have options available to it that humans do not have.  In this case, a CPU may have sufficient time to detect an anomaly and "choose" between alternative actions, whereas a human mostly unconsciously processes the input and makes only rudimentary decisions (e.g., keep the car on the road).
+Shouldn't they already have one?
+That was pretty informative, thanks.
+There are machines that do this.
+There's probably a good reason they don't advertise the download speed.
+That would just make it more painful, as you eventually succumb but the poo infects the raw wounds.  Ugh.
+&gt; Medicare $$$ goes to hospitals with religious affiliation. Why is education different?  At private religious schools at the K12 level, religious 'classes' are often required.  This is not the case in a 'religious' hospital.
+Didn't the CEO just decide several years ago that reality shows was where the money was, and ditch scripted drama?  Nice to finally see SyFy (Sci Fi?) getting back to its bread and butter roots.
+The illusion didn't work on me, I just saw a bad law firm ad.
+But it's also how republicans still win elections despite all the unpopular extremist rhetoric.
+Something similar happens to the cells of your body.
+&gt; http://www.mediaite.com/tv/are-conservatives-really-going-after-michelle-obama-for-promoting-water/  And I thought /u/MaxIsAlwaysRight was just joking.
+Explain!
+&gt; The last author of a paper is typically the principle investigator of the work. This person is the scientist who acquired funding for research and runs the lab. For this paper, the senior author is Dr. Sanford Simon, Elena's father.  You're right, this is common; but, the "senior author" often contributes to the study conception, interpretation of data, and sometimes contributing to experimental design.  You make it sound as if writing proposals is all they do.
+[Relevant XKCD](https://xkcd.com/435/)
+You can negotiate the bill with the hospital, if you don't have insurance to cover the costs.  Insurance companies routinely negotiate significantly reduced costs, and so can regular folks.
+Energy is like a currency for motion that gets transformed into local denominations depending on the exchange rate of what is being done.  For the acceleration of the point mass you describe,  all the work is estimated by the kinetic energy needs via the Work-Energy theorem.  And the kinetic energy goes as the square of the speed, which is the source of your observation.
+Yes.  Every observer sees light traveling at the same measured speed, c (~3x10^8 m/s).  So, light from one ship *will* eventually reach the other.  One reason why all (non-accelerating) observers will measure the same speed for light, is because Maxwell's equations hold in all inertial reference frames from which the speed of light can be "derived" based on the permittivity and permeability of free space.
+I don't think they were armed, though.  The Occupy movement as I recall were pacifists.  As I understand the situation, the clowns occupying the federal building in OR have threatened armed resistance to being forcibly removed.
+How are the tissues not gangrenous without blood flow (required for oxygenation of tissues)?  Does it hurt?
+&gt; If you are working in non-profit, government, or education there are also a lot of student loan forgiveness or repayment options as well  You need to be careful about this; public service forgiveness only applies if your government salary is so low that you are unable to repay your loan on the standard repayment plan after 10 years.  The only way this occurs is if  you fall into an income based repayment plan.
+&gt;prions use these sheets to "bump" into normal proteins and alter the normal protein's secondary structure to conform to that same high beta-pleated sheet structure  This is the important part, but it still doesn't explain *how* a prion transforms a normal-folded protein into a mis-folded one.  More precisely, how does the prion "perturb" the normally folded protein so that it reshapes itself into an energetically stable new conformation?  The folded protein is so stable because its conformation resides in a deep energy minimum of the configuration space.  Also, why is this mechanism irreversible (i.e., why don't normal proteins transform prions into the normal state)?
+&gt; Think about how useful you would be if you can talk about protein folding and talk about how to optimize your code for protein folding  In research, this skillset isn't too rare.
+All I can think of is: "ain't nobody got time for that!"
+Under the direction of a mentor/manager/PI, someone like that could be useful just entering data into an Excel sheet.  There are plenty of other examples.
+Huh, I've never heard of these shoes.  Interesting.  Pretty good idea, actually.
+Warning: the chimps are VERY good at this game.
+How did this type of culling methodology get to be the "industry standard"? In research, for example, there is an extensive process for [sacrificing animals humanely](https://www.aalas.org/iacuc#.Vq5cCVKig7c). Grinding animals alive would be difficult to get approved.
+Well by all accounts it's working perfectly.
+This is just "par for the course" in basic research.
+The whole of the article contains personal income numbers too.
+[Here](http://www.jstor.org/stable/1427566?seq=1#page_scan_tab_contents) is a paper that gives an explicit closed-form solution (eq. 2.15, you want the first moment).
+If you find a dead person, you can always call 911.  At minimum, just call the police and the authorities will know what to do.
+"in the style of"

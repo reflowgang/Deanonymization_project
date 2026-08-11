@@ -1,0 +1,52 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Engages in detailed, analytical discussions.
+  - Uses a mix of formal and informal language, often incorporating humor.
+  - Frequently employs rhetorical questions and analogies to clarify points.
+  - Shows a tendency to provide constructive criticism and feedback.
+
+- **Recurring Interests:**
+  - Technology, particularly programming and software development.
+  - Education and educational technology.
+  - Social issues, including class mobility and economic inequality.
+  - Media analysis, especially in film and literature.
+
+- **Hobbies:**
+  - Creating YouTube videos focused on 3D game programming for children.
+  - Engaging in chess and discussing chess variants.
+  - Writing and developing games, particularly chess-related projects.
+
+- **Technical Knowledge:**
+  - Proficient in multiple programming languages, including Python, JavaScript, and C.
+  - Familiar with web development frameworks and tools (e.g., Flask, Git).
+  - Knowledgeable about machine learning and AI concepts.
+  - Experienced in using Linux and open-source software.
+
+- **Location Clues:**
+  - Identifies as Canadian, with specific references to Canadian culture and politics.
+  - Mentions working in Dorval, Quebec, indicating a specific regional focus.
+
+- **Profession or Education Clues:**
+  - Holds a BA in English Literature and an MA in Education Technology.
+  - Works as a scientific programmer analyst, with experience in operational systems and supercomputing.
+  - Has a background in teaching computer science.
+
+- **Demographic Clues:**
+  - Likely in the millennial age range based on educational background and references to life experiences.
+  - Engages in discussions about societal issues, indicating a level of social awareness and concern.
+
+- **Opinions and Values:**
+  - Advocates for open-source software and transparency in technology.
+  - Critiques economic systems and expresses concern for social justice and class mobility.
+  - Values education and critical thinking, often discussing the importance of these in society.
+
+- **Repeated Topics:**
+  - The impact of technology on education and society.
+  - The importance of critical thinking and skepticism in discussions about science and media.
+  - The role of government in economic and social issues.
+
+- **Subreddit/Community Clues:**
+  - Active in communities related to programming, education, and social issues.
+  - Engages with subreddits focused on technology, education, and personal development.
+  - Participates in discussions about chess, indicating a specific interest in that community.

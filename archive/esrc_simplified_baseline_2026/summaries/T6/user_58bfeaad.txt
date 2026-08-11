@@ -1,0 +1,49 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Engages in detailed, analytical discussions.
+  - Uses a mix of casual and formal language, often incorporating humor.
+  - Demonstrates a strong command of English, with a preference for British English spelling.
+  - Frequently references specific examples and links to support arguments.
+
+- **Recurring Interests:**
+  - Strong interest in roguelike games and their mechanics.
+  - Enjoys discussing video games, particularly those with procedural generation and permadeath features.
+  - Engages in discussions about fantasy literature, especially works by J.R.R. Tolkien.
+  - Participates in community events related to gaming, such as meet-ups and game development challenges.
+
+- **Hobbies:**
+  - Game development, particularly in creating roguelikes.
+  - Engaging in online discussions and forums about gaming and fantasy literature.
+  - Attending gaming conventions and meet-ups.
+
+- **Technical Knowledge:**
+  - Familiar with game design concepts, particularly in relation to roguelikes.
+  - Knowledgeable about programming languages and game development tools (e.g., Python, libtcod).
+  - Understands procedural generation and its application in game design.
+
+- **Location Clues:**
+  - Likely based in the UK, as indicated by the use of British English and references to local meet-ups.
+
+- **Profession or Education Clues:**
+  - May have a background in game design or a related field, given the technical knowledge and involvement in game development discussions.
+  - Engages in community moderation, suggesting experience in community management or online content curation.
+
+- **Demographic Clues:**
+  - Appears to be an adult, possibly in their late 20s to 40s, based on references to life experiences and community involvement.
+  - Engaged in discussions that reflect a mature perspective on social issues and community dynamics.
+
+- **Opinions and Values:**
+  - Values community engagement and constructive criticism.
+  - Advocates for inclusivity in gaming and acknowledges the importance of diverse representation in game narratives.
+  - Critical of toxic behavior in online communities and supports moderation efforts.
+
+- **Repeated Topics:**
+  - Discussions about the evolution and definition of roguelikes and roguelites.
+  - Analysis of game mechanics, particularly permadeath and procedural generation.
+  - Commentary on the portrayal of characters and themes in fantasy literature, especially Tolkien's works.
+
+- **Subreddit/Community Clues:**
+  - Active in subreddits related to roguelikes, game development, and fantasy literature.
+  - Participates in community events like the Seven Day Roguelike Challenge (7DRL).
+  - Engages with content creators and developers within the roguelike community.

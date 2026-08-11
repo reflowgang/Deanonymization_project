@@ -1,0 +1,5 @@
+Because then you can shard it and the performance will be better
+No, use bcrypt
+Try meteor, makes apps a cake to make
+Yes, meteor isn't a replacement for express, it's also sockets, mongoose, front end, handlebars etc etc
+KLISTRADE TRÅDEN KAMRAT MVH MODJICK

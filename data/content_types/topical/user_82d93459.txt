@@ -1,0 +1,50 @@
+[The Kids in the Hall had a skit that sort of parodied the uniqueness of the sport - called "Shirling"](https://www.youtube.com/watch?v=6gu3mbl8SAk)
+ARGH! God dammit :(
+...just a lot of dropping the controller, and shitting of the pants.
+[Found one](https://s-media-cache-ak0.pinimg.com/236x/a4/89/2f/a4892fbb3878698839c0cd5f5311add4.jpg)
+Honest question, but with all of the Comcast hate, why are people still using them? Is it a kind of "only game in town" or lack of choice?
+Okay! Here's the error I get:      Exception calling "Put" with "0" argument(s): "Generic failure "     At line:56 char:1     + $Printer.Put()     + ~~~~~~~~~~~~~~         + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException         + FullyQualifiedErrorId : DotNetMethodException  Would it have anything to do with how you set up variables?       $PrinterIP = "(xx.xx.xx.xx)"      $PrinterPort = "9100"     $PrinterPortName = "IP_" + $PrinterIP     $DriverName = "HP Universal Printing PCL 6"     $DriverPath = "\\servername\loadingdock\PrinterDrivers\HPPCL6x64\"     $DriverInf = "\\servername\loadingdock\PrinterDrivers\HPPCL6x64\hpcu150u.inf"     $PrinterCaption = "Copy Room Printer"   (I do actually have information in $PrinterIP and $driverpath)
+Hey there!  1) I'm using OptionList 1 - just specified two computers (as a test)  2)  I'm running with elevated privileges, and I do have access to the directory.   3) From the looks of it the script fails at the "CreatePrinter" function - so I would imagine the first two functions were successful?
+Although it may not be ported to the Mac right away....might come later - but still!  Thanks for the heads up! :)
+It's right here in TFA:   &gt;"Sony does not permit any remote other than their game controller to power on the game console."
+The classic ["I'm John Dacker"](https://www.youtube.com/watch?v=Zi8beYR1iBQ)  ...and the [wonderful animated follow-up](https://www.youtube.com/watch?v=LgJxEfYT3Kg)
+Oh Jesus, here we go.  The Chris Pratt backlash starts....
+I 100% was getting mixed up! Darnit!
+Edelman at 1:06   "Jesus, bro I'm fine - knock it off..."
+perfect! Thanks!
+Tom Colansky's Ghost Recon!
+Run for your Life
+It worked with Kadri. He spent years down in the A before he got into the rotation.
+I saw that....I was sort of tuned out...saw Healy roll by and thought "WTF? Why was he on he broadcast?" - thank goodness for PVR's so I could see it!
+That's alright - his daughter is a fake woman.
+He's looking for the Super Audio version of the album, not the multi-track version.
+It's kinda hard to tell....but it sorta looks like /r/SaraJUnderwood?
+Okay! I'm sufficiently angry. Now what?   EDIT: It's a fair question isn't it??
+"Rough seas ahead, Captain!"
+BEDMAS?
+Alexander Daigle
+[Dat bad note at :54](https://youtu.be/kpTpxbnBWYM?t=52).  Funny - you can tell Chuck realizes he was playing the wrong chords briefly!
+You're under arrest....sugar!
+Removed. Anyone got a mirror?
+He says "Please stand and observe a *moment's* silence..." not a minute.
+Maybe it's just overload...but the commercials are cringe-worthy. The show starts July 1st
+http://imgur.com/a/vQu3P
+...because old.
+Which is why I wish people would just post follow up in threads instead of making a new goddamn post.
+As well:  In 1968, a photo was mailed to the surviving family; on the back was the message: “Louis Sodder, I love brother, Frankie. Ilil boys A90132 (or 90135)” Detective C.C. Tinsley was hired to investigate the photo and where it came from, but he vanished and was never seen again.   "90132" was a postal code for Palermo, Sicily at the time. The Sodders themselves were of Italian descent; the original name was Soddu.
+..and now he'll get a chance to put his P in a V!
+So...is it gonna be another origin story? It's been a few years since the last one...
+Every ten years we'll get an origin story!
+&gt; http://www.reddit.com/r/SirPaulMcCartney/  *ahem*
+..and then blamed it on her drummer playing the wrong song. Fuck that bitch. Good riddance.
+FTA:  &gt; ***In case you don't watch SNL***, Angele Merkel is the Chancellor of Germany.  Should have put an /s
+Are you a mind reader??
+Already posted in this sub sport. Sort by new.
+They got 13th, 14th and 15th picks now?
+Already been posted man
+You are literally the WORST Beatle fan ever!! :D  Honestly though, I do find it amazing Beatle fans who haven't seen it, but the more I think about it, finding a copy of it has been harder and harder to find. You can torrent it, but the quality usually isn't the best.  It'd be nice to see a Blu-Ray version released with extra footage of it! Get the younger fans out there a chance to see it!!
+The NHLPA is going to be all over this. They'll fight the shit out of this.  Depending on what was in the contract, if it's a loophole, a bunch of teams may try this.
+[Jay from Inbetweeners](http://img.thesun.co.uk/aidemitlum/archive/01638/SNF17BIZA--_1638935a.jpg)
+Neither is Ted Cruz. He was born in Canada. He's Canadian.
+&gt; In no way does he identify with being Canadian, and neither with his Cuban heritage.  Doesn't matter what he identifies with though, he was born outside the US. Like I said though, having an American parent possibly allows him the right to run for POTUS under the "Natural-born-citizen clause":  *"...a person who is entitled to U.S. citizenship "by birth" or "at birth," either by being born "in" the United States and under its jurisdiction, even those born to alien parents; by being born abroad to U.S. citizen-parents"*
+Shit, that's great!!

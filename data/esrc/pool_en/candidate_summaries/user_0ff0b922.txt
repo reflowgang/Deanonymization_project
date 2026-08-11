@@ -1,0 +1,9 @@
+- Location: Stockholm, Sweden
+- Profession: Front-end developer, experience in full-stack development
+- Education: Graduated top of class in NPM Bootcamp 2017
+- Technical background: Extensive experience with JavaScript, Node.js, and various web technologies; familiarity with TDD (Test-Driven Development)
+- Recurring hobbies: Interest in retro computing and gaming, particularly with the Commodore 64; enjoys programming and software development
+- Strong political beliefs: Advocates for social justice and critiques systemic inequalities; expresses skepticism towards capitalism and government practices
+- Family structure: References to having a wife, indicating a family structure
+- Distinctive expertise domains: Proficient in open-source software, npm package management, and web development frameworks; knowledgeable about programming languages like Python, Rust, and C++
+- Recurring communities/interests: Active in programming and tech-related subreddits, particularly those focused on JavaScript, Rust, and retro gaming; engages in discussions about software development practices and technology trends

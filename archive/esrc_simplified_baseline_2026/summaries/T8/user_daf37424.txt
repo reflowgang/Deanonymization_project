@@ -1,0 +1,52 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Engaging and conversational, often using humor and sarcasm.
+  - Tends to provide detailed explanations and justifications for opinions.
+  - Frequently uses rhetorical questions to challenge opposing views.
+  - Employs a mix of formal and informal language, with a tendency to use internet slang (e.g., "ROFL," "LOL").
+
+- **Recurring Interests:**
+  - Politics, particularly U.S. presidential elections and candidates.
+  - Technology, especially programming and software development.
+  - Video games, particularly MMORPGs like World of Warcraft and Final Fantasy XIV.
+  - Current events and media analysis.
+
+- **Hobbies:**
+  - Programming and software development, with a focus on gaming-related projects.
+  - Playing video games, especially MMORPGs.
+  - Engaging in discussions about political and social issues.
+
+- **Technical Knowledge:**
+  - Strong background in programming, particularly in languages like C#, Python, and SQL.
+  - Familiarity with software development processes and challenges.
+  - Knowledgeable about computer hardware and gaming technology.
+
+- **Location Clues:**
+  - Resides in Tucson, Arizona, as indicated by references to local events and issues.
+  - Mentions of living in a "purple state" suggest a politically mixed environment.
+
+- **Profession or Education Clues:**
+  - Identifies as a programmer and has experience in computational biology and systems biology.
+  - References to attending college and being involved in academic discussions.
+
+- **Demographic Clues:**
+  - Likely in the age range of late 20s to early 30s based on references to personal experiences and life stages (e.g., marriage, children).
+  - Engaged in discussions about family and parenting.
+
+- **Opinions and Values:**
+  - Strongly supports Donald Trump and expresses skepticism towards mainstream media narratives.
+  - Advocates for personal responsibility and self-reliance, particularly in financial matters.
+  - Critiques political correctness and advocates for open discussions on controversial topics.
+
+- **Repeated Topics:**
+  - Criticism of mainstream media bias, particularly against Trump.
+  - Discussion of immigration policies and their implications.
+  - Analysis of political strategies and campaign dynamics.
+
+- **Subreddit/Community Clues:**
+  - Active in political discussions, particularly in pro-Trump communities.
+  - Engages with content that critiques liberal viewpoints and supports conservative ideologies.
+  - Participates in discussions about video games and technology on relevant subreddits. 
+
+This user profile reflects a politically engaged individual with a strong interest in technology and gaming, who actively participates in discussions that align with their views on personal responsibility, media bias, and political dynamics.

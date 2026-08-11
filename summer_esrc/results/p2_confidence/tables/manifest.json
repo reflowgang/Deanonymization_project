@@ -1,0 +1,18 @@
+{
+  "task": "p2_finalize_ab",
+  "scores_csv": "/Users/reflowgang/Downloads/deanonymization_project/summer_esrc/results/runs/p2_regression_50_T8/estimator_scores.csv",
+  "n": 50,
+  "n_correct": 23,
+  "n_boot": 10000,
+  "seed": 2026,
+  "bonferroni_alpha": 0.025,
+  "user_ids_sha_prefix": "user_043ea160use",
+  "created_at_utc": "2026-08-05T14:05:48.843869+00:00",
+  "outputs": [
+    "/Users/reflowgang/Downloads/deanonymization_project/summer_esrc/results/p2_confidence/tables/table_ab_metrics.csv",
+    "/Users/reflowgang/Downloads/deanonymization_project/summer_esrc/results/p2_confidence/tables/table_ab_bootstrap_ci.csv",
+    "/Users/reflowgang/Downloads/deanonymization_project/summer_esrc/results/p2_confidence/tables/table_ab_mcnemar.csv",
+    "/Users/reflowgang/Downloads/deanonymization_project/summer_esrc/results/p2_confidence/tables/table_ab_reliability.csv",
+    "/Users/reflowgang/Downloads/deanonymization_project/summer_esrc/results/p2_confidence/tables/DELIVERABLE_ab.md"
+  ]
+}

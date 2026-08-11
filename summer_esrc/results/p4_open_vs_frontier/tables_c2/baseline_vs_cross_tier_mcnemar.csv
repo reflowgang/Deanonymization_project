@@ -1,0 +1,5 @@
+pool,metric,n_paired,n11_both,n10_cross_only,n01_base_only,n00_neither,p_value,significant_0_05
+pool_en,top1,499,124,69,57,249,0.327123,False
+pool_en,hit_at_15,499,161,75,59,204,0.194857,False
+hn,top1,499,37,54,46,362,0.484118,False
+hn,hit_at_15,499,61,60,58,320,0.926704,False

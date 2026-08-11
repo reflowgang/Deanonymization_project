@@ -1,0 +1,200 @@
+Because then you can shard it and the performance will be better
+No, use bcrypt
+Try meteor, makes apps a cake to make
+Yes, meteor isn't a replacement for express, it's also sockets, mongoose, front end, handlebars etc etc
+KLISTRADE TRÅDEN KAMRAT MVH MODJICK
+Yeah but for me, I don't go to Reddit for JUST Meteor stuff, I subscribe to many subreddits which are of my interest
+I use detectify to pentest my sites
+Win lane lose game
+Modular development!
+I've built two, but they are in bad shape, just to test out Meteor http://partify.meteor.com/ - collaborative playlists with tracks from soundcloud http://podder.meteor.com/ - search podcasts from iTunes and play them. Saves timestamp if you're logged in. Source code at https://github.com/benjick/podder but it's pretty bad code
+I made one called gurfat, but a few hours too late
+50% av 349 är billigare än 200
+Why not Web sockets
+Så du lägger ner spelet för att betala 26kr mer på nätet när du ändå var i butiken?
+https://i.imgur.com/Odhyx6S.jpg this?
+I didn't state it, hence the questionmark
+Wrote this post today about it: http://maxmalm.se/blog/2015-06-12-digitalocean-dokku-meteor
+&gt; authentication meteor add accounts-password
+Another host: https://gurf.at
+What game is the walking person?
+Hey that's my multisite :D
+Hey! It was just a test I did, I never really finished it but I had the problem as you have but I didn't have the time to figure out way really. I haven't had any use for it really, it was just something I wanted to try to do in case I ever did something that could benefit from being a SaaS application, but I'll take a look at it tomorrow, I've learned some more JS and Meteor in the last three months since I made that hack. One thing I tried was using the partition package depending on the hostname, but I couldn't get it to work, maybe fork that and try it?
+But also the worst?
+How would changing my master password make a dB dump outdated?
+FindOne is shorthand for fetch() [0] with the limit 1 to expand on your answer
+WordPress for this? Much bloat
+Ownership
+Digital ocean, linode, any other vps provider
+You must have misread, I wrote fetch()[0], not find. From the docs &gt; Equivalent to find(selector, options).fetch()[0] with options.limit = 1.
+Hey no problem mate
+Why not? Why rent a host when you can run a server in your garage?
+stickt mvh modjick
+&gt; that requires Amiibo (which are impossible to find) Is there a shortage of Amiibos in the US?
+Interesting, I thought the master password wasn't stored. Thank you
+Why should you commit jQuery to your repository? Just add with bower and when the next one who clones your repo does "bower install" he/she will get all libs you've specified, and the same version
+Too laggy for my taste
+All answers here are somewhat wrong. Use meteor build to build the application then look into running a node js application
+How much for the paintings?
+Hi again. Updated the repo with a little hack. Works fine now, but I don't know if it's a pretty solution.
+What is this?! http://gfycat.com/DownrightAdoredKawala
+Cool, works. But only for Youtube
+Last week on this sub?
+&gt; Currently, Meteor does not have a documented way of doing this, but the pieces to do it are there. What about `Comments.find({}, {reactive: false})` then? - http://docs.meteor.com/#/full/find
+Would you have to pay license for your own product?
+Add some swap and you'll be okay
+And cask
+So many places to chat, too many?
+Irc (freenode) and gitter
+confirmed
+Thank you. What SPF would the other domain need? Anything referencing ab.se?
+Got here from all
+Check out meteor. It has official user accounts packages.
+Wasn't it two?
+What's onboarding?
+ITT hurt feels
+Dagens Swedditör?
+Det här är Reddit, är väl alltid konflikt
+I don't wanna talk to people
+Tried long pressing, nothing happens. What should happen?
+So, is it available online?
+Who said without testing?
+Great vid!
+Why not meteor which you mention?
+Maybe nodal, found it the other day, looks cool enough
+I'm trying to figure it out too, maybe it's OP censoring "fuck"?
+On the subway, will look into soon!
+This might be why, should be one up tomorrow https://www.reddit.com/r/AutoModerator/comments/3zn16q/for_some_reason_am_skipped_a_scheduled_post/
+Jump to top doesn't work in the demo Chrome on Android 6
+How could you use alpha as a prefix if blink and webkit would implement it differently?
+Isn't masking just a frame?
+Then how is the URL being masked?
+I'd say docker, because that would be easy in the long run. Else just start your python app on a port and use nginx as a reverse proxy
+Games for other games?
+Does it matter? You don't have to record it
+That's the flow I'm using
+Why? Everyone keeps saying it but they don't know why
+Can you sidestep?
+When looping over an object us the only time I've used it
+If you want to do it yourself, I usually go with fetch and cheerio in node
+What's your use case?
+Well, github has a feature that builds jekyll for you, maybe that's why he's saying that
+Static as in using something like w3 cache?
+You can put return true outside the else, even cleaner code
+47%, but that's all taxes, not just income tax
+The visit!
+The rule gets applied, but it doesn't remove the light background, maybe I have something else that's bad in my code. Thank you!
+There's a new TV show called the messengers where they bring this up
+Rethink elixir redux
+Add yeoman for MANKY
+Yes, because the support is better now
+Mobros
+Especially doctor who fans
+What's good with ts?
+The regular user doesn't care about that, they just want to chat with their friends in a game. I have to learn Linux and cli for that? No thanks. That's why discord is popular
+So if I'm a noob, what value does it give me?
+The original statement was ghat they offer little over ts, not having to host a server is a big thing, that was my point
+Yes, but you said they offer little over ts, not managing a server is a big thing
+Check out editor config instead, it's a file you check in with your repo so everyone has the same rules
+"create array of x elements" was my search for today
+Wow, the umbrella part was slick
+Async? Is that some lib?
+What about koa?
+How big is jquery minified?
+&gt; who have done nothing
+I've looked into it, but I'm curious in what way they index, if they just traverse groups and store data or if there is some more complex way they are using
+For even better adding, git add -p
+A.
+Fint!
+Tyvärr, var bara en bild jag tog när jag vara nere i helgen :)
+Plex
+Den gröna linjen i mitten är skog, lovar!
+7 mil ifrån cirka :)
+Money talks
+Why are you using a shortener?
+I still have the last guardian pre ordered
+Jo men du har väl ett spetsjobb
+Utesluter väl inte det. Vad gör du?
+Thank you, I will take a look at it!
+Firebase looks cool, but I'm looking to selfhost
+No database call to validate a jwt
+Jag beklagar
+THERE IS VOICE CHAT?
+Maybe check out horizon as well
+I think nedb has in memory things
+Isn't jshint as well?
+No
+Or just read the docs instead
+It doesn't work with the latest react
+It says three days ahead
+Rocking one solo tittay
+They looked. Worked in a shop like this and so many colleagues checked for nudes
+My friend and I do the opposite, no question mark. It that better or worse
+Reddit, where everyone is a gun expert echo
+I had no interest in getting into trouble
+Sämst crop
+Greenshot or go home
+I always formatted all text before reviewing the work
+Going there on Friday, what pub can handle it?
+Remove the prefix spaces
+Because he might have opened the page before the other guy posted and thus not seeing the comment
+What's the difference?
+Enter
+Non fiction?
+It's like 69 in a wheelchair
+What part of Europe?
+How is it pronounced? Always wondered
+Edgy
+The what now?
+About the achievement, damn! I've been vendoring those since wod! Thanks for letting me know about it :)
+1700 kcal till lunch, fint
+&gt; Code that uses const (over var and let) is sexy as hell Heh, okay Can't break an iteration, might be valuable to point out
+Prefer !!
+People need to stop thinking that separating HTML and javascript is "separation of concerns". If it's the same component it's just separation of languages
+Laravel, Django
+&gt; simple I think more people knows what `!!` means than `~`. It's just obscure
+Does it matter?
+Reddit: "Evolution is real EXCEPT when it comes to imgur becoming a community instead of just an image host"
+Looks cool but that is one dumb name
+To skip the step of setting up babel and webpack yourself
+To use await/async, source maps, importing json, friendly errors etc
+One thing people leave out with async is that it's so easy to use resolved values later without the need of passing it down the whole chain. That's worth so much
+&gt; That's a whole lot of effort to go through No, just use this package
+That's why you use tools that help you
+Not normal if you don't want to. https://github.com/facebookincubator/create-react-app
+This separations of concerns argument come up all the time. Is the js and HTML for the button really not the same concern? In react you write components. A button, a header, a profile summary. Separation by language is not by concern.
+Then skip it, we use stuff like this and it's great
+Can't say why people don't use it. I wrote mine based on it. What's bad with the generator?
+It's all presentation layer, that's a real concern, or do you disagree? And what about cohesion?
+This is something that would be fun to build. How much would people want to pay for this?
+Does your paragraph have a child?
+Node is backend
+Give us!
+Haven't tried it but docker and checking in the sql file?
+They are all out now so you can just rush through them
+Is that län or landskap?
+Save is the word
+Why are they so expensive? My keyboard was like 150, are these better?
+In conjunction with the order points such as housework and babysitting
+Np, I hope it didn't come off as rude, have a great day
+Vuex is using mutations from the looks of this article
+Six months ago
+Isn't breath of the wild coming to switch? Or am I mixing something up?
+What is vested?
+Oh, would that be any downgrade problems for the switch version?
+I understand, thanks for the in detail answer! And good luck
+Try using application/json as content type
+No need to inject bad language just because you're frustrated
+This is what I do, always impresses someone
+More technically impressed than anything
+I have a setup where I just add a show and it gets me all episodes and subtitles then I can stream it over the Internet to my chromecast. Older stuff is harder though
+Sonarr and sabnzbd for downloading, plex for streaming and sub-zero for subtitles. Then couch potato for movies
+If you're satisfied with that, of course!
+It's the narwhal bacon midnight of tesla owners
+Explain
+This female specimen is extraordinary
+Latest
+&gt; got scared (rightfully so) &gt; rightfully so Lol
+Isn't gifv just webm?
+Upload? I just live edit
+Per project

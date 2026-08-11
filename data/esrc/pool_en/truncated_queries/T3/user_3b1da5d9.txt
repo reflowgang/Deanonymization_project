@@ -1,0 +1,25 @@
+There are a lot of games that are biased af towards certain architectures.
+he should have his own web mini-series.
+In what way would it be more chaotic?
+Also if its a company employee who's calling with the problem, they'll treat the downtime that the issue causes as a coffee break, and since its *your* job to fix it, they feel no responsibility to cut their break short by clicking that little update button.
+Well no shit. But the OP was saying to praise **PC** games that work well regardless of GPU brand, instead of fucking over either 70% or 30% of users for picking "the wrong card"
+Fix yo flair. It still says titan x
+Considering the cooler is just the same reference theyve been using for the high end cards for a while now, I'm gonna call BS on that.
+Nvidia never started off PhysX, they incorporated it into GeForce after buying Ageia in 2008, who made dedicated cards for it after they bought the software from Novodex in 2004.
+the game is literally called SUPERHOT
+Should use sharex for screenshots, it uploads to imgur.
+Less underrated more "under-realised". It looked to be pretty damn perfect, then it seems at the last minute they undid stuff. You had really nice maps, balanced well, but then suddenly a bottleneck where every player has to pass the same corridor/room. Also everyone had too much HP.
+It's fallout. I'd be about halfway done with character creation.
+Just because you've had no issues doesn't mean that no one has issues. I've had a GTX 460, and a 970. Both times I had to reinstall drivers once or twice a month because something broke them. Especially driver updates, they always crashed and broke. The r9 270 I moved to after the 460 barely had any issues, and the drivers were WAY more stable. After I sold my 970(vram lies and coil while like hell itself) I got the 290 I have now. Overclocked, still more stable than the Nvidia cards I had.
+It is possible in dx12, but the guy your replying to is taking about stacked memory modules (hbm)
+It will be possible in DX12 to combine crossfire ram, however.
+Paid mods.
+If you're on about AMD CPUs, the TJ MAX (The thermal cut off point) for the FX processors is at 80c. Meanwhile Intels is at 105c, IIRC.
+If he complains again, just say "sod it" and force CPU and GPU fans to 90% all the time.
+[Checked it on my 8320 right now.](http://i.imgur.com/MK0fhtI.png)
+The current X86-64 framework is all based on AMD64. Intel tried making their own (IA-64) but it was never compatible with 32 bit applications so it bombed. So they need Intels permission for X86, then AMDs permission for the standard x86-64.
+Dogmeat wasn't there (there was another, more robotic dog) but I think that one can slide because its a spin off.
+You have to go into the BIOS, and either select boot or change the boot order. Some manufacturers block USB or Disk Booting because "security"
+There may be a separate option thats disabling USB/CD booting, in the BIOS.
+No clue then. Sorry.
+That's powercolor's special one. they tend to bring out super-pimped versions of cards, like the Devil 13, which was 2 290x GPUs on one card (they did this ***BEFORE*** AMD did the 295x2)

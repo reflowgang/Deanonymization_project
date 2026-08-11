@@ -1,0 +1,500 @@
+I used to have too many rad-aways too, then I cleared a nuked zone. Used like 40 of them that day.
+Because you can VATS ceiling turrets and it's hilarious: https://i.imgur.com/jSAk98a.png
+Honestly, any grass with something on it (with the exception of a few partial blocks) should turn back to dirt. The exception list is probably something like [fences, walls, torches, glass].
+There are commands to increase your armor count?
+Does it even exist?
+For thé same reason rocket launchers explode directly in your face: the +100% radius perk I assume.
+Well not exactly, because piston, repeaters, daylight sensors... etc should kill grass. The list is outdated now.
+Is its weight reduced by 90%?
+With an event circle bigger than the map.
+Oh that's where it came from? Thanks, I did not remember to be honest. Glad it's not a random drop then :)
+It does not? I thought any form of radiation cure would remove mutations.
+Nah a bit less because of the scorchbeast armor.
+Yes, by 36% max.
+Now you need 5+4+3+2+1 cards instead of 5.
+All perks are passive.
+I assume /u/PraiseCaine was thinking about Diablo II, where the goal of the game is to finish your character with nice items (unlike Diablo III).
+Haha same for me, I have no clue how people survived in nuked areas in power armor (mine does not protect from rads enough) so I just run around and shoot each mob once to get the loot. What is your armor? Five level 50 leather armor pieces with the right modifiers protect a lot :)
+&gt; With caps exploits, you basically just invite all the cheaters to go ahead buy the best items available. You don't design stuff around existing exploits (i.e. not having anything buyable at vendors), you fix exploits.
+How do you do? I used to be able to spam collect dirty water at bodies of water during beta but I've been unable to do so for a few weeks.
+From trading.
+Do you actually use resource harvesters at workshop? Usually I just pay 25 caps for a guaranteed recipe and leave them here.
+True! Take the ammo factory sometimes, you'll get junk on top of your 5.56 bullets.
+Sounds like somebody who likes redstone :) Regarding your second point, careful with being wanted because then people can attack your camp without getting a bounty. They could potentially break the walls then.
+It seems like I always get (or at least I very often get) a blueprint upon claiming a workshop. Well it's often a duplicate, but still worth a try.
+Good idea!
+A few more infos for those outside of France: &gt; Emmanuel Macron’s government was forced this week to suspend a planned 6.5-cent-per-liter tax increase on diesel and 2.9 cents on gasoline — collected for the purpose of speeding France’s transition to renewables Not 100% of the tax was intended to be spent on the transition. That's what people are angry about (among other things). &gt; Emmanuel Macron’s government was forced this week to suspend a planned 6.5-cent-per-liter tax increase on diesel and 2.9 cents on gasoline — collected for the purpose of speeding France’s transition to renewables And most people live with the minimum legal wave: roughly 1100€ usable per month. People who care about ecology or organic food are those who can afford it, unfortunately. &gt; For years, the French had an advantage when it came to climate change, since they get about 75 percent of their electricity from nuclear power. In 2015 they passed a law to cut it to 50 percent. [...] This is not a climate-change policy. Reducing the share of nuclear from 75% to 50% is just what happens if they close old plants at the due date. It's not like all nuclear plants will suddenly close. Also, you can reduce the share of something without reducing its absolute number... If they produce 50% more energy than today (to support electric vehicles for example) and produce the same amount of nuclear kWh every year, the share drops to 50%.
+Your camp will only tick one water source per minute, unlike some workshops, so you don't make water 5 times faster. Adding more purifiers just increases how much water you can store.
+Not moving your character you mean? :o
+That sounds fine, considering mutation serums cost 4000 to buy at the Enclave. If you can craft them and sell them to people that should be amortized quickly. Unless the crafting resources needed are ridiculous?
+Nice! I'd buy from you.
+Me too and it works fine if you want a specific mutation, but if you want six specific ones at a time without curing the others it's going to be tough.
+How do you live without adblock?
+The sub flips because we gave it time. Honestly, I have always been in the "patient" team, I enjoyed playing a lot since beta, but the last week has been frustrating. If the chill hedonistic guy is frustrated, you can imagine how people with high expectations for game are. I think the bad aspect comes at high level when you reach the camp/crafting aspect of the game. The exploration is fine and fun, the grind not so much.
+You got your point accross, but the auto corrector really butchered that one \^\^
+&gt; In my world I like to link everything by paths with each structure having a purpose - it really gives everything a “lived in” feel. This is really cool. I love when people do that instead of a great central cube with every resource farm possible in it. The cabin is lovely. The floating dirt above it is frustrating :P
+Except water.
+I would use that, but the block itself wouldn't make any sense in the game.
+Haha thanks, not sure about the translation but it should be something like "worn out fisherman hat" or something. I got it in the Greenbrier hotel.
+&gt; A. Fallout isn't their IP and they shouldn't be allowed to profit off it. Neither should journalists then?
+It's automatically enabled when you get out of the vault I believe.
+What, you don't like the siren sound? :P
+Ok thanks for the definition. I'm always amused by cherry picked French words in English (where "noir" is just black).
+Then adjust the furnace...
+Same thing for the shrub needed in the water filter craft. It automatically scraps to 2 wood pieces :/
+But then I lose something fun!
+Nah because as long as servers are mixed it's fine. When servers labelled as "pvp" exist they will be chosen by specific people I'd like to avoid.
+On December 26th I'll be with my family, not caring about reddit for two weeks.
+And below level 44.
+I'll call a doctor. But seriously, I'll look at the tiles, watch out for a spider, think about stuff. Having nothing to do is extremely beneficial.
+To the UI category you can add: - lockpicking uses the same keys as &lt;move left&gt; and &lt;move right&gt; instead of hardcoded A and D. - workshop and VATS use custom keys instead of hardcoded Z and C. For those who use a French keyboard (AZERTY), you use ZQSD to move around instead of WASD. That means you effectively can't move while in workshop mode (it moves the categories instead) or can't move in VATS (it switches targets). Same for German keyboards (QWERTZ) and probably other languages. A game shouldn't force you to install a virtual keyboard to play properly...
+mans1ay3r
+[Credit where it's due.](https://www.youtube.com/mans1ay3r)
+Maybe not discharge the car, but at least charge slower during peak consumption. Regarding EVs cost, I did a quick calculation the other day and the price paid per kWh is immediately half what we pay with a petroleum car. This is also assuming a 100% renewable energy provider as opposed to the national one (0.15€/kWh instead of 0.13). If EVs were not thrice the price of a regular car, I'd buy one right away. Plus they have automatic transmission!
+I agree with you that using plugged cars as batteries would be interesting, I'm just unsure what impact it has on the battery life expectancy. It would also be cool for remote locations. A "self refueling" car that just loads itself in a few sunny days with photovoltaic panels! &gt; The efficiency gains with EVs are fantastic. Yeah you go from 30-40% to 80-90%, then you have to think about the price itself on top of the efficiency but it's already great. Currently we burn oil to propel our cars and use electricity to heat our homes, reverse that and you save so much energy. Prices are coming down, we just have to be patient. It looks like we're going to see an industry-wide average $100/kWh by around 2024. Sorry I didn't understand that number, what is that 100 $/kWh you're talking about? Mine was the utility bill.
+Lovely! What is the text font you are using?
+Cheers!
+Agreed, for example cobblestone is not smooth on the top. Now if you'll excuse me, I have to make desert roads out of those amazing upside stairs!
+I don't know if using the optimal tool for a task qualifies as "hack".
+It's pretty. You might want to keep the carved pumpkins for the scarecrow and put regular ones on the ground?
+&gt; Mipmaps use different resolution textures, depending on distance from viewer. Just like your suggestion! Yes yes! &gt; if the cube face is smaller than 8 pixels (half texture), for example, let render it simply with it's main color The 'main color' of a 16x16 texture is 1 colored pixel that is just the average of the bigger texture.
+Put pieces on a frame and store the frame itself. It has a constant 10 lbs weight.
+Ah ok, I did not realize there is 8 sets. My bad :)
+A lame one to be sure, but a welcome one.
+There is no way this is five unique animations plus a finisher, that would be a pain to animate in the first place. It must be one animation repeated five times.
+Well maybe you need to start dumping those hopes.
+Yes, and this one full animation is probably formed out of a "put one bullet in" animation repeated 5 times. &gt; They just can't show you reloading one because there is no animation for it. I think there is/was one initially, now it's just concatenated into the final animation.
+It's made from geographical data, so they have depth and width but I doubt anyone is going to make it all fancy with plants.
+&gt; But...I will also get all future dlc for free cause somebody out there will pay the high prices and buy atoms... That's the best part. I agree with you.
+Well, coal absorbs gas.
+Ah nice, thanks for explaining ;) https://i.imgur.com/h4V5Qgp.jpg
+To be honest I have no clue how crops growth works in this game but **if** there is an unconsistency you're right and it needs to be fixed. What gets me confused is that workshops display different numbers for food, so there must be a "food cycle" running somehow. If not, maybe it's because food rots so producing a lot of it is less of a concern than producing eternal water? I don't know.
+Thanks for the info. Now a vampiric melee weapon + Sun Kissed + a water puddle combined make a great mutation farm I guess.
+&gt; You could even specialize your store to focus on power armor construction and repair You will need an Atom Cat jacket for that :)
+Good.
+I think you interrupt your gameplay. Have 3 more PER points and you don't have to swap all the time.
+Ah nice! There were a few glowing mole miners but I found out they were capped to level 40 unfortunately. The amount of radberries was insane though! If you sell the flux you get 18 caps per blackberry plant harvested (with green thumb) so the nuke was not wasted at least. Plus I had time to take pretty pictures :)
+Petrified corpses can yield loot? O__O
+To be honest the whole area had more plants than enemies!
+&gt; So your answer is to remove three points from a SPECIAL stat Yes. That's the point of speccing. &gt; If Bethesda didn't want us to swap cards they wouldn't have made it a feature, The point of swapping cards is to try variants. Mark my words, in the future you will either have to swap in camps/workshops/train stations, or swap whenever you want but for a cap fee.
+This perfect generation you mean!
+Honestly, I think most people do not understand that swapping cards is there so that players can *try* new stuff, not swap all the time. I think one day swapping will cost caps / will only be possible in workshops/camps/train stations / will be free there and payed for outside.
+Yep placeable items would be nice!
+It's the proud owner of Chally the moo-moo!
+Yeah me too. Screws and adhesive are just fine for some reason, but springs are bad (10 to repair a weapon, 1 for a grenade + 1 for the MIRV variant, many? for missiles).
+It's a good movie \^\^
+&gt; (dont even get me started about the ammo smith and super duper perk combo on top of this) Who doesn't use that?
+Probably, but in nuked areas you get enough plants to sell to get the 1400 caps + items and fun.
+What is the difference between searching in JEI and searching in the creative bar?
+Oh ok thanks for explaining. Well for me that's going to be quite useless then. We have a recipe book now.
+A mirelurk queen can! ^(I mean the verb not the food container.)
+Thanks a lot for the info. So that does mark the end of the questline then. I was worried the fact that I got the various holotapes in the wrong order messed up my character.
+&gt; plus finding 10 golf ferals in the post nuke era Whitesprings even when I could deal with them was a challenge given how farmed the Whitesprings has become. Ha you tell me! I'm level 93 and since beta my count of golf ferals is still 2/10. I will never be able to complete that quest, unlike Evan's.
+If they are far enough, they don't have to look up at all. That should help!
+Look closely [here](https://youtu.be/ZnIFJhi2aWY?t=1470), OP's horses look much better than Aypierre's.
+&gt; Simply put, all you have to do is implement cooldowns on crafting and time-to-craft. Make construction of an item take 5 seconds and require a 15-30 second cooldown before crafting again. How do I craft my 50 blackberry juices that way? If you add a cooldown that huge, maybe you need to add bulk crafting too.
+Yep, just like for trading.
+Do you think in the future we could have some way of claiming a block? So that is does not spawn mobs, even if it's dark/spawnable. That would open an opportunity for people to build interesting light ambiances.
+Haha one day hopefully!
+I just did that, now this level 4 guy has all my duplicate plans since beta. I probably ruined his early game to be honest.
+Honestly, my tip would be not to listen to tips. You only discover a game for the first time once. Personally I love this feeling of being clueless and it always goes away too quickly.
+To add on what you said, sometimes it's also good to turn off the music entirely. It gets more real for a few minutes.
+Nah because you have to rebuild everything when you log back in, and there is always a risk of PvP. Building your camp on top of a deposit is simpler and safer :)
+You can make all the garden chairs and tables now!
+I don't know which level you are at, but you can use the Power Smith perk (41+) to cut down the springs cost from 30 to 17 per leg.
+Ah you meant taking a workshop for the recipe not for the resource itself? Ok ok. I'm pretty sure res harvesters don't have a recipe to unlock.
+[Do that in reverse order.](https://www.reddit.com/r/Minecraft/comments/a8rw2g/horrible_graphics_issue_1132_windows_10_64_bit/ecd6n8k/)
+Em, how do you place the camp box **not** on ground level in the first place?
+Ah afterwards. Ok thanks!
+Have you seen the movie with Kevin Costner?
+Why? The high level guy does not have to fire back.
+Except all the people that do it for the first time.
+Yeah I found a quad crossbow too, useless and insanely long to reload. I think no *affix can help them currently.
+Why should you be able to have everything? Both lockpicking and damage...
+I mean that I expected a super bright picture and wasn't disappointed :) And the link posted is just me mocking the game a bit because you can take screenshots in photo mode with the Fallout 76 logo on it, we can imagine the background is not white but it's just the blinding light of a scorchbeast attack.
+Yeah it's so much fun!
+Do scorchbeasts not randomly fly over the house and ruin it?
+I tried once and the 4 simple turrets were destroyed in a few seconds.
+This is brilliant.
+That's how I picture you now: https://i.imgur.com/eLz8xzV.png
+But did you read the whole post or did you stop at "450M robots"? Definitely 2.5B entities have been slain.
+I wonder how precisely the world population is known now.
+You have to use the small letters, it takes forever to do honestly since you have to select a variant for each letter!
+PC my dude, in artillery range of Rose :)
+I don't understand why server hopping was fixed by not respawning loot. Rejoining always the same server would work just fine no?
+Thanks! I've had several neighbours in that area, I assume people like the place because it's close to the road/the train station and it has many ponds where you can put your purifiers.
+I hope your battery patent will work. We need a little revolution in this field.
+Unfortunately that won't help against people who duplicated junk.
+Because they disconnect us.
+I did not downvote you, I went to bed after replying.
+Thanks, I never found the item or the plan so I wasn't sure that's a thing. Time to stop drinking them! Except cherry?
+You are right actually. - Powell's used good will. - New good cheer. - Books books good books. That last sentence makes me think they have really good books.
+Just leave it on all the time. Life is so much simpler that way.
+Oh no you totally understood OP's post. They asked to have a second account deleted, support said "no we can't" then proceeded to delete the first account. :/
+I feel you buddy... my first nuke was aimed at Rose.
+You don't have the plans for any tea yet? \^\^
+Nice, because that's something you get pretty early I think.
+"Better stash that precious loot I just found!"
+That sounds obnoxious honestly.
+Plot twist: the mic picked up the sounds of a nearby street. You missed the real Santa /u/Trebornn!
+That's the right way to do things, quality over quantity ;)
+Are plans bound to a character or an account? Because in the former case, if you're not doing any quest I guess you have nothing to craft?
+That's the thing, I don't think any info was given there.
+Ah good point! All other workshops produce currency too (via junk) but at least they are limited by robot merchants.
+I call that harvesting!
+Aaaaand bookmarked! This is lovely. Do you put string on top of the bamboos to keep them from growing higher?
+That's a setting in "power supply options" or something like that (I don't know the English term). You can choose "slow down CPU then increase fan speed" or "increase fan speed then slow down CPU".
+Yes yes! For example `sin(x)/x for x=0` equals `0/0` but also `cos(0)` so this is a case of `0/0=1`.
+Thrichotillomania.
+`Disconnected from server.`
+On what basis?
+I'm not sure why they would try to attack you anyway. A level 2 can't be killed and the level 100 character could have pacifist enabled.
+It's even more fun when you have that naming problem + a bad translation on top of it.
+They should try to give smaller amounts. Usually I leave a few beers and .38 bullets at the exit of the vault when I see a level 1 in it on the map.
+No, you are still hyped for the game. You just aren't *obsessed* anymore.
+Honestly, a swarm of enemies should attack you when you claim a workshop instead of opening you to pvp in adventure mode. And I mean a swarm, not 5 waves of 3 ghouls.
+I thought that was fixed in the latest patch?
+I thought the exact process was that you are flagged for PVP with someone if they take your workshop while you are in its boundaries? Before patch 9.5 (or 9?) it was accross the whole map.
+"And you have to activate it like the aid/ammo/cans perk cards!"
+"Number 14 will surprise you!"
+And reach overseer level 17 (translation is bugged in at least German and French and that's what some challenges look like).
+Notch.
+Which rule does that break?
+Pay them in exposure not in caps!
+The nervous laugh of this man once the fire starts is too cute to be deleted.
+&gt; Can't complete challenges because we can't discover areas ALREADY discovered!! I have like 5000 atoms locked behind those issues :(
+I was slightly drunk when I wrote this, and seeing you guys decipher it the next day is quite fun!
+Thanks for the link, I did not expect the solution to be that simple actually! If you care for a one-liner: def unzalgo(text): return "".join(c for c in text if ord(c) &lt; 256)
+No news for now.
+If you don't care about checking inputs or using it several times, yeah!
+This is amazing.
+If you manage to get the face right, let us know!
+Where do you both get your numbers from?
+&gt; and helps you learn some electrical engineering really easily No, that would be electronics not electricity.
+Yeah it seems to be 0-3 for me (with the occasionnal 4 and 5). On average it's around get harpoons 6 back for 4 shots.
+The reasoning about gamemodes works, but then maybe they don't know it would take just 10 seconds to bash through their door.
+If it's tower defence with people banding together + the camp capabilities, I'm good with that.
+And the only use of Unyielding + high radiations is to have fine prices at the vendors right?
+Have you coded? Just curious.
+One of those new features is remaking our character after level 50 with stronger perk cards. That's pretty cool.
+I use grape mentats and my build has 2 CHR. I think that's would justify bothering with a unyielding set.
+Thanks!
+[Here](https://fallout.bethesda.net/en/article/7Lw6jVvhjzSNzuUMmKZgwn/fallout-76-100-days-roadmap-for-2019) if you Ctrl+F "prestige".
+Yes, it was pretty fun to be thrown away by a deathclaw while wearing power armor!
+It's allowed to use more than one sentence per comment!
+The sky and lighting are beautiful.
+That's what I hoped workshops would be back in November!
+Nah I make them [my followers](https://i.imgur.com/wETjl7Y.png) (crippling perks needed).
+And when it does not work, [scream like Darth Vader while looking at all the stuff you lost](https://i.imgur.com/e6yIBhf.png).
+The team disbands like in Koh-Lanta.
+&gt; Fallout community is really afraid of competitive challenges against other humans. That's the whole reason people play Fallout. They are here for the post-apocalyptic environment, funny/dark NPCs and shooting on raiders. It's much more relaxing than competing against other real humans.
+Me too! It was so much fun to see all those level 2 hesitating around, being clueless about food and healing plants, eating molerats around a campfire... If I had to start the game now I'd feel weird, being surrounded by level 200 guys who drop fifty blueprints at your feet while clearing the area for you.
+&gt; Hell, the engine barely functions properly on it's base mode with 24 players or so, let alone 52 plus all the mechanics that goes into a BR mode. I'm pretty confident about that actually, because the server will only have to load a portion of the map, and half of the 52 players will die in the first minute doing something silly.
+Look at raw uncommented gameplay, not reviews. I mean for any game not just Fallout 76.
+This is planned already. In the roadmap [here](https://fallout.bethesda.net/en/article/7Lw6jVvhjzSNzuUMmKZgwn/fallout-76-100-days-roadmap-for-2019), ctrl+F "prestige".
+There has been a huge amount of news every week since January actually. It only stopped recently. Enjoy the blogs! ;)
+Excellent idea!
+From what I understand, it's this summer so before Wastelanders.
+That would be great!
+Check the pronounciation too, if you wrote it this way I'm sure that's how you say it as well!
+What does 6 WT mean?
+You can leave the circle briefly (taking 5 rad damage) to dodge nukes!
+What for?
+&gt; impossible to store a reasonable amount of stuff. Do you fill the stash with rare junk?
+Look at them [grouping up in Morgantown](https://i.imgur.com/weq2tag.png)!
+You are a responder!
+If I may add something, enjoy being lost and clueless. You are new only once!
+The link has clearly a `&amp;t=5202s` timestamp. It does not work on your machine?
+Back in the day (possibly 1.4) you could turn a redstone dot into obsidian by having flowing lava on one side of it, and water that comes to flow on it.
+You cropped a word on purpose; a FOV *setting* they said.
+0.5 meters cubed != 0.5 cubic meters
+It's not my native language either, but I will just assume that OP meant `(0.5 meters) cubed` instead of `0.5 (meters cubed)`. Anyway \^\^
+So 20+ degrees Celsius is fine?
+That's worth 40 scrips.
+I set all my ammo to 1c and all the (careful chosen) junk to 1c. It sells well. I always laugh when people sell water or ammo at 5c. Who is going to buy that?
+I heard in a video of JuiceHead (where he was summing up different interviews) that we could chose to play the DLC or not. I hope I remember that right. That would be great for alts that want to complete the vanilla game again before moving forward.
+Nobody commented on the 1/1000 = 0.3% yet?
++ Allow camps to be moved. I have to rebuild my camp from scratch every time just because it contains one carpet. + Don't assign the atom key in workshop mode to A. That's my activate/place item key and it's hardcoded...
+That's not how rating works. You give your honest evaluation of something at the moment you evaluate, you don't take into consideration the past otherwise it's counted twice...
+I hope one day we can play offline.
+The game offers you to stay on the server despite the spot being taken, or hop to another one were you'll have your camp. Did it happen months ago or recently?
+Yeah but it's not like I will exploit and ruin my own fun.
+Behind the scenes! https://i.imgur.com/s4to5LI.png
+There is a spot east of the Halloween area you mentioned, when you take the road towards the south. Two wendigos can be found next to a crashed truck, one on a tree (jumpscare guaranteed) and one I don't really know. https://imgur.com/a/rZjEO0Y
+I feel like waiting for waves is not as satisfying as just clearing a location. Sometimes they take forever to pathfind towards you and there is like 5 monsters.
+They should add Scrapper 5 and call it a day.
+Thanks for the link!
+https://youtu.be/RhKlRJMFsOw?t=10
+Trading. A lot of trading. That's my main interest now until humans come back.
+&gt; Whatever happened to that and vault raids? Were they put aside to work on wastelanders instead? What would make you think that? Wastelanders is planned for this fall while prestige and vault raids will be released this summer. This summer, not the first day of summer.
+What lack of transparency? You can't expect for researches on Google to grow indefinitely. When enough people know about it, they don't search for it.
+It's on purpose, just like VATS targets grenades (others' included). You can blow them up in mid-air to protect yourself.
+There is an atom challenge where you have to play for 7600 hours to get a reward. It shows x/7600 hours played :)
+What you said about the cryolator, it works?
+I 100% disagree with your conclusion on the Purveyor, because you have received like 50 items and that's not enough to do stats. The rest is interesting.
+That uses pressure not cold temperatures.
+"What you see is what you get" system for humanoid mobs. It's a bit weird when a scorched attacks you with a hammer and drops a scythe.
+I don't know why you behave like a prick here, but yes I'm a dev. Not a game dev, but the system we are talking about is not hard to put in place. It's in all Bethesda games except this one.
+&gt; The lack of information from Bethesda about anything at all other than battle royale is getting a bit tiresome. Did you read the last Inside The Vault? They said new features were coming to adventure mode with patch 11 early July.
+Take growth hormone (and its problems).
+For what reason?
+Where did the extra ~400 GWh go?
+From the [roadmap](https://fallout.bethesda.net/en/article/7Lw6jVvhjzSNzuUMmKZgwn/fallout-76-inside-the-vault-our-roadmaps), it says: &gt; New Feature: Legendary Players – An all-new prestige system will allow players above level 50 to become Legendary, resetting their characters with all new more powerful abilities. *Resetting* with new abilities! :)
+Does that fit a Fallout game?
+To add on to what the other perso said, you can also take just 3 rifleman perk cards (basic, expert and master) to get +30% damage. The higher ranks of the cards have a lower yield (it's +10 15 20% damage not +10 20 30).
+There is a trapped bus at the front entrance of hotel in Whitesprings. Every time I went there, it had already exploded so I guess the trap works.
+Oh no it's just a grenade bouquet or something :P
+What is the typical selling price of your treasure maps?
+Do you have posters or rugs? I'm sure you do. They cause issues. :/
+It's not hard to do a pass in the blueprint object and check for every element whether the associated plan is known. If not, it's removed.
+I don't know, but any of my blueprints with an item on a carpet on a foundation does not work. https://i.imgur.com/vKkqSNk.png
+I think there is roughly 1 m^2 of football field for every 9 feet^2 of soccer field.
+No one gets the grape.
+Nobody is going to mention how this is just a combination of all screenshots and concept art available?
+I always thought he wasn't hit by any arrow to show how he was protected by Rhollor (there is a ' somewhere) until his goal was fulfilled.
+RIP Westeros.
+An unexpected boar.
+I believe it's a war against slugs from the garden, Bobby B.
+\*Petition to make Haggy B an official r/freefolk bot.\*
+Do tampons need any plastic to work effectively?
+&gt; economic depression, resource wars, extreme migration and the food trucks disappearing When you think about it, fires can cause those indirectly. Burned areas mean migration and no economic activity, possibly blocked roads too so no food trucks. The green regions suddenly get an increase in population fleeing the burned regions.
+Ah I'm dumb, I was focusing on the product and forgot about the sealing/packaging.
+The dementor's kiss!
+First, keep in mind that this picture is a concept more than an in-game screenshot. Regarding items, I think they just pull effects/affixes from different pools based on their rarity. &gt; higher rarities only available from looting and killing or just requiring more resources and rarer recipes to craft? Both. Grim Dawn does both and it feels pretty good.
+I honestly thought we could choose to play year 1 or year 2 content, before they announced that both were mixed anyway. It's not that logical from a story point of view but well, we'll see how it goes.
+Multiplayer or co-op?
+Make it stop at 6 seasons, just like GOT.
+Hehe what if damage numbers also have a display bug?
+jeel'd
+Now I have flashbacks of Dumbledore pulling memories out of his temple... and I realize maybe it was another substance after all.
+You did that without having your own license??
+I'd love to know the efficiency of the (liquid -&gt; gas propelling a turbine) transformation.
+You're not wrong, you're just using threads where I would use processes :P I agree they kind of are the same thing, I believe the key point when you have to choose between one or the other is the overhead. For example, multiprocessing may perform faster but it's on another core (as opposed to multithreading) so you have to test whether communication between cores cancel the improved calculation speed. &gt; But, which a large voxel game, I can imagine (I have never done it though) that parts of the world further from you can be simulated on other threads. Things x distance away from you can't actually affect you so it is possible to have them on a different thread. In that specific case, I would rather outsource chunk generation to another *core* because it's calculation-heavy, and use a list of threads for all the "independent" smaller things like the behavior and moves of every mob. You would want mobs to act at a certain framerate while chunk loading is kind of irrelevant and justs has to happen whenever it's ready.
+I see the flag as blue and black, but maybe it's just the picture's lighting.
+We lost the password to the FedEx account.
+This counsel you mean? Did you translate your comment from French?
+\*laptop lid clap\*
+Ah ok. Maybe it's fixed then. Last time I played, it was supposedly the rarest plan in the entire game and people would grind the Ash Heap events for several days to get one.
+Well no, NDAs are a thing.
+Hehehe good idea :)
+In terms of story, maybe you're right, but there will be cool features added with Wastelanders. I'm impatient to see all the new plasma/gauss weapons, as well as the Prestige system to unlock new perk cards.
+I don't understand how that works. The various data of an item have to be stored somewhere. What does the fingerprint do?
+The way I understood it, you could mark 1 of your 7 special as legendary every 50 levels (retroactively too) to unlock the new perks. That legendary special is shared accross all characters on the account and works as "new game+" or whatever people call it usually.
+What's not supported is RTX as in the graphical technique, not whatever GPU that is compatible RTX.
+It was an announcement trailer. Just like for The Elder Scrolls VI, it's just meant to show that they are working on a title.
+They are both one-liners, coding wise.
+We all thought we could build stuff that looks like it belongs there, because it was literally said in the trailer: "rebuilding Appalachia". I really thought we could set up permanent camp in ruined areas and progressively make them better, as opposed to building a camp from scratch. Missed opportunity!
+Yes they did say it will be possible.
+The whole story of year 1!
+When life gives you lemons!
+From my experience, English speakers can't pronounce the French en/an (it's a different sound that "oh") and French speakers can't handle the English th and non-silent h. It's alright!
+Interesting, because in the French version of Pokémon this little guy is literally called "axoloto".
+That is way I'm thankful to have played early. Back last year and even during the beta, people were all running around in leather armor. They used throwing knives. Everyone was level 10 so you wouldn't have an immersion-breaking encounter with a level 355 guy in PA dropping 500 stimpacks at your feet.
+Yes that would totally make sense. People would both spend time working on food, shelter, weapons, fighting monsters, etc. and have idle contemplative and relaxing time around pre-war locations or beautiful landscapes.
+I watched it with the automatical subtitles because I don't have sound right now, it's hilarious honestly.
+Hytale?
+You want those pretty blue pew pew's!
+This is true, but in the meantime they track the position and rotation of all other camp objects and we can place down hundreds of those. Maybe they just need the appropriate budget cost.
+Yes, in the end D&amp;D always win by ruining franchises you care about.
+Aim for the head. Numerous times.
+I'm sure they are just creatures doing their own thing.
+What do you mean "not been done"? You didn't even take the time to remake the texts of the original.
+Now 2 of their 7 SPECIAL can be made legendary and unlock related new perks.
+I like to think that too. In the first scene we saw her, she did not have her neck showing so I imagined it was to ~~show~~ hide a strangulation scar. Now apparently she has no mark.
+I think they said everything would be available right off the Vault. Hopefully it's not too messy for fresh characters. Maybe it feels fine when you play for the first time and I'm just worrying over nothing concrete.
+Maybe it's normal that you can kill most enemies within a few hits after 400 hours.
+None.
+Creating urgency for too long also defeats the purpose. That's an issue.
+Oh yeah, let me tap into the energy of a parallel universe populated with inferior life forms to cook my amazonian beef.
+Why are you talking about 0.25? If the pH was reduced by 0.1 by humans, regardless of its original concentration, 10^0.1 = 1.26 so the amount of acid increased by 26%.
+I feel meh about it, because waste to compost creates just as much heat AND fertilizer in addition. Incineration is about trying to burn water since so many people put their food waste in it.
+Show them!
+Maybe it's more grey than usual.
+I would be happy to buy one of the grenade plans, if you still have some in store!
+That looks awesome, thanks for sharing!
+Impatience/satisfaction management would like to have a word with you. It's better to convince yourself you'll play in 2021, regardless of the beta starting date.
+I'm planning to buy 0 of those!
+I think you can block the payments from your bank website, or give them a call.
+Go back in the box.
+Your bidet?
+Adventure and camp/workshop one. Automatically switches from one to the other when you cross the boundaries.
+What do you propose in place of the perk card system?
+I always thought (and still think because why not) that Bran made Aerys crazy, just like Hodor, by warging to the past and trying to warn him about the wights. He probably advised to burn them all.
+Even with 100% increase, grenades are good but rocket launchers suck.
+But "6 eXtRA dEgReEs JuSt MeAnS OnE fEwEr sHiRt iN wInTeR" said some people.
+[Light wood lemonade.](https://youtu.be/VIvzY8H81bg)
+I'm ok with not seeing the item immediately (only the one whose name you are hovering over) but they could use a few pictograms yeah.
+Work in progress I guess!
+That's where I would hide an horcruxe.
+&gt; Did you know that there is a base probability of 0.274% of Hytale releasing on any day of 2021? That's false. I get that you just want to have fun and pass time with maths, but Hytale does not have a probability to be released. It's an action decided by someone, not a coin toss.
+I don't like that title. Low-tech have nothing to do with "dumb". If anything it's the opposite. It's being smart and doing the same with less material/technology.
+No. There is a 100% chance of the game releasing in 2021 only means that Σ(p_n from n=1 to n=365) = 1. It doesn't mean every single p_n = 1/365.
+This is the way.
+I wonder if they will remove shotguns, based on that quote. ^(/s)
+4) She does not know how to use a knife.
+White eyes. Warged-in creatures have white eyes, wights and white walkers have blue eyes.
+Oh, that would have been awesome actually.
+I don't think that's true. People keep tossing the argument that with the crappy end, the beginning doesn't matter anymore. You can still appreciate other aspects than the story (music, clothing, visuals) just like with any other movie you already know.
+The version with some visible white beard is the best.
+Yes. It just takes the will to do it.
+It is the Marauder's Map.
+Do you bury one Christmas tree per hugel?
+Hopefully level + "offer works once per account" restrictions. That way, you could have whatever starter kit you want to offer (say .38 ammo and stimpacks for free) and people could only take so much before it expires.
+Now I'm wondering why we put the reflective metal on glass instead of using a more robust material. Why not polished wood or something?
+I find [this one](https://thumbs.gfycat.com/AliveImpressionableEmu-mobile.mp4) more in depth.
+This is amazing.
+Does bloodied or furious also increase the radiation damage part?
+Aaah, nice idea!
+You want to use apostrophes, otherwise it's harder to read.
+She's disgustingly artificial.
+I'd like mechanical/steam/cog systems rather than redstone.
+&gt; To be honest I think that none of these system can replace redstone. None can be *as complete* as redstone you mean? Because we are not trying to reproduce it here. :) &gt; [the rest] I think we could find solutions to everything, provided a little time. Off the top of my head: - You could change the rotation direction by pushing in another cog ("oh so we need pistons" I hear, yes). - Analogic stuff could be done by using a cog speed parameter. - Cog would be one element amongst others. We can imagine a pressure system too, with pistons, fans/air flow, maybe temperature too. Any number of elements that fit the game's theme could be added really.
+Is the legendary player / Prestige system already implemented?
+Their consumption probably increased by more than 50GW. We need reduction more than greening, people!
+I'd say 5 sights in 8 seasons!
+I understood that too.
+Absolutely, I was not targeting India specifically but all countries that add renewable. We often see that new sources add on top of each other instead of replacing fossil ones unfortunately.
+I should have mentioned that the sticky man could represent the player waiting for Wastelanders rather than the dev team being lazy actually. I 100% agree that they seem to have heard our feedback and they'll now focus more on quality regardless of the delay. [There](https://i.imgur.com/bTm9QnO.png) I made another one. It's not meant to be an attack against devs, just a funny picture.
+One goo restores your entire health bar and leaves you with maybe an eighth of the bar in rads. If I'm fighting against an enemy that does not irradiate me (like ghouls), I just heal two or three times then pop a radaway. You can easily make 50 of them in 5 minutes by following the river near Flatwoods and collecting glowing mushrooms and that will last for dozens of hours.
+Oooh, thanks for the reply. I somehow missed that it was for ESO and my googling of a Skyrim (TES V) DLC did not yield anything. I see!
+But you can already keep things like lockpicking and hacker equipped at all times.
+Sometimes, I wonder if anyone logs in them and hand picks a proper reply.
+HOLD THE DOOR (open) HOLD DE DOR (opn) HOLEDOR (n) HODOR ()
+General $Bethesda_account.id.as_string().display()
+Absolutely, and also an overall damage balancing is supposed to be included.
+i.e. it's sold at 10k caps instead of 100k.
+&gt; I really have to re-map these keys. Good thing most keys can't be remapped.
+I think it has something to do with [the One Ring.](https://youtu.be/6-HO4MoMZ94)
+Caught it mid flight!
+Yes I use it, whenever I have enough ammo to use it more than 5 minutes in a row. So every 6 months!
+If it's good enough for flies, it's good enough for me.
+Also bring a massive used diapers tank.
+Yes I think it yields 2 or 2.5x ammo for the same steel/lead, but it's easier to buy it than to make it really.
+Yeah, pretty in terms of colors and has nice elevation changes.
+Absolutely. It also needs a little more ammo per craft. Currently .308 price seems to be balanced around for sniper use rathen than fast-firing weapons use.
+If you make that move, will you have trees on the property? There should be plenty of fallen leaves to harvest every year.
+Get close to them and feed them the [you're under attack sound](https://www.youtube.com/watch?v=IwzFzUXSE5s) from Age of Empires 2 through your microphone.
+I'm fine with them burrowing, but underground they should move at a finite speed instead of teleporting to you.
+I'll block their blade with my typewriter.
+Collect my audio data if you want Zenimax, I don't have a microphone so it's all funny effects and quotes coming from a virtual soundboard.
+Yeah just snag a `shields = True` in there!
+If you fast travel and use your TSE weapon on level 1 enemies, yes. Don't do that to extend your enjoyment. Personally I'll keep my character but store its old items in the stash temporarily for Wastelanders.
+Absolutely.
+Yeah, being without food and ammo and drinking poisoned water from the river was the most fun part for me. No more .38 bullets? Use a shovel!
+Eh, if your damage is 6 * enemy armor you don't need to have an increase in damage from your affixes.
+I guess the point is just to have Mutant worth more than scrip.
+It tastes clean though.
+Two-shot faster fire rate MIRV cat man launcher!
+He was hurt by a Lannister soldier and OH MY GOD WHAT IS THAT PIRATE LIMB?
+Both ideas would nicely complement each other ;)
+Thermal insulation is a huge deal too. What I've been interested in these days is energy "concentration" because it's a funny mechanic. Take an electrical stove, if it's on I can cook food and heat up my house. If I turn on the electrical radiator **of the same power** instead, it will only heat up the house. It consumes the same amount of power and can do less things. Concentrated energy is then more valuable. Overall we find to find simple low-tech ways to profit from sources of concentration and make more with less.
+Like zat, zently pull ze cable from its packaging.
+Not dynamically. Usually what I do is setup all the fixed widgets in Designer because it's handy, then add new widgets when needed in the code. For example, design a main window but code a small popup. So far I mostly need the code for filling `QTreeWidget`s or changing the pixmap of a `QLabel`.
+That makes me wonder if there is/will be a composting mechanic. Put dead leaves, grass clippings, cow manure and food waste on a pile, wait a few months and boom, black gold!
+Getting Jaime to go North.
+You think? If we push [this picture](https://i.imgur.com/eXVhccJ.png) a bit, we can see [that](https://i.imgur.com/fSDaUDB.png) there is borders. I think it's discontinuous because they didn't find yet how to smooth transitions between blocks. We'll see when it releases :)
+Just because one aspect of the game is good doesn't mean the whole thing is ready.
+It was showcased alone, but in normal conditions it would be mixed with music and others sound effects like mobs and combat. It's alright.
+The sound ambiance there makes me think of Zephon's nest in Soul Reaver 1.
+You can download the .zip archive and take those clips from there too, if that helps.
+You would be surprised if Hytale surpasses MC in performance on all types of hardware. Simple-looking and efficient are not the same thing.
+The first that comes to mind is: how do you handle rotation? How do you handle the transition from blocks to entity to block again (now with a displacement).
+Excellent!
+What is an Hirsts?
+Can we get the ITV stickied please?
+O_O this is a game changer, [thank you kind sir!](https://www.youtube.com/watch?v=Jt061BAbkQs)
+Titre alternatif : "malgré tout on a quand même généré 89% du PIB de l'an dernier". Le verre plein.
+L'association d'idée était foireuse mais c'est tout ce que j'avais \^\^ Note qu'à plusieurs on arrive à traduire !
+Maybe the font was very very big?
+Did everyone suddenly agree to forgo capital letters and punctuation or what?
+I just use spent toilet paper rolls cut in half as pots. It works nicely for seedlings and there is enough room for a month of indoors growth.
+Hmm that's strange. Do you water too much? I water the seeds with a spray instead of a bottle so that helps. Now you got me wondering if the rolls have some fongicide in them but I don't see why they would.
+Bah, they weight 0.1 for me and are great as an Herbivore mutant. Different builds!
+Where is that sentence from? I've already heard the ending somewhere.
+Or a native ancient Greek speaker! πρᾶξις
+I guess you can teach them patience first ;)
+And the bag was 1/3 "bonus resistance while wearing ___ armor", 1/3 "enemies explode when hit by ___ weapon", and 1/3 new stuff.
+Loïc Sliman !
+I would start planting vegetables for myself. It helps reduce your financial dependency and it does not finance farmers who destroy the soil with their practices.
+`i = sqrt(-1) + 1`
+Yep. The thumbnail of my program is heavier than the code.
+That's the email I use for every website that requires a valid email.
+`# Line 132`
+Bore goes brrrr!
+It started in 1950.
+"Si c'est avant 22h y'a pas tapage nocturne, on ne peut rien faire."
+It does sound like a very large value to me actually. It's excellent.
+La plus petite manifestation du monde c'est Vincent Tirel criant "non, non, non, à la solitude !" seul dans une rue vide.
+Maybe they already had a snack before and could not finish their gold bar.
+Dry grass isn't a good mulch?
+Moins haut que `1/2 v²/g` à cause des frottements.
+It would be a free food source just like wild berries so I'm not worried about efficiency or yield.
+I'll slingshot a few peas and observe.
+Take a look at Hytale then, it should please you.
+Good point. The thing is that we are already cutting the herbs there in order to not get invaded, so the work to force the area back in time is already spent. We make compost with it. We might as well cut once, grow peas, harvest, then cut again.
+We really need to do that even in places that are not threatened (yet) by desertification. In a more temperate area, high ponds and swales should be able to irrigate fields and relieve the tension put of rivers.
+&gt; You could, but what's the benefit of doing that over just growing beans/lentils/chickpeas in a dedicated plot or as part of a traditional set of companion crops? It took me some time to actually find an answer, but really, it all boils down to "I just want to see if beans grow there" without any rationale or plan. I agree with the idea that it wouldn't be efficient or practical but I find the scene hilarious: "See that grass field over there? It's edible!"
+Ils ne s'amusent pas à perpétuer une langue inutile pour le fun, ils parlent. C'est quand même assez différent.
+That sounds awesome, thank you for the information! The principle of trying to turn annual crops into perennials is really fascinating.
+I don't see why people would come back for an experience bonus honestly.
+And in case someone is wondering, killing millions of people does not solve the problem as their emissions are already low and the climate has decades of inertia anyway.
+Lol let's blame the boomers for everything and totally forget that we are using cars, meat, heating, planes, and internet.
+For me it shows both (no plugin, old reddit design, on computer): https://i.imgur.com/nJWWuIA.png
+Ah tu parlais des mûres ? J'avais pas saisi.
+Eliane c'est la VF de Karen on dirait.
+Les bailleurs n'ont plus le droit de louer les logements F et G à partir de l'année 20xx. Ca serait concret.
+Which Civilization is that? All of them?
+Absolutely. People play and get tired of features much faster than they are developed of course and that's true for every game, but for Minecraft specifically we have the snapshot system in parallel than only strengthens that issue. By the time a release happens, everyone already knows what's in it and how everything works.
+We cannot exclude that people play Minecraft in part because it's *the only game* that provides that kind of creative freedom and its success is due to its monopoly more than its qualities. Maybe Hytale does not have to be excellent to outlive Minecraft, it just has to offer a choice to players and open up the genre.
+That is because we do not reward the right things.
+This year I was lucky enough to convince my boss to let me "downgrade" an already existing contract to 80%, so 4/5 days and 80% pay (not full pay with 1/5 days in remote work). I don't know yet how work will feel in the long run because lockdowns happened the same month, but I definitely feel lighter. It makes you realize that your job is just something you do to live, it's not your life. Now as other people mentioned, the virus situation opened everyone's mind about the benefits of remote work and I assume many people here will apply to keep a weekly day of remote work. Regarding the financial aspect, there are two things: 1- maybe your full-time job allows you to buy all kinds of expensive organic food, but nothing says it will last forever. What if the value of food or money changes? What if despite your money, the stores are empty? Independence is definitely a concern. Plus that way you can actually have a sustainable approach towards growing food. 2- The satisfaction. I don't care if it takes a month of work to get a handful of cherry tomatoes or one rasperry, it's mine! :)
+Faut boire du Bulmers, l'original avec la décoration jaune. Il est magique.
+How how-tos are made!
+Don't you like having more DR in ___ armor or making your enemies explode when wielding a ___ weapon? — *Half the legendary perks*
+"That's how I stop peeing."
+What does the Blackfish have to do with that?
+Make him hold a chicken in the TV version.
+I'm fine with those perks as well as long as they don't take the spot of another better thought out perk. That being said, I doubt they invested much time on them so it's not like adding one perk competes with adding another. It just feels like it.
+Is this in both the book and show? I don't remember that part but that sounds interesting.
+Of course it was a health concern, but **it** burned down not "France burned it down"... &gt; And now they have the audacity to do this. Who "they"? Do you understand that a country contains more than one person so the actions of one can contrast with those of another?
+I especially like the 5 .38 = 1 fuel.
+At that point I'm just happy if we get a good Winds of Winter and nothing after it. Leave it open-ended and avoid the fiasco of a bad ending.
+I'm always amazed at all the anecdotes I hear about how police is called for everything in the US.
+Oh boy I'm so out of date regarding Magic. Let's look up what is a "monarch".
+Of a what?
+Ah well, if you are in such a neighborhood and are not actually infringing any of its rules, you should be fine.They can still call whenever they *feel* like what you're doing is wrong.
+Le problème c'est que les gens trouvent intuitif de se dire : ma voiture à l'arrêt avec le moteur allumé consomme tant, si je roule je rajoute la "consommation de déplacement" à la consommation à l'arrêt, et plus longtemps je roule, plus longtemps la consommation à l'arrêt est sommée. En vrai c'est débile, tu consommes à l'arrêt juste parce que le moteur n'entraîne plus les roues. Ca veut pas dire qu'il existe une consommation basale constante comme pour un humain.
+Excellent!
+Well fuck, now I hope GRRM does not retrofit the 6th book with parts of the show because I really want to see what *actually* happens to Jon and Stannis.
+Savage Tarly daddy.
+She is right. Killing stuff forever to improve your gear works very well in a game like Grim Dawn, not Fallout.
+&gt; I'm thinking I might have to pay to put up a huge wooden fence between our houses I am wondering whether you can give your neighbor that idea so that *they* build a fence and pay for it.
+Using rubbish armor and weapons while you explore the world!
+They could have added a bit about how various positions align (or not) the end of the tube nicely and facilitate the exit.
+It's a cat from MTG Mirrodin?
+Let's all take a moment to appreciate how even Dorne is less desertic than King's Landing.
+Why? Are you not interested in history just because you know the state of the current world?
+I'm slowly coming back to the game. Do trebuchets not outrange bombard towers?
+Emyn Muil!
+C'est pas la première année qu'une partie est en contrôle continu ? Question honnête, j'ai pas trop suivi cette histoire.
+[Salut !](https://i.imgur.com/07NrFLL.png) C'est du rhum fait maison de bout en bout ou il y a une base à acheter ?
+&gt; Tu as sincèrement l'impression de prendre une décision quand tu votes ? Pour les municipales et dans une grande ville, oui. A la campagne effectivement c'est moins palpable.
+Oui c'est clair que ton vote a plus de poids tout court (1/n) mais sur des décisions qui t'impactent peut-être moins. En ville t'as tout de même le choix entre des extrêmes qui vont affecter ta vie de tous les jours, par exemple la bétonisation massive ou les pistes cyclables supplémentaires sur les 5 prochaines années. D'ailleurs je pense pas qu'il faille s'inquiéter du poids de son vote. Tous les autres gens sont aussi des "moi" de leur point de vue, donc "moi" doit aller voter pour ce qu'il estime être le mieux. Si tu commences à te dire "sur 100,000 personnes mon vote aura pas d'impact" il y aura des milliers d'autres "mon vote" perdus.
+My main tip would be to enjoy yourself and don't try to be super performant. The cluelessness does not last forever and it's the best part about those games. People will try to give you many blueprints, ammo and healing items if they meet you while you're level 2 but that will just reduce the amount of game you can enjoy the game. Also: don't fast travel. The world is much bigger that way.
+&gt; For this you have to prepare thousands of images which you know to contain a car and feed it into a network. I call this step "parenting". Some people say "oh but neural networks will gradually decrease the expertise of humans and we will lose knowledge". Well not really because machines still need human parents to give them the proper *manually labeled* data to digest.
+Doit y'avoir de bonnes quantités de matière organique au fond, un délice pour les pieds.
+C'est convaincant.
+Here is the build [link](https://nukesdragons.com/fallout76/perks?v=1&amp;s=fa435e5&amp;d=ei2ep0l71lm2p10pg0ph0pi0ib2ik0ii0c52p00pq1pp2a42an2ao0a30a00au2at1sq0s30sr0sw2ss2se2s50si0sj0) and a [picture](https://i.imgur.com/YChm2EP.png) in case nukesdragons is unavailable. I did not include the various swappable crafting cards from the intelligence special. To give more details about the gear, I am using light leather armor (it looks good) with weight reduction to chems and food (frees 6 perk points, Thru Hiker and Traveling Pharmacy), one piece has AP regen (frees Action Boy points), and for sniping I use a 1★ instigating gauss rifle while sneaking and aiming for the head (no need for Rifleman with that weapon). So gear does save me plenty of room but the build would be the same without it. I would just carry less drugs and water really. For your power fist you can probably get away with using just 3 perks, either Gladiator "|expert|master or Incisor 3, especially if you sneak and aim for the head. Everybody is focused on being super efficient. I just want to be able to switch between killing a moleman with my knife silently to suddenly burning everything with a flamethrower in between throwing nuka grenades without having to open the perk menu thrice. I'm not lockpicking or hacking either.
+Well for the queen I would switch some perks around obviously. It's not happening every 5 minutes though. What's a ISS? I didn't try the colossus yet, I haven't played in months.
+Ah ok, parce que clairement ils sont dans leur tranchée donc c'est eux la fortification. Remarque ça doit être très efficace comme moyen défensif de dernier recours.
+Non t'as le droit aux suffixes de magnitude du moment qu'il y a une unité SI derrière. "k" c'est un nombre pas une unité.
+Il y a des [variantes](https://youtu.be/xclfRweLagc?t=388).
+Gone by 2025.
+Le second tour a pas eu plus de succès que le premier malgré la pression moindre du virus.
+We need to deepen the meta by using the mono-sentence memes like Bronn or the Hound *without caption*. That should confuse the future archeologists.
+It's just that climate bad news seem to happen faster than expected nowadays.
+Excellent example. I have no interest in any movie/game/product related to Star Wars but I enjoyed the Mandalorian for what is it, without understanding the references to other things of that universe.
+Oh ben si les gens estiment qu'ils sont mal représentés par les résultats, ils avaient qu'à pas s'abstenir aussi au premier tour.
+Pour la répartition des populations sous un maire écologiste (ce qui est encore différent des votes), c'est [ici](https://i.imgur.com/H5nxGaq.png) issu de [là](https://www.lemonde.fr/les-decodeurs/article/2020/06/29/une-vingtaine-de-villes-deux-millions-d-administres-visualisez-la-percee-historique-des-ecologistes-aux-municipales_6044581_4355770.html).
+Aux abstentionnistes ?
+I don't understand how people would be able to estimate anything except the highest mountain.

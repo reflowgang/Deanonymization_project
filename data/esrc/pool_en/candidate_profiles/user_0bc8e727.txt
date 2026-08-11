@@ -1,0 +1,500 @@
+I built this. It's a fairly full featured device but inexpensive. https://bitbucket.org/kuchura/eu1ky_aa_v3/wiki/Home
+Chien is dog though.
+Depends on your previous knowledge. I passed CEH with no prior study.
+Not really. He seems like he had been fed the questions in advance and had well written answers prepared, including the little throwaway shot in the middle. These days though, he believes his own hype so much that he prefers to "wing it".
+If the law is the only thing stopping someone from being a creepy fuck, that doesn't say much for their character.
+I've shelved the idea of doing a group buy myself. Not enough interest and too much risk. Instead I emailed Steve to get a slot on the next group buy he coordinates, so I guess march sometime.
+I have one and after the HF mod it performs about as well as my SDRplay RSP1 with inline broadcast FM bandstop filter down to 7mhz or so. With 20dB lna inline it is very sensitive down to MW. I have used SDRAngel to transmit but haven't built out the full RF deck yet so only into a dummy load. SDRConsole also has transmit but only in beta thus far. I primarily use it for RF hacking. Mainly using URH and GNUradio. It's probably the most capable SDR for less than 1k at the moment, but enduser software is thin on the ground.
+He sounds young. Maybe get him some toys to occupy him when you're busy. Also some dogs need a lot of walking. I have an 18 month old saluki cocker cross and she'd happily walk all day and then spend the evening mooching around, whining to get out, climbing on the sofa... gets on my tits if I'm in bad humour but she can't help it... she's not a bad dog by any stretch, just energetic.
+What's the deal with a shared account? Why would you do such a thing?
+Oh my god. So many good memories of that place. I still have a fabric towel somewhere. And one night I had been sold duds in a pub in hoxton and while making our way to fabric, what did I see on the floor but a pill... and another one... and another! About 7 in all. Tested them with a test kit and pure as the driven mdma.
+You gave it as a gift, so it's his guitar. Only an asshole takes someone's guitar, regardless of what they're doing with it.
+Cool. I went to college in Pontypridd. Let me ask around and get back to you.
+Try these guys: https://www.facebook.com/groups/swanseaanddistrictamateurradioclub/
+A bank vault and the banking system are two different things.
+Awwww... cute!
+Such things exist. Have a look at USRP or LimeSDR.
+Yes, absolutely.
+Excellent. Worked perfectly. How did I miss that?
+I'm not going to restate what others have said but want to give props to your boy for standing up to the other kids and telling them that what they were doing was inappropriate.
+What deficiency do you have with it? I have an mcHF I built myself and find it an excellent radio. It performs at least as well as my FT817, and close to my KX3, except in very extreme circumstances.
+That filter behaviour sounds strange. What version of firmware are you using? I was getting some oscillation due to some bleedthrough in the switching pin diodes so I replaced them with a relay. I could have replaced the diodes too I guess, but since I did, tx/rx switching is electricity silent.
+At least two of whom are hobbits
+Why look for offence where none was offered?
+Even the v3 is still an 8bit ADC with no filtering.
+Anaphylaxis is what's up for me.
+https://guardianproject.github.io/haven/
+There is a line somewhere where this goes beyond trolling and is indicative of your true personality.
+It looks like it could be pretty good. Hard to know though, especially where build quality is concerned. Also I wonder if the software is upgradeable.
+Have a look here: https://github.com/f4exb/dsdcc
+There's a pretty big difference between 100w on phone and some 100 duty cycle digimode.
+Oh man...
+Yes, for themselves.
+Is there not such thing as carer's allowance? There is where I live. It's not a huge amount but it's something.
+Numerous? I don't have even one.
+So your boss was racist to you, you were sexually harassed and wrongfully terminated? You could be in for a huge settlement if you pursued a case.
+Good fucking on you. Frank sounds like a good person. Going to church doesn't determine where on the moral spectrum you reside.
+I thought Canada was in the sky.
+In have this LCR meter and find it great from an accuracy point of view. http://aidetek.com/mm5/merchant.mvc?Screen=PROD&amp;Store_Code=A&amp;Product_Code=DM4070&amp;Category_Code=DMM This is my AA. It's a kit but has excellent performance. Downside is it's a one-port VNA, but if you terminate a filter it will read accurately. https://bitbucket.org/kuchura/eu1ky_aa_v3/wiki/Home A good used scope can be gotten for cheap too. I picked up a HP 54601b at a hamfest for €80. If you want to spend more that's your choice but I wanted to give you some cheaper options.
+There’s enough soldering in this kit to satisfy the urge to build, if you have such an urge (I definitely prefer to build rather than buy when I can). If you prefer a more turnkey solution, you can get populated boards from Yuri: https://www.ebay.co.uk/itm/162860498832
+Red PCB is an S9 Signal Generator with crystals for 80m, 40m, 20m and 10m. Blue PCB is a combination QRP dummy load and power meter.
+Pi attenuator. You can tailor the attenuation and the impedance. Very simple little circuit. https://www.electronics-tutorials.ws/attenuators/pi-pad-attenuator.html
+I find the idea that this is an emergent property of nature far more wondrous than 'god did it'.
+You don't think that normalising certain behaviour legitimises it to a degree?
+Or "echo"
+Wow. Is this the app configuration JSON? Did you need to reverse engineer the protocol? I have been away from Pebble for a while now so anything I used to know about the development ecosystem has been forgotten. I just bought a 2, though, and straight away was reminded of what I found so amazing about the Pebble, so the possibility that it may be able to keep alive is great.
+I would say the set of users that would build an app from source and install it on a jailbroken iPhone intersects completely with the set of users that would never replace their pebble with a fitbit.
+Good on you. That's pretty serious work. Is the exchange between the app and the server rest/json or some other protocol?
+If ever you get round to putting it on github, I'll port it over to python... I promise.
+Yes, sure... I find the mcHF slightly more useable, in that the behavioir and layout is more intuitive than the KX3. If I spend any time away from the radios, it takes me longer to get back to a point where I can operate without having to think too much on the KX3. In terms of sensitivity &amp; noise floor, I find the two to be comparable... by and large, if I can hear a signal on one I can hear it on the other. I haven't had the opportunity or need to find out what the close-up dynamic range is like, since I never have huge signals to deal with, but I suspect the KX3 will win hands down here. The KX3 has internal batteries, ATU options, transverter options etc. The mcHF has none of these in its stock form, but for anyone that builds their own, modification is easy as familiarity with the internals is very high. The mcHF speaker audio is better... far better. The KX3 speaker is shite, I think we can all agree/ Headphone audio on the mcHF is good &amp; punchy... on the KX3, headphone audio is sublime. The mcHF has far more features... multiple preset filters, proper transverter offset display, TX &amp; RX multiple digi modes direct from the radio with a USB keyboard, full CAT control and audio through a single USB lead. Updates are frequent and the feature list is growing. The KX3 on the other hand is much the same radio it has always has been... ok it now does 15W, but that's about it really. That said, the KX3 is a stellar performer, so I don't know what features could improve on it. The thing I enjoy most about the mcHF over the KX3 is that I built it myself. I would and soldered every coil &amp; choke. I made a couple of small modifications from stock... using a radio that you build yourself gives an extra thrill... especially when someone compliments your signal. This brings me to a final point... the spectral purity of the KX3 is unbelievable. I have a HP spectrum analyser and when outputting a pure carrier, all the KX3 puts out is a carrier... even 120dB down, there is nothing. Very few non-flagship class radios have this degree of purity.
+Yes indeed... sometimes one's internal batteries need a recharge.
+I switched out the pin-diode TX/RX switching for a relay. Some pin-diodes exhibit a bit of leakage when in transmit which causes oscillation and a very impure transmit signal. The relay removes all of this, but the option to move back to pin-diodes is still open should I want to. I swapped out the non-resetting polyfuse for a proper glass fast-blow. I also added the necessary SPI lines to enable touch-screen. I replaced the capacitors in the LPF with 200v units to enable more output power without causing a fire. I am also in the process of doing the T7 mod to enable higher power (more efficiency) in the output stage. I I'm not going to give the spiel why you should not go for the unofficial clone, but I will say that it seems that in many cases, poor quality or low spec parts are being used, which can negatively impact your experience. One in particular is the use of the 512KB MCU rather than the 1MB one that M0NKA has shipped for 3 years or so. This comes from the fact that the clones are based on a very old board revision, which was based on this. The downside is that since April, the compiled firmware is &gt;550KB, so won't fit on the smaller MCU, so newer features won't be available. Also, there have been a number of stories regarding support and warranty that sounded, well... unsatisfactory at best. YMMV.
+I don't know what a jackite is, but the DX commander is an All Band Vertical kit based on a 10m fibreglass flagpole, 6 elements cut for 80 (or 30), 40, 20, 17, 12 and 10m, with 15 being available as a harmonic of 40. The kit comes with a bunch of wire, pre-drilled aluminium plates for radials &amp; elements, and a number of engineered nylon plates that act as element guides &amp; attachment points. It is designed for portable work, being pretty straightforward to tear down and set up in fairly short time.
+AH right... I wasn't sure what you were asking. The pole that comes with the kit is heavier duty than the usual 10m poles I have seen. The end section isn't as light and whippy either... you could support a wire antenna from the tip without much bending. The material is pure fibreglass with what appears to be a gel-coat rather than plain paint.
+I have a DV27 CB antenna with a connector like this at the base.
+Fear is the path to the dark side. Fearleads to anger. Anger leads to hate. Hate leads to pettiness.
+This will be at the base of an inverted L about 130' long. There will be an SGC tuner at the feedpoint, and plan to use it on all bands: 160m - 10m. The radials will be on or under the ground, so length is not critical, but I am wondering where the point of diminishing returns occurs.
+I guess when I say 'buried', I will be laying them on bare, loose soil, and nature will take its course. I will not be burying each radial individually.
+Knew it was Tannenbaum before even reading the post.
+Thanks. Some good reading there.
+I have Garmin eTrex Legend that does Maidenhead amongst others. It's a nice little unit.
+I paid about $350 for my MiniVNA tiny.
+This is worth a look... https://www.elekitsorparts.com/product/faa-450-antenna-analyzer-eu1ky/
+Hey!
+Yep that's what I did. Wolfgang, DH1AKF has done some great additions to the software also. You can see here.. https://youtu.be/L8tpBSjdrNY
+I'm not sure what you're looking for here? People like to create personalities... why? Who the fuck knows? I like what Jeri does, mostly because I like the Commodore 64 and the 6502 CPU, and she taught herself processor design and FPGA development so that she could create a fully featured &amp; hackable C64. That alone is (in my opinion) worthy of attention. I suspect that much of the attention is because she is a woman... in a predominantly male hobby (ham radio) and the larger tech field, women tend to stand out, and competent, creative women more so. You mention your stepfather as being self-taught as if this is the only factor... is he also an advocate of women in tech? An active and vocal educator? Does he have a Youtube channel? All of these factors play into what you perceive as 'the buzz'. One last thing... if you want a discussion, maybe you could steer away from dismissive, monosyllabic responses like 'sigh' and 'I will leave it at that'. They make you seem petulant and childish, and while maybe this is the persona you wish to project, it's not conducive to discussion.
+Cheers... I think I'll enjoy the build myself... it looks like a really well designed and engineered piece of kit.
+I cuddle with my 6 year old son and 10 year old daughter. If you're a monster, what sort of deviant fuck-up am I? Your wife needs to realise that physical contact isn't by its nature sexual.
+Thanks for the reply. Lots of stuff for consideration.
+Many thanks for the reply. Based on all of this I think I will go for it. Just awaiting the delivery of the new shack first as my workbench is currently packed up awaiting the move to its new home.
+Very nice! Is the green PCB some standard prototyping board or did you make it up yourself?
+Looks very tidy indeed.
+Looks like there is to be a separate input for paddle/key also. Jack X3 on the front left seems to be labeled Ext Paddle (although some characters are obscured).
+Assuming it will ship from EU in that case. That will be a nice change. I can't count the number of nice kits that pop up from the US, but either the shipping is ridiculously expensive, or they don't ship overseas.
+Could I ask what they issues were? How do you find the RS-HFIQ? I plan on getting either one of these ot a Hermes-Lite towards the end of the year.
+They're a very good radio, but the "buy it now" price is far too high, imo.
+Thanks so much for taking the time to answer. Very useful information. BTW... that cap really blew up! Took solder mask &amp; copper with it. I bet it made quite a pop.
+Did the HOA cite any specific by-law that you have broken or was it just a demand to remove the antennas?
+The codec is only a very small part of the equation. The value of any of these is the infrastructure... the ability to hop from a local hotspot to a repeater or reflector anywhere in the world with a couple of key-presses. The actual audio encoding scheme is almost irrelevant.
+Get them to spell it out. They’re probably relying on you just rolling over. It wouldn’t surprise me if they didn’t have a case.
+By extension, ~50% of the US.
+I'd love to know where people are getting the idea that the KX3 is anything special when dealing with high noise-levels. I my experience it is about as good as an IC7300, and that only OK at the best of times. The noise reduction algorithm has no finesse... it's basically off or fully on, to the extent that actual signals are affected. Compare either to the noise reduction in the recent Yaesu radios and the deficit is really apparent. The Yaesu radios, even the 991, manage to reduce noise in a natural sounding and delicate manner that keaves even weak signals 'in the clear. Now when faced with weak signals right up against a S9+++ signal, the KX3 is unparalleled, but that's an entirely different story.
+Performance probably won't be impacted. If you can, though, try to not have the legs resonant on any bands. If the legs are a half wave on any band the feedpoint impedance will be very high... thousands of ohms. Many tuners will find this difficult or impossible to match.
+How do you know it's on 303MHz? That doesn't seem like a likely frequency. Edit: no see good = no type good
+Ah right. It's not a band used in my area.
+It possibly will be but it's very unlikely that it would be noticeable. I had a doublet very similar to what you're describing, except with 75' legs. It's performance on 40m was excellent. TBH, I reckon the lower feedline losses will offset any weird lobes and nulls in the radiation pattern.
+All HF bands. There will be an SGC239 at the feedpoint.
+This is almost exactly what I have planned, apart from the length. This will be 50' vertical and about 90' horizontal. I have 30x15' radials, 8x20' and 8x25'. Basically according to what I had lying around. I'm optimistic it should perform pretty well.
+Can’t trump that argument.
+I am steering away from any l lengths that might be a half wave on any band.
+Yes, every time I re-pair, it will sync maybe once, and allow me to change settings from the app, but the next time I open the app, communication is gone. I have installed Movelink and connected the watch, and it is detected, but did not try to upgrade, so I assume it is at the most recent version.
+This seems to be an ongoing issue with Suunto. While I love the quality and features of the watches, their software is pretty terrible... the 'batch processing' model of communication rather than continuously online, and the general flakiness, which seems to go back months, if reviews on Google Play are anything to go by. This is pretty disappointing in a $400 watch... even cheap devices like Xiaiomi Mi Fit and Amazfit can get it right, why can't Suunto?
+My failsafe: don't wear pants.
+Feedline losses ranging from lower to much lower depending on mismatch and co-ax type and length.
+I get that she's the bad guy here, but I have to ask why, if you know your sister is capable of this, do you let her access your phone? I'm so about looking after family but believe me if I had a family member living with we with these tendencies, I'd have all my devices locked the fuck up. Edit: I feel bad for giving out to you. Do you have PayPal? PM me and I'll send you a little to help cover what your sister swiped.
+I keep seeing this. What the hell does it mean?
+In most countries you can't just fire someone for what is at most a minor transgression. The US, however...
+In most countries there are dismissal procedures that can be followed. Generally speaking the negative impacts are not equivalent. The hassle and financial impacts on a business having to follow a dismissal procedure are a far cry from the financial impact on someone who just gets fired with no recourse.
+I have that same throttle. I converted it to uab using a Teensy.
+You know there are solutions to the uBitx tx purity issues?
+I have to pull you up on your description of Python as a “scripting “ language. Python is as full featured as any other language. Yes, it is interpreted and dynamic, which lends itself to scripting, but to describe it as primarily a scripting language, a 21st century bash replacement, does it no justice. I have experience in most of the languages you mention, and without a shadow of a doubt, my most productive work has been in Python. I can go from idea to prototype to production-ready in Python in the time it would take me to hammer out the object model in Java. Yes, Python has scaling issues, but there are architectural ways that make this moot. Don’t write it off just because it was designed as a low-friction language.
+In the price range you are looking at there is really only the single band softrock and rtlsdr. Given that you're tapping off the IF, overload shouldn't be that much of an issue. That's what the RF gain knob is for. However the rtlsdr doesn't go down that low. TBH, once you factor in the cost of a decent performance soundcard to go with the softrock, you'd be just as well looking out for a used SDRplay RSP1. I sold one a while back for £45
+Deterministic, but with unknown contributory factors.
+Source of what? Why it matters? I thought that should be self evident. It basically is the determining factor of whether we have free will or not. If our brain is completely deterministic, the same set of stimuli will always result in the same action.
+I have a D878 that I plan to supplement with a Retevis RT91 amplifier for mobile use. Best of both worlds.
+Both really, I have a limeSDR and even with the very low power it puts out, I still put a 30dB attenuator in line.
+.es is a good bet too.
+I was trying to suggest that if you don't want to develop a codeplug from the ground up that you get a D878 one to use as a starting point.
+What if two people want to travel? What then?
+Ok. I was just trying to be helpful.
+Indeed. I prefer the term "fritter" myself, as in "I shall be frittering away my money on an Anytone D878"
+I've seen hexbeams on smaller masts with no issues.
+If you have a few UHF DMR repeaters, maybe consider this... https://www.retevis.com/rt91-power-amplifier-for-handheld-transceiver Amp, mic &amp; speaker all in one. I have an 878 and when power output becomes the limiting factor I will be getting one of these.
+Unlikely.
+You'd deny yourself this radio on a principle?
+Seems like all you need is in that blog post. Basically each element is folded back on itself to make a long loop in the wire, and there is a small tuning stub attached to the end of the ladder line. Edit: I guess I am assuming some degree of antenna construction experience on your part. I get that if you haven't built many antennas some things that I take for granted may not be so apparent. If you have any questions, ask away and I'll try to help.
+A bunch of furries that commune together.
+I have to say they're pretty shit at it. Not seen much evidence of brigading.
+That's all that matters, right?
+Nice work, Dan. Are you mixing down to audio baseband and then sampling that with the bluepill? If it's two port, do you use a directional coupler to measure reflection?
+You could order yourself. I use JCLPCB and find them inexpensive, fast and very good quality.
+Pretty much, yes.
+Yes, but then the arch user wouldn't get their pitch in.
+Humour on the other hand...
+Yeah, much of it looked familiar. I have an EU1KY AA. It's a fantastic bit of kit. Very impressive what can be achieved with relatively inexpensive parts.
+You really have a bee in your bonnet about this.
+Ok, let's see... Since 1994... Motorola MicroTac Motorola 4800X NEC P6 Sony CM H333 Nokia 6110i Nokia 6150i Nokia 7110i Siemens S25 Siemens S35i Sony J70 Nokia 6210i Nokia 7550 Nokia 7250i Sony Ericsson k230 Sony Ericsson k750i Palm Treo 700w iPhone iPhone 3G HTC Hero Nexus One iPhone 4S Galaxy S2 Nexus 4 Nexus 5 HTC One Sony Xperia Z3 HTC M9 HTC m10 Galaxy S7 Huawei P20 Pro (currently) Edit: forgot one or two I have had some shitty and sometimes slightly less shitty phones for work. These include... HTC Desire Sony Ericsson T303 iPhone 5c iPhone 7 (currently)
+48G
+About 20 years ago I forced myself to become proficient in two things that have a notorious learning curve... RPN and vi. I thank past-me on a regular basis for this choice.
+Looks interesting. You're going up against such establishef players as Multus SDR, Hermes Lite and the SDRKits one whose name escapes me. They are all cheaper by a fair bit
+You're Swedish. Most Swedes I know speak better English than many people for whom English is their first language.
+Thanks for the reply. I also read the more detailed reply to /u/gorkish so I understand better your architecture and the reasons for your design choices. If you to manage to reallise a receiver with &gt;20ENOB, and have some tight filtering at the i/f stages, you will for sure have a world-class receiver on your hands. &amp;#x200B; Do you have any plans to implement HPSDR or some other common protocol? I feel this would greatly increase the desirability of this radio due to the decent existing s/w. I use GN Radio and am pretty familiar with it, and I would not relish using it as a primary control for a ham rig.
+From seeing what happens with other projects... licensing will not protect you from knock-offs. If you release the schematics, or even more so, the board artwork, you will be ripped-off. I guess this is just something one has to accept these days, unless you fancy a very expensive international IP battle.
+&gt;You'll have to idiot proof what frequencies people can transmit on though..... otherwise lots of improper use would occur I expect. I have heard this comment regarding other projects in the past. We (radio hams) are supposed to be responsible spectrum users. If we can't be relied upon to behave, no amount of idiot-control is going to work.
+Sadly, I have to concede. You do have s point.
+Hi Dan... I was considering having a batch of boards made up, and passing them on to interested parties at no profit to myself. However I notice that you have not specified a license in your github repository. As such I can't proceed without your permission. Don't feel for a second that you have to allow this, BTW. You are more than within your rights to decline for whatever reason, but if you do permit this usage, you might consider making this explicit by licensing your code, schematics &amp; artwork with whatever license you deem appropriate.
+Very generous, thanks.
+It could be argued that clueless and helpless people are the target market.
+Sounds interesting.
+As an ex smoker, before this truly gets its claws into you, stop. Walk away and don't look back. This is one addiction that really has no upside. I am one of the lucky ones who was able to stop, and do so before the damage was too bad. I buried 4 relatives though... 2 that died from lung cancer,v and smoked til their dying day, two that stopped, but still spent their last years suffering from COPD (chronic emphysema). Seeing the mental and physical wastage that causes makes me wonder who was the luckier? The ones that died quickly from cancer or the ones that lived long enough to become walking skeletons who forgot conversations as soon as they were over. Thing about addiction is that it creeps up on you. You don't know what sort of addict you'll be until I has you. Will you be strong enough to break it before it kills you? Why take the risk?
+Really? They certainly do in Ireland and the UK. Any automated transmitter, APRS Digi, digital or FM repeaters, beacons gateways, all have their own license and callsign.
+To anyone interested in building one of these, I am considering doing a run of 10 boards from JCLPCB. The cost including reasonably fast shipping to me is \~$25, which makes the unit cost of a board (to me) $2.50. From experience, I know that I can ship a board to the US &amp; EU for about $3, and a little more to other locations. If there is enough interest to cover my costs (i.e if 8 or so people would take a board at $6 (US, UK &amp; EU) and $7 (elsewhere) I will go ahead and place an order. I should have them available to ship within 6 or 7 days of placing the order (not factoring in Christmas). If you are interested, reply here and if we get enough interest we can take it to PM to hammer out payment &amp; postage.
+I can't. I have to return some video tapes.
+NTA, however you may be surrounded by assholes. Self-obsessed, narcissistic assholes.
+I have an mcHF. The 918 is based on an earlier board revision of this radio. In short the mcHF is an amazing little radio. In side by side comparison it does as well as my KX3 in any of the situations I have seen. Yes, sure, there will be cases where the mcHF can't hack it, but I have yet to see one. The software is very capable and in constant development. Right now it supports FreeDV and can send and receive CW, RTTY and PSK with only a keyboard. Make sure that the radio you are interested in has the 1MB capacity MCU or you won't fit the newest software. I modified mine to use relay TX switching rather than the pin diodes as I was getting some distinction in my transmit signal... YMMV
+No, but there's no way to know how something you intend as innocent may be interpreted so erring on the side of caution is a good plan.
+Nice clean print. Is it ABS? Some very nice design features too.
+Can you elaborate?
+I'll check it out for sure. I remember the old Bill Gates and so want to believe that he has changed. Maybe not though.
+You can't replace the hard drive in a MacBook? Seriously?
+Care to post some high quality image of this "mint condition" phone? Not that I don't believe you, it's just that any time (in my experience) someone has claimed that their caseless phone is in mint condition, the reality is that either they have a very low threshold of "mint condition" or they have shit eyesight.
+Whenever you question a design decision made by Apple, you need to factor in that they rate aesthetics up there with function. If some choice doesn't really badly impact function they willv always go with the more aesthetically pleasing choice.
+Well that's fucking stupid.
+Sounds great in CW. Very rhythmic.
+Was that the really squared off one? I agree. 2008 unibody a close second though. Very serviceable.
+He was a farmboy. I think his name was Wesley.
+What happens when the 50cal round completes it's parabolic trajectory a few miles away in some populated area?
+If the drone is more than 50m or so up, you'll have difficulty hitting it.
+/r/skookum is leaking again
+Ordered mine a couple of days ago. Eagerly awaiting it's arrival.
+Really? We had patched &amp; verified out code extensively well before that. Also had the Euro coming in January 2000, so that was all done and dusted by then too. On Dec 31st, I was setting up decks &amp; speakers and getting ready for a big fuck-off party.
+The problem is with double shielded coax, where one shield is aluminium. Aluminium forms an oxide layer that makes a pretty fine semiconductor.
+Heh... Not for long if no-deal Brexit goes though. Tories would sell off the NHS at the drop of a hat and there are plenty of US insurers that are dying to get a piece of UK healthcare.
+Indeed. Moral standards are personal whereas legal standards are not. There are likely plenty of things you justify morally that others might find reprehensible.
+&gt;how to make this up to her &gt;actions speak louder than words She has already told you how. Stop saying sorry and prove by your actions where your priorities lie.
+Distributions I am familiar with (RHEL, SLES, Debian, Ubuntu) ask for the root password before entering single uset mode.
+You live with this woman, right? This isn't about some big bang demonstration. All of your actions, small and big should make this clear.
+You can get mmdvm boards off eBay to solder yourself. I build a V6 using boards I had made from the gerbers off the mmdvm Yahoo group. The HS I use right now is the MMDVM_HS hat for the Raspberry pi. I use it with a Pi Zero W and PiStar... It's excellent little board. It's similar to the ZUMSpot, but is not a rip off despite what some may say. There are ripoffs out there though... You can usually tell because they ship from China and are comparatively very cheap. I personally wouldn't, but to each their own.
+Care? Heh... I'd find it hilarious.
+Ok, I'm just going to go ahead and ask. This isn't the first time I've heard of kids having their lock removed, or the entire door! Where and why is this a thing? Until recently I had never heard of such a thing, and now it seems to be all over Reddit.
+Did you ask the original artist? She seems pretty definitive on where she stands on reproductions: "You are extremely prohibited to use this without their permission" It's good work from both you and the artist so I hope you did the right thing.
+Have a look and form your own opinion... https://www.behance.net/gallery/17100031/Low-Poly-Fox
+This sounds like a huge simplification.
+I have had multiple issues with TyTools. For alternate firmware, I only use KK4VCZ's original image now. Never any problems.
+His story breaks my heart. A genuinely good guy with genius level potential. If you really want a good weep, listen to Cory Doctorow's eulogy.
+It's not quite that simple. These papers have literally already been paid for by US citizens. Aaron recognised that the paywall scheme was entirely unjust and sought to right that wrong.
+Yes. I will help if I can.
+I really like it. In 90% of cases it performs as well as my KX3. The audio is better though. The features in the software are excellent too and improving every day.
+Can you point out one conflict since WW2 where the point was defending the US and the privilege you seem to think OP owes you thanks for?
+It's worth joining the Yahoo group, also if you're an FB user, I'm admin of a fairly decent group too.
+Can you talk a little about the camera mount?
+The finger pointing at the moon is not the moon.
+Yes for sure. It’s pretty feature packed and the HP30b doesn’t have a huge amount of keys.
+Good bot
+How would having a gun have helped in this situation?
+Certain parts of Ireland too
+Very much an Irish thing too.
+Almost as if he's a regular person.
+I live in a town in Ireland of about 100,000 people and I could tell what area in the town someone was from by their accent. There are at least 5 distinctive accents and a number of more diluted forms.
+Yes, there are some compromises. The source device only has something like 35 keys and a bunch need their unshifted operation as is, so it means there are a lot of functionality under shift keys.
+It strikes me that the second amendment has plenty of very vocal advocacy already. Maybe the ACLU see value in advocating for liberties that are less supported.
+Apple stuff + Apple stuff adds value. Apple stuff + other stuff not always so much. You don't need to be a crazed fanboy to see that.
+Very clever idea. Gonna have to use that myself if you don't mind.
+I don't mean monetary value, I mean utility.
+This is demonstrably untrue. People get away with shit all the time, and good people get fucked all the time.
+You have been well indoctrinated.
+Agreed. Built one about 18 months ago. Excellent device.
+Same
+Because they're not undercutting western network infrastructure vendors.
+I don't get what you mean by 'sadly'. I have a Huawei phone and in the 10+ years I have had Android phones, it's the best. Yes, it's also the newest but some that were 'flagships' at the time had obvious corners cut and design flaws (Nexus 5, Galaxy S6), whereas this phone, despite being less expensive than any other flagship at the time has yet to disappoint.
+The price of love is heartbreak. When we love another we often have to put our own emotions to one side to make the hard choices. Twice in the last 8 years, my wife and I have had to decide to have a pet put to sleep to prevent their undergoing additional suffering. At this stage they rely on us to do the right thing, not the easy thing. Your little cat was in a situation that no medical intervention could have resolved. It may have prolonged their life a little, but at what cost to them? Yes you would have had your cat for a little while longer and deferred your pain a bit, but only by increasing the suffering of the little animal that trusts you to care for them. That's not an action of love, it's an action of selfishness and you're a bigger person to not have taken that road.
+To think we'll be able to say we were there when the zombie apocalypse began.
+Current commercial radios that use SDR technology... ICOM 7300, 7610, 9700 Yaesu FT DX101 Elecraft K3, K3S, KX3, K4 Obviously the various Flex, ANAN, ELAD offerings.
+What do you consider insane?
+Yeah, thats a similar rate to what I pay (Iriah). You have better healthcare though.
+I didn't downvote you because you know something I didn't, I downvoted you because of the supercilious manner in which you conveyed it. You could just as easily have said nothing or said something but in a less dismissive manner, but you chose the route you did.
+NTA whatsoever. Your mum though, and possibly your dad might be. What the fuck are they doing carrying on with their lives as if they haven't a care in the world. I feel for you, mate. This isn't a fair situation for you or your sisters.
+Hardrock50! Nice! It's one of my favourite of all my toys.
+So, the girl with two vaginas.
+The internet didn't introduce it. Wilful ignorance has always existed. The internet allowed them to communicate and support each other in their nonsense.
+Do you ever see any 'activity' in the spot? Like if you are sitting in the dark, do you notice colours/shapes? I hvae blindspot in my right eye after retinal surgery, and often notice shapes and colours, mostly green and purple in the blind spot. I used to notive figures like glyphs, or what looked like comicbook frames moving around in the spot. Never anything actually recognisable though.
+Does it really matter that much what the screen is doing when you’re not looking at it?
+I have one left: [https://www.ebay.ie/itm/113788159445?ssPageName=STRK:MESELX:IT&amp;\_trksid=p3984.m1558.l2649](https://www.ebay.ie/itm/113788159445?ssPageName=STRK:MESELX:IT&amp;_trksid=p3984.m1558.l2649)
+If the oven still has residual heat I just use that.
+I used to have both of those. I used to get auditory hallucinations of pager beeps all the time. Also had an OG USRobotics Palmpilot, a Vx and later a Titanium and a Sony something or other.
+I know it's true. It's the scary super big text I had an issue with really.
+Make that 4.
+I'm pretty sure nobody actually thinks healthcare is free. Yes, if it makes you feel better, I do pay with my taxes, but if that means I get the care I need without literally bankrupting me, I'm fine with that.
+Sounds to me that you're getting your science from shitty news outlets.
+It's almost as if continued study can reveal new information.
+What could be more elegant than using the tools available to you and not reinventing the wheel? Yes, you could fork off a process and daemonise, but that's kind of sledgehammer to crack a nut scenario.
+I just looked at your post history and saw a few pictures of you. I get that low self esteem is a thing, but you're very good looking and have great style, so it's really not warranted. There will always be people that seem better looking, happier, healthier than us. Likewise there will be people on the other end of the spectrum too. Thing is, we have no idea what their reality is. We, as people, are more than just a collector of attributes, and as long as you see yourself as nothing more than that, and compare yourself to others on single aspects of yourself, the less happy you will be.
+A combination of that and the Huawei thing has convinced me to move away from from the Google infrastructure. Ok it's not just that, but this a bridge too far. I can't be doing with the uncertainty.
+"His side" is clearly the indoctrination in the black and white view of law enforcement. There is absolutely nothing wrong with psychedelics, and in fact there is a lot of evidence to support their efficacy as therapeutic interventions. The "drugs are bad" ideology is nonsense. Sadly OPe friend doesn't seem to be capable of separating his friend from the boogey man.
+What kind of background checks will out him spending time with someone that uses drugs recreationally? It's not as if you have any convictions.
+She really needs to get an intermediary like MABS to get involved. Continual calls like that will fuck her head up, and coming off antidepressants without supervision is not a good idea.
+I have fennel, green beans, cherries and plums growing right by my house.
+The cost of individually negotiating salary based on location would outweigh any savings.
+MABS is not legal aid, they are an advisor, but most importantly they will negotiate with your debtors on your behalf. They can negotiate a payment plan based on what is sustainable and affordable and the debtors by and large agree, knowing that if it went to court that it would look bad if they rejected a genuine proposal. As someone that at one time had multiple collection agencies baying for blood, and threatening letters from the sherrif, MABS were a huge help. Also the feeling of relief at addressing the problems head on is indescribable. Having a plan as opposed to living in denial was such a huge weight lifted off me.
+I had no issue getting my mortgage as self employed. A bit more paperwork involved and a shorter term, but not that hard.
+True, but when her expectations and reality are so mismatched, and her answer is not to adjust her expectations, but whine about it... fuck that.
+Her platform is notoriously unstable. She could get demonitised for any of a number of trivial reasons, and her recourse would be exactly nothing. It's not like she's an established name in a traditional media like television.
+https://www.mabs.ie/en/ Please do look them up. They were a great help to me at a very hard time.
+Nice scooby!
+This is 'free' in the same way that Americans think they're free.
+A nice and relatively cost effective route into SDR, if you're not averse to getting your hands dirty, is the Hermes Lite 2.0. it's a direct sampling HF SDR transceiver that is capable of 5W on all HF bands. It also would make a fine transverter driver if you wanted to try the higher bands It's not a Flex, but it's quite reasonably priced. Mine cost less than $400 all in. I use mine too drive a 50W linear and it does pretty well. I also use a midi controller for the hands-on-knobs bit. https://postimg.cc/DW0zctrt https://postimg.cc/gallery/35yjslgkq/ You can read more here: http://www.hermeslite.com/
+Not at all. There's a great community around the project too.
+Well it is nearly 20x the price.
+Mine would because they are abundantly aware that the consequences of lying and getting caught are far far worse than telling the truth about something you have done wrong. They know that I would find out in the long run and when I did they'd be fucked.
+Who is your representative organisation? In the US, it's the ARRL, in the UK, the RSGB.
+I don't know how it works in the US, but I have been in touch with a representative from my national organisation, and have been assured that they will be communicating against this in the strongest possible terms. I would have thought that the ARRL would take it's cues from it's members also. Perhaps I was mistaken.
+That was just an example. You talk to whoever your representative body is and they petition on you behalf.
+From what I can see, energy, whether gasoline or electricity, is vastly cheaper in the US than anywhere else. This encourages a more wasteful attitude. Raising prices a little will not incentivise spending your money elsewhere, but it might encourage a little restraint in energy consumption.
+They both require expenditure of energy to achieve. In fact I would venture that the energy expenditure is likely on par between the two.
+Wilful misinterpretation of my comment to fit your narrative... nice.
+Whenever adding a condiment or seasoning to food... Not enough... not enough... not enough... not enough... WAY TOO MUCH!
+Whenever they have to refresh a web form all the contents are lost so they have to re-enter again.
+Yes, Ireland has. I am in the process of building a delta-loop for 8m, and have a transverter on the way. There are a couple of ops active on 5m and 8m and a couple of beacons here also.
+Optimal is 8 - 10C Room temp would be gak
+I build gear all the time. I first got on 4m with a transverter I built myself. Currently in the process of building a transmit chain to talk to QO100 (satellite). It's much less uncommon than you think.
+I worked for a company in the 90s that had a spare vehicle for when a staff vehicle was in for repairs. 1990 Corolla... Had almost a million miles on the clock.
+Do you have any pics of the mechanical side of the project?
+These are not radio problems though, they're primarily network problems and scaling. Fine if computer science is your thing, but even for very tech focused hams, not in their lane.
+When DStar was developed there was no comparable vocoder. Not even close, and even the others that existed were all closed IP.
+My first 100W HF radio cost €200, including a decent ATU.
+I can solve both problems in one... Microwave
+Since it operates by magic, probably not.
+At that budget you should look at the Anytone AT D878.
+I have a bunch of radios and, TBH,, the Anytone is my favourite.
+NTA, but i would be raining hellfire on those that see fit to reward/not punish my childs bullies while publishing my child for defending themselves. Rules be fucking damned. Heads would roll.
+My daughter's first word was 'cat' and my son's was 'no'. Make of that what you will.
+NTA. Many supermarkets i go to have Thai, Chinese, Vietnamese and Indian food in one area of the shop... the Asian section. That dude clearly wants to be outraged about stuff.
+Why not just walk? A few kilometers wouldn't kill you.
+Well its fucking unique alright, I'll give her that.
+I see why he's 'ex'. Buffy good though.
+That robe is much more modest than I anticipated. Absolutely NTA.
+NTA. I have travelled a fair bit and people that don't know how it works, or go against the flow really grind my gears. I'm normally a nice, placid person, but if you want to see my other side, skip a line or shove your way past people trying to get at the overhead compartment... We're all in this together. Someone fucking around, fucks it up for everyone.
+Fine. I'm an idiot for liking existing and all the experiences that brings. I'm an idiot for not wanting that to be over. I can live with being an idiot then.
+Check in is free online. Their entire business model is based around no frills, low friction travel. I just returned from a week in Lisbon. Cost €500 to fly a family of 4 from Ireland. Going to Brighton, UK in 6 weeks, €117 for 4.
+Well it shouldn't be called a water allergy then.
+I didn't hear where OP forced anything on anybody. He offered a choice between what seemed like no conference for anybody or going in his car.
+NTA, but it's worth bearing in mind that (and this is all jurisdictional) her insurance may well be void due to her driving with a diagnosis that should prevent her driving. You could sue and get nothing except an expensive legal bill.
+Not the same thing. This is more than just wearing attire you find uncomfortable, its about wearing attire that you feel goes against your identity... specifically your gender/sexuality. Say your friend had requested you wear a dress, would you have been so accommodating?
+Whenever I hear the words "my special day", I want to spew. I have a brother who married one of these. She chose to announce their marriage the same day my partner and I announced that she was pregnant. The month leading up to the event had multiple messages from her ensuing we had hair appointments booked etc. I had ankle surgery a few weeks prior and she was livid that I would have crutches in the photos. She spent literally hours posing for photos on the day. Fucking bullshit princess fantasies.
+Stop? It's getting worse and worse.
+Ian, Sean, Evan, Euan, Owen, Eoin, Jan, Johann, Giovanni, Jean, Juan, João
+I don't think there are off the shelf solutions. It should be easy to lash up something yourself though. There may be information here that could help... http://www.irlp.net/pi/
+What area of Java? JSE? JEE? Android? Any additional technologies? Database? You say 6 years experience? At what level? Junior? Team lead?
+Or wains
+I’m not a scientist, but I understand the evidence. Basic high-school physics and stats is more than enough.
+Why does this matter? She says repeatedly that it’s not about her, but the science.
+He’s buried in Tyler Durden’s back garden
+And reckless conduct clauses.
+Agreed, but in much the same way as some agnostics would use Pascal's wager to hedge against the possibility that there is some afterlife and some god that takes offense at the behaviour of his creations, we should err on the side of improving the environment. Worst case, we are wrong about climate change, and none of the tipping points kick in, but we have moved away from fossil fuels to a cleaner, renewable energy source, a less wasteful lifestyle and less reliance on a few vastly wealthy energy brokers. Win-win, IMO.
+Purely anecdotally, I have post-operative high intra-orbital pressure, i.e. sometimes the pressure in my eye increases. I notice that when the pressure is up, I get more pronounced 'flickers' in that eye, this can also happen after exertion. This may or may not be related but worth having checked.
+OP is the one only showing up to work for 25 hours a week.
+There’s a nice simple design here... http://www.geocities.ws/w5dxs/l-network.htm
+I would say that their primary purpose is not to serve as inductors. Yes, everything has some inductance that needs to be considered but that doesn’t make everything an inductor.
+NTA. Where i live this is illegal detention and is both against the law and grounds for a civil case.
+It's the internet. There is an implicit understanding that unless you explicitly prevent it, anything you publish will be used in ways you didn't intend.
+Or even easier, don't even acknowledge her. Just sit.
+I have a homebrew I use for portable operating. Even disregarding practicality, it's a really decent antenna. I usually use it as an inverted V, either over a tree limb or up a pole. It performs on par with a number of full size dipoles i have and outperforms my Buddipole. I wouldn't pay for one though.
+RemindMe! Yesterday.
+Nostalgia. I have a shotgun that used th belong to my dad. It's 120 years old and a work pf art. I don't want the hassle of re-licencing every year, so it's been decommissioned.
+I'm a huge advocate for gun control, but the numbers do seem to support the case that availability of firearms doesn't massively skew the data. The US has 3 more deaths by suicide per 100k than Canada, and that's not controlling for any socioeconomic factors. 7 fewer than Belgium. http://worldpopulationreview.com/countries/suicide-rate-by-country/
+Increasing the threat surface is not making anything better. The main function of a ballot is to indisputably link a choice to an individual. Adding technology for the sake of it, without proper threat analysis, is a step backward.
+Paper ballots aren’t internet connected. They are immutable and are tied to a single, verifiable physical asset. None of this can be said about electronic voting. Ergo, greater attack surface.
+Who's using blockchain for their evoting? Until all aspects of evoting are open, auditable and transparent, it is naive to assume anything but the worst.
+NTA. Also her mum is doubly TA for using this in some BS affection power game.
+Absolutely, but your point was phrased as if the current implementation of evoting is without vulnerability. TBH, using bloakchain technology is only part of the battle. For sure it offers a secure, transparent audit trail *if* implemented properly. This means all code &amp; hardware specs open for audit &amp; public rather than private blockchain. This is the big barrier as I see it.
+Ok, i wil give it a try so. Thanks
+If only it was just circles. It's 5 dimensional hyperspheres.
+Persistent if so.
+M&amp;S meal deals!
+Why? It has sentimental attachment for me, but i have no need of a working firearm.
+I won't shop at Tesco because of how they treat staff and suppliers. They are huge bullies. No Morrisons where i live either. I am middle class though so there's that, but in reality do much of my shopping in Aldi.
+You could be a little more specific than 'flakey'. What are you actually seeing? FWIW, 9:1 baluns are quite lossy. If you want the convenience of en endfed antenna, look into making an end fed half wave antenna.
+The onboard oscillator can be inaccurate. 7k ppm seems very high though. Try using hackrf_kalibrate. Ir calibrates off local cell towers, so is very accurate.
+You need a try/except around the d.TXrfxmit(l to catch the CTRL-C, and output the value of startn. This will give you the place where the bruteforce was killed. Edit: there is already a try/except block obfuscated by the lack of formatting. Catch the KeyboardInterrupt here. Then you would need the ability to pass in a value for startn, perhaps defaulted to 0. If nonzero, then start bruteforce from that value instead of 0. Look at some of the argparse stuff to see examples. TBH, if it was me, I'd refactor the lot. If this is your code, apologies, but it could do with a lot of tidying up and batter modularity.
+Not true. There are plenty of unlicensed bands where you can do what you like. Based on the code, this is attempting to crack garage door openers or some other rotating key system. Many of these on ISM bands.
+If you add a commandline arg similar to how the other args work... action="store", default=0, target=new_startn Then at the transmit loop assign new_startn to startn and carry on. BTW, what hardware are you using? Chronos dongle? CC1111 dongle?
+One of the chinese Zumspot kits can be had for about $30
+It is absolutely not your fault. You have the right to dress, to look and to be however makes you feel good. This fuck-head is the problem. Entirely.
+Pretty much all the same i guess. I got one with an aluminium case and OLED display.
+Cool Never used one. I hacked a Chronos dongle to behave like one though.
+It says it right there in the code that its transmitting on 915MHz.
+Ok fine. You seem set on being the band police, so have at it i guess.
+Is that you Chuck? Looking good. I have a v0.5. It looks like. there have been a few changes since then.
+You are going to enjoy them so much. Such a fun and capable little radio, a great community... and you built it yourself! Nice job, OM.
+You do realise that posting physical things isn't free, right?
+Losing? Implies there was something to lose.
+I wrote a blog post a while back on using a Pi to key a transceiver. The circuit should be the same. I am in the process of migrating, so if there are images missing they'll be in place soon. Anyhow, its here... http://gerryk.com/posts/morse_code_beacon_for_the_raspberry_pi/
+I have an mcHF and a few other radios, so I will try to give you some idea of how it compares. These comparisons are based purely on subjective experience rather than lab-grade testing. **mcHF vs. KX3** They seem roughly comparable in sensitivity. Where I live there is a reasonably low noise-floor. S0 on 20m, S1 - S2 on 80m. In the clear, they both hear as well as each other. With strong close-by stations, the ADC in the mcHF gets swamped. Basically, if there is someone 20+ beside an S1, the S1 disappears. This is due to the architecture of the mcHF. It uses a quadrature detector that down-mixes to audio base-band, where it is sampled by the MPU. The lack of an IF stage with associated filtering reduces the overall SNR of the sampler, due to the relatively wide bandwidth. However, in most cases, this is not an issue. The audio through the built-in speaker on the mcHF is far superior to the KX3. It is louder, clearer and has better fidelity. They both do binaural reception for CW, which sounds great through headphones. Interfacing to the mcHF is easier. It is a single USB cable, in the same was as an IC7300 is. The single cable gives you a virtual serial device through which you can automate the rig using FT817 CAT, and audio in and out for digital modes. They both will encode and decode CW, RTTY &amp; PSK, but the mcHF can use a keyboard rather than a Morse key to send. The UI on both is comparable. They both have setup menus that are infrequently accessed. Most frequent functions are on front panel buttons. The mcHF also has a touchscreen. The mcHF also has a spectrum display + waterfall, which the KX3 lacks unless you add a PX3. The KX3 VFO is a detent free which feels nicer than the stock mcHF detented VFO. This can be swapped. The stock mcHF does not have an inbuilt ATU, but there is a unit availablle from UT0UM, Alexey. More details here: [https://www.mchf.at/](https://www.mchf.at/) The mcHF does not TX on topband or 6m. That's all I can think of, but feel free to ask specific questions.
+Short answer: I have no idea. Personally I am happy to QSL via whatever means my contact requests, but people are odd and have preferences that often don't make sense.
+Magpie. I normally say Howya Missus. Dunno why, I must have picked it up somewhere when I was young
+I'm pretty sure she gives it a wash first. I really doubt she'd just pop it in covered in bits of uterus and blood clots.
+Strictly speaking it's the pressure of the trapped steam that turns them off, but your poknt still stands.
+I know, right? I get that nobody wants a cup in their kettle, but a dedicated vessel seems like overkill. I guess squeamishness doesn't make any sense. I doubt all of these people are autoclaving their partner's genitals before oral, and yet...
+I think the vegan thing is dumb too (not veganism, but wanting separate cooking gear) but as you say, these things aren't bound by logic.
+Do people still root devices? What is to be gained? I know you get full filesysten access, but what functionality?
+Equally weird how some people will willfully misinterpret a statement to fit their narrative.
+What I want to know is how do you close those 'hidden' doors without catching your fingers?
+Nice build. Very fun radio. I have a v3 that I did a bunch of mods to, mostly to bring it into spec. How is the v5 different? Are the relays Axicom now?
+One statement you have made is not correct. \&gt;There are NO software that can teach both, only receive! Jack Purdum has developed a Morse tutor that does both. This was then modified by Bruce Hall. [https://www.youtube.com/watch?v=B2Kp\_lzoVh4](https://www.youtube.com/watch?v=B2Kp_lzoVh4) [https://github.com/bhall66/morse-tutor](https://github.com/bhall66/morse-tutor) However, none of this invalidates your idea. Something like this could be implemented with reasonable ease, I feel. If done on a Raspberry Pi, you could use the GPIOs as inputs for the key. Doing this on a regular PC could be achieved by using (perhaps) a USB to Serial device. The left and right paddles could pull some lines low or high (CTS, RTS etc) to signal to the software. I wrote a CW beacon tool for someone previously that might have some ideas on how to achieve the RX side. [https://github.com/gerryk/cwbeacon](https://github.com/gerryk/cwbeacon)
+Yep... This: https://ubitx.net/2018/10/10/rajs-second-spurs-mod-simpler-again/ And this: https://ubitx.net/2018/10/12/replacing-relays-with-axicom/ Also added this AGC: https://ubitx.net/2019/02/12/kit-projects-agc-board/ And VK4PLN's i2c Raduino replacement
+Then you have all the headaches of getting the browser to talk to the morse kay.
+In fairness, I have only had one fail too, the stock Intel unit in my Thinkpad x230. It just disappeared between reboots, and cannot be detected by any BIOS or motherboard. RIP my data (or what little I didn't have backed up)
+Since I got my first hard drive (32mb Miniscribe in 1988) I have never had a spinning-rust disk fail on me. I have been given plenty to try to recover, but never had one of mine fail, and there have been hundreds. I have only had one SSD fail too, out of about 20 that I have currently or in the past. That was an Intel unit in a Lenovo x230 that I bought used in 2015, so fair enough.
+On a trolley in a corridor, no doubt.
+Thanks for taking the time to reply. I'm going to go ahead tomorrow. I had actually found your blog post earlier today, but didn't know it was yours.
+Because they won’t be directly effected. Their wealth insulates them. Doing stuff like this makes them wealthier, and fuck the small people.
+Nobody said “hottest ever”, they said “hottest ever measured”.
+Build your own. I have boards if you're interested.
+Had pigs growing up, as did many of my friends and family. Never saw or heard of an incidence of this.
+If you enjoy your turkey bacon, you probably should look too closely at the poultry industry.
+Give the rubes what they want.
+Yes, you are not wrong. I guess it could be done using Javascript or something. From a muscle-memory point of view, I don't know how good of an idea it is teaching one behaviour and then expecting the user to move to a different one. Maybe it makes a difference, maybe not. If you are dead-set on having this browser-based, I will look into doing it in JS. It's been many years sice I looked at that, however.
+What's the benefit to Typescript over plain Javascript? Seems like it adds a coupe of steps that I am not sure what the benefit might be. Based on OPs position, I am happy to help develop a webapp. If you are also agreeable we can jump in and get something done. I am comfortable with JS (haven't used it in years though). Never used Typescript.
+I'm pretty sure if a pig had eaten some or all of another pig, I would find it hard to rewrite that to fit my agenda. My grip on reality is not that tenuous.
+Maybe start here... https://perens.com/2019/05/23/ht-of-the-future-new-design/
+You could have just omitted "unreasonable".
+That seems arbitrary, but i guess from the outside any religion seems a bit odd.
+You're getting downvoted, but all the evidence suggests that wearing a mask while sick with cold, flu or other respiratory virus does help prevent it spreading.
+YTA, but very gently. I don't understand the need some people feel to correct others. I guess i used to be like this when i was younger, but now i am happy to let people have different ideas, even if i think they are wrong. Aside, i find Judaism above all other religions pretty hilarious with all its rules.
+Try to learn use cases for data structures, rather than just learning about structures, otherwise you may find yourself trying to fit the problem around the data structure.
+I won't rehash the reasons given by others, but want to address your completely valid point on the age-skew. Rather than joining a local radio club, perhaps look at a local hackerspace. My local hackerspace has an active ham radio subgroup, and the age range definitely skews lower. Also you will meet more people interested in other areas of tech.
+I'm curious why a 9:1 un:un? If you haven't already heard of it, the end-fed half-wave antenna is worth a look. It works on the principle of having a resonant length of wire, but instead of centre feeding it, you feed it at one end, and transform the very high impedance using a 49:1 autotransformer. It doesn't require a tuner, and is resonant on even harmonics, so for a (roughly 132') single bit of wire, you get 80, 40, 20, 15 &amp; 10m without a tuner. They are easy to build yourself too.
+The only place I ever hear anything from Andrew Yang is here, and secondhand. He needs to do public awareness better.
+Seriously? He has signed executive orders like they are autographs.
+Sorry dude. I was washing up after breakfast. My claim was that Trump has done plenty (mostly negatives) despite the supposed obstruction from the Dems. Additionally, he had a whole year with republican majority across the board.
+The difference is the NHS has to verify things with actual science. Gamers, not so much. Anecdotal evidence is not a high enough bar for health policy.
+So I watched the video and it does make some counter claims and mentions some studies. These studies are supposedly linked on this page: [https://climatediscussionnexus.com/videos/the-97-consensus-slogan/](https://climatediscussionnexus.com/videos/the-97-consensus-slogan/) So I followed all the links in the text and got 2 valid links and one 404. The links were to a Gallup poll and a study. Both support the consensus view, but by slightly differing numbers, none of which is 97%, so I guess you have that going for your argument. However, both studies indicate a consensus of 90% among actual practising climatologists. If you focus on the actual number cited (and only cited by non-scientists, it seems), then your argument carries a little water, but only related to the degree of consensus, not, as your comment seemed to indicate, the existence of consensus, which it seems is beyond doubt.
+NTA. I'm an Airbnb host and won't enter the guest bathroom even when i know they're not in the house. If you have a guest, particularly a single female, you go above and beyond to ensure their comfort and safety. If not, perhaps hosting is not for you. Edit: typo
+The stock HackRF does very little by itself, and what little it does would be necessary for any functionality... receive/amplify, down convert &amp; sample. That’s basically it. Actual stuff you want to do would all be implemented on the computer.
+How can the two be differentiated externally, though? Apart from retrospectively.
+Is 4x *per person*
+Haven’t drank any soft drink in years. Poisonous shite.
+I know, right. If only there were some other materials that were more easily recycled.
+Ok, but that's not what you said in your original post.
+*some* other countries.
+Is that just because of party allegiance, though?
+Well, no, “best” is definitively not subjective. Better and worse are, but best is a superlative not a relative term.
+Two quotes from a former US Vice President and President sum it up for me... “The moral test of government is how that government treats those who are in the dawn of life, the children; those who are in the twilight of life, the elderly; those who are in the shadows of life, the sick, the needy and the handicapped.” “The measure of a society is found in how they treat their weakest and most helpless citizens.” The US has long forgotten those standards in favour of putting the needs and rights of corporations over those of the citizens. As a child, i grew up seeing the US as a shining example of what society could achieve at its best. This makes it even sadder seeing what it has become.
+Depending on how far back you go, the “English” are some combination of Celts, various Germanic tribes, Romans, French and a smattering of other Northern European settlers and invaders.
+Why would one freeze wheat?
+As you probably guessed, I am in Europe. Specifically Western Europe. My scale is indeed based on how well the needs of the citizens are met, and it seems that at one time, this was also the scale of heads of state of the US. A number of people have been cited as making the statements I quoted or statements very similar in nature, including Thomas Jefferson, Hubert Humphrey and Jimmy Carter. So by the standards once held important by the US itself, you have fallen. To be fair to your argument, there are some countries that exist that to drastically curtail the freedoms of their citizens, but the position of "best" doesn't mean better than the worst, it means better than all. You have cherry picked a number of things, some accurate (right to own firearms) and some ludicrously inaccurate (taking a test to decide your future?? This isn't Brave New World). If the various things you stated were in fact true, I wouldn't blame you feeling that the US is some shining beacon of liberty, but they are wildly off the mark. The citizens of most countries in the Western World enjoy many of the same freedoms you seem to believe are unique to the US. I have lived in or visited a number of them and never once found my freedom curtailed. Admittedly, the UK is a bit of a mess right now where civil rights are concerned, but they seem to be taking inspiration from the US playbook right now, so that's not such a big surprise. The UK, US &amp; S. Korea are among the most surveilled societies on earth, and from where I am sitting that is not freedom, it's oppression. You should take the time to check some of your claims against actual reality... 75% taxation? Being prevented from having children? I'm not sure what dystopia you are thinking of, but it's a low bar to set for "best".
+Fair enough. Where I live it doesn't get that cold until January, by which time grain that has been harvested is already flour.
+I just checked and you're right... for a country boy I sometimes surprise myself with stuff I don't know
+Agreed. The show on the other hand is excellent.
+Ok, I have an iPhone 7 &amp; a Galaxy S10, and find both connectors excellent. I guess you could make some distinction, but for me, they are both sturdy &amp; reliable, both reversible and high-speed.
+Pretty much all of the RF side of things... amplifiers, filters etc. All still analogue circuitry that hasn't changed fundamentally since the beginning of radio.
+MyriadRF have a filter/amplifier device in the pipeline for LimeSDR. It is expected to give something between 1W - 5W on all bands from HF - SHF. Low pass filtering on the Tx and Band-Pass filters on the Rx. Read a bit about it here: [https://discourse.myriadrf.org/t/limerfe-update/5029](https://discourse.myriadrf.org/t/limerfe-update/5029)
+I have one. Fantastic device.
+I would absolutely not recommend a HackRF as a general purpose SDR. Very high noise floor and low bit depth. I have both the GSG unti and one of the Chinese ones, and as signal hacking devices they are unparalleled, but as a radio they are poor. If you are looking for a general purpose transceiver, LimeSDR is about the best bang for the buck. If its just a receiver, SDRPlay RSP1A. Hermes Lite 2.0 is also worth a look as a nice HF QRP transceiver.
+&gt;His argument was that it's a known quantity, no matter where you go in the world you will get the same thing. I'm baffled that someone would see this as a good thing. I mean why travel at all if you're not going to immerse yourself in the experience?
+If it's an airplane type rather than a multicopter, a little latency is probably not a huge deal. Do you have 5G service where you are planning on flying? You will get sub 10ms latency with a 5G connection. Ideally you wouldn't be "flying" the drone, but creating a.flight path for.it to follow. What is your end goal? Surveying? Photography?
+There's also a nonzero, and in fact higher risk of just spontaneously developing prion disease. http://www.prion.ucl.ac.uk/clinic-services/information/prion-disease/
+Something like this... [http://s3com.net/pihpsdr-v2/pisdr-v2.html](http://s3com.net/pihpsdr-v2/pisdr-v2.html)
+Well to be fair, US-style healthcare *is* where the UK is headed. How long after Jan 31st before the first round of NHS privatization?
+Yep, I have one of these &amp; it's an excellent device. I would not recommend HackRF as a general purpose SDR however. Bit-depth is too low &amp; noise floor too high.
+True, but with Brexit basically putting the UK over a barrel with regard to international trade agreements, the carrot that will be dangled by the US for a good deal will be unfettered access to the UK healthcare system. I wish it weren't true, but the bits of privatization that have been happening (ambulance services etc.) will be nothing compared to what I think is on the way.
+Anecdotal evidence warning. I have had elevated eye pressure, and when it gets high you can get pretty severe headaches that can often feel localised like toothache, earache and so on. If you are experiencing photosensitivity, blooming, haloes etc, that is definitely a sign you should get checked. An optician can do a basic eye pressure test if you don't want to spend lots initially, and if they determine it's worthwhile will recommend a specialist visit.
+Not sure why you're being downvoted... you're correct. https://www.gov.uk/uk-border-control/before-you-leave-for-the-uk
+Not according to this... https://www.gov.uk/uk-border-control/before-you-leave-for-the-uk
+Ok, that puts a slightly different slant on it. Thanks for the clarification.
+So not Korean then.
+I believe the correct term these days is "man with Judaism"
+Are you Jewish? If not, that cultural appropriation. Edit: sarcasm tag implicit
+FWIW you don’t need lots of space for radials. Quantity is better than length, so 30 x 12’ radials will outperform 8 x 48’ radials by a decent margin.
+Someone bought a ton of upvotes.
+I have LED lights in my house. In a period of 10 years, i have had to replace 2 out of 40. That needs to be factored in when talking about recyclability.
+I don’t get what point you’re making.
+Can they automatically distinguish between civilians and combatants?
+Something vague about protecting freedom.
+You have to admit that this one is particularly bad though. At least some of the others seemed to want to do the right thing sometimes.
+Oh, I'm not so delusional that I think the Dems are any more the good guys than the Republicans.
+C4FM is a digital voice modulation scheme. WiresX is a repeater linking protocol. System Fusion is the combination of these alomg with analogue/digital autosense, signalling and media handling.
+Could you perhaps elucidate? I have been part of many Emergency Communication events, and the benefits of a roll call vs. call in escape me.
+Historically, journalists are left out of conflict and permitted to do their job of documenting a situation.
+Why would that surprise you? Remember the guy that knelt on another guy’s neck until he died despite there being loads of cameras? Defensible brutality is part of how this organization functions.
+I dunno. How much do you like watching movies really stoned?
+Not machete, MACHETE! He gets the girls.
+Esp. the OG Django references
+NTA. This is not you being sensitive, it's him being an arsehole. A huge, racist, hateful arsehole.
+you can't even spell it
+baseball
+Something potatoes something alcohol Generalisation are a pain in the arse
+I'm a white European bloke who will be attending a half &amp; half wedding soon. I will be absolutely wearing Indian clothes for the Indian half.
+I'm really curious about the thought process that led you here. How do you think he should have reacted?
+And? I have kids under 14 and they wouldn't dream of doing something like this.
+I don't see anything in the post that reflects this. I see lots of guilt from OP and statements that he doesn't think he'll ever trust them again, but this all seems like.OPs internalised thought processes rather than any direct statement from his father.
+I'm genuinely curious what issues you support him for. I'm not here to criticize you or call you dumb, but as an outsider, cannot see any redeeming aspects at all. Many Trump supporters seem to just be about "fuck the Democrats" and I'm curious if there are any that have any value reasons beyond partisanship.
+I'm curious why the downvote here. This reply was respectful and factual and sought to correct a mistake. I see this a lot on this sub Can anyone that downvoted clarify why?
+Thanks for taking the time to reply.
+FYI, "Zed" is not a phonetic, it's how the rest of world pronounces what the US (and maybe Canada) call "Zee"
+As others have said, they are poly film caps. High quality and likely quite expensive. Usually have a high breakdown voltage.
+Maybe that much. I paid €1.50 each for a few different values a couple of years back.
+This is just a diversionary tactic. Pick a few words that sound plausible, like "scanning" and many people won't even questions it.
+The transition was from PowerPC to Intel. I have had both, and the transition was almost unnoticeable to me.
+I have had 3 MacBooks and one MBP in the last 15 years. Never saw any heat issues.
+My current MBP is a 2018 butterfly touchbar. The only issue i have with it is lack of a physical esc key.
+Do you think that Disney pull sponsorship has anything to do with their moral position?
+But one day if I work hard, I'll be rich too, so it's all good, right?
+Anyone can have it. The Internet is full of exploit marketplaces. Buy yourself an 0day and you too can have the power of hack.
+I'm sure they have, but only when it doesn't conflict with fiduciary responsibility.
+NTA. On the off-chance he does it again, hey BIL, you're a fucking invasive arsehole.
+Speaking as a parent, you are bang on. As kids get older they naturally withdraw from their parents and the previous open discussions no longer happen. This can be disconcerting and down right worrying. We know what sorts of challenges kids are experiencing... puberty, weird social dynamics, self esteem, but find it hard to divine how they are processing them, and how much of their views are true and how much are skewed.
+Mine is a few years old and has none of these issues. The heaviest wire i cut with it is fencing wire.
+I always understood it as a reference to the 'Islands' used in this form of construction. http://www.sdmakersguild.org/the-art-of-manhattan-style-circuit-construction/
+In Europe, CB gear can be expensive. Like €300+ for a fairly decent SSB CB. Compare that to, say an IC718, which is about 2x that, has all HF bands vs. just 11m, 100W, vs. 4/12W, audio DSP vs. none. Here HF rigs are relatively inexpensive compared to some CBs.
+This can all be done in software. I have a LimeSDR that can behave as a VNA. It does require a directional bridge for S11 measurement though
+The world is not black and white.
+Ok, so the Graham ruling on reasonable response and use of deadly force applies to the moment of the act. What was the perpetrator doing at the time he got shot? Running away. Does this seem like a justifiable and reasonable use of deadly force?
+Don't cards all use the chip these days?
+Maybe look into Dolly a little before you write her off as just “a singer”.
+Just to clarify... this is not my project. This is all John Melton's (the developer of PiHPSDR) work. PiHPSDR is a control surface for the HPSDR protocol, which is used by the Hermes series of transceivers, the Apache Labs SDRs and many others. The HL2 group (myself included) contributed to John's project,including donating a HL2 for him to make the necessary changes to ensure compatibility, so yes, your HL2v5 would work fine with it. If you don't want to source all the bits yourself, there are other options with varying degrees of 'turn-key-ness'. Apache labs does a full PiHPSDR, and a kit-of-parts lacking just the Pi and the display. They are expensive though... the entire BOM for complete DIY including front panel and enclosure is about $300, but requires some work (soldering, assembly). The Kit from Apache labs is about $399, but requires a Pi4 and display which is a further $100. The fully assembled version from Apache is $699. &amp;#x200B; [https://apache-labs.com/al-products/1054/Controller-V2.html](https://apache-labs.com/al-products/1054/Controller-V2.html)
+I don't know where to begin with this post, TBH, but I will try... &gt;you also cant really blame the officer. Its not like he had time to think it through Think what through? There was no immediate danger, apart from the perp getting away, There was no demonstrable threat to life or property. The officer could have let him escape, tackled him, tased him... any number of things that didn't need to end up with the guy dead. Instead he took the option to draw his weapon and shoot the guy in the back. &gt;and thus could have tased the cop, then took his gun and start shooting at and probably killing them There were multiple officers present. Tasers are a single shot device. If one officer got tased, the others could have easily subdued the perp. Regarding your pretty substantial diatribe on me being an edgy 'fuck the police' type, I am the opposite. I do however live in a country where the likelihood of being shot by an officer is 0. I cannot fathom a society where the default reaction to a perp resisting arrest is to kill them, and even less so, a society that condones this, and where any question of this is considered some anti-establishment , fuck-the-police thing. &gt; but you cant really blame the cop in this case. Its not like he did nothing and then got choked to death or something. Yes, I can. In terms of crime ans punishment, the crime of being drunk while in a vehicle and then resisting arrest compared to the punishment of on the spot execution is as disparate as George Floyd's. This has nothing to do with race or BLM and everything to do with a society so enamoured with firearms ans authority that any question of the latter brings the former to bear with fatal effect. &gt; but you cant really blame the cop in this case. Its not like he did nothing and then got choked to death or something. There was no life-or-death situation here. &gt; Its also clear as fuck you never had interactions with the police and youre just one of the edgy "fuck the police" guys who never faced problems with them and only says it because the narrative tells you so... This is just silly. Mate, I'm 50 years old. I have had plenty of run-ins with the police... mostly through my own fault, bit occasionally just a cop being power-mad. I neevr got fucking shot though, because where I live cops don't just shoot people for disobedience. &gt;But not every cop is just out there to kill innocent people. I don't for a second think that they are. In fact, most of my dealings with the police have left me with a feeling of remorse for my being a shitty person when compared with the decency and compassion of the officers with whom I dealt. Even when I probably deserved a bit of rough treatment, I instead was treated with respect, compassion and dignity. &gt;If you go around and fight people, you got to expect that you get hit back one day. If you fight people who have a gun and are trained in using them and also have the legal means to do so, youre an idiot, plain and simple. This is toe position I have a problem with... it's not the cops I am concerned with, it's a society that believes that (a) firearms are a valid solution in pretty much any altercation and (b) doesn't question their use by *even* those supposedly trained in their use. That training, I would have thought would consist primarily of how not to escalate to deadly force, but apparently it's the first recourse, not the last. Edit: typos
+Maybe, but don’t forget what society we’re talking about. The US glorifies celebrity above all. They elected a reality TV star as their president FFS.
+How exactly? Trump’s pathetic little “trade war”?
+All those wiseguys getting whacked...
+Why do you think any of these things are justification for the officer to use deadly force?
+Why do you think these things led to his death? They were criminal acts, but there was absolutely no justification to gunning the man down on the street.
+Still not justification for executing him on the street.
+You will need to contact Apache labs for kits. I only have PCBs and a couple of front panels.
+Excessive celebration? WTF?
+Why is that a problem? Goal celebrations are awesome.
+People are all different, are different ages and have different priorities. Does that help your understanding?
+I watched it for the first time over the last few weeks with my 7yo son. As a 50yo dude, it’s excellent. Great character arcs and amazing mythology and world building. YMMV, obv.
+The millions of people that didn’t see it previously.
+Well, yes, which is why running it was such a smart move by Netflix. Speaking as one of the poor folks, I was too old the first time round, but this time round was perfect. Myself &amp; my 7 year old son have been bonding over common interests, mostly marvel movies, and even as a huge marvel fan, I was getting a little tired of them. One evening while browsing Netflix, I spotted ATLA and suggested it. The next few weeks were so enjoyable for both of us. We both really empathised with some of the characters, and as an adult I was so impressed with the depth of emotion and characterisation... no black-and-white good guys &amp; bad guys. I am glad at having had this opportunity.
+Ok fine. I'm not interested in getting into an argument about it. Believe what you like.
+NTA. As a dad, I'm wondering why your husband wasn't equally furious.
+What do you see as a workable alternative?
+Drinking lots of water reduces pressure on your kidneys by reducing electrolyte concentration.
+But we don't. movement like BLM aim to highlight try the discrepancies so they can be addressed.
+She can say what she wants, just not on a service thatbhasbterms and conditions she has repeatedly flouted.
+She was not banned for her political alignment, she was banned for hate-speech, which is against Twitter's TOS.
+Pretty low bar though.
+In some ways you are.
+But then China has a healthcare system that doesn’t bankrupt you if you get ill.
+Use of a question mark to indicate uncertainty rather than asking an actual fucking question.
+Emissions dropped by 8% globally, for 3 months.
+Why would it be detrimental? The US is hardly a roaring success as it stands.
+What sort of site will it be at? If you have height you'll get out. If you don't, no amount of power will help.
+Nice. A good location is everything. Just in case you don't know it. You can generate excellent coverage maps using this tool... https://www.ve2dbe.com/rmonline_s.asp
+Let's just say you do another referendum and gain independence and rejoin the EU. Most of Scotlands sovereign resources is fossil fuels. That's not a great long term prospect, is it? FWIW, I hope you do and are successful. Scotland has too much to offer to be dragged under by the Tories.
+The fact that even with insurance, you have high bills baffles me. I am in Ireland, have insurance for me and my family that costs &lt;€2ķ/yr. I can claim back 50% of GP visits, 50% of specialist consultations, have a €150/yr deductible for the whole family, and that is my entire out of pocket. For prospective... i have had 13 procedures under general anaesthesia in the last 15 years... ankle &amp; knee reconstruction, gall bladder removal and multiple eye surgeries. Cost to me: €0 Most of this would still be the case if I were on public healthcare, except I would be paying 100% of specialist fees {€150/visit) and be in a public ward rather than a private room.
+SoftBank owns ARM, but licenses the IP to anyone thatvwants to use the architecture.
+Why do you say that?
+That's the thing about statistics... There are edges.
+It's only mail fraud if it's carried by US Mail. UPS are a private company.
+This is how i got snapchat.
+I have a short, common name gmail address and people are *always* using it. They book flights with it, rental cars, hotel rooms, use it for their medical insurance and banking. Many of these are different people but there are many repeat offenders, and they are the ones I fuck witj. Nothing expensive or dangerous, but enough to give me a small feeling of petty revenge and inconvenience them enough that they may change. I don't think you realise how annoying it is. I mean it happens daily. I get family photos, invites to veteran appreciation parades, medical records and doctor's letters. I try to sign up to stuff to find my email already in use. It's fucking infuriating.
+When you receive a notification from UPS and click the link therr are links to change delivery time/address, hold at the depot etc. I just did this yesterday.
+You would be surprised how many organizatios don't verify email ownership. Snapchat, Tumblr and Green Dot Bank are some from recent memory. If companies required email to be verified this problem would be far less bad, but they don't because they are not legally compelled to, and it is seen as a barrier to customer aquisition.
+Where I can I endeavor to have the company change the email so mine becomes available for use. Snapchat ignored all forms of communication, so I reset the password and told her friends she should get another Snapchat account.
+That would be an awesome radio where i live... we have 4 bands in the span it covers... 8m, 6m, 5m and 4m.
+Reqlly? Maybe he's just passionate about the material.
+Ah, there you are. There was an entire thread about you and your dumb-ass ilk on r/movies recently.
+Typical welsh username... 20 characters, one vowel.
+Ok, clearly i touched a nerve, which was unintentional.
+Aircell 7 or Ecoflex are more flexible alternatives.
+Likely a single issue supporter. Maybe a small business owner that feels that Obamacare fucked them over.
+NTA. Is this not a common thing? I do this and have seen loada of others do it too.
+It is far from that black and white, unfortunately.
+NTA. Fucking hilarious. I love it.
+Can you? Could you explain it for me because i think it's beyond unreasonable.
+This is a beautiful thought.
+You think their corporate masters would have permitted that? There's a reason that the Dems are basically GOP-lite.
+From a corporate point of view, the US system is a gift from above.
+Put a fucking leash on the drugs companies then. Mandate that they behave like healthcare rather than fucking hedge funds.

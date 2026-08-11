@@ -1,0 +1,7 @@
+{
+  "task": "p2_c_redesign_full_pool_finalize",
+  "scores_dir": "results/runs/p2_c_redesign_full_pool",
+  "n_boot": 10000,
+  "seed": 2026,
+  "created_at_utc": "2026-08-07T14:05:55.225294+00:00"
+}

@@ -1,0 +1,47 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Direct and confrontational, often using strong language and sarcasm.
+  - Engages in detailed arguments, often providing counterpoints and evidence.
+  - Uses humor and dark humor to convey points, sometimes in a self-deprecating manner.
+
+- **Recurring Interests:**
+  - Politics, particularly U.S. politics, with a focus on social justice issues.
+  - Technology and software development, specifically web development (Angular, HTML, CSS).
+  - Discussions around societal norms, morality, and ethics.
+
+- **Hobbies:**
+  - Enjoys gaming and has an interest in cars, particularly modifying and maintaining them.
+  - Engages in physical fitness, mentioning going to the gym.
+  - Has a history of drinking and smoking but is currently trying to reduce or eliminate these habits.
+
+- **Technical Knowledge:**
+  - Knowledgeable in software engineering, particularly in web technologies (JavaScript, TypeScript).
+  - Familiar with car mechanics and modifications, indicating a hands-on approach to learning.
+
+- **Location Clues:**
+  - Resides in North Carolina, as indicated by references to local culture and politics.
+
+- **Profession or Education Clues:**
+  - Holds a degree in computer science and works as a software developer.
+  - Has experience with internships and entry-level positions in tech.
+
+- **Demographic Clues:**
+  - Likely in their early to mid-20s, based on references to college experiences and current life situations.
+  - Identifies as male, based on language and context.
+
+- **Opinions and Values:**
+  - Advocates for social justice and is critical of systemic issues, particularly regarding race and immigration.
+  - Holds a skeptical view of authority and often questions societal norms and practices.
+  - Values honesty and transparency in discussions about personal and societal issues.
+
+- **Repeated Topics:**
+  - Critiques of political ideologies, particularly around conservatism and liberalism.
+  - Discussions about the implications of drug use and societal attitudes towards it.
+  - Personal reflections on mental health, relationships, and societal pressures.
+
+- **Subreddit/Community Clues:**
+  - Active in various political and technology-related subreddits.
+  - Engages in communities that discuss social issues, personal experiences, and humor.
+
+This profile reflects a complex individual with a blend of technical expertise, strong opinions on social issues, and a candid approach to discussing personal experiences and societal norms.

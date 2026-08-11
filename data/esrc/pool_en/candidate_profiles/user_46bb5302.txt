@@ -1,0 +1,500 @@
+Thr official streams use royalty free music, and all the tv stations replace it with licenced music of their choosing (I don’t actually know but it seems to be this way)
+Also this very game (getting over it) is made by the creator of qwop
+Haha, I was giving “Germany” as a country example with 2 consonants
+Dadaism - out of ideas before it was cool
+On the bright side, you can now say your town shares a name with the inventor of the Oldham coupling.
+You use these sorts of couplings when two axels can be aligned but may be a little offset. For example if you were building a car where the individual wheels could move up and down, you could use one of these to keep the axel aligned with the wheels. (In reality you wouldn’t do this though)
+I sexually identify as Steve Jobs
+Sorry, I’m taken already by a beautiful attack helicopter
+Wow. I’m in awe. I hope to someday get on this level (as a computer engineering student). Have you ever tried deviot for sublime text? It’s a platformIO front end in sublime.
+Not unless it’s a spherical pig
+Nah, I think it looks cool, not too flashy.
+/r/iamverysmart
+Correct except should’ve been “melts”
+https://youtu.be/6sRiqJd_PsU
+Don’t use technology in a dark room - always have a light on with warm colours. Then when you want to go to sleep turn the lights off and stop using tech
+The only difference between this and pollock is that pollock did it first. But please, tell me why I’m wrong.
+Nah mate. The magpies are the real cunts. Bin chickens are just hobo birds.
+Thanks captain
+Do it again! But this time use 20 geese!
+It could definitely be done with a small camera and some simple image processing...
+It should be roughly the same - the machine is programmed to pay out about every 30 games, so if you are +or- 1 light after 30 games it will pay out.
+As a RWD driver I was confused until you mentioned FWD.
+Looks like somones’ got a case of the Mondays.
+Y tho?
+Most radio stations broadcast with a far more powerful signal at night due to atmospheric effects
+Most trucks have enough clearance to neatly pass under 12’ bridges, but 11’8 is just slightly too low for most, even with the clearance. That’s why this bridge is nicknamed the can opener bridge.
+It surprises me every time how consistently terrible the PA systems are in planes.
+I think this proof is much easier to understand. http://jwilson.coe.uga.edu/EMT668/EMAT6680.2002/Rouhani/Essay1/Image23.gif you only need to remember that (a+b)^2 = a^2 + b^2 + 2ab and that the area of a triangle is ab/2
+/r/vxjunkies might be what you’re after
+Cherry MX with Cherry wood and cherry coloured resin.
+The headline and first paragraph mensions “sound” and “acoustic” attacks then never brings it up again. Acoustic attacks sounds like some tinfoil hat level quackery to me. Edit: I think this article is implying that the accounstic attack is not perceivable to the ear. I know attacks using loud noises exist.
+I own a dog. Only bitten me a few times, never visciously. You’re making generalisations and you don’t know what you’re talking about.
+Dog whistles work because dogs can hear frequencies that we can’t. That frequencies we can’t hear can cause symptoms of sickness is mostly science fiction.
+I think all animals attacks if provoked, but that’s no reason to call all dogs viscious. Just don’t provoke a dog - it’s not hard. After all - we created dogs to be mans best friend.
+Well yeah, what I’m saying is that sound can’t make you feel those symptoms. The only way that infrasound or ultrasound can harm you is with eardrum damage at high amplitude, it can’t give you flu-like symptoms.
+Why does everyone hate on solid soap? They’re cheaper and last longer than liquid soaps.
+All forms that rely on prime factorisation are.
+What is open source may never die!
+If this kid isn’t a serial killer already he soon will be.
+Also that number only applies to planes related to USA or on US airspace, and only commercial flights.
+What movie?
+Those are some impressive leopard shots! Great work!
+I don’t know you or your situation but you’re one of many and you have to keep trying. Also be open to, and accept other people’s criticism without being defensive. I found this was helpful for me when I failed to see my own flaws that were ruining my relationships. (Usually they’ll only tell you once to your face so pick up on it!) Also try building good habits - I found a form of fitness I enjoy (indoor rock climbing/bouldering) and do it every week. Self improvement is the key, and if you offer nothing to anyone, build yourself - learn a new skill, join a group of something, make yourself more valuable/interesting as a person.
+It doesn’t support everything, no (though most). But it’s very fast and very easy. Even has basic image editing and works better with PDFs than adobe’s programs do...
+Do you really believe you are that powerless? You’re just subject to the world and you haven’t got any way to influence your outcomes? Shit happens to everyone, you aren’t special in that respect - everyone has trauma and shit they have been and are currently going through and everyone is just trying their best to get by. But go ahead, wallow in your misery and helplessness instead of taking control of your environment. But it seems like you’re trying to blame the world for your own shortcomings. Sometimes it takes starting over from nothing but there are few problems in this world that can not be overcome with work+time.
+Sorry, I didn’t mean to downplay your problems just because other people have problems - that wasn’t the intention. And I don’t feel angry. I admit My previous response was shaped by a recent conflict I had with a person who refused to accept criticism, which I shouldn’t have applied so quickly to a random on the internet. You want to be remembered by a crowd singing at a bar for you? That’s great! But how do you suppose to do that? Now that I see maybe you have depression..? That’s fine, but you need to do something (albeit small) to step towards your goal - for example, seeking help IRL with your depression. Self improvement doesn’t always mean gaining skills or joining a group. Self improvement can mean getting out of bed in the morning, and it can take time.
+Are you seeing a psychologist about this? If not please won’t you try? I can’t comprehend how having a child stolen can break a man, but I’m sure your family wants what’s best for you.
+They’re round and full of shrapnel?
+Or just restart the computer...
+Restarting clears your temp directories
+TIL
+Sell them as middle pieces - it’s scandalous!
+I have found that both the 3 and 4 pin versions are likely to fail. I’d recommending getting 3 for every 2 you intend to use.
+9V batteries are one of the smallest in terms of energy capacity. I’d recommend either using AA batteries in series, or get a lead acid battery and step it down. Also use something like the Arduino nano or micro for energy efficiency. For an added bonus, take advantage of the chip’s built-in power saving and sleep modes to maximise it.
+Does anyone know of a good DSL modem that doesn't have a router or access point built in?
+Roman left without words at the challenge coin gave me a good laugh. That thing is a crime against humanity.
+Yeah, Adelaide has the mighty black stump!
+Matt. I think you have a fundamental misunderstanding of what net neutrality means. Please hear me out. It has nothing to do with physical infrastructure or who lays the cables. It’s only about making sure that all providers treat all data equally, rather than being able to discriminate based on type/destination/source etc. In a perfect market with plenty of competition and no collusion net neutrality would be a given since customers would demand it from their providers, but without this regulation or proper competition providers are in the position to extort customers for use of competing services. For a good analogy, think of the postal service - the post could probably make plenty of money if all the companies said “oh, this place receives a lot of post, let’s make post going here more expensive than usual” but there are regulations preventing that. This is net neitrality in a nutshell. It does not put the government in the position of deciding free speech, it takes that opportunity away from both companies and government. The reason why they were implemented only a few years ago is that providers didn’t used to do much of this slowing down of competition because they were in different markets to the tech companies, but now as the providers have diversified, they began competing with tech companies, and using their own infrastructure to give themselves the edge by slowing down competition. As a computer engineering student it was quite frustrating hearing the misinformation that you seem to have taken to heart. PS. I think your stance is a little confusing, you seem to be both pro- and anti- govt regulation and both pro- and anti- government participating in the markets alongside companies. Edit: why the downvotes?
+Would definitely dissolve before it gets through the mucus membrane.
+Shared space full of tools. You buy a membership for a period of time and you can freely use everything in it.
+This kills the lobster
+Your computer doesn’t know what documents are or aren’t code, so if everything executed by default your computer would be constantly trying to interpret other forms of data as code.
+Does your machine have a wifi antenna?
+YSK that the penny is not pure copper - it’s copper plated zinc
+A squadron of psychics and Chris angel mind freak
+They all have their place, it mostly depends on weather and geography.
+But wasn't it coined by Dawkins? Was "memetic" ever used in English before then?
+Looks like he was holding a phone in front of the noodles, and the phone was clone-stamped away in photoshop. See where it's a little blurrier and more uniform in the middle of the noodles?
+Nah, he just copy/pasted from the textbook.
+Nah, engineering is applied science. Science focuses on finding out the truth, engineering uses that info for creating things.
+Before I use startx everything works fine in the CLI. Once I use startx I get the above screen then that tty session seems to hang or not respond to anything (can still move the mouse and switch to other tty screens). When I use alt-enter to open a terminal window, the cursor turns into a clock and does nothing.
+RPI has no external graphics or pci, so I pretty much have to use vesa..?
+Alt-d gives clock cursor also. I have xterm installed so that should do it right? My .config/i3 is the default
+Alt-d gives clock cursor also. I have xterm installed so that should do it right? My .config/i3 is the default
+Alt-d gives clock cursor also. I have xterm installed so that should do it right? My .config/i3 is the default
+It doesn’t look like it was done by accident, but honestly it doesn’t look any more “intentional” than any other splatter artworks. The way it gets explained in art theory could just as easily be made up after the fact. I’m sure. If pollock had actually painted OPs painting people would be using the same compliments and explanations for it. Yes, pollock used far more paint. But that alone doesn’t really mean much - there are other abstract impressionists who used eve less paint and are still famous.
+I didn’t have a graphical terminal configured, you were right,
+Shockwaves are faster than the speed of sound by definition.
+I’m guessing the compromise isn’t worth it or they would have done it.
+I think the software is called synestheia
+That is correct, but just because the moralities vary doesn’t mean that atheist are more likely to be bad people - there have been plenty of atrocities committed by the religious too. Most people know antisocial (in its original meaning) behaviour when they see it - religion or not. And people fall victim to biases and tribal thinking regardless of beliefs.
+They have a good track record of astroturfing. Our brother printer was garbage just like the rest.
+Artificial sweeteners are very well researched, and I've never seen any good evidence they are harmful in any realistic dose.
+Outside observer here. Your descriptions (and other stories I've heard) definitely make it seem culty, though your videos don't really seem to depict anything that I would consider shocking, or "creepy". They just seem like videos of bizarre religious practices, and secret handshakes, but nothing extreme. Coming from a Jewish family, they have similarly weird or intimate rituals (minyan, mikvah, etc), none of which are that controversial, but rather just quirks of the religion. Am I missing something? Are these videos shocking to a mormon child who is less exposed to other religions?
+Interesting. Growing up Jewish you already know about all of those weird practices, even if you are not allowed to participate. I wonder if the Mormon church would be less culty if it was just open about its rituals instead of holding them close and reserving them for adults only to know about.
+It just occurred to me that the plural of ellipse and ellipsis are the same word.
+Yes, that was part of my original point - it's all weird, but I wonder why the average person would consider Judaism a "religion" but mormonism a "cult" - both have social pressures not to leave (though maybe one stronger than the other), both have strange practices, but only one is open about its practices to the general public. I myself have left religion behind, so It's all just rumination.
+Fun fact for all the programmers out there. Rollercoaster Tycoon 2 was programmed entirely by 1 man in x86 assembly. That is an absolutely INSANE amount of work. The game is so optimised you could run it on an ATM machine.
+Computer engineering student here. You are right, nowadays most things on computers are stored in multiples of 8 bits. The difference is that not everything is, for example ASCII characters require only 7 bits, or you might want to transfer a code which uses only 5 bits per character. When you transfer a message bit by bit over a cable you use a serial protocol, and these aren’t only used for computer things but also all sorts of electronics and data streams, so the protocols need to support arbitrary bit counts. For example, UART - a VERY popular serial protocol, supports blocks of 5-8 data bits per frame. In these cases the only useful way to measure throughput is in bits not bytes.
+I swear I’ve seen like 10 separate videos of guys doing the exact same thing and paying the price.
+Omg old newspapers are dense
+Australian from Sydney here. The coldest it’s ever been here is 2*C and that was in the 1930s. I can’t even imagine -62.
+Basically it hits some air and rips it apart, and then cloud forms around the broken air particle.
+Gentoo - the operating system for when you want to do nothing but diss arch users while waiting for the kernel to compile.
+Actually we just smash all their windows and leave.
+Well it’s really just the industry standard - carried over from when we used bauds to measure transmission speeds in modems (you used to typically only get a few hundred bauds in a home modem). So basically legacy. But I think it’s a fair standard as words being 8 bits wide is also a legacy feature and is variable depending on the system. Also I don’t think it’s a serious issue that customers have to learn what bits and bytes are.
+This race like the biking equivalent of wingsuiting. It’s so incredibly dangerous that all participants are likely to die from it if they continue. Chasing adrenaline until death.
+Reminds me of salad fingers kinda
+I don’t think I’ve ever seen such a low content/ad ratio
+Did you ever get your exclusive bonus lines for manbeast? (citing top comment on the video)
+That doesn't make much sense - why give us the option to switch if you have to exit to the main menu?
+He just kept tumbling and tumbling...
+What makes it modelling chocolate?
+Looks like scree put at a coastline to prevent erosion?
+Missing kongregate, newgrounds, funnyjunk, albinoblacksheep, stick deaths, etc.
+Holy shit. Turned his face into a Picasso.
+“Don’t regulate, complicate”
+Ed sheeran with neckbeard
+Often the fruits and veggies that you get at the supermarket were bred for aesthetics and shelf-life, not taste. Consider trying to find some heirloom tomatoes or other heirloom or small-crop projects, as they are likely to be tastier, though probably smaller, less pretty, or stay good for a shorter time.
+ah yes, the eeuch-y homo
+Is it triggered by wearing clothes? How can you deal with that?
+If a man does CrossFit in the forest but nobody’s there to tell about it, does he ever CrossFit at all?
+He was sick so they locked him in a faraday cage.
+This one is brand new
+I prefer a wine glass of MEK for a more discerning taste.
+Eh, I think pseudonymous forums are a very different beast to real-name ones. It has many of the same problems, but also some advantages - people aren’t really concerned with image, are more honest, etc.
+Explain.
+Nah, we don’t call them “togs” we use “speedos” or “budgie smugglers”
+Hmm interesting. In Sydney we never used togs.
+So do the miners keep track of the balance of each and every wallet?
+Well most people are using online wallets and exchanges which generate and hold the keys for them. It’s in the exchanges’ interest to keep them pretty secure to prevent theft. Even then, the default wallet programs seem pretty thoroughly investigated for cryptographic faults, so I’d trust them.
+It’s programmed in warranC
+The spit-polish isn’t meant to be made entirely of spit
+How does it feel to be an NPC?
+I wish there was a commercial version of this
+I don’t really need it, but I’d get it if it existed. I just program things through USB or headers
+Hilux is very popular in Australia
+Loading screens are tricky - sometimes they are trying to measure things that take an unknown or variable amount of time to complete. For example, when you download the operating system, you can get a good measure on the download progress, but the installation and testing is far less predictable, so loading bars basically just fudge it.
+I guess it depends on our reason for being vegan - is it’s to minimise suffering etc. then it would be fine, but if it’s for ethical absolutes or environmental reasons then it may not be ok.
+It definitely is - population almost 200,000
+and pouch
+Play it online with a friend here: http://bejofo.net/ttt
+Use this website http://bejofo.net/ttt and send them the link
+Binaural isn’t really able to simulate sound from above or below. Just left or right - it just means you have two separate tracks of audio.
+For abs: pushups, sit-ups, bridges, chin-ups. For biceps: curls, chin-ups also help. Recommend that you also build your triceps alongside biceps - it helps when you build opposing muscles together. Look up proper technique to avoid injuring yourself (especially your back)
+Men tend to put on excess fat at the belly, so when you lose weight, your fat should naturally reduce at the belly more than the extremities.
+If you’re in public no release is required. Anyone can take a photo of anything/anyone in public and the photo belongs to them.
+You can take pictures of anyone or anything in public and you own that photo. To use it commercially you need permission from the people in the photo, or it must be “newsworthy” which gets arbitrary.
+Luckily it was all PR - PETA failed, but the court concluded that the image was public domain
+That's not true at all. Expiration dates are arbitrarily set by the industry and nothing more. They don't need to indicate anything in particular. Plus plastic can last a lot longer than a year or two before it degrades.
+It's usually just because oxygen can get through the plastic and into the water, oxidising minerals in there. Though depending on the plastic there can some chemicals leeching (like BPA) in, but in general they should be fine - bottles foodstuffs are sold in are always fine.
+Not really - all expiry dates are completely arbitrary and unregulated. In fact they originated as a mark to advise supermarkets when to throw out the stock and were never meant for consumers.
+Yes, as I said, bottles do degrade, but I can typically take a very long time (and very variable depending on storage environment). But the expiry dates themselves are entirely meaningless because of this - it's in the company's interests to put them sooner rather than later in the hope that people throw out water and buy more.
+I didn't see the 2 rows, but I was merely asking if a part with the pins lined up existed. If I thought my link was compatible I wouldn't be asking here.
+I am 99% sure these were the full length of the packaging when they first came out. This is some scummy cost cutting.
+hello bitch lasagne
+Or.. you know.... people could just use less water.
+Hold up. You’re saying that the country is LESS equal than apartheid era? You seriously don’t know what you’re talking about. Yes there is corruption, but at least there isn’t economic enslavement.
+That’s part of graffiti art - it’s transient.
+Well he explained that there were circular currents in the block of copper - I think that counts.
+There are actually some really decent programming apps for iOS - working copy, gocodeedit, buffer, git2go etc. Add bluetooth keyboard and an SSH app and you have an environment good to go.
+Here's a video https://www.youtube.com/watch?v=b_cp8MsnZFA
+Looks like one of the thunderbirds to me
+The cursed amazon box breaks the legs of anyone who touches it.
+Just wanted to mention that ibises used to live in the marshlands of Sydney, but we went and built a fucking city over the top so they don’t have a habitat, now we hate them for surviving the best way they can.
+https://www.youtube.com/watch?v=PoOYL4H6wCA
+Also in Thailand the bogans love Phuket, for the most peaceful trip, stay away from the south.
+\&gt; Not open source \&gt; Proprietary \&gt; Expensive REEEEEEEEE
+Fair enough - I haven’t been to the south either so it’s just word of mouth for me.
+Definitely a graphical improvement on 2017 but I feel like the plot was less well thought out.
+This is your brain on logic
+No - a spoonerisms is when you rearrange the first sounds of two words. Eg. Dear old queen -&gt; queer old dean.
+No, stop Australia. This is a dangerous game you’re playing.
+As much as I’m not a fan of preachers and hecklers, I do think they should be free to say what they want in public as long as they’re not actively harassing people. And she is entitled to withhold documents at risk of arrest all she wants.
+Honestly I wouldn't be too fussed- things aren't moving across the screen very fast, and they no doubt have a dedicated connection for the job, I'd be very surprised if the bandwidth was not much more than adequate.
+I don’t see this improving much without adding more ram. The reason this happens is because when you use up all the ram the OS automatically cleans out the oldest app’s state so you can keep going. This means that sometimes big apps will cancel the state of every other app just because they’re big and bloated.
+Furthermore, since when was the space program based on “positive relations” - it was literally a war backed by the threat of nuclear destruction.
+/r/perfectfit
+Outlets less or equal to 10 amp rated don’t need switches, and switches can also be triggered by any plug insertion rather than manually.
+It’s mostly what you choose to download not the client that holds the risk when torrenting. That said, utorrent does have ads and spammyness, and using an old version of any software is not recommended. I’d advise trying transmission.
+We don’t I swear - it’s our corrupt politicians from the liberal party taking endless cuts of telecom money.
+It doesn’t seem like this is the eruption from yesterday.
+Where?
+Makes me want to grab a straw and suck them all out
+Or even assassins creed
+WTF are you actually implying that it’s a privelage that refugees gets sold into the sex trade? Does that make it ok to you?
+Of course there are other factors, but if you have a binary “it’s working” or “it’s not working” you have enough to test vs placebo.
+Sir, this is a meat processing plant. We have no joysticks here.
+You can replace internal batteries also
+BOM and ACCC - our best institutions Edit: don’t forget Medicare!
+You already are - it’s your taxes, but instead management is taking the money.
+There are always other tools like curl and wget which allow you to download from the command line
+I don’t think I’ve ever seen a command run with more arguments...
+I’m not trying to be smartass - I’m just pointing out that accidentally deleting all your web browsers isn’t such a big deal as many think. There’s no reason to keep a browser around just for downloading other browsers.
+This is Australia - there are no hills for a hundred kilometers in any direction out where you find these.
+Purchasing power parity - it’s the power that a currency has to purchase a good and varies over time.
+The reasoning behind it is that belief in god isn’t typically arrived at through empirical evidence so it’s useless for casting doubt on faith, rather you must use the implications behind the line of reasoning from faith and challenge it with counter examples.
+Another sneaky thing with TP is the cardboard tube is slowly getting thicker and thicker over time. Sometimes stouter too.
+He actually means a sarpler of cheese
+I think this has the best dynamic of any IRL esport event I have ever seen.
+"Pinball King"
+Not if it’s open source
+The original HHG had just a choir going OOOOH
+Depends on the brand/model number, as webcams typically need a proprietary driver to work.
+You can get linux running on many different architectures Windows is mostly just for x86 but windows mobile OS is for ARM
+Of the 400 shark species, only 12 have to move to ventilate - this includes great white and whale sharks. The rest can breathe while stationary.
+Looks a bit... Evil... though.
+Ah yes, the classic [timecube](http://timecube.2enp.com/) The original website got taken down but someone resurrected it here. Edit: archive here https://web.archive.org/web/20160112212232/http://www.timecube.com/
+There’s some crazy footage of the tsunami ascending a river. Crazy how fast it escalates https://youtu.be/P8qFi74k2UE
+A 9 pack of sockets? Why I'd love an 8 pack of sockets!
+Only the rocket league, master of all 4 platforms can save us all and put this world back into balance.
+If you know there is a specific process slowing down the computer with disk access you could try using the nice command to run it at a lower scheduling priority.
+Magnesium still needs air to react with. Luckily sparklers also contain an oxidiser and so work without air.
+Also why do “fifth” and “twelfth” have an f in them
+Yes they did, you just need a big telephoto lens. The camera was often in a protective enclosure with a mirror which aimed it where it needed to see.
+Long telephoto Facing up in a small armoured bunker with an aiming mirror on top (similar to how they film Saturn V taking off)
+Truly ascended.
+You’re just talking out of your arse. There’s no way a 3D transformation is faster than a 2D transformation. There is no 3D rendering being done here. I’d bet it was something to do with a floating point error deforming the pixels. Also what copying are you referring to?
+I’m guessing that there is a floating point error causing a deformation of the rendered pixel.
+Couldn’t you just assume taxes will go up?
+The launch shears off a layer of metal from the barrel walls due to friction and this catches fire and explodes.
+Sometimes I wish I could have experienced a world that was so much larger and less complicated, and more mysterious than today.
+Alcohol is fine, peroxide can do cell damage.
+I honestly dont think that humans have any chance of exploring outside our own galaxy - the speed of light is just too slow. So I really hope that there's intelligent life out there somewhere in the milky way.
+Lyrics from comments: I am standing on the summit of a century of years That has measured the life of our nation And I see, way down the mountain, a flood of blood and tears That was shed for our country's salvation And I see a mighty legion who, for our nation's life, Would forfeit young manhood's fresh glory And I see a mighty legion that perished in the strife Now sleeping in garments stiff and gory And we're going soon to meet them in the bivouac of the soul As the shadows around us give warning And I want to see my comrades when the angels call the roll All are ready for inspection in the morning We were boys when we enlisted And these wrinkled brows were fair And our eyes were not dimmed in their vision And the frost that never melts had not fallen on our hair And our step had not lost its precision But the years have built their terraces on every comrade's brow And age makes our weary limbs quiver And the frost is falling thick As we run the double quick To the camp that is over the river And we're going soon to meet them in the bivouac of the soul As the shadows around us give warning And I want to see my comrades when the angels call the roll All are ready for inspection in the morning
+Come on, get real - you're assuming something that doesn't exist. Until I see proof, I have to assume that speed of light is the limit - that is the only reasonable way.
+500 years ago the study of physics didn’t exist. Today we have the knowledge about physics to know that there is a speed limit, and that if you broke that speed limit things start to fall apart. I don’t think you are justified in assuming our current understandings are wrong just because “things have changed in the past therefore they must keep changing right”. I don’t even see how we could go about proving Einstein wrong when there is so much evidence in his favour. The study of rocket propulsion was pretty much invented during world war 2 (with a number of exceptions) and since then we have pretty much exhausted the entire periodic table on the search for the best rocket propellants. There is simply nothing left to look for. I don’t foresee this knowledge from just disappearing in the near or even far future. There are other non-chemical ways to propel a rocket which are already known, but nothing truly new is being invented. Before lighter than air travel people certainly thought it was impossible to fly, but they definitely couldn’t prove it - we can prove that faster than light travel is impossible.
+One drive is Microsoft’s google drive.
+&gt; Alcubierre Drive Yes, I have heard of this before. It is only possible if you assume you can create matter with a negative gravitational force. I am not a physicist but have studied physics at university level and have not heard that this is possible, though it does make for some nice sci-fi. Just because physics allows x on the condition of y doesnt mean x is possible (since y might also be impossible). Furthermore, to prove this incorrect means we would have to obtain some of this exotic matter which may not (and probably doesnt) exist. This theory is effectively unfalsifiable until then. &gt;The chances of every element ever created being on our small ball of dirt... is unlikely You're absolutely right - we have created many elements which do not exist naturally on our planet, and vastly more compounds. Unfortunately our laws of physics only allow for so many elements to exist, so unless physics works differently outside of earth, we have pretty much discovered all the ones worth practically using (newly created elements tend to break apart VERY quickly). &gt;if scientists said "we did it, that's everything, we're done", then that statement would make itself true That's not true - science never ends - nobody has ever just stopped investigating anything in science. New compounds are constantly being created and they all need to be studied and classified, it's just that, unless something large in the way we think about chemicals changes, we know that either they will be too unstable, too heavy, or not powerful enough to be used as a rocket fuel - and I'm just using this rocket propellant thing as an example since it's something I have recently learned about. I appreciate your open mind, but I think your arguments for intergalactic travel come from a lack of knowledge - you are disregarding science entirely in your argument rather than using it to make an informed argument. I'm not saying I am 100% confident that we will never leave the galaxy - that argument would be impossible to make, but to our current understanding of science it would not be reasonable to say that we will ever leave the galaxy unless you put sci-fi on an equal footing with science. Paradigm shifts are vary rare, and your arguments seems to be made on the assumption that there will be another paradigm shift, which I don't think is reasonable, or on unfalsifiable hypotheses.
+WTF Google...
+Autoerotic immolation
+Each eye colour sees in 3D so you see in 6D.
+You get given a different set of peers which may have a faster upload speed.
+Studies computer engineering LAUGHS IN POWERS OF 2
+Nailed it.
+Close though.
+Spoopy
+Can confirm. Source: I got big dick.
+also left handed DNA
+But that’s just an operating system... All multi threading operating systems already virtualise the memory to prevent programs from corrupting each other.
+Poor Lenny.
+Haha that got me good.
+When your mac updates, most of the changes and file copying are made to a temporary file and then moved to where they need to go at the end, so unless you lose power at very specific and inopportune times during the update the system will simply reboot back to the way it was. But either way, always have a backup ready.
+I think he means Dark from Vandandium
+Conan the barbarian
+mort.
+It really can’t
+Good to see Harold capitalizing on that meme cred
+At least you get a sweet username out of it all
+I need some more details
+Oy say that again to my face cunt.
+Now this is a KSP mod I could get behind
+Nope, sharks do not have radio antennas
+Oh you just wait. It gets better
+They used to focus on the videos not the personalities.
+The top speed is 120km/h, however acceleration is slow and hills are not ideal.
+I was a member of the software team for this for a short while. AMA I guess.
+As well as the interior, if you saw them both up close the difference in build quality would be obvious. Dodgy workarounds have been replaced with engineered pieces all over the place, and the structure is in general sturdier and more efficient.
+You need not change anything with your home computer. This bill is mostly about the government now having the power to force tech companies and ISPs to install software, change implementations, hand over cryptographic keys, and supress the presence of law-enforcement listeners in conversations/accessors to your account etc etc. Much of the controversy is because there are terms which are loosely defined, or the final decision falls mostly on the attourney general/other single person positions to judge. One important note is that end-to-end encryption does not have to be banned since that would constitute a "systematic weakness" (this is explicitly stated in the bill) - so your whatsapp/imessage is somewhat safe. However there are other ways to bypass/subvert end-to-end encryption. In terms of the linux community, I dont see drastic change other than a slow shift towards e2e encryption. We also need to improve identity/account management on large platforms to make them part of the security schemes rather than something separate. For example, if the goverment can suppress the message that "an unexplected sign-in has occured on your email address" that introduces identiy based weaknesses, however if all emails were cryptographically signed by the sender this would not be a problem.
+Looks like someone failed simple machines in high school.
+My money is on client/server latency
+Haven’t you gotten the memo? Politics must be present in every aspect of everyone’s life at all times.
+Please disprove all of the 200 stupid points brought up in this 90 minute video.
+Punching holes into leather
+Dude’s got some serious vocal talent.
+The density of the universe is so low that you are very unlikely to hit anything ever if you just pick a direction and go.
+/r/holdmyfeedingtube
+Hi, I did make a build, but I actually decided that going with Ryzen was the smarter choice for longevity, as they are less inclined to change their sockets every few years, so I have at least one cpu upgrade possible in the future. I also decided to downgrade the pcie slots (in hindsight this was a good decision) and go with a mobo with built in wifi/buetooth (no regrets from that, though it does make Linux a little tricky due to less driver support). I am currently running an SSD in both m.2 slots plus 2 8tb hard drives and its working very well. I am dual booting windows and arch Linux. I would avoid nzxt coolers also due to them having one of the worst drivers I’ve ever encountered. (You must give them your email etc) I’d also recommend getting a better case than I did - cable management is a bitch and heat management is not great. Finally I feel like I went a bit overboard with the power supply - if I did it again I would probably downgrade to a normal gold 80+ Here is the build at time of buying (minus the extra SSD and HDDs) [PCPartPicker part list](https://au.pcpartpicker.com/list/fXGXnH) / [Price breakdown by merchant](https://au.pcpartpicker.com/list/fXGXnH/by_merchant/) Type|Item|Price :----|:----|:---- **CPU** | [AMD - Ryzen 7 2700X 3.7 GHz 8-Core Processor](https://au.pcpartpicker.com/product/bddxFT/amd-ryzen-7-2700x-37ghz-8-core-processor-yd270xbgafbox) | $515.00 @ Mwave Australia **CPU Cooler** | [NZXT - Kraken X62 Rev 2 98.17 CFM Liquid CPU Cooler](https://au.pcpartpicker.com/product/2RdFf7/nzxt-kraken-x62-rev-2-982-cfm-liquid-cpu-cooler-rl-krx62-02) | $239.00 @ Mwave Australia **Motherboard** | [Asus - ROG Crosshair VII Hero (Wi-Fi) ATX AM4 Motherboard](https://au.pcpartpicker.com/product/bvdxFT/asus-rog-crosshair-vii-hero-wi-fi-atx-am4-motherboard-crosshair-vii-hero-wi-fi) |- **Memory** | [G.Skill - Trident Z 32 GB (2 x 16 GB) DDR4-3000 Memory](https://au.pcpartpicker.com/product/7htWGX/gskill-memory-f43000c15d32gtz) | $479.00 @ Mwave Australia **Storage** | [Samsung - 970 Evo 500 GB M.2-2280 Solid State Drive](https://au.pcpartpicker.com/product/P4ZFf7/samsung-970-evo-500gb-m2-2280-solid-state-drive-mz-v7e500bw) | $139.00 @ Mwave Australia **Video Card** | [GALAX - GeForce GTX 1060 3GB 3 GB Video Card](https://au.pcpartpicker.com/product/Yz2rxr/galax-geforce-gtx-1060-3gb-3gb-video-card-60nnh7dsl9c3) | $289.00 @ Mwave Australia **Case** | [Cooler Master - MasterBox MB600L ATX Mid Tower Case](https://au.pcpartpicker.com/product/LQ7v6h/cooler-master-masterbox-mb600l-atx-mid-tower-case-mcb-b600l-kann-s02) | $69.00 @ Mwave Australia **Power Supply** | [SeaSonic - PRIME Ultra Titanium 1000 W 80+ Titanium Certified Fully-Modular ATX Power Supply](https://au.pcpartpicker.com/product/NxWfrH/seasonic-prime-ultra-titanium-1000w-80-titanium-certified-fully-modular-atx-power-supply-ssr-1000tr) | $419.00 @ Mwave Australia **Case Fan** | [Noctua - NF-A14 PWM 82.5 CFM 140mm Fan](https://au.pcpartpicker.com/product/dwR48d/noctua-case-fan-nfa14pwm) | $35.00 @ Mwave Australia **Case Fan** | [Noctua - NF-A14 PWM 82.5 CFM 140mm Fan](https://au.pcpartpicker.com/product/dwR48d/noctua-case-fan-nfa14pwm) | $35.00 @ Mwave Australia | *Prices include shipping, taxes, rebates, and discounts* | | **Total** | **$2219.00** | Generated by [PCPartPicker](https://pcpartpicker.com) 2018-12-12 12:01 AEDT+1100 |
+It really doesn’t take a lot of tools to do as long as there is living knowledge of the processes involved. The tools you don’t need to be precise, and metal working and refining metals like copper is not hard.
+Isn't this news like a few weeks old already? or is this a second breach?
+This is a war crime
+It’s not just large tech companies using sipermicro boards - if the report was true you’d think that one of the numerous smaller companies would find these chips. Or one of the third party audits performed on the large tech companies.
+L1 cache would like a word
+[citation needed]
+Nailed it.
+Why is guy fawkes in this video?
+/r/interdimensionalcable
+Telegram is also open source
+Galaxy brain merchant
+That’s not how energy distribution works. When you buy renewable energy the renewable supplier agrees to add as much energy to the grid from renewable sources as you are using, this also reduces demand from the non renewable suppliers.
+There were ammendments made in the house but ammendments in the senate were rejected.
+Don’t panic. You chose to do infosys, that’s cool. You will be learning programming, computer networks, databases as well as some business and communications related stuff. You don’t need to necessarily, but if you want a head start I’d suggest brushing up on your algebra before you start programming (or even try a free online course in the same language you’ll be learning at uni). At uni you can apply for government assistance (HECS) where the gov pays for your education as long as you pay them back when you start working. I recommend everyone do it. I’d recommend finding a housemate to share rent with then finding a part time or casual job in the area and work your uni schedule around that. (yes it can be hard but it’s not unreasonable to work while studying). Just remember that if things don’t work out it’s not the end of the world - there are always more options and your ATAR stops meaning anything once you exit your current life chapter (which you are about to do).
+This statement hurt me.
+Could always add a script to the liveCD to do it in one step exactly to your liking
+Theoretically - in practice there will usually be some soot and carbon left over.
+What is this from?
+Parents leaving iPads in kids hands on auto play YouTube is a big part of this problem.
+Why did oh do this with 4 phones rather than inexpensive camera modules and a SIM card?
+I got a justice boner
+I wonder how it is as a average of populations rather than cherry picking Germany (one of the most well off countries in Europe)
+Check your sharing settings in system preferences - if you have Remote Desktop or remote administration turned on then people who can guess your computer’s password would be able to control your computer when on the same wifi network.
+[citation needed]
+It seems that none of your links deal with the claim that vibrations increase bone density and have other long term health benefits, so I went and researched that for you. Seems that it’s bullshit https://onlinelibrary.wiley.com/doi/full/10.1359/jbmr.2003.18.5.876 https://onlinelibrary.wiley.com/doi/full/10.1359/JBMR.0301245 Edit: turns out I didn’t read the second link well enough and it actually suggests that you might be right - what a twist!
+Yeah this anecdote is completely meaningless, sorry.
+Utter crap - have you never heard of patch Tuesday? Microsoft’s security track record nowadays is very good - better than most web services I’d argue.
+There is no solid evidence of this (see my response to the top comment)
+ITT - people blindly upvoting poorly researched opinions and folklore :/ I thought this sub was about finding truth, guess not. Welcome to reddit.
+Hah? What a stupid thing to say. Do you have a source?
+Upvotes for an informed answer. This is new to me, and while I am not convinced that fluoride is not worth the risk, you have given me something to think about. I wonder if this effect can be seen in humans too?
+What makes you confident that this is an effect “triggered” in the body, rather than a normal repair mechanism to tiny fractures as is indicated in the research?
+Use CAT5 or CAT6 cable. It is rated for up to 55 meters at high speed.
+Not a chemical plant but chemicals illegally stored at a storage site.
+Must have replaced it with a flux inductor instead.
+If you got told every time a warrant for your arrest was issued then nobody would ever be arrested as they would be able to prepare for it.
+Remember to clear the leaves out of the gutters on your roof. Good luck
+Haha, do you honestly believe we would be all better off returning to a hunter-gatherer lifestyle? Yes, it’s better for the environment, but good luck living past 50.
+I agree that killing and driving out aboriginals was a terrible idea and that knowledge was lost, but I’m not sure what you are advocating. I am aware of many aboriginal tradition practices - in fact we use backburning to control fires even today. And we now have regulations governing how much we can take from the environment (eg fishing laws). What else are you looking for?
+There’s one on the Bondi to Bronte walk in Sydney. Seems to work well.
+Now he has to move.
+1.1.1.1 is the cloudflare dns 8.8.8.8 is the google dns
+Murph!
+WATCH OUT HES GOT A HINGE!
+Why not just use your own internet for porn like a normal person. Using someone else’s wifi without permission is illegal and also just a dick move.
+Ah ok, as you were.
+Murph
+~/Library/Application Support my dude
+That’s more a serif no?
+Sleep cycle alarm clock
+I guess the solution is to ask the judge to force apple to pay legal fees and meanwhile lean on the community. It ain’t ideal but it helps that this is in the public eye.
+If it damaged the trees they wouldn’t be using it. Dah.
+They grow big but not that big - these machines still work on the big ones (their trunks don’t grow too thick).
+Either that or you’re a zuckerphile.
+I dunno - I can’t think of any other place with a similar kind of outrage culture.
+Except there are numerous studies that show that doses similar to what you’d find in food are safe for humans.
+&gt;The IARC review notes that there is limited evidence for a link to cancer in humans. Although several studies have shown that people who work with the herbicide seem to be at increased risk of a cancer type called non-Hodgkin lymphoma, the report notes that a separate huge US study, the Agricultural Health Study, found no link to non-Hodgkin lymphomas. That study followed thousands of farmers and looked at whether they had increased risk of cancer. &gt;But other evidence, including from animal studies, led the IARC to its ‘probably carcinogenic’ classification. Glyphosate has been linked to tumours in mice and rats — and there is also what the IARC classifies as ‘mechanistic evidence’, such as DNA damage to human cells from exposure to glyphosate. The animal studies referenced at the end of that quote overwhelmingly use enormous doses before effects are produced.
+Hmm fair point
+Your except states that the results are not significant...
+You get what I mean though. I’m talking around practical doses
+Hah? You’re citing evidence for something but are quoting a negative result?
+Ok, but my question is, if you were spraying the glyphosate, is there any actual evidence that you could get cancer in that dosage?
+Oh ok, I think the downvotes are from your confusing phrasing.
+Hah? We still haven’t figured out how to solve the power demand curve with renewables alone, nuclear would easily enable us to smooth out the demand curve - increase output in the early evening and morning and fallback to only renewables at other times.
+Cronch
+Id advise actually recording to an HDD if possible - SSDs get worn out if used perpetually when HDDs wont, and for something like this bandwidth wont be an issue.
+Honestly just find out how to dump the firmware off everyday devices (routers, appliances, etc). Once you are able to get a firmware image you can pretty much treat it like a normal binary, however you will also want to learn a bit about how the architecture works - for example, AVR devices have a large table at the vary start of memory for different interrupts, some of which are jumped to upon poweron. The datasheets needed for understanding an architecture are easy to get online, and dumping the firmware can often be done with inexpensive and open source tools.
+Oh cool - I’ve never encountered any of these before. Very interesting.
+Seems like the first 2 are for cars and media processing right?
+Nice. I don’t have much experience with industrial stuff but I’d like to in the future. I’ve really only focused on binaries and some consumer electronics.
+Just because it’s biodegradable and made from cellulose doesn’t mean it isn’t a plastic - as a polymer it is a plastic.
+Fosters? Piss off yank bastard, nobody drinks that piss here.
+Guzman chips are excellent
+It did not originate with sea of thieves - that’s just an Easter egg based on the original.
+Fuckiplier
+The half life is the time it takes for half of a given material to decay - in decaying it also releases radiation. Materials with a short half life decay more quickly and therefore release their stored nuclear energy faster and more intensely. Nuclear fuel uranium has a half life of 704 million years (however it decays much faster when packed around more uranium due to fission). Other isotopes such as the americium found in some smoke detectors have a half life of 432 years and so decay much faster than natural uranium, however there is a very small amount so no real danger is present, and the radiation is in the form of alpha particles instead of neutrons (which can not penetrate skin and are really only a hazard if the material is inhaled or swallowed).
+You don’t need a particularly high clock speed, just bare to the metal or real time systems for this speed - it could be done with an Arduino board but without the typical Arduino libraries slowing it down.
+I agree that the real time dodging and navigating to the back of the opponent might be too intensive for Arduino boards, but you can definitely have a functioning and effective sumo bot using an Arduino board without heavy processing (though not quite in this league).
+I was under the impression that pyramid technology was perfected 2000 years ago.
+Remember to never put the cart before the whores.
+I’m no expert on MRIs, but I’ve heard there are ways to either do a non-emergency quench which preserves much of the helium and minimises chance of damage, or to inductively drain the energy from the coils. I’m not sure whether this is done in practice though.
+Paper trail is very important! Screenshot conversations so when you unfortunately have to throw them under the bus you can prove they were fucking around while you worked.
+As someone who has personally researched the security of an IBM operating system used in banks and the like, I can tell you their security is garbage - it’s all image and no substance 90s level security. The one and only reason IBM systems aren’t breached more often is that they are expensive to get hold of and nearly undocumented on the kernel level and so make for a pain in the arse to audit properly.
+Fuck I’m so happy social media wasn’t a thing when I was in primary school. Best of luck for the cringe this will bring to you in the future.
+End to end encryption - whoever was using that is safe in theory. It would take quite an extraordinary effort to bypass that.
+Wait really? They all have an actual rootkit? Source?
+Antenna pics plz
+https://www.openlearning.com/courses/securityengineering19t2/
+I saw hum a few days ago by the fountain next to CLB
+God the NZXT drivers are utter cancer. Never again.
+Tokyo drift?
+The metallic taste is unexplained IIRC - it’s high energy neutrons that was causing most of the radiation poisoning in Chernobyl, not any metal actually entering their body.
+It’s basically a puppet state though
+Fuck that, China is an evil regime that subjugates its people. It doesn’t deserve its influence.
+As in the us - doesn’t subjugate it’s people.
+No. Diet has a far greater effect than excercise. You have to run many km just to burn off a single cupcake.
+This thing uses reaction wheels, not just simple gyroscopes. Reaction wheels control their rotation by slowing or speeding up a gyroscope. This one can rapidly brake the gyro giving it a burst of momentum powerful enough to flip it on its edge and then corner.
+A lot of people believe that public shaming is not an appropriate punishment for a child and is in fact abuse.
+Please video this
+This isn’t true at all - lots of examples have already been mentioned but I’d also recommend looking at embedded rust - it’s pretty obvious that you really only need unsafe rust where memory is being touched directly, you can then wrap that up in a safe wrapper and use it with the rest of your codebase, plus there are plenty of libraries that do this reliably.
+You’re right, but NaN is an artifact from the ieee spec for floats - it allows rust’s floats to operate with all other floats, however I do agree with you that in rust NaN doesn’t really make sense.
+How does this handle functions that take closures that use braces?
+He meant to say more soba
+Nah, it’s actually Jeff benzos
+/r/panelshow
+The Congo rainforest is also burning apparently (see comment above yours).
+God I hate wchars with the burning passion of a thousand suns.
+You might also want to post on /r/askelectronics if you can’t find good answers here
+So low frequency rfid is pretty much the exact technology you’re looking for, however actually making it happen is complicated - you need an extremely low power IC connected to your induction loop which switches a load into and out of the loop to modulate the signal. Your reader must also be able to produce a signal at the correct frequency with enough power, and detect minuscule changes in impedance nearby caused by the load. I’d say just buy a system lol. Longer range devices already exist (though they can be expensive).
+I don’t think that saying interrupts can cause deadlocks is a good reason to not have spinlocks in an embedded context. Mutexes are important for embedded too, and sometimes there is no other way but to have something spinning, the programmer must just be aware enough to not have the interrupts conflict with the normal processing.
+Even stdlib mutexes can deadlock if a thread holding the lock tries to re-lock. May I suggest adding spinning behind a feature flag or something given that the risks are sufficiently noted? Or a separate primitive name so as to not be accidentally confused. Also don’t forget cooperative multitasking - you don’t always have to assume that other threads are running arbitrary or hostile code - it might all be controlled. But ultimately it’s your crate, you’re the boss.
+I hope the great filter is p2 rated
+AFAIK even parking_lot mutex will deadlock if you try to double lock, but I can’t test it right now.
+I’m okay with working with gnu radio
+Echidna*
+Yeah
+I feel like cookas would be most likely Aussie bird to smoke a spliff
+You don’t need a tower to transmit radio - get a handheld CB system
+They’re not incompatible, but you will be running 2 executors at the same time which will be inefficient
+It’s the same throughout the world - inequality is growing faster every day and wealth becomes more and more siloed.
+I don’t think it was mocking, it’s educating people.
+I think the .offset method is much better than to do unnecessary casting.
+I should have said in western countries - even while poverty shrinks, inequality makes it more and more difficult to escape poverty.
+Please do not misconstrue what I'm saying. If you want me to define inequality then just say so - what I mean is that the rich are possessing a larger and larger proportion of total wealth - mostly through tax avoidance. This causes poverty because the government is unable to distribute wealth to important services and projects since they aren't collecting enough tax. I focus on the rich because the super rich are the problem here, and they certainly are not worthy of envy - I’d say more disgust.
+Is it threaded or ringed at the bottom? Can you take a picture of that?
+Nobody is suggesting economics is zero sum. It causes poverty through the degradation of public services and infrastructure - for example if individuals and companies in the USA were correctly taxed then they’d be easily able to fund public healthcare which would bring people out of poverty. If the point you’re trying to make that inequality doesn’t exist or is not a bad thing? If so let’s please rather talk about that.
+Probably not in Canberra - but closer to the fires almost certainly. Impossible to say for sure though as there wasn’t good measuring equipment back then.
+Oh god please no, during his reign abbot didn’t do a single thing for the general populace, it was all coal industry dick sucking and religious Christian politics. Please don’t let his support of fire fighters outweigh all the negatives.
+Anyone able to ELINormie this?
+While left pad isn’t a scenario in the crates system, the other risk is supply chain attacks - if a maintainer of a hostile package is hacked and malicious code inserted into a deep dependency it would take manual inspection to find the change. However this vigilance is the price we must pay for a flexible and programmer friendly ecosystem - it is an unavoidable consequence. Just please try learn as much as you can about what the crates you are using actually do.
+Yikes
+ITER will be energy positive however it will not be able to turn the energy into electricity (still an experiment not a generator)
+Maybe your dad is being abused?
+I can vouch for rust on embedded. You’ll have a bad time if you’re not using an arm based MCU but the embedded ecosystem rust has turns the experience from constant manual referencing and register bitbanging to an almost arduino like experience (but way faster). I have been writing a device to detect serial ports using a Cortex M0 based development board.
+Have you considered using a serialisation format such as json or TOML instead of plain text? These are made to be easily parsed by machine and are supported by serde (which is very good).
+serde_json is the best json crate that I’ve seen. I totally understand being stuck with the format you have. However I’d encourage experimenting with that crate combined with serde derive from the main serde crate.
+Too bad all the rides are wrapped in an unsafe
+I found sodiumoxide to have a really nice API when I was using it. It just doesn’t have the algorithms that you’re looking for.
+Learn about different CTF techniques, read write ups and solve past CTFs - it takes a lot of practice to become good at it. There’s so simple way to do it, find what parts interest you the most and focus them first.
+TIL a million = 7
+Is there a way to provide both interfaces? One fast interface which will assert or debug assert that the address is 8 byte aligned and another which uses the safer method? Otherwise if you had to pick one I’d go with safe.
+I’m actually inclined to say focus on the more unsafe way as long as there is a runtime check in debug or otherwise now, as this is a mistake the developer should only need to make once then a code fix should fix the issue.
+In the structure definition there isn’t a lifetime parameter but in the impl you’ve written a lifetime parameter.
+And neoliberals
+Wasm is not a subset of JavaScript, it’s an entirely separate abstract machine with its own opcodes.
+Judging from your responses it seems you still don’t know much about what wasm actually is and how it works, I suggest you do some further research before arguing with people since many of your assumptions are wrong.
+Im guessing its **PRO**tocolbuffer ru**ST**
+A strongly typed language for a strong typist
+My country keeps voting in conservative fuckheads, send help.
+Comedians don’t have to be edgy or offensive, the most important thing is do they make you laugh. Whatever.
+Rat throne
+Could you please benchmark this vs the allocator, as most allocators are optimised for quickly reallocating and reallocating the same size.
+Those aren’t really scripting languages.
+I’m guessing it also allows LLVM to optimise more as the recursion tree will be shallower when it reaches LLVM level so the same number of passes will make more optimization.
+Doesn’t seem like a very rustic way to write it. You can avoid the need for .Type() entirely by using algebraic types and a match.
+Something along [these](https://play.rust-lang.org/?version=stable&amp;mode=debug&amp;edition=2018&amp;gist=d05cfe3a768bcb42d8e221bbec361b5a) lines. Obviously this doesn't include the extra stuff in the struct though. Caveat: This will wrap your primitive in a larger tagged union, so the sizes will be bigger than they otherwise would be. If you were making or allocating a lot of these this might be a problem which would require doing this differently. However in rust you shouldn't really be doing math based on the size of things unless serialising and deserialising. I might be able to help you more if I had more context on what this code is doing. Are these openGL bindings? If so I'd recommend using an abstraction layer for openGL rather than the raw bindings (https://crates.io/crates/glium)
+Awesome!
+Whatever man, you do you. I was only trying to help.
+Haha yeah, he’s got an extra.
+Maybe Arctix? I think it sounds cool, and includes Arc in the name :p
+If you don’t care about size and pen testing then V3 is fine for you.
+Office space - great movie
+You probably want to implement a depth first search of all possible permutations for each length that is acceptable.
+I’d recommend compiling some small programs in C and seeing how they look in assembly in ghidra. Once you get the hang of the basics it’ll become easier over time.
+If you follow the flow carefully, the first call instruction’s only purpose is to move the address of eip into ebx. The call pushes eip onto the stack before jumping, then the mov takes that address and moves it to ebx and finally return continues where it left off. From there the flow is as normal - main being the address of that first add instruction (eip during the function call) + 0x416108 + 0x700, which is used as the argument for the libc function. This is how PIE works in ELF executables.
+Seeing as you cant change the reader I'd recommend trying to put aluminium foil behind the card to try reflect some of the energy towards the reader (this may not work at all).
+Ouch, that is one brutal error message
+The execve syscall is probably what you’re looking for - called exec in libc. There are some rust crates for doing that in rust.
+Can’t be sayin that round these parts, them’s fightin words
+It’s not an all in one, apple used to make separate monitors like these, IIRC they were rebranded LG displays with thunderbolt inputs.
+Pencils never actually had lead in them, the name comes from the colour, they were always graphite and clay.
+The missing link for IPFS is a good way to have dynamic websites - atm everything must be static because dynamic involves changing content hashes, if this was built into a web framework it could lead to a distributed dynamic web.
+Would 10/10 recommend. My only regret is that the author is currently on a long hiatus half way through the series.
+/r/infowarriorrides
+Accurate.
+I’m downloading from a large CDN and async allows me to easily adjust the number of files I want to download concurrently. Also my internet connection is shit slow so that’s the real bottleneck here.
+Looks like tempered glass so she’s likely fine
+Instead of a Null rust uses option to represent things that may not be there - instead of unwrapping options use a match to check whether they are Some(x) or None
+Just to add to this, the .into() will be allocating on the heap and copying the underlying bytes over into the Vec. I generally suggest avoiding the use of .into() if possible since it can be ambiguous whether it is doing a deep or shallow copy, but that’s just my taste.
+Yeah, using a trait object is a no-go if you’re serialising. I think you’re stuck with putting the generic param everywhere. You’ll just have to get used to it. Edit: you might consider replacing your generic parameter and trait with an enum of possible concrete values? That would make the business logic a bit more complicated but would eliminate the parameter.
+While rust isn't a functional language, it takes a lot of inspiration from functional languages so you'll probably find a lot of its features familliar. I have never used scala but if you use a lot of inheritance then the shift to composing instead of subclasses might be a little strange. In rust you have to think about memory management much more - the concepts of ownership and lifetimes are the biggest hurdle to overcome when learning the language but once you can grasp that then you can write fast and safe programs. You'll also find it to likely run a fair bit faster.
+Rust is totally not a functional language - it has side effects and is not lazy evaluated.
+There’s also the unsw library building
+/r/news has been a cesspit since its inception lol, it is known
+Neither matches nor enums can return more than 1 concrete type - so you’ll have to decide what type the match will actually return and therefore the type of the function
+Small clarification, wifi and smart meters give off non ionising radiation, which has exactly zero cancer risk since it can not damage cells.
+Winrt uses xml
+data-race safety and null pointer dereference safety.
+Could make it so that if you click and hold it repeatedly gives you letters but it still moves to the side so eventually it moves right of your cursor and stops
+Character design, story writing
+Also, install cargo clippy, it’ll give you loads of hints to help you make your code more idiomatic
+Sad news - thank the lord for open source though right?
+Holy crap, now that’s one whopper of a release
+Not to mention accusing him of jamming comms with a device which only does rx
+lol wtf did I just witness
+Always gotta be a few that make any cause look the worst. smh
+It’s not that tricky if you compile OpenSSL statically in a docker container and then link it on statically to your rust program.
+Hurt durr someone once told me that anarchy means no rules which is stupid, so you’re stupid.
+Clear cut case of driving while black. Bake him away toys!
+I think there’s a few crates which do￼ unit conversions nicely
+The base problem with this is that with futures what you have are essentially bundles of local variables which are used to save the state of the futures. If you need to be able to handle an arbitrary number of state machines all active at once then I don’t really see any other way to do it than to allocate each future separately on the heap. Maybe you could write an executor or modify an existing one to batch them together or have some strict cutoff where you could then stack allocate them or just have a single large heap allocation? Maybe search for some embedded friendly executors and modify one of the http stacks to use that..?
+I am thoroughly disgusted and impressed
+The question you have asked is a bit like a developer who has only ever used python questioning how a language could possibly know what types are being passed into a functions parameters. Lifetimes are a piece of information that aren’t available in c++ but are first class citizens in rust. This allows the compiler to prove much more at compile time, just as c++’s type system allows you to get compile time errors about incorrect types being passed into functions whereas with python you would only get runtime errors for incorrect types.
+The use case for me would be a nice hex editor.
+Lifetimes in rust are like raii on steroids and completely automated and statically proven. Every single variable is given lifetimes like raii, but this also extends to everything that is heap allocated and also references - it’s impossible to accidentally save a reference in a struct then use it after the thing it refers to is gone. This is done without runtime overhead. You can put a reference to a in struct b, but only if the compiler can prove that a outlives b.
+I lold
+Good luck with that
+/unjerk Totally agree that aus is a very different situation than USA but we imprison a fuckload of aboriginals every year and most of us city dwellers don’t really ever hear about it at all. Edit: yeah I get that they commit more crimes but the racism is in assuming that’s just how it has to be no?
+Usually these kinds of consoles are integrated straight into the game engine and can be used to do things other than just cheat (they started as debugging consoles for developers). This crate is a little confusing since it has no game engine in particular - where does it fit in the ecosystem? Maybe this could be integrated into existing and future game engine crates as a library?
+Also if your project will work without actors and just needs a threadpool then rayon makes parallelism through iterator a really easy.
+Could also use enamel paint for a more sturdy coat
+It looks like this is doing a depth first search on the fs, maybe it's worth changing to breadth first so the initial screens are faster? Also if i drill down into a folder it should prioritise the scanning of that folder before the rest of the file system outside of it is done.
+I’d probably advise using a threadpool such as that offered by rayon rather than manually managing threads...
+Usually the threadpool uses the number of logical cores in your cpu. That’s what rayon defaults to.
+Maybe use a database instead?
+Adding on to what others have said, you’ll find that rust avoids almost all of the common concurrency pitfalls using its type system - things that may race are typically not able to be referenced by two threads at once, and if you want them to be you have to use a mutex wrapped in a reference counter or find a more suitable data structure. If you want a data race that requires the use of unsafe. As for the scripting language there is no official one, however there are a number of projects which embed scripting language within rust, for example lua, or brand new ones.
+Yep, can’t have a political argument without being pigeonholed into a set group of predetermined beliefs hence the straw men.
+My problem with it is that carbon capture is quite energy intensive or uses a lot of mined materials, plus it get used to justify not investing in green energy and instead “in the future carbon capture will be better so just don’t worry about it”.
+Mined minerals are incredibly energy intensive - many of the carbon capture technologies rely on large amounts of calcium compounds which must be mined
+Great news! Is there a way to compile without pie if I wanted to?
+The one time that roll of tape in the glove box actually comes in useful. Tape person must feel like a hero.
+Someone couldn’t wait for burning man.
+Interestingly iirc the vec! Macro does not stack allocate, so if you needed a workaround you could just create a Vec and turn that into a boxed slice.
+Rust’s ownership rules make some things quite difficult - for example graphs, doubly linked lists, or trees where nodes reference their parent. While there are good libraries and techniques to work around these limitations, they are sometimes complex and would not be ideal for interview questions, which tend to assume that trees can’t possibly have any problems associated.
+For example if you don’t want to use a dynamic linker, plus it could help shave some metadata out of the binary size. For me I’m interested in teaching and learning binary exploitation so it’s nice to see feature parity in rust binaries in order to test how particular configurations can be exploited given some conditions.
+Also good if you need a deterministic memory layout for some embedded systems
+Nope, you still need the dynamic linker to load the binary itself. Try it in a VM if you want. That’s also why the file command will tell you it’s a dynamic library. (Take a look at the .interp section of an elf file for more info) A pie executable is not really an executable at all but instead a dynamic library with a usable entry point :) the ld.so loads the binary in as if it was a library so ASLR can relocate it and then jumps to _start
+Yeah you’re right. There are some bizarre platforms out there though where you have Linux but also strict memory layout requirements - I’ve worked with a Linux variant on a core without an MMU so all programs would be in the same address space - physical addressing!
+Small fast running examples aren’t a good way to benchmark code - there’s probably some kind of overhead when loading the binary on Mac, plus virtualisation on x86 uses virtualisation extensions meaning that outside of syscalls and the kernel context switching you will be getting native performance even in a virtualised environment. Edit: I was thinking 50 Ms not seconds :/ whoops
+Hmm I always thought that ld.so was in charge of dealing with relocations..? I guess my understanding was flawed...? Now I’m confused as to why there are dynamic sections in the PIE binary like .dynamic...
+Ah that makes sense, Thanks for the info - I didn’t know much about how static pie works.
+Why not iterate over chunks?
+Oh sorry, I skimmed too fast, my bad.
+While plausible deniability systems exist the struct answer to your question is no - while it may be possible to make a system where using one password decrypts one part of the file and another decrypts another part, there is no way to make the same data reliably decrypt to two different things using known passwords - and there will always be a way to prove that not all the data was decrypted.
+Joshuto?
+Cheers
+As someone who has attempted the multiplayer text editor in rust also (though much less maturely) I can attest that it quickly becomes an “implement a new kind of database” problem despite seeming like a simple one at a glance. I suspect that making a multiplayer text editor will require figuring out how to reduce text editor operations to what amounts to database queries while also meshing that with a rope data structure. I’d kill to see how google docs does it so successfully, though I suspect they don’t use a rope.
+Time to unsub
+Oh, I thought it did, my bad
+As long as the filter is orange it should work - you’re blocking visible wavelengths
+What do you do when it comes to graphs?
+I’m talking about in competitive programming graph algorithms. I don’t think you’d be allowed to use petgraph.

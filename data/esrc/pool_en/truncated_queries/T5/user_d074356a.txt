@@ -1,0 +1,100 @@
+You're hired!
+It's shown right above the timer.
+Outside.
+Y'all have me sold. Gonna jump the bandwagon and get a Weilong GTS soon.
+Keep it up. Becoming CN is very useful - I feel it improved my overall recognition by a huge rate.
+There's different algs for the same effect. I use the one from Badmephisto's sheet and find it super comfortable to execute.
+To be fair, writing and drawing stuff by yourself helps boost your memory.
+Oh, screw this thread. I'm outta here.
+Have the green side facing you and apply the Anti-Sune algorithm: (R' U' R) U' (R' U2 R) This will permute the whole yellow top face.
+*wince*
+My crystal ball says: *????? Here, you dropped some of these*
+SS Rainbow. It's stickerless, tho
+Thanks for the explanation!
+I can imagine you making the kid lick them up and reassemble the cube.
+Come to the neutral side of the colors, you won't regret it!
+It's kinda click-baity, tbh.
+S'all good, keep it there, lol.
+Always happy to help!
+The old plastic was found to be slightly radioactive, and thus needed to be recalled.
+To solve Layer By Layer you barely need any algorithms. Top of my head, there's OLL #1 (F R U R' U' F') Sune (no need for Anti, at the expense of efficiency and thus speed), A-Perm, U-Perm and uh.... That's all? All the remaining steps can be done intuitively; Just four algs is pretty alright for a beginner.
+[Here's a Fuji TV (Japan) report about the incident](https://www.youtube.com/watch?v=dQw4w9WgXcQ). It has English subtitles.
+I dnon't do BLD yet, unfortunately. But I have been following OPs posts on this for a while now.
+Odd. You might've used too much - I lube my cubes with 100% silicone and makes them wonderful.
+Wow, gj!
+Woooo, sub-37!
+lol thx
+That's fantastic advice, IMO everyone getting into CFOP should read this thread.
+Coming from Beginner's Method, CFOP is the easiest progression towards speed and efficiency. Roux is fantastic, but it will be pretty much like learning it all over again - which isn't so ~~bead~~ bad because you need way less algorhitms and also haven't cubed in a while, so there's a high chance you won't be mixing up methods.
+ayy lmao
+- Faster - Easiest Pick one, tho
+OP wants something that's both easy and fast. Being fast doesn't come easily, regardless of your method of choice. In hindsight, I just noticed this is that one troll account, so let's just ignore it.
+I'm on a roll with breaking my averages, fam, so excited! Got my first sub-30 Ao5 that wasn't due to a series of lucky scrambles and/or skips - all full step, too! And almost breaking sub-35 Ao-Ao100 already, which is just crazy to think of because I struggled so much from sub-50 to sub-40. My efficiency has been increasing at an unbelievable rate lately, whoa.
+Aight. Lookup an Intuitive F2L tutorial called Rido's Hunting Story - getting it down, you should easily break constant sub-60s, and the earlier you learn it, the better off you'll be in the long run.
+Congrats! Love the cap!
+Sidebar
+Aaah, gotcha!
+You're not wrong. Cubers have ~~tenths~~ ~~teens~~ ~~teeth~~ tens, sometimes hundreds of what we call *algorithms* memorized: Pre-defined move sequences intended to take the cube from one state to another but only moving specific pieces towards their desired spots while all the others are kept in place. With muscle memory and quick reflexes, often combined with the ability to "predict" how the cube will turn out after a specific sequence of moves, one is able to solve the cube in a matter of seconds. That's not to say every solve is pretty much the same - each solve is unique, since there's *43 quintillion* possible permutations for a cube: https://en.wikipedia.org/wiki/Rubik%27s_Cube#cite_note-Vaughen-27 Also, here's the current Top 100 lowest times for solving a 3x3: https://www.worldcubeassociation.org/results/events.php?eventId=333&amp;amp;regionId=&amp;amp;years=&amp;amp;show=100%2BPersons&amp;amp;single=Single
+http://www.twistypuzzles.com/cgi-bin/puzzle.cgi?pkey=5275
+Good stuff! My J(b) is still very shaky, tho, but I'll look into it!
+Nooooice, fam! I gove you less than a week to break through the 60's!
+No, he's Mo'Nique
+Top of my head, I think I know around 30. There's so many more, though. Muscle Memory is amazing - I couldn't call them out step by step in writing without a cube in my hands, it would confuse me a lot.
+Hope it helps! Welcome into the hobby :D
+Braucht doch mehr Umlaut.
+Most timer apps keep track of your averages - ZYX Timer even lets you know, based on your Ao100, what sub-x category you're currently at.
+Different strokes for different folks, then. I had tried a couple approaches and his is what clicked the most, despite the style.
+Badmephisto's OLL guide is pretty solid, IMO, but his PLL guides... not as much for me. I'm using AlgDB to get the PLLs, and it truly is an amazing source. I'm trying about one per week or so, just so it isn't too overwhelming.
+You're correct. I started doing it as I was averaging 1:15min Andy times skyrocketed up to *six minutes*. They went down pretty consistently as I practiced, so my advice is: Do. It time yourself. Focus on learning and understanding F2L.
+I'd like to graph my times. I've thousands of times solves but no idea of how to even start to do it.
+[One of us! one of us!](https://www.youtube.com/watch?v=9C4uTEEOJlM)
+Whaddya mean by "improvised solves", hand scrambles?
+Working ways to find an optimal solution doing many solves with one specific scramble, then?
+How did it go?
+Good call!
+Thanks, really appreciate it. "Calm yo tits" is indeed one of my favorite expressions, hah.
+Meiying is a FANTASTIC cube. Very fast and stable. The stickers are top notch and the color scheme is very bright, I love it. The Gans 356 is definitely one of the best cubes out there, too.
+Oh, I'm relieved. Speaking from someone who's always stubborn about seeing a doctor for whatever reason, you're doing well in getting this checked. I'm assuming you're, tops, in your 20's - so there's plenty of resilience in your body yet, in which case don't get too worried about this. Just don't push yourself too much or you could potentially hurt yourself. Edit: can't grammer
+Need to step up my game now.
+It happens to me sometimes - one of these days I was constantly smashing my averages, it's crazy. As far as PLL goes, my suggestion is that you learn about one per week, and drill each one until they're natural. Start with easily recognizable cases containing full bars or headlight sets (like H and Z, for example), and check out www.algdb.net to find algs that work well for you.
+I'm Color Neutral, so to avoid any kind of bias I always start from a rand position. That's now how official WCA events roll, though (as far as I know), because on those everyone gets the same scramble.
+Yeah, but I don't really do reconstructions myself yet, so it's ok.
+"Impressive" is an understatement, IMO.
+I'm not in the US/EU, so Traxxas is ridiculously expensive over here - I use a spray-on 100% silicone which a few cuber friends vouched for and works real wonders. Since it is pure silicone, it won't hurt the plastic. Just make sure to not overdo and you'll be fine - of course you can clean it up with some paper towel if that's too much, but you'll get the feel eventually for how much is enough.
+I used to play piano / guitar some 15 years ago, I have a little idea of how nervous you were haha. Great job!
+A recent post from an account dubbed "Official Cubers Method" or something along those lines. They were proposing a new method, which was allegedly superior because it started with a white cross (not even kidding here, they said "all great methods start with the cross" or whatnot.
+To avoid distractions, yeah.
+Whoa, Gj!
+Like madness, I'm tellin' ya! D: It's a New School piece based on Alice in Wonderland - I've already got the Red Queen and the White Rabbit done... Some 25 hours into them and so much left yet!
+Ermahgerd fam, sick method!
+Can I haz PB? 23.76! And did one accidentally untimed solve that was DEFINITELY sub-20. I mean, it was a 5-move xxCross but still, when I saw I hadn't started the timer properly I was upside down pissed.
+I'd say OLL, then. One-Look is the way now for ya, IMO
+An advice I always give and sometimes forget to apply to myself, how ironic, is to do non-timed solves. For a couple days I did many of those and can sense I improved a ton now. Crazy.
+It's fantastic. Do use it. I'm currently sub-33 and use algorhotms for like 3 out the 42 total F2L cases only. The rest is all intuitive Nd I learned it from Rido's method.
+&gt;algs are intuitive Top kek
+~~IIRC x is like F with the whole cube and y is R with the whole cube.~~ read the post below mine.
+My right thumb and middle fingers hold the B slice and my index finger slams down the space between F and M slices. It's a knack. Much easier with my stickered Meiying than with my stickerless SS, FWIW. Edit: To add to it, if my cube is running short on lube but still decent, I just hit the M slice and it does an f move.
+Thanks, I'll edit the OP!
+Ah, there's that. Forgot about the random orientation, which is indeed very important in the event.
+Colour me surprised, I've been mixing these up for the longest time now :|
+Ah, makes sense. I've been developing this skill sort of intuitively lately - mostly doing non-timed solves and experimenting different solutions for trickier cases. I'll try to consciously practice it in the coming days and see how it goes.
+Them chills, doe.
+Take a look inside...
+*turning to the Emperor* "Is this your card?"
+You took advantage of the situation and made it happen. Damn right you should be proud of it, and not guilty at all.
+Creating a white cross is a vital step to any method at all. [Source](https://www.reddit.com/r/Cubers/comments/4mgwyo/redditcubers_official_method_creation_6416_day_one/)
+From the other side of the spectrum, I'm sub-33 and my cross takes 3 to 7 seconds. Your F2L must be incredibly efficient - what are your splits, and also do you do Full PLL?
+There's a reason why they're a substitute teacher.
+My jimmies have been successfully rustled now.
+Thoughts on Stickerless Meiying vs. Weilong GTS? I'm considering the latter, even though it is *extremely* expensive over here (US$ 27,00) - But it's either that or risk importing fees + wei long shipping times.
+I switched to ZYX after Chaotimer wouldn't measure my Ao1k. Been really good so far.
+Most excellent scramble CsTimer just gave me: D2 L2 B2 F' D2 B L2 B' U F D' B2 U2 F' D' U2 R F
+It works wonders, for real.
+"VHLS (short for Vandenbergh-Harris Last Slot) is a step of the Vandenbergh-Harris method that basically does the same thing as ZBLS using much fewer algorithms—the last slot is filled in while orienting the edges of the last layer. **The reason why there are much fewer algorithms is because all of the cases have a F2L pair already or just one move away from making one**. If the cube doesn't apply to that, you have to create a F2L pair or make it one move away." Sauce: https://www.speedsolving.com/wiki/index.php/VHLS
+That and M slices. It took me quite a while to realize I could / should be using them during the cross every now and then.
+Definitely worth it. Might take a while to get used to them, but you'll have a blast.
+Says who?
+Yup. If you wish to intimidate other interviewees and preemptively make them more nervous about the competition, it's better to be more subtle. I'd always carry a german newspaper with me, for example - but I know German, so I can back that up, naturally, lol.
+Do a quarter turn on each and see how it goes.
+They asked for the individual unit price, not a bulk of 50 /s
+Thankfully you're not our Lord and Savior Leo, so your rudely expressed opinion doesn't really matter to OP, I supposed.

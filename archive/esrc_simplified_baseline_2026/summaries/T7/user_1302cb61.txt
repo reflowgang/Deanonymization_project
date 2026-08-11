@@ -1,0 +1,50 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Engaging and conversational tone.
+  - Uses humor and light sarcasm (e.g., jokes about games and humorous anecdotes).
+  - Provides detailed explanations and recommendations, often with personal anecdotes.
+  - Frequently uses links to external content (e.g., YouTube videos, game pages).
+
+- **Recurring Interests:**
+  - Strong interest in 3D platformers and metroidvania games.
+  - Enjoys indie games and often discusses game mechanics and storytelling.
+  - Engages in discussions about game giveaways and trading.
+
+- **Hobbies:**
+  - Playing video games, particularly 3D platformers and indie titles.
+  - Participating in online gaming communities and discussions (e.g., Reddit).
+  - Engaging in game trading and giveaways.
+
+- **Technical Knowledge:**
+  - Familiar with gaming hardware and software (e.g., mentions of GTX 970, Steam).
+  - Knowledgeable about game mechanics, genres, and industry trends.
+  - Discusses game optimization and performance issues.
+
+- **Location Clues:**
+  - References to US-based gaming culture (e.g., mentions of US history class).
+  - Time zone references (e.g., EST) suggest a location in the Eastern United States.
+
+- **Profession or Education Clues:**
+  - Mentions of being in an internship, indicating current or recent educational pursuits.
+  - References to high school history class suggest a background in education.
+
+- **Demographic Clues:**
+  - Age indicated as 21 in multiple comments.
+  - Likely a young adult, possibly a college student or recent graduate.
+
+- **Opinions and Values:**
+  - Values exploration and storytelling in games over speedrunning.
+  - Prefers games with strong narratives and emotional depth.
+  - Advocates for supporting indie developers and charity through game purchases.
+
+- **Repeated Topics:**
+  - Frequently discusses specific games (e.g., Ori and the Blind Forest, Psychonauts, Hollow Knight).
+  - Engages in discussions about game sales, bundles, and recommendations.
+  - Talks about the importance of game mechanics and player experience.
+
+- **Subreddit/Community Clues:**
+  - Active in gaming subreddits, particularly those focused on indie games and game trading.
+  - Participates in discussions about game giveaways and community events.
+
+This structured summary captures the user's stable attributes based on their Reddit comments, providing insights into their interests, preferences, and community engagement.

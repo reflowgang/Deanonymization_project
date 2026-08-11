@@ -1,0 +1,500 @@
+7 horrifying facts about how cotton is made, 90% of people are too scared to repost this!
+Cement. Then you can't even break it open.
+It will expire.. and be expired for a few days, then be renewed.
+Well, the vote is only delayed. They will vote it back into effect soon.
+I just beat it on my first try. it passed all but one. and that one was wrong. I got 100%
+Gak?
+Did anyone else come here thinking that the redditor was an eight year old?
+So now i have to be scared of spiders AND invisible fire??
+You first need to log in using the xbox app. After that, windows+G, or the xbox button if you're using an xbox controller, should open up the game bar.
+I'll let them keep the newlines if they stop making paths and commands so insanely long. /usr/bin/vim "C:\program files (x86)\notepad++\notepad++.exe" /home/sy029/.config "C:\users\sy029\application data\roaming\" apt-get install vim Install-Package -packageprovider chocolatey vim fdisk /dev/sda (n, p, 1, 82) diskpart (select disk 0, create partition primary id=0x8)
+Yes, and you can also set a variable for any folder. My real point is that Microsoft uses very long descriptive names for everything.
+Also Microsoft is introducing MSAscii™, the full details are actually under an NDA, but one change is that the \r will now be 0x07 in hex, replacing the unused Bell code.
+I actually gave up in the middle of season 1. As soon as pretty much every character turned out to also have powers I lost interest.
+I make chili all the time, beans, tomatoes, meat, spices, and you're good to go. For Japanese food, I make instant curry all the time.
+Northstar Cafe?
+&gt; Facebook announced an ambitious plan, got a ton of publicity And then the article calls it "secret"
+I prefer potplayer.
+Probably depends on the reason you're having trouble. Basically blue light signals our brains that it is daytime and we should be awake. Take away the blue, and we switch to night mode.
+If you need to change settings somewhere in the registry it might as well be considered true for a large portion of non tech savvy users. One of the biggest issues I see are with people on bandwidth caps. I bet they'll be real happy to see a quarter of their monthly data cap taken from windows downloading a new service pack.
+The online is pretty dead if I recall.
+The "best" answer is to try a lot and then pick one. The useful answer is to start with ubuntu. It is probably the best "it just works" distro. It will let you get a feel for what linux is, and what kind of things to expect. After that, if you decide you want to go further down the rabbit hole, the sky is the limit.
+I don't think you can call on mobile. The same way collect calls and 1-900's are generally blocked.
+If you want non-free video codecs and proprietary drivers maybe. But in general Ubuntu is still more stable than Mint I would say. Even though both are extremely solid.
+I was on 10130, for me, the audio caused games to skip. If there were a lot of sounds going on my frame rate would severely suffer. It is probably more of a driver issue than anything else, but for me, it makes things unplayable.
+I had a dual citizen friend who came back to japan about 4 years ago. First thing city hall did was ask her to choose. She basically said "I can't make that decision so quickly" They never asked again.
+On any given day I can walk into yodobashi camera and they have an entire aisle of mechanical keyboards. I didn't think there was a shortage at all. Maybe you should check online?
+I find you get more imaginative answers with crazier situations. Don't give them an open question. Give them a choice and then have them explain it. Something like choosing between two super powers.
+I don't like doing 'touristy things' when I'm on vacation either. It doesn't mean that I want to do nothing. It means I don't care about things like old buildings or monuments.
+I want @japanfax back.
+I disagree with this. It's like telling someone who wants to learn how to drive that they should use a race car. Using an easy distro first will do absolutely nothing to get in the way if they want to use a more advanced distro later. Exactly the opposite in fact, as almost everything they learn on the easier distro will translate directly to a different one.
+I dated a girl once who wanted to be cut with knives or razor blades. I wouldn't do it.
+Isn't nova the one that recently has that really abusive contract? Like they ask you to reimburse the company for sick days? Edit: Maybe I'm thinking about a different company on the sick day thing, but there is [this](http://generalunion.org/Joomla/index.php/en/nova/1156-new-nova-contract-is-fishy).
+Have you tried using the windows 8.1 drivers? They will not be WDDM 2.0 (DX12) but they will probably work.
+Force a windows update on the laptop and see what happens. Really all that "reserving" your copy does is download it in advance, so that you don't have to fight with anyone else downloading on release day.
+Yep, take this sentence: "Hey, I've never tried X before, but I hear it's really good, how should I try it out?" Replace X with any hobby, sport, or piece of software you want. In probably every other context, recommending the most advanced, professional version, is not what people would do.
+Get ready, because your city tax probably went up too, or if it's your second year in japan... get ready to pay city tax!
+The only think I think you left out was translation.
+Or maybe the hand got a body transplant. /r/showerthoughts
+Can't say about release, but the current technical preview has a developer mode that enables sideloading.
+I remember reading somewhere the the whole elder scrolls series was based off of Bethesda's d&amp;d campaign. I wonder if someone could get the real deal from them.
+That card is about $400 here :( Damn Japan and high hardware prices, yet amazing internet.
+AMDGPU will fix the problem of drivers not being compatible with kernel updates, but will it fix performance as well? I thought The larger issue was the quality of AMD's opengl and Mesa.
+Looking at the source code I see: -a: accident -F: fly -l: logo -c: C51 According to the changelog, -l used to be "long." In the current version it is not. Possibly the option was removed.
+I know, but what I really want to know is, is there some easy way to automate this, other than going through the list of dependencies and manually installing them?
+A different model of train. Images from wikipedia: [C51](https://upload.wikimedia.org/wikipedia/commons/6/63/JNR-C515.JPG) [D51](https://upload.wikimedia.org/wikipedia/commons/8/86/SL_20081207.jpg) Of course there could be many different versions of sl too. I was looking at [this](https://github.com/mtoyoda/sl) one.
+Japan here. It's the same situation. Kids learn to take tests very well, but never really learn to use what they have studied. Universities have super hard entrance exams, and then once you get in, you can slack off most of the year. I have met tons of Japanese college students who think that more than four hours of class a week is a heavy class load. A lot of seniors pretty much phone in their last semester and skip most of their classes because they are too busy looking for jobs. That's not to say that every university and program is like this, but it is very common.
+Japanese schools are all about tests. If you can't put it on a test and have an exact answer (i.e. no opinions or critical thinking,) they don't teach it. This is also why English education in Japan is so bad, even though everyone takes classes for six years. You can test grammar. You can't test speaking (with standardized tests.)
+The entire country of England recently banned anyone from Japan who took certain English tests as part of their entrance requirement because of the rampant cheating. Some test centers were literally a person standing in the front of the room reading the answers, while everyone else marked them down.
+Japan here. Exactly what you said.
+This is probably in reference to carrier lock. If your phone was bought from docomo, it can only use docomo's network, same goes for other carriers. Is the phone you're trying to use the sim in unlocked?
+Programming. If you have a pc, you have everything you need.
+Isn't getting fucked kind of the end goal?
+Is this a console issue or a font renderer issue. Why does it work in Konsole, but nothing else? And while people are throwing terms around, I'd like to shill for lilyterm. It even has a daemon mode, so that the rxvt people have no arguments to use against it.
+Or they could just put them on tops of buildings and not destroy ecosystems by blocking all the sunlight.
+It's not that they suck, it's that they are so good. When you have your first steam sale, you are buying like crazy. Super good deals on all these good games. By the time the second or third sale comes around, all that's left is the mediocre stuff you don't really want.
+My guess is they changed the free trial keys.
+[/r/snapdecision](http://www.reddit.com/r/snapdecision/)
+Definitely not. This is one of my favorite old games though.
+Nope.
+Not this one.
+Pretty sure it was available on MS-DOS, but not 100%.
+Shoes. When I was a kid my dad had a rule that any shoes I got couldn't be over $20. I ended up with new shoes every six months or so. Three years ago I bought a nice pair of Doc Martens. Still wearing them today.
+Even so, maybe its enough to stop it from moving onto the network.
+Mine says it's downloading at 8MB/sec (I do have gigabit) But It is really only downloading at 0.03MB/sec...
+That's actually slow for me. If I'm downloading a big game on steam I usually average 16-18.
+Yeah, that whole "connect to my contacts' wifi networks" is kind of scary.
+Microsoft may release with unpopular features, but they wouldn't release with major bugs. I'm sure it will be much better by release
+They aren't really apps. They are extra files required for other software to run.
+They should have a "not a review" button.
+iocane powder
+At least that means that there is some sort of system to it. It's not just something they put an ad in the paper for people who like clay and human remains.
+Those were generally black and white though.
+[Randomized Word Walls](http://www.nexusmods.com/skyrim/mods/43409)
+Not to mention unsolvable crimes are either not investigated or downgraded in severity in order to keep police statistics high
+Actually I don't think they will. It seems they are moving away from optional updating. I am guessing there will be ways to turn off windows update and use something else like WSUS for manual updates though.
+I'm a one-upper. I know you hate me, I try my best not to do it.
+http://chocolateandzucchini.com/ingredients-fine-foods/43-things-to-do-with-fresh-shiso/
+Dedicated servers yes, games no.
+To me the web search results are annoying. I like benig able to hit the start button and type a portion of what program I want to run, then run it. I don't need or want to search the web in the same way that I launch programs. Maybe some people do. Not to mention that cortana uses bing. I don't have a problem with bing, I just find that google gives me much better results. I don't really have an issue with using a MS account for login, but I just wish it would stop saving and trying to sync my settings between computers. Even if I turn it off on each computer, it is automatically turned back on when I do a fresh install, and I can't find anywhere to actually delete the saved data. Also with a MS account don't they store all your encryption keys on their server? I know if you use bitlocker, you can gain access using a key on your MS account. Seems like a great way for someone else to crack your encryption as well.
+Right click on the start menu and click disk management. Find your windows drive.. Does it list "system" and "boot" as the things there?
+Japan: Don't be a dick. Seriously. I'm looking at you, Americans. Also don't [get drunk and trash a koban.](http://www.reddit.com/r/japanlife/comments/2vn6o4/why_are_there_no_police_in_the_police_station/)
+If the game ran the with the same performance and quality as windows, I wouldn't care if it was a wrapper.
+I can't find any info about it on the net, but I remember a period of about a month in the early 00's. Every week or so there was an accident on the freeway, a random person would get on going the wrong direction, get in a crash and die. None of them were drunk, a few were old, but there was never any reason found for them to have done it. At one point they announced that the police were trying to find anyone who had information about why this was going on.
+We also use it when we buy soda, but not milk.
+The "YES" Tim's reply is very wrong. If the game is not multi core, it cannot be changed into multi core. You *can* (probably) reserve a single core, so it isn't shared by other software. But if the game was designed as single core, it will ALWAYS run on a single core.
+So the answer to OP's question is No, it will not make single threaded software multithreaded. You don't state this anywhere that I know of as a feature of your software, I have no idea why you are avoiding this question.
+Only Two spaces actually.
+I'm sure I'm a little behind on what "the kids" are listening to at this moment, but these are generally safe bets. [Memeshikute](https://www.youtube.com/watch?v=vvepe04Dbh4) [Heavy Rotation](https://www.youtube.com/watch?v=lkHlnWFnA0c) [Joyful](https://www.youtube.com/watch?v=wsvNsfPZPiE#t=2m30s) [CHOO CHOO Train](https://www.youtube.com/watch?v=Rs1ynO9x0OA) [Zankoku na Tenshi](https://www.youtube.com/watch?v=gulpzigFT_k) [chiisana koi no uta](https://www.youtube.com/watch?v=u8EkSB9zSpE) [Kiseki](https://www.youtube.com/watch?v=DwTinTO0o9I) I like throwing people off by singing the [Andrew WK vesrion](https://www.youtube.com/watch?v=zcJXZyoFnkg).
+Sierra anything. If the title has "quest" in it, you've got a winner.
+&gt;domain holders with sites associated to 'commercial activity' In other words anyone with a .com
+I'm under the assumption it will be anyone with a .com. Checking and verifying the financials of every person who has registered domains would be way too much of a burden. Instead they will probably force it upon anyone registering TLDs that are technically for businesses.
+And every four years when the president changed, we would need to murder the aide anyway to make way for the new staff.
+Can you tell us anything else? Art style? type of game? Is it on [this](https://en.wikipedia.org/wiki/List_of_Nintendo_64_games) list?
+For me ,the Microsoft drivers will randomly crash with a message similar to "your display driver has recovered from a critical error" When this happens, most the software I was running will just be blank windows, and the start menu will not open until I reboot.
+It only happens when I have the wddm 2.0 drivers. Restarting explorer only half fixes it, some metro apps (including windows update) will refuse to start. Only way to actually fix it is a full reboot.
+With no tiles pinned, my start menu looks like [this](http://i.imgur.com/3kdWIaQ.png). Not sure how anyone could argue that this is a better alternative to the windows 7 style. At LEAST let the app menu use some of that free space on the right. And let me open the app subfolders on mouseover instead of clicking. I have a feeling that the start menu is going to be the new desktop, apps will all start coming with some sort of annoying live tile that they'll throw in there. All this being said, I look forward to filling that space up with useful live tiles... I just haven't found many yet.
+You can also drag it off the task bar into the notification area.
+This makes sense for states that are no longer arresting for pot, but what about states like Colorado which have full legalization with shops? And couldn't the federal government sue the state for not upholding the laws that they set?
+&gt; A few counties have already done this. And soon people who live there will start complaining that legalizing gay marriage has ruined regular marriage.
+Oh, I did not know that. I actually use a few live tiles anyway, just removed them all for a comparison.
+If you upgrade the video card, you'll probably need to upgrade your power supply as well.
+This is one of the easiest to understand videos on this topic I've seen in a while. Also, video at 60fps &lt;3.
+I typed in "I am insignificant compared to the universe." Guess how I felt...
+Didn't he give them a choice of either smelting or farming, but smelting got them a lot more benefits? Then he soon found out metal made in people's back yards isn't really a good export.
+It would have been better if Mao hadn't double crossed Chiang Kai-shek. Basically look at Taiwan. That's what China could have been.
+Not all companies will do this for you. I was registered for my shokai hoken, but not de-registered from the kokumin. I had to go to city hall, and just show them my new card at the healthcare desk. They did some paperwork, collected my old card, and sent me on my way.
+I was running lots of games fullscreen with no issue. Were there specific games? Specific Drivers?
+Yep 71 year-old man dumped some flammable liquid on himself and set fire near the restroom. 50 injured, and 1 woman dead, most likely from the smoke.
+This is true. You can buy the safe parts in the grocery store in japan. When you eat the dangerous version, a chef puts just a tiny amount of the poison into the meat.
+[This Blog](http://matsunosuke.jp/category/family-finances/lucky-bag/) lists the contents of lucky bags this year.
+Does it all need paid at once, or do they let you do payment plans?
+This is part of the reason Japan has such a low crime rate and high conviction rate.
+Bicycle was left unlocked overnight in front of my apartment. Gone the next morning.
+If anything I'm sure you can put charcoal into it in the humid weather to soak up the moisture.
+I would recommend syncthing over btsync. It has always worked much better for me.
+Many wards in Osaka do free std tests. Contact these guys. They will tell you where to go. http://www.charmjapan.com/eng/teste.html
+Make sure your company knows that you're dong this, or else they may mail it to you in your home country before you get there.
+Apparently the game gets some flak because it was made by a furry. I don't care who made it. Its a fun game.
+VCR games were in style back then. I seem to remember another where you had these guns you'd shoot at the TV. And there was that board game with the announcer on the vhs tape.
+Oh man, I made something similar to this when I was first learning php. If only I had seen the bigger picture.
+Dropbox has a public api and there are many programs that use it. I don't know of any full open source clients that emulate the official one.
+What is missing is who called the police. Was it the bank, or someone standing in line who thought "black guy with lots of money, must be robbery."
+My guess is that the bank isn't the one who called the police.
+I think unless they end up in Tokyo, it is quite possible to support two people on a teaching salary. Although as others have said, the salary may not be high enough to get the dependant visa in the first place.
+If you get a dependent visa, I think you'll have no problem finding eikaiwa work. Really the basic eikaiwa requirements are a valid work visa, native speaker, and a pulse.
+If he's rural, maybe, but I assure you there are plenty of privates to be had in just about any decent sized city.
+I'd just try to have a normal conversation. I don't think he'd give me any different answers than he'd give the press for any serious questions.
+Isn't this what Abe has said he wanted to do for quite a while now? Also this has not actually been implemented, just saying that they "hope" to do it.
+That's the big thing. They can give free child care, and parental leave, but when your chance of promotion is 99% based on time with your butt in the chair, you're not going to leave it if they tell you not to.
+Nothing exists yet. It's all just in the wishful thinking stage
+The Shadow Ban. A haunted house where you think you're interacting with people, but really they can't see you at all.
+I'd check to see how much your Canadian account charges for international wire transfers. You may have saved some money on getting the yen, only to lose it in bank fees.
+To actually answer the question: The firmware file has changed, so you most likely need the new one. The MD5 of the new file is 58f906da282894a525fccfeddf5aa11c, for anyone who needs to tell the difference in the future.
+So what are the advantages of rx over rei, other than the newer version?
+Pros: everything that comes with CFW. Homebrew, region-free, hacks, piracy. Cons: Downgrading and getting everything installed can be a pain in the ass. Took me a full day to get it right.
+I tried 20-30 times with the new version. Kept getting an error about not being able to read the cia files. Downloaded the old version, was successful on try #2.
+Did you wipe the memory on your 3ds? Every time you format the 3ds makes a new random numbered folder. so if you didn't format, you'll only have your original. If you did format and it's still just the original, you didn't put the sd card into your ds to have it create the new homescreen data yet.
+You don't have to format, but formatting will unlink your nintendo ID from the real nand, so that you're free to log in on the emunand instead.
+I don't think so. I think the purpose is just to get a fresh copy of the files instead of what was on your system originally. Don't take my word 100% on it though
+I've found that you don't really need to screw the screws on the bottom. It all snaps together pretty snug. And I have a hard shell case on the outside, so not really worried about it popping off.
+Yes. No one ever really considered ganguro to be beautiful. It was actually started as a way to make young women less attractive to train gropers.
+The punishment is their name and what they said being posted on an obscure government website that no one will look at. That will fix everything!
+I don't remember exactly where. It was in an article about girls dealing with molesters on trains. My attempts to google just turn up porn, so you can take it as true or as untrue as you wish.
+Seems like that is the case for lots of people. It was not for me.
+I'm not so sure about these statistics. They have a pretty low amount of subjects (250 idol fans, 86 model train fans.) I wonder if they got a much larger sample size how things would differ.
+Otaku is generally someone who is very into their hobby, near the point of obsessiveness. Someone who watches movies would not be considered a movie otaku, but that guy you know, who has 3000 dvds of obscure films, the guy who will immediately give you a lecture on their opinion of any director or film, when it's just brought up passingly in conversation, that guy is a movie otaku.
+Post a job ad that resembles the job you want. You can now see your competition.
+If you don't know the button for a human, ignoring all prompts will usually get you there too.
+The low sample size.
+Want to meet hot singles in &lt;your town&gt;?
+This is something I hate. Sure you can like this persons movies or music, but then all of a sudden we want to know who they are dating, what cereal they eat, and take all kinds of life and even medical advice from them.
+OP is talking about ds roms, not 3ds roms. I believe this is still not possible.
+Just delete all files on your sd card except for the "Nintendo 3ds" folder. That will delete all the extra files and homebrew. Next change the theme on your home menu. That will remove themehax if it's installed. Then just delete the save games for any other hack you used, like ironfall.
+Does it work if you use UpdateSuppressor?
+For me, it took using an old version of sysupdater. The one that shows the 8 steps. And even then I had to run it about 5 times to get it to work. You may also look into savesysupdater.
+I keep my sysnand theme bright yellow, so I will always know if I'm in the wrong place.
+my boot.cfg: boot_config : { timeout = 3; autobootfix = 2; recovery = 9; default = 1; entries = ( { title = "emuNAND (rxTools)"; path = "/rxTools/sys/code.bin"; offset = "0x12000"; }, { title = "emuNAND (ReiNAND)"; path = "/ReiNand.dat"; offset = "0x12000"; }, { title = "Homebrew Launcher"; path = "/boot.3dsx"; offset = "0x12000"; }, { title = "sysNAND (PastaCFW)"; path = "/3ds/PastaCFW/PastaCFW.3dsx"; offset = "0x12000"; } ); };
+You will gain badge support and the ability to use eShop without spoofing it. Other than that I can't recall any major features added. If you're not having any problems, there's no real reason to upgrade. I'd especially hold back on 10.4 because it's so new, and there may be other hidden things that people haven't found yet.
+Once you install emuNAND you should be using it all the time. The only reason to use sysNAND after that is if you need to fix something. You don't want to update your sysnand and lose hax, you don't want to brick your sysNAND because you'll need to format to the latest firmware.
+It's a nice idea if someone wants to do it. But for me, I just set a yellow basic theme. And another person just gave me the idea as well to make a row of folders that spell out "sysnand"
+It seems to work with no problem for people, but I'd still wait a bit to make sure that devs get a chance to check it over before updating. It doesn't add anything except breaking ironhax and browser hax, so there's not really any special features to upgrade for.
+I'm not saying it doesn't work, just that we should wait for a more official OK. No reason to be in a hurry to update.
+"They can't do that to us, this is America!" Said by my neighbor living in Japan.
+Also the fact that it was three full layers of film meant that everything had to be SUPER BRIGHT. The lights caused lots of heat as well.
+No. I mean like Smealum and yellows8. I don't care if reinand seems to work. I want to know if there is something in the update that gives me reason to not upgrade. Edit: [This](http://gbatemp.net/threads/update-10-4-and-homebrew-what-you-need-to-know.411150/) Is basically what I was waiting for. Sounds like the ironhax block doesn't allow nintendo to block other hax without another update, but they are making eshop spoofing more difficult if you're on 10.4+, so for now I'm sticking with 10.3.
+Nope, works just fine.
+Was it a video embedded in an excel sheet?
+I HATE this. We have a shared network drive for a reason. Constantly there are two or three different versions of any given file which more than one person needs a current version of.
+If only they allowed pets.... I have a friend who lived in UR and it was great!
+And the fees can actually be negotiable. I negotiated my rent and key money down.
+Unfortunately, this was the first thing OP tried.
+If you really want to piss off anyone doing a cup and ball, or 3 card monte scam. Don't tell them where the ball is. Pick up two cups or cards and say "it's not these two." He will either have to admit it's a scam, or concede your victory. Of course this will probably get you beaten up by the pickpockets who were the real reason the game exists.
+My guess is that they didn't expect what they created to be in use so long. Also it was a standard that started back when memory sizes of computers were much smaller, so it was harder to justify using double the space to store time.
+I'm mostly a manager at a local chain of kids only eikaiwas. I say mostly because I'm still teaching one day a week. The rest of my time is spent creating new curriculum, doing hr related things, and training. My first job was teaching at a very similar company in Toyohashi, Aichi. The boss there was pretty crazy though. So moved to kansai and haven't looked back.
+If you don't have a degree, there may be trouble getting a standard working visa, but if you meet the requirements, Canadians can get a working holiday. You shouldn't really have problem finding a teaching gig, but as others have said, it's not the most profitable job in the world for the long term. If your SO is worried about your future, one big thing you may point out to her is that you probably have a much better chance of being secure financially in Canada than you would in Japan. Unless you become proficient enough at Japanese for a regular job, you would be stuck in English teaching, which has a very small chance of career advancement or pay raises.
+&gt; No-one actually gives a fuck if you have a uni degree or not to teach "this is a pen" to 4 year olds or bored housewives. If you get a visa that's all that really matters to a school owner. This is most definitely true. A lot of the really high paying jobs DO care, but you would need much more experience before you could even look at them. I do all of the interviews and hiring for my company. We don't even ask about a diploma, only your visa status.
+&gt; edit: she's linking me to all these "complete a BA degree in 4 months online!" courses...ever heard of these? I know nothing about your relationship, but I would be careful about her pushing you into something you don't really want. I've seen this scenario play out many times, usually with married couples. The wife wants to return to Japan, and talks the husband into it, and then the husband can only get a low paying English teaching job, which doesn't really help with raising a family. Eventually it creates resentment and leads to problems. Obviously this does not apply to everyone, many couples end up the exact opposite, and I know nothing about you two.. But I have personally known enough people in this situation to say it is a common thread.
+That font made me die a little.
+From a quick browse at the source code, my best guess is that it now auto detects changes in some of the extra files like emunand.bin, before the values were hardcoded, and probably needed changed every time a new file was released.
+I just checked and the price on amazon Japan went down! Now it's only $100, last time I checked it was about $300.
+* I know you asked for USD as an example, but it's a bit easier for me to calculate using yen. * JP Bank -&gt; JP Bitcoin account 315yen (furikomi fee from my bank) * Buy 10.8 bitcoins 498,857yen * JP bitcoin account -&gt; US Bitcoin account 23yen (I chose the fastest option, if you don't mind waiting longer for the transfer, the lowest option is free) * Sell BTC to USD for $4248.07 (no fee) $393.34 / 1 BTC Current exchange rate is 498,857jpy = $4199.84 according to google. This transaction would actually have profited me $40 over the exchange rate. I will warn you that the price of bitcoin does fluctuate, and nothing is instant. In reality this whole chain of transactions might take about an hour depending on how long my JP provider takes to verify my transaction (they do everything manually because it's Japan.) However, the price rarely fluctuates that much over the course of a 24 hour period. Edit: Made the numbers more exact.
+Why would you register a hanko that you don't even know what it says? Just run to Donki and use the hanko machine. 500 yen + 5 minutes, you're done.
+Looks like your number came from localbitcoins, actual bitcoin exchanges are much cheaper. I plugged it directly into the "buy btc" section of my bitflyer account and that's the number that popped up. While I didn't do an actual transfer, all of my numbers came directly from my bitcoin exchanges at the time that I wrote the post.
+Most of your questions have been answered by others, but I will add that you might look into UR housing. No stupid fees / no guarantor. They are income based though. A friend in Kobe who lived in one, said they required her to have a minimum of 230,000 per month to be able to live there. I'm assuming those numbers can vary depending on your area.
+It depends on the type of SIM you get. Data only can be activated immediately, anything that dispenses a phone number (SMS or voice) will require an application including your ID.
+There is nothing that needs to be done on your part other than signing the paper when the mailman delivers it. The extra things is if you want the actual photo id version of the my number card, which you shouldn't need.
+That paperwork has your card attached, look for perforations it's just a punch out paper card.
+Could also just be the area you live in. I've gone from a small town in Aichi, to a super small town in Hyogo, and now Osaka. If you're near Tokyo, maybe companies are more strict with foreigners up there.
+Could also depend on the provider. I got a rakuten sim with sms last year, and they definitely did.
+I get charged a 315 yen fee for the bank transfer. Nothing else.
+I have seen some online TEFL certificates that let you record yourself teaching classes to meet the classroom component. I can't speak for the legitimacy or quality of them however.
+For some reason I got a vision of a dude walking around with a mirror attached to him all day
+If I recall it was part of the sign up process. The require a registered bank account and will not accept transfers from any other accounts.
+On the JP side I'm using bitflyer. For now all transactions are free until march. I don't know what the cost will be after that. For US I'm using circle. They have zero fees on bank deposits / withdrawals.
+Directx 11 is basically directx 10 with additional features added on, and it's fully backwards compatible. So It's a better idea for the devs to skip dx10 and actually put all of dx10's features into the dx11 driver.
+It means more compatibility. If you're missing shader instructions, you can be missing a lot of the graphical effects of a game.
+You gotta get to Osaka first.
+Can kraken work with Japanese banks now? How are they?
+3ds custom virtual console or VC rom injection
+I don't know if any of it it is outdated, but a lot of the info needs to be explained more. Just for one example, your list says berlitz pays insurance, but they don't pay for Japanese National health insurance, they pay for travelers insurance, which is very different.
+I am a manager in charge of hiring at a small chain of eikaiwas in Osaka. I could do an AMA, but really most of it is common sense.
+I didn't even notice that. For me, the nag did stop.
+Probably just unhappy that you listed her in the first place.
+ITT: tons of shows I have never seen.
+They just haven't been caught. Valve may or may not be enforcing this rule. They may or may not actually be able to detect you. But they say in their SA, that if you are caught, you will be banned. So is it worth the risk?
+I always get excited when I see new versions of wine, or things that give FPS increases, then I remember I'm using the git version of wine, so I've probably had these features for months and still have low fps.
+Mine does, I build it with the csmt and d3d9 patches, among other things.
+They make you turn in your card when you get it renewed? For mine they just stamp the back saying it's in the process of being renewed.
+I really liked the app. I stopped using it a few years ago when I ditched my iphone though. No android version .
+If you're in kansai it's extremely easy to get a credit card with a Pitapa.
+A good example would be encryption. It's easy to verify that you have the right key, but guessing the proper key is hard. If P=NP and someone could find a way to apply it to encryption, basically all popular forms or encryption we have now would become obsolete.
+What would it take disprove P=NP? Are people actually confident that it is true? or is it just as hard to prove wrong as it is true?
+You could say it's proven, but it wouldn't change anything. without actually having the proof. Think of it like this. I can assume that cancer has a cure, but that doesn't make me able to cure cancer. I'd still need the medicine to do it.
+I like what they're doing, but if the sync is one way, won't it make you more likely to buy on steam than GOG? Then you can get it on both, where buying on GoG may only make it available in one store.
+I don't know if there's anyone who has tried that specifically, but many people have converted closets into workstations, so I would assume that it's similar.
+&gt;Pre-internet, I wrote letters to people all over the world on my typewriter, in connection to the magazine I published. Then everyone else was available, but now, they simply aren't. It is worse technology-wise. It's slower. But I think OPs point was that when he used to send mail to people he'd get replies and make connections. Email is much less personal and people feel much less of an obligation to reply. So with the advent of email, people are able to talk more, but they just don't.
+I know they do in some cases, but I'm not sure in all.
+Well just for an example randomly checking my gog vs steam library. I have fallout 1 and 2 on GOG but not on steam.
+Does it count as a productivity tool? I use [Free File Sync](http://www.freefilesync.org/) to keep important files up to date on my tablet, so I can check schedules and things when not in the office. I also use [NetSetMan](http://www.netsetman.com/en/freeware) To automatically switch dns, proxies, and network drives depending on where I am.
+Well you'd get improvements in work conditions only because you would be the one creating the conditions. As far as the money, you can't expect to start a school and cash will magically start rolling in. It can take years, a ton of work, and good business sense to actually become a fully established school.
+One thing I'd like to add is that while it is easy to get an English teaching job if you have a working holiday visa, it can be very hard to convert it into a normal work visa afterwards. This year my school has already lost two non-native teachers because immigration refused to give them visas to teach English.
+The requirements to teach English in Japan are as follows: A work visa, or meeting the requirements to get one. Native speaker of English. A pulse. TEFL and celta look good on an application, and many companies may like you to have them, but you can easily find work without either. I will say if you go for a certification, CELTA is much more valued just about anywhere than a TEFL. Mostly because just about any company that wants to can offer online TEFL or TESOL certificates, with very little quality control. CELTA is much more tightly controlled.
+Try to find a stationery story that specializes in stuff for kids. Or a Kiddy Land. They will probably have a decent amount.
+Also added to this, since its ALT work, you should check if you are expected to be involved in after school activities, or other special events.
+It probably depends on what kind of questions and how you ask them. I do most of the interviewing for my company and if someone comes in asking all about pay and benefits and nothing about the actual job or environment it sets off red flags. We want teachers who are in it for more than a pay check.
+A license isn't so bad when you live in a big city. I don't drive often, but road trips are cheaper than train trips if you get a few people to split the car rental fees. Probably not a reason to *get* a license if you don't already have one though
+&gt; Sadly, you won't get the same courtesy going home... NB would not transfer a Japanese license, had to do everything from scratch at home. That's kind of strange, usually it's based on reciprocation. The US makes Japanese take a driving test, so Japan makes us take one too. The UK doesn't make Japanese take a test, so they don't need the test here.
+Yeah that's all I care about. It can run ubuntu, Fedora, Red Star OS. The built in distro doesn't matter as long as their is source for the drivers so we can run whatever we want.
+The first half of the alignment, Lawful, Neutral, or Chaotic, refer to how a character views order in society. Lawful thinks that rules are to always be followed. Neutral will follow rules that they believe are correct, and ignore or fight the others. Chaotic doesn't care about rules at all. And will do what they think is the best no matter what. The second half speaks of where their morality lies. Good and Evil should be pretty easy to understand, Neutral is somewhere in between. So for example, a wild animal would be chaotic neutral, they don't care about any sort of rules, but don''t have any good or evil intents. A police officer who is 100% by-the-book and will never bend or break the rules would be lawful good. A mob boss could be lawful evil, because they want rules inside their mafia, but they still have ill intents. Neutral Neutral (True Neutral) Would be a loner who will follow whatever side and follow whatever rules that suit them best. An anarchist could be chaotic evil, someone who just wants lawlessness and destruction.
+I think of them as more like selfish. They believe that rules can keep order, but aren't always to be trusted. And also they don't really care what is good or evil, just what suits themselves the best. Tyrion Lannister is a great example. He knows that the kingdom needs law and order, but isn't afraid of breaking rules in order to get stuff done. But the only side he really follows is whichever one will give him the most benefit.
+Not sure what they are implying there, but Kiddy Land probably isn't what you're looking for. It's about 50% what you'll find in the toy section of yodobashi camera and 50% character goods.
+I don't know exactly the purpose you need the recording for, and this is actually a hardware solution, but it could be what you're looking for. It's a wristband that records continuously and will save the last 60 seconds of audio to your phone any time you tap it. http://kaptureaudio.com/
+When I studied Japanese I actually ended up with a textbook that used the other form of romanization you're talking about. It's called [Kunrei-shiki](https://en.wikipedia.org/wiki/Kunrei-shiki_romanization) and for me it's actually much easier to work with than the standard hepburn, because it aims to be a direct match to the kana instead of aiming to be pronounceable. Either way, it's usually pretty obvious from the start which one a class is using, so you should probably just follow whatever the JTE is teaching.
+For the standard work visa (not working holiday,) a 4 year degree or 10 years of experience is required. It doesn't matter at all what subject you studied, as long as you have the degree.
+We have a few Filipinos working at our school. When I'm doing the hiring, I don't really care so much about the accent, and we don't make you lose it after you're hired. I find that most Filipinos actually speak Tagalish instead of English, so bad grammar is what usually what disqualifies them.
+&gt;The whole purpose of romanizing things is to make the english language letters match closer to the pronunciation The whole point of romanization is to write it using the roman alphabet instead of the native writing. The purpose is for it to be readable by foreingers, not just English speakers. Not every language that uses the roman alphabet pronounces it the same way. Nihon Shiki has standard endings that stay the same through conjugations especitally on words ending in shi, chi, and tsu. For example 立つ (to stand) Hepburn: Tatsu -&gt; Tachimasu Tatsu -&gt; Tatanai Nihon Shiki: Tatu -&gt; tatimasu tatu -&gt; tatanai This is just what I was personally more comfortable with when I was just starting to learn Japanese. I would probably still recommend anyone else learning use hepburn, because 99% of everything you would read uses it. But the major point is just that you shouldn't argue with the person actually in charge of the class. If that's what he's saying to use, use it. It's not that hard to get used to a few letters being different.
+I don't think immigration really does much checking into the details of your degree. Just that you have it.
+Think of it like this. You have a friend named Alan, and you lend him $100. Alan refuses to pay you back, but you really need the money. So you ask your friend Bob to help out. Bob says he will give you $90, and then Alan will owe Bob the $100 instead of you. You have lost some money, but not the full amount, and you don't need to worry about Alan anymore. Now Bob also is having trouble getting Alan to pay, So Carl comes along and pays Bob $50 for the debt. Now Alan owes Carl $100, and Bob no longer has to worry about it. This continues and while the price gets smaller every time, Alan still owes the $100 that he borrowed. Eventually it's been so long that you can't legally sue Alan for the money anymore, so the debt becomes very cheap. Finally John comes along, he pays $5 for the debt. So now Alan owes John $100. But John doesn't ask for the money. He just says, It's fine. You don't owe anyone this money anymore. John Oliver bought $15 million in old debt for about $50,000. So technically that money was now owed to him, and he could try to get the people to pay it back. Instead, he put it in the hands of a charity that erases old debt.
+Arc GTK theme.
+/r/jailbait
+Chocolate water and Sushi Got Wheels. That's totally two hits there.
+I will say many companies may not hire you if you're "too asian looking." Especially smaller schools will try to push the image of foreigners much more than the reality. There are definitely schools out there though that don't really care as long as you are a good teacher, and these are probably the type of schools you want to work for anyway. I'm curious on more details though, you said you got lots of skype interviews, are you living abroad and job hunting? Or just applying way out from where you live? This could be part of it too. I would be much more inclined to hire a local candidate than someone who needs to relocate.
+A difference in advertised rates and actual rates is something I've seen more than once, so it doesn't surprise me. I once signed a contract with a company for 250k and then one month later they asked me to sign a new one for 170k. It's *possible* to renegotiate salary, but probably unlikely that you will succeed unless you prove you're really indispensable to the company. You said it's in the tourism industry, so I really don't have any industry specific advice for you. I would say though that it's probably not a good sign if you're feeling betrayed by a company before you even start working there.
+This I would say is the #1 thing holding you back. Applying from outside of the country is very hard. You said your mother is Japanese, don't you qualify for the child of a Japanese national visa? Having a valid work visa would be a huge plus in your efforts.
+Actually it's not. The first exploits are usually kept secret, and used to find more exploits. If all exploits were released immediately after being found, they'd all be blocked quickly. The devs need to decide both if they have enough backup exploits to keep working with, and if it will benefit enough people to release an exploit. That's why we usually see so much time between releases, even though devs may (or may not) be sitting on a pile of them.
+I'm not talking about rewriting otp. I'm talking about removing a9lh. It must be possible because I did it three days ago on accident. I restored an old emunand backup to my sysnand. I was using emunand9 to restore, which does not have the ”keep a9lh" option. Now my 3ds is on 11.0 with no a9lh and no cfw. What is stopping Nintendo from installing a custom arm9loader.bin that just removes a9lhax and then reboots? The bin file is not protected, as it can be written by various updaters, and while luma has code to prevent the boot area from being written, an a9lh.bin would load before that protection. They couldn't stop cfw if another exploit was found, but they could just undo current cfw until that happens.
+&gt;if you have a9lh **and are using updated sysnand** then yes FTFY If you're not using updated sysnand, you'll also need to do the emunand setup from emunand9, as well as make and restore a backup of your emunand from your old sd card.
+Most likely. Easiest way to check: Go into your system settings, if the version says "Sys" before it, then you can just copy. if it says "Emu" you need to backup and restore the emunand to the new sd card.
+In your sister's defense, it is probably already one of the nerdiest things she's ever seen with just the "Grammar time!" part.
+Laws. Now, not only did I make everything legal in one fell swoop, I've also created a paradox.
+I think /u/zedrdave explained why the word is duckbill instead of platypus, I'd like to offer a guess at why it uses Japanese words instead of the foreign one. Note that this may be completely wrong so, please be gentle to me in the comments with corrections. Around the time of WWII Japan became very anti-foreign. Many words that were imported at this time became Japanized instead of using the Japanese word. I think that's why for example a wheelchair is called a "kurumaisu," literally "car chair." So if the word was imported around that time, or by someone who had the same ideology against foreign words, it would have been changed to a Japanese equivalent, hence "kamo no hashi"
+And then once you sign up for the internet they also try to sell you a mobile wifi and digital photo frame.
+Reddit purchased by Comcast, switching to subscription model. Free to all Comcast subscribers on $100/month plans.
+The tl;dr in regards to net neutrality is that nothing is changing. We already have neutrality, but the big cable companies want to take it away. About internet being a utility, that means that it is something essential, like water and electricity, and that the government should be able to regulate it more closely.
+Agreed, qbittorrent is much better.
+How many feet was the fox walking on? Two or four?
+[List of live action films based on cartoons and comics](https://en.wikipedia.org/wiki/List_of_live-action_films_based_on_cartoons_and_comics) Not a single girl band cartoon is listed here in the 90s.
+I did mine over the course of two days as well, because I couldn't get the exploit for the downgrade to work.
+&gt;They will often change your initial location before you land based on business needs This is my guess as to what they meant. An eikaiwa teacher is way too replaceable to need to relocate them cross country.
+Can't you still use silverlight in Firefox for 1080p?
+It's a new mall complex. Soon they will have a giant ferris wheel.
+If you scroll further down the page it says what days it will be closed.
+Sounds like he's not too smart. he should just carry a stick to push the buttons on sunny days.
+Really wanted a steam controller for a while. Still not available in my country :(
+A puppy is just a mutant kitten, still counts.
+Guy licked my ear once. Then a few minutes later asked everyone for sex, in order. Just went down the line asking everyone one by one. male and female.
+Because only America or China would put bits of plastic in food, and China doesn't care.
+Pretty sure that rice was imported from China.
+This would be something you should ask the company directly. It can vary.
+For me it's all about price. If it's not cheap I don't buy, unless I *really* want it. I have plenty I can play, and playing the latest and greatest doesn't matter to me so much.
+That's the problem, people who don't support him already know it's lies. People who do support him won't believe the media anyway.
+Does that mean we have to support that shady developer?
+People buy Nintendo consoles primarily to play Nintendo games. Some people are really excited for zelda games. Some people are really excite for mario games. It gives both groups a reason to buy console at launch. Otherwise you might have people saying "I'll buy a switch when &lt;game of choice&gt; comes out." It's true that some people may delay buying one of the two games if they were planning on getting both, but really while it may cannibalize game sales to a degree, it will really help *console* sales, which is what I think matters most.
+I am mostly waiting until I hear if it's region free. I live in Japan, but I don't want to be locked to Japanese games. So if it's region locked I've gotta buy an NA console, which means I'll have to wait for the price gougers on imports to calm down from the launch. If it's region free, yes. DAY ONE.
+EDIT: Tried reinstalling the drivers. Freesync now supported. ~~Can't seem to figure out the missing link to get Freesync enabled. Radeon drivers just say "Not supported"~~ ~~I've tried using both a Displayport 1.4 cable, and the hdmi cable that came with the monitor (Monitor complains at me if I don't use the included cable.) The monitor OSD lets me turn free sync on and off. With the displayport cable, I could turn it on and off. With HDMI it's greyed out, but listed as on.~~ ##System Configuration: **Monitor:** LG29UM68-P Ultrawide **Motherboard:** MSI 971 Gaming Pro Carbon **CPU:** AMD FX-6300 **Memory:** 12GB DDR3 **GPU:** ASUS Radeon RX 480 8GB **VBIOS:** 115-D000PIL-100 **Driver:** Crimson 16.12.1 **OS:** Windows 10 x64
+Did anyone else read this as vaporware? I though it was about video games until I looked at the graphic.
+The plan is to let the insurance companies over charge you direct, instead of going through "exchanges"
+Hello /r/japancirclejerk ?
+Check to make sure you've enabled hardware acceleration (dxva.)
+It is how it works. If you pay now, you get xcom2 and the others unlock in February.
+A portion goes to whoever normally gets the cash when you but the game. If feral is included in that, then they should.
+Yep. If it's a safety issue, they would knock on the door and tell you to turn off the car. Not leave a ticket and hope that it's turned off soon.
+Disaster preparedness kit?
+Back in my day, we didn't have google, so we had to leave questions unanswered.
+When you want more fine grained choices of what you're installing. All binary based distros need to build their packages with as many features as possible turned on, so that you only need the one version of the package. This of course makes the packages both larger, and have more dependencies. On Gentoo, you are building everything from source, so you have the option to decide what features are turned on and off, either globally or per-package. Don't have a printer? Turn off cups support. Running a headless server, disable all X11 support. For me this is the best part of gentoo. I hate installing arch or debian, and wanting to install some tiny program, only to find out I need to install 30 other packages for it.
+That's kind of funny. Seeing as Team Fortress Classic is a remake of the original Team Fortress that came out in 1996, 4 years before counter strike even existed.
+It wasn't just for Chinese tourists. it was translated into many languages. http://i.imgur.com/2Mc7qj5.png Edit: My mistake, the original was only in Chinese. The new version has been translated.
+What's the specific file you're looking for?
+The witcher (first one) has issues playing in anything other than 16:9. The screen is zoomed in and cuts off the top and bottom.
+America's Funniest Home Videos: Youtube of the 80's
+It fixes the intro video, but not the in-game story sequences.
+I had a group of students that were sisters whose names followed a pattern. Kuku, Mimi, Nono, Coco. None of them used kanji, just hiragana.
+I like VLC better, but it always seems to have trouble with certain mpg files, long delays when seeking, or a green screen. Really, I'd suggest a 3rd option, and say potplayer.
+Singing in public
+Only real downside is that your company may not be happy with you doing so. I still highly recomend that you do.
+Yeah. pics of underage kids: horrible abomination. Drawings of underage kids being raped by space dildos: cultural treasure.
+&gt;Trump having sex with visibly underage Russian prostitutes If it was released to the public, it would probably be so censored, he could claim anything he wanted.
+A lot more people will forget if there's a delay, plus I thought part of the purpose was weeding out people trying to abuse the system.
+I imagine if it contained child porn, it would be full of mosaic. I'm sure SOMEONE will see it uncensored, but not the general public.
+That fake media. They took a video of me relaxing by myself in a hotel room, add some computer effect. Trust me. It's all fake. Lies. Trust me.
+And apparently no preorders in japan yet... :(
+There are probably a LOT of apps like that. Blue was also the color of everything back then. [This](https://www.google.com/search?site=&amp;tbm=isch&amp;q=dos+menu+software) may help though.
+I think they mean having inventory and maps on the gamepad, and the game on the TV. something that I believe nintendo said that the switch will not support.
+Also, why do you need the pro controller to get started? It comes with the grip thing for the joycons.
+&gt; the only games worth buying will be 1st party Nintendo games This is always Nintendo's problem. Sub-par online experience (I hope friend codes die.) and hardly any 3rd party support. Maybe making a super powerful portable is a good way for Nintendo to bring in all the studios making games for the 3ds. I still want to root for Nintendo though, they are the only company left that actually tries to innovate. PlayStation and Xbox have pretty much just been upgrading the graphics and copying Nintendo's good features for quite a few generations now.
+Yeah, even if it's only as good graphically as a ps3 or xbox 360. It's as good as a ps3 or xbox 360 in a tablet sized machine. Not to mention all the technology it probably takes for things like linking 8 consoles together, or switching modes on the fly.
+In Osaka, 100% are closed on Sunday for normal patients. Some of them do special tests and such on Sunday, which is why it made me wonder if there's some rule. With all the late night and Saturday specialty clinics, you'd think there would be at least one open on Sunday.
+I'm not complaining about the hours really. Just wondering if there is some reason that Sunday seems to be taboo.
+I seem to remember [Foreign Buyers Club](http://www.fbcusa.com) Selling grills at one point. Not listed on their site that I can see now, but possibly a seasonal item.
+[According to that site](https://www.hospita.jp/search/c11/a27102/holiday/) there is only one clinic near me that is open on Sunday: The city weekend clinic that I went to. The site lists all medical services, including dentists, chiropractors, optometrists, etc. I guess I should have been more specific in the type of doctor that I was talking about in my post. I obviously can't check every single clinic listed on that site, but it seems if you click the links, many of them are open holidays but not Sundays. And the ones that are open on Sunday are only for special services (people getting a certain test, etc.) So I believe my case is still valid.
+If you're looking for a system to compare, think of it as a competitor to a PS Vita.
+I'm guessing most games will still only be in the language of their region. If you buy the NA version of a game, it will probably have English, Spanish, French. Buying the Japan version will have Japanese. This is obviously speculation, but the switch uses game cards with limited storage. Especially if the game is voiced, it would take a lot of extra space for alternate languages.
+Pretty sure they expire no matter what
+This is correct. But I also noticed that the interpreter during the live stream sometimes said things before the person speaking. So either there was a delay to allow for translation, or they were reading a pre-translated script. I'm going for the latter, because it seemed like their interpretation got a bit sparse when people went off script.
+To interpret ANYTHING in real time is an insane skill. Try this: turn on the news. Repeat everything that the newscaster says in real time. Now imagine doing it in two languages.
+They could probably do this now, but require some sort of IC card registered to unlock the bikes. Then they would know who had them when they went missing.
+My point isn't that it's hard, but that it was not his job. I'm guessing he was just a translator who was forced to interpret when the speakers went off script. Those two skills are not the same.
+Just decimated ISIS with some drones. They say I can't send them on fake news journos. SHAME.
+How did it hide when the door was open?
+I think pokemon is the only game to do this. My worry is the system language though. Not the games. Region-free means that games bought in another region will play, it doesn't mean that the system language will be changeable.
+I wouldn't call space station weird or unique. It's not so much a video game *themed* bar, rather it's a bar that happens to have video games in it. And a tiny cramped bar at that. For comparison: [Game Bar Continue](http://www.gamebar.jp/images/main_img2.jpg) [Space Station](https://sociologyofvideogames.files.wordpress.com/2014/03/tumblr_mxbor4zjbh1s898mjo4_12801.jpg)
+It kind of makes sense. Dock plays at 1080p. Portable only needs to hit 720p. Lets them possibly keep battery life a bit better. Although it doesn't make too much sense from a software standpoint, switching between two GPUs on the fly. Also the cost of having two GPUs in general.
+3ds XL 400x240 @ 4.88 inches = 96 ppi Wii U Gamepad 854×480 @ 6.2 inches = 158 ppi **Switch 1280x720 @ 6.2 inches = 237 ppi** iPhone 6 1,334 x 750 @ 5.5 inches = 326 ppi Not hitting amazing levels, but still getting the best ppi on a Nintendo system yet, so no complaints here.
+It's less of an RPG and more of an action/puzzle platformer. I'd say it's comparable to Tomb Raider or Uncharted.
+Nintendo consoles have almost always had a gimmick, starting with the N64. N64: Analog stick on the controller. DS: Two screens + Touchscreen. Gamecube: Handle for portability. Wii: Motion Controls. 3DS: 3D Screen. Wii U: screen on the controller. Out of all of those, the only 'gimmick' that didn't really get used was the Gamecube's. Nintendo's lack of popularity has never been due to gimmicks, it's been due to the fact that they never make a system as powerful as their competitors. And look at how the "gimmicks" have panned out. It's crazy nowadays for a system *not* to have analog sticks. Xbox and Sony made Kinect and Playstation Move in response to the Wii. Playstation vita included a touch screen. Nintendo is really the only company trying to innovate. Everyone else is just keeping the status quo and updating the hardware. The only time they add anything new is when **Nintendo** makes something worth copying.
+It's more like it can see basic shapes. and detect distance. I could see some fun things coming out of it. Let's say you've got a game where the weapons are slingshots. You shoot by making a peace sign and pulling the joycon back from it. Or you could change the weapon based on the shape of your hand. Someone will figure out some cool use for it, but I agree, it's not going to be used much.
+Agreed. I embrace that Nintendo is trying new things all the time. What new console evolution have microsoft or sony made in the last 3 or 4 generations? Nintendo was the first to have an analog stick, rumble, motion controls, touch screen, multiple screens, actual 3d. Xbox was the first to have a great online experience. Sony was the first to..... include a dvd player?
+And it's pretty unlikely that there will be 3rd party controllers due to the amount of tech in them.
+Is this really a problem? I think 90% of toilets already used most of those symbols.
+That person was confused about the date. I'm asking about the method.
+Has nintendo ever released an updated version of their home consoles? I can only think of color changes, and maybe you could include the Wii that came with motion plus wiimotes.
+&gt;You can buy a PS4 or Xbox One for cheaper than a launch Switch nowadays. Consoles that have been out nearly two years compared to a new console. Understandable. &gt;Internal storage is 32gb. Expandable with microSD cards &gt;Portable screen res is 720p, upscaled to 1080 on video out. From what I understand it's capable of full 1080p when docked. What is your source on the upscaling? &gt;Battery charge time is 3 hours, life is 2.5 Charge time sucks, but life is 2.5-6 hours. About the same as a 3ds and the PS Vita, so I'm not sure what you are comparing to here.
+That's why Nintendo is the only console I buy. Gotta get my zelda fix.
+You have successfully made a folder of my childhood.
+This has solidified my decision to preorder tomorrow.
+I'm guessing it's to prevent hacking. A lot of exploits on the 3ds came from people messing with save games on cartridges. Notice it also says the games will be stored on the internal memory, and NOT on the microSD card.
+&gt; Misfits It should have been quite obvious from his arm band.
+I'm guessing they're similar to [these](http://www.instructables.com/id/prison-dice/).
+Izakaya are like bars with more emphasis on food. Some izakaya look more like restaurants than bars. Bars can sometimes have food, but the emphasis is just on drinking, and maybe music. There is also some gray area overlap.
+Probably Trump's new pick for the Supreme Court.
+The back of the console could have a special design, or the dock. But they keep saying switch is a home console, and in general they don't release special editions of the home consoles.
+If it does well, they might. I feel like they're not dropping the 3ds yet for just in case.
+I was once offered a job without even having an interview. Didn't trust them at all.
+NFL: You have 30 seconds to line up and snap the ball after each down, or the ball goes to the opposing team. If the last play ended a tackle, The timer starts when all opponents have gotten off the tacked player. If the play ended due to a failed pass, the timer starts when the referee returns the ball to the quarterback. In all other cases, the timer starts immediately.
+Homogenous societies tend to be less creative, because more people share the same cultural background in language, education, etc. Dealing with other countries can be more difficult, because there is less interest in international matters. They are slower to adapt policies to prevent racism and discrimination. Immigration rules tend to be more strict, causing issues when your country can't supply enough labor to meet its demand. Also, in heterogeneous societies, existing policies can change more rapidly because there's less of an argument about changing "tradition." There are, of course advantages to homogenous societies as well.
+No removable battery just means that they don't put it somewhere you can easily remove it (without opening up the system.) It doesn't really mean that it's 100% attached to the system.
+They probably have you fill out the forms online, then print a pdf, and fax it to their office.
+Just because it's a record high doesn't mean it's high enough. http://i.imgur.com/Tl4TP5v.png
+I think remastering and adding extra content to whichever mario party is considered the best would be great.
+And amiibo support
+Ah man, I saw imaging tools, and thought they were open sourcing picasa.
+Yep, card says right on it, "not for identification" that's why everyone asks for it as id.
+Morgan Freeman has played god more than once.
+As much as I don't like systemd, when we are talking about freedom of choice in Linux, Gentoo is one of the only distros with official support of **both** systemd and non systemd. That is another reason Gentoo is awesome.
+I prefer menuconfig. Maybe just since I've been using it since the 90s
+Try both. Nconfig is still ncurses, but different.
+Demand for children's teachers is going up because of both the economy recovering, and the new education standards that will make English a bigger subject in elementary schools. I don't know enough about the university and adult situation to comment. English teaching here also has a big turnaround, so most companies are constantly hiring.
+That's spin. that's not an alternative fact. The Alternative fact would be that gallup does fake polls, and has been against him from the start because they focus more on calling liberals than true Americans. Really he has the highest approval rating ever. That's why his inauguration was so big.
+This is an 8 year old video though. And haptic feedback isn't really anything new. It's the same thing that makes your phone vibrate a bit when you touch a button on the screen. In fact here's an android app from the same company that lets you feel it on your phone. https://play.google.com/store/apps/details?id=com.immersion.tsengageportal
+Being able to install something, and something being officially supported are two different things.
+That's a special screen not made by the same company Nintendo has partnered with. If switch had a screen like that, they definitely would have advertised it. Nintendo is trying not to emphasize the touch screen because they want the switch to be considered a home console. So putting such a fancy touch screen on it wouldn't make much sense from their perspective. The haptic feedback we get on the screen is probably going to be run from the same motors as any force feedback that will be on the switch when it's undocked. I'm guessing we're not going to get any better haptic feedback than we currently have on phones and tablets.
+To add to this, some Eikaiwas that specialize in business English want you to have a business related degree, or an MBA.
+I can't say I've met one personally, but I've seen some job ads with the requirement.
+I'm guessing you'll submit by mail, but still need to prove your identity in person at some point, otherwise it's just asking to be abused.
+They're already on sale 25% off where I live.
+I will sometimes change the language on the office copy machine.
+I think OP wants arcade games, not consoles.
+[Anime](http://i.imgur.com/xmhOZkg.jpg)
+My theory is that it's a gaming style headset that plugs into a cell phone for use through the app.
+Oh that's a good point. if voice chat is through the smartphone app, how will you hear game audio
+[Royal Game Center](http://royalgamecenter.com/) near Umeda. [Kinaco](https://www.facebook.com/kinacogames/) in Nipponbashi. [Zarigani](http://miki800.com/retro_arcade/) in Shinsekai.
+So how about if you want to use voice chat and headphones at the same time when portable?
+And then emerge -avNuD @world to get it back.
+Wow. Most of the places he visits in that video are close to my apartment. I wonder if he lives nearby.
+But you'd still have to pay for adjustments and follow up appointments here. That's where the real cost probably comes from.
+Are there any big advantages for using retroarch if the game has already been released on VC?
+Sy029 To become a hero Pink Maybe I'm the only one who got the reference.
+Well you could also just copy the files over. Copying to and from a NAS sounds much easier than this setup.
+Maybe apt-get is suid
+This is my favorite spot https://tabelog.com/en/osaka/A2701/A270304/27091361/
+I thought it was a Quest for Glory reference, maybe they were referencing Monty Python.
+I've been on rakuten mobile for two years. I've never had speed issues. Since the same thing happened on two providers, sounds like it's the network in your area, or if your phone is foreign, it may not support the preferred frequencies on DoCoMo's network (which is what rakuten uses)
+That's actually a funny ad for any product.
+I'd say it's worthwhile anywhere, the problem is I can't find a vpn without shitty speeds. My gigabit connection is usually dropped to well under 100 megabit when using a vpn.
+See who can talk to someone with horrible breath for the longest.
+They call the case holding the computer a hard drive.
+Al Capone's vault.
+By collude he means covefe, obviously. So it's not bad at all.
+Mine is about an hour and a half one way. I'm currently looking for a new apartment.
+Doesn't most groping happen on super packed trains? How will they actually see anything more than the tops of heads. On second thought though, cameras would probably be a good deterrent no matter what.
+I'm guessing steam wouldn't be happy with all the API spam checking every single account. Also, the game devs would probably prefer a manual opt-in for licensing reasons.
+Not official, but look into lgogdownloader.
+Really it seems like nintendo's first order of business is to re-release every major Wii U property. It's a pretty good plan. Probably doesn't take much to port an existing game, and a large number of switch owners have never had a Wii U and therefore, never played these games.
+In terms of portability I think 3ds comes out on top. you could carry it around in a pocket without a case. the clamshell protected the screen when you weren't using it. If anything I think you could argue that the switch is very non-kid friendly. But the only portable feature I really miss from my 3ds is streetpass, but it's something they could possibly add to switch at any time.
+Just a man with baby hands.
+not to mention they cut and pasted badly from wherever they got the tips. Lots of them just stop mid-sentence.
+Which president had the biggest inauguration?
+You can do as /u/wahrn said and take them to the supermarket, but really they are also pura. Styrofoam is made of plastic. Just put it with all the other plastics. Those recycling bins are supermarkets are just for convenience. Almost everything you can put in them is also picked up on the specified garbage days.
+They won't be taxed any income they make in OZ, but won't op still owe city tax for the last year that they do live here? I think that's what the concern is.
+This school is known for doing this scheme. You should run even if it doesn't look like they're going to do it
+That's what happens when you call on the phone and refuse to submit a ticket.
+I'm guessing it's a psychological thing. The same kind of thing that makes people join in and start speaking tongues in the churches that encourage it. He may choose the students he uses this technique on in the same way a hypnotist picks the most susceptible.
+fuck
+Been here seven years, it's never happened. Maybe just a Tokyo thing?
+No bear or sparrow in the chinese zodiac.
+Pay attention to what's written the slips. Some cities will send you montly slips and a pay all at once slip. You don't need to pay the all at once slip if you're using the monthly slips, and vice versa.
+A spouse visa is a technically better visa. You're not restricted to the type of work specified by your work visa. As far as PR compared to a spouse visa, it just removes a lot of the hassle.
+Miyakojima, Osaka - 1DK 43sqm ￥50,000
+Yeah I think that's the point of the list, not kickstarters that ended up being awesome, but ones that got a ton of money over their goal.
+I once set my country to somewhere strange (maybe en-za?) just because it was an english locale with this date style.
+I got bumped up once because they overbooked coach. 15 hour flight. And the food was amazing.
+We had a girl get expelled for working in a strip club, wearing her school cheerleader uniform.
+I can only assume they made some sort of document where she said that she gave consent, so that the teacher wouldn't get in any legal trouble.
+The numbers in the corner are payment options. First is to pay all at once, the ones that are 1/3 are to pay in installments. I'd get your proof that you already paid and bring it to the tax office.
+Fake reality is becoming a big problem.
+In case you didn't know, the black is because it has charcoal in it. You may search for charcoal toothpaste and see if there's any similar products in the US.
+And it also doesn't mean you're invulnerable. Hell, it could even mean that if your body died you'd live on as a ghost or something.
+Nice spam account you've got there...
+Aside from cleaning, don't forget that carpet can be safer. Smooth materials would become slippery when they get wet, while carpet maintains most of the traction. I'm not sure if there have been any studies on it, but I would think it's better not to have a slippery surface under the driver's feet.
+They'll take them, but probably give you MUCH less than whatever you think the minimum they'll give you is. They offered me 600 yen for a mint condition 60GB ipod a few years back. Hard Off is more like a recycling center in what they give you than a place to sell used stuff.
+Is it possible to order a pizza well done here? What would be the term for it?
+First, some requirements for the visa: * You can only do this when you go to extend your permission to reside in Japan. Meaning that you must already have a valid working visa. * You can only do this for a few working visa categories: artist, journalist, researcher, engineer, specialist in humanities, and skilled labour. * You can also start your own business and get an “investor/business manager” visa, but it's a different beast unto itself. * Self sponsoring can only be done if you have a business, school, or organization as your MAIN employer. A private individual will not be accepted as your main employer. Now the papers you'll need, although immigration is free to ask for anything else they feel like: * Application to renew your visa or change status/renew. * Passport and Residence card * Proof of tax payment * Contracts proving at least 3 million yen of income per year * Certificate of employment from your current employer * Certificate of "retirement" from the company who sponsored your last visa
+/r/teachinginjapan
+No Japanese apps will give you sms. Phone numbers are much more tightly regulated here. Skype allows you to recieve calls, but as far as I know, no sms.
+Many DMVs allow people to pay for practice tests on their courses. Not sure if you need to be in the process of getting your license or not.
+You have to go down to chancel the kokumin yourself. Just bring your shakai hoken card with you.
+Not sure if theyre's someone more specific. but it's basically just running wires, so an electrician should be able to do it.
+It's either cooked longer, or at a higher temperature, not sure which. Well done pizzas generally hold together better, get crispier, and the cheese on top starts to get brown from being cooked. You're also not as likely to have mushy undercooked crust.
+I have. still hate just about all of them. There's a few I can stand a little better though.
+Nope, I'm looking for well done. I like all the pepperonis on top to be crispy and burnt around the edges, and when I order thin crust pizzas, I want them to be crunchy.
+I bet it was "recycled" right on to the sales floor.
+I feel like The [Wrath of the Lich King](https://www.youtube.com/watch?v=BCr7y4SLhck) trailer is still pretty awesome. Actually most of the WoW trailers are good, but this one is my favorite. If the Warcraft movie was made by the same people that make the game trailers, it would have probably been a much better movie.
+I think non mansion apartments don't always have Central alarms. I live in a 3 story, 6 apartment building. Every apartment has detectors, but they aren't connected to each other.
+Definitely. Send the boxes via kuroneko, maybe 700-1200 per box depending on size and weight.
+Disconnectors should have to deal with Mr. Resetti. After you do it enough, he starts punishing you by giving handicaps or taking points. If you rage quit during a Mr resetti rant, he resets your rank to zero.
+Well legit disconnects aren't a common thing. So it's annoying for them, but a good sacrifice to stop people from quitting. It kind of doesn't make sense anyway. What are they gonna do? Get to the top tier and then never play again because everyone is miles better than them?
+My great grandmother's name was Pluma.
+Is this a sly way to cancel press conferences while there's a huge delay picking someone new?
+I regret selling mine a few years back :(
+True enlightenment is when you have three distros installed on the same partiton, and switch between them when needed.
+Quadruple install of Arch, Antegros, Manjaro, and Arch OpenRC
+Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch? Did I mention I use Arch?
+I am running 3 distros from one partition, but none of them are arch.
+I was just going along with the joke. The distros I'm actually running are Manjaro, Void, Funtoo, and openSUSE
+All on the same partition, each on its own btrfs subvolume with a shared home directory. Really makes distro hopping addicting, because I never have to format or lose data.
+Every Single Word Including The Letter A Capitalized Makes Me Hate The Title.
+btrfs isn't as bad as it used to be. I've never had any data loss due to anything other than user error. Ext4 and friends are definitely faster, but snapshots are pretty awesome and subvolumes very useful. Yes, you can do a lot of the same with ZFS, but it's not supported everywhere without having to add support.
+You can look into something like musicbrainz [Picard](https://picard.musicbrainz.org/). You'd have to change .dat to .mp3, but Picard will analyze the music and automatically rename and tag files for you.
+Driving, once self driving cars become the norm.
+I always figured they didn't have central heating/cooling because it wouldn't work very well without good insulation.
+There was the lady who posted the sounds she recorded while she was asleep and someone broke into her place. The recording sounds like she got ghosts, or maybe someone breaking in to do some strange science thing. At one point she says "what are you doing?" and they say nothing, or tell her to go back to sleep. People eventually decided that it was people probably robbing her while she's asleep. Edit: Here's the link: https://www.reddit.com/r/Ghosts/comments/1u894f/experience_using_sleep_as_android_app/
+The audio makes it scary. It sounded like someone was doing some sort of secret experiments on her. You hear some fumbling around, and when she kind of wakes up, someone tells her to go back to sleep.
+Thanks for posting the link, I coudnt find it myself.
+I see your point, but the question is asking what games prove that it's art. You can really say that *anything* is art, but other people won't agree with you until you can give them a good example.
+But how can they prove you own the device? That's how people get out of it here. Just say you don't have a tv.
+Nowadays they've just given up on tasting better, and instead focusing on making almost all restaurants sell their product instead of pepsi's.
+Your bot is smart enough to repost the same links every few days, but not smart enough to change the dates in the title. you should look into that.
+While I do see a possibility that vulkan could dethrone dx12 as the main API, Linux has been supported via OpenGL on unity for quite some time, and we haven't seen a massive influx of games. Even if devs switch to vulkan, we still need to fight them for linux ports.
+This list makes no sense to me. I've never tasted anything resembling 'sweet' when eating onions. But I've hated the taste of onions my entire life, so maybe I'm biased.
+I get an extreme sense of pride and accomplishment every six to eight months when I unlock a new hero in Battlefront 2.
+Isn't it 50-49 since Franken resigned?
+It's possible, but would take a lot of extra work on your part. There are two main issues: Issue A: Dependencies. When you compile something, it will need to also connect to other libraries on the computer. If you compile on ubuntu, you may have different versions of various libraries than you have on your CentOS, so when the OpenSSL library is looking for say, a libc version X function, but you have libc version Y, which does not include the function, OpenSSL will fail. If you're lucky, and the versions are close enough, then you'd be able to use the library on CentOS as well. If not, then it won't work. Issue B: Dependencies again. You'd also need to worry about the CentOS packages. If they are expecting a certain version of OpenSSL, then the library itself may be ok, but some of the software using it would not be. It's the same problem in reverse. Maybe nginx needs openssl with a certain feature, but it's been replaced or renamed in the newer version of SSL you're installing. In this case, nginx will fail. This is always going to be a problem re-compiling an existing package with a binary distro. It's easy to control what you're compiling, but hard to control all the other packages. And in this case OpenSSL is a very widely used package, so it's quite likely to happen. I'm not sure your intention here, but there are some options: 1. Compile a static library This adds all the required libraries into the openssl lib. It solves issue A, by ignoring libs on your CentOS system, and bringing its own. Issue B would still be a problem though. 2. Compile the newer openssl on a CentOS VM, then move it over. If you make sure you're using the same version of CentOS in the VM, you should be ok. Depending on the options you enable or disable at compile time, you could still run into issue A or B, but you can check the .spec file in the rpm source and make sure to compile it with the same options. 3. Compile on the CentOS host using distcc from the Ubuntu box. If you're not wanting to compile on CentOS due to performance issues, distcc will let you offload the compiling to the Ubuntu box, while still using all the installed libraries on the CentOS box. This would give you the same caveats as the previous option. 4. Find an already made rpm with the version / feature you want, and install it. Problems A and B are both possible with this path, but at least there will be someone ahead of you who has tested it before, and possibly lists or provides information about how to make it work.
+I remember reading somewhere that having a cat or dog is the number one reason NOT to buy one. Because if they shit on the floor while you're gone, it will just drag it around and spread it out.
+Joffrey is resurrected by the white walkers, and placed back on the iron throne. Sansa marries him, thinking she can change his ways, is immediately murdered and becomes a white walker queen. Together they kill all the opposition using the zombie dragon. Everyone is killed while sleeping, so no one fights back. Then, aliens come to Westeros, bringing Santa Claus, who kills white walkers with Christmas cheer, and the help of a double decker bolognia sandwich. The End.
+Too bad this isn't about a crime, they just want to ask about the suicide body in the forest. Assuming just routine questions for someone who discovers a body.
+Rufus is probably your best choice, it's the most compatible with multiple isos.
+It's possible to win a rigged game. Instead of picking one card, pick two, and say It's not these two, then flip them over. I make no guarantees you will leave with any money or unbroken bones though.
+As someone who has been in charge of hiring for an eikaiwa, I can say it happens all the time.
+http://kakaku.com/item/K0000404301/
+&gt; The horrifying monsters of amnesia add tension to the atmosphere, and of course, form the main horror element of the game. This is what really ruined the sequel in my mind. In amnesia, you're terrified of the monsters, they come, you hide. Even looking at them drives the character insane. In the second game, the monsters are designed in a way that you're pretty much supposed to look at them. The focus is more on sneaking, and less on hiding.
+Looked in the comments just to see what #1 was. I knew it would be most upvoted comment.
+I can see how that would happen. I am the opposite, I played for around ten hours or so just killing orcs and collecting random rewards before I realized there was actually a story I should be following.
+Asassin's Creed The Witcher Ultima IV
+He only named reddit in the suit so that he could get a court order for ip addresses. I'm guessing the suit was filed in Florida for this reason. Once he gets the identities of the posters, he will probably sue them in Japan, where it is much easier to win a defamation case.
+Maybe he got the IPs he wanted and now he's going to sue in Japanese Court.
+No such thing as a free transfer. $25 is probably as low as you'll get.
+I'm thinking they are trying to show off the possibilities. They want people to make their own gadgets. If everything was made of fancy laser cut pieces, it would be a toy. Nintendo made it out of cardboard, they are challenging you to do the same. I wouldn't be surprised if soon they release "labo parts" and it's just random stuff like wheels and motors, with some templates to cut your own pieces. Then bundle it with a programming kit. I'm thinking it's a cheaper Lego mindstorms.
+The patch will fix it, but this is caused by a design flaw in the CPU, and it seems Intel plans to never fix the flaw. If they fix the flaw, the CPU will be slower, and they don't want that. So instead they will have all future CPUs broken, and patched in software. This way, they can turn it off to have good benchmarks.
+It's the double edged sword of early access. You get extra funding for your game at the start, but then no one feels like it's a new game anymore. Most of the people who would buy the game now say "eh, I played that like two years ago, I have newer shinier things to play now."
+How much work would it take to switch the CPU to Disable the feature by default instead of making it so the OS needs to turn it off? I think that was one of Linus's major complaints, that the default will be insecure and you manually need to switch it on.
+I think everyone assumed something like that was going on, just not how widespread it was.
+Yeah, expect future intel CPUs to ship with a "Intel Speculative Security Extensions® for Intel® Processors" That when turned on, increases security at the cost of a "minimal performance loss."
+At my school, you just checked a box on a form, and your email is never deactivated.
+They are correct. "The boy running is Bob" is not grammatically correct. The proper sentence is, "The boy who is running is Bob." This has the same meaning as "The running boy is Bob."
+&gt;If you mean speculative execution, that's easy to turn off. But it means a HUGE performance penalty (probably more than 30%). Which is why this is a big deal in the first place. I understand that it's a performance penalty, that's why Intel doesn't want to completely disable it in hardware. Instead it seems like they will make it enabled by default, even in future hardware, unless the OS tells the CPU to disable speculative execution. Insecure by default is never a good thing.
+Kids being kidnapped by a stranger.
+I don't know anything about Source Mage, but Gentoo and Funtoo are currently diverging down different paths, so pick the one that appeals to you the most: Gentoo: Pure rolling distro. Stable generally is about a month behind unstable, and sometimes you need to request a package stabalized. Officially supports systemd and openrc for your init. Generally all the official packages are decent quality, bug reports are fixed in a timely manner. Funtoo: Currently moving to a half-rolling system. Packages are divided into 'kits,' You choose which categories to keep stable and which to use unstable. So for example, you could use the stable xorg-kit, keeping an older xorg-server, while using the unstable gnome-kit, making sure you always have the highest version possible of gnome. Bug reports I've submitted are answered quickly. Systemd is available, but officially only openrc is supported. Uses a fork of the gentoo package tree, and imports regularly. I personally have been a funtoo user for a long time, and I like where the kits idea is going. Both will give you basically the same experience though. and documentation from the gentoo wiki 90% of the time will also apply to funtoo.
+Remember too, that when you're buying a new house, there isn't much room for bargaining. You may be able to get an bonus feature or upgrade, but the builder probably already has that stuff set aside to give out as freebies. When you buy a used house, you are buying from another person, who probably wants to sell quickly. Cars are bargainable just because we use a crappy system to sell them.
+I appreciate what you're trying to do, but you are doing it the hard way. In case you didn't know, you can still [buy labels](https://www.amazon.com/Avery-Labels-AVE6490-Diskette-labels/dp/B00004Z65Q) from various retailers.
+I pronounce it ori-gone
+For the impatient: https://forums.gentoo.org/viewtopic-t-998478.html This worked for me a long time ago, not sure if it's still valid. You basically get a runit system that runs openrc as a service. So anything that by default is in openrc will load with runit. If you want more detail, you can also look at the [Gentoo wiki](https://wiki.gentoo.org/wiki/Runit) page for runit, this should also work fine in Funtoo.
+2nd street.
+Doesn't fit exactly, but [this](https://i.imgur.com/NIqTYzW.jpg) is the closest I found.
+Second this, super potato will probably have everything you want. Book off is ok, but in general they don't carry a huge amount of the pre gamecube stuff.
+No love for mario 2? I'll take it then!
+Yeah, if I recall, you submit a fingerprint when you enter the country. They should just check.
+I'm curious how hard it is. I live in Japan and it's quite often available in grocery stores. Pre sliced of course.
+I can't find the game itself, but you're right about the name. According to this list on wikipedia, [Factory works](https://en.wikipedia.org/wiki/Index_of_DOS_games_(F\)) was released in 1988.
+Deleting .config .local and .cache will clear a good chunk of your settings.
+If I recall correctly, gravis gamepads with more than four buttons used special drivers called GrIP. I don't remember if you needed the drivers for the gamepad itself or just to use multiple gamepads on the same pc. However, using the USB adapter will probably remove the ability to use said drivers if they are required.

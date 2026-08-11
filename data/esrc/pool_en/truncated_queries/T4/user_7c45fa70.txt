@@ -1,0 +1,50 @@
+The Exorcist
+Might wanna add a timeout to avoid bleeding performance while resizing. $(window).resize(function() { clearTimeout(this.id); this.id = setTimeout(function(){ // Code here }, 500); }); Basically just run the code 500 miliseconds after resizing has stopped.
+If you wanna speed up the width detection a bit, you could consider using this instead: if (window.innerWidth &lt; 451 ) { // ... } It's not dependent on jQuery so it'll fire faster and give you the same results.
+Manor to run Magnussen, Hamilton, Rosberg, Coulthard, Perez, Merhi, Stevens, Rossi, Haryanto, Wurz, Davidson, Button, Glock, Webber and Wehrlein confirmed!
+Thanks :D
+Thank you :D Don't worry - I'll have plenty more for you throughout the season.
+Weird danish tradition. If you turn 30 and you're not married, it's called becoming a "pepper man". So your mates douse you with water and then proceed to cover you in pepper :P It's fucking horrible, and right now I feel like I was pepper sprayed.
+Thank you! :D
+Thank you! :D
+Thank you :D
+Yessør. Rammer det runde hjørne idag. Og det gør ondt!
+There will be a few Renault AMAs, but I'm not going to give away who just yet ;)
+Thanks :D As a grid system it's awesome, but I never use it. To me it's a classic example of doing too much you don't need. But then again, almost all my projects are very customized to the content the given site will be running, so a framework usually doesn't benefit me.
+Tak tak :D Jeg har heldigvis ingen indkørsel den kunne stå i - så jeg nøjes bare med et par peber-angreb.
+We're not in the US unfortunately. Closest is Canada. Other than that you can get our stuff on various marketplaces like ASOS, Zalando or Amazon.
+Wooh! I would say I love you too, but we're teetering on the brink of being inappropriate here ;) Appreciate it :D
+You can see that there are actually two guys who aren't really doing anything (Second guy is on the right) - They're the modern version of the lollipop man. The one guy you've highlighted keeps an eye on the traffic. If there's traffic in the pit he'll hold down a button so the go-light in front of the driver doesn't go green. The other guy pushes a button when the pit crew is done changing tyres and doing what they do. If both guys have signaled that all is clear, the light automatically goes green and the driver is released. Edit: [Image for clarification](http://i.imgur.com/uEAOheX.jpg)
+Turn 10 always gets me. I can never really seem to get the braking point right.
+Thanks! It's always nice to get a compliment :D Happy you like it.
+Every member of the pit crew is also on the mechanic crew, so they maintain and fix the car when not doing pit stops. Most people who travel with the F1 teams to races have multiple roles to fill.
+During qualifying the cars are set up to do a single lap. Tyres are fresh and at optimal temperature, they run a rich fuel mix, the tank only has just enough fuel to make a few laps and DRS can be activated in all DRS zones for every lap. As soon as they lower the fuel mix and fill up the tank, they lose a lot of speed, plus they need to think more about conserving the tyres to make them last for more than just a few laps.
+Yeah. But let's see. They're still suffering with the outdated chassis and aero. Points would be amazing!
+We use Google Analytics, which provides us with some generic demographic data of our visitors. When you visit a website, that website stores some generic information on your computer that can be used to build a persona. Age, gender, interests - That sort of thing. For example, you'll probably show up as someone who's interested in Formula 1, since you've visited /r/Formula1. In addition stuff like Facebook will let Google pick up gender and age, so Google won't have to try and guess that from your browsing behavior. Keep in mind that you can't be identified from these data. We can't see details on individuals, like what sites they've visited or grab their email or something like that. It's completely anonymous.
+I can totally feel the Haas / AMR love &lt;3 Are you fishing for a partnership? ;)
+Hey there AMR would love to have you on board :D
+Well, we decided it was easiest to share the same HQ as our GT racing counterpart, so Banbury it was. Stop by sometime - it's down on Chalker Way, just off the m40.
+I agree with this comment by /u/ArianaAnzu The current teams would technically receive a discount on their drivers, since they would not have to bid for them, while anyone wanting so change drivers would have to bid and thus the price being inflated in comparison to those who stick with their drivers. Maybe a draft system should be implemented? It works well for many other fantasy sports.
+So, a draft works by each team getting a turn to sign a driver who's within their budget. When it's a teams turn they get 60 seconds to announce their decision. A team then picks an available driver. On to the next team we go. Once the draft is over, teams are free to trade drivers between teams, or pick up drivers who were not signed during the draft. It would also introduce a new layer of economy, as teams could trade draft positions in return for coordinates / money. Most fantasy sports use something called reverse draft, meaning the lowest ranked team gets to pick first. That would mean that the driver market draft table for Model F1 2016b would look like this (Assuming Toro Rosso and Wolf are out): **First round:** * (New team) * BRM * Haas * Red Bull * Manor * McLaren * Lotus * Sauber * Williams * Ferrari * Mercedes **Second round** * Merceds * Ferrari * Williams * Sauber * Lotus * McLaren * Manor * Red Bull * Haas * BRM * (New team) As you can see, the reverse draft makes sure that a team that had a bad season, has a chance to improve their lineup, despite a low budget. A bit more reading: https://en.wikipedia.org/wiki/Draft_(sports) Edit: I realize that "New team" is probably gonna be Aston, but I swear that's not why I'm suggesting a draft. It works well as it guarantees a balance of power and gives everyone a chance at competing.
+Sauber couldn't get Hamilton and Manor couldn't get Massa IRL, but that happened ;) Ofc a reverse draft wouldn't be fair if the drivers were reset, but since all teams already have drivers, there would be few surprises like that.
+I don't see why it would. You would still be able to trade / sell drivers, and there would still be budgets. The only difference between what we have now and a draft is that we put an order to who can do a move first. So assuming you have Hulk, it doesn't mean that because BRM is first to pick they can just take Hulk from you. Drivers still need to be available and within a teams budget. After the draft, any driver who has not been picked can be signed by anyone following the first-come-first-serve principle. It works really well in many many other model / fantasy sports to ensure that everyone has a chance to improve.
+You should just do everything as tl;dr.
+We're a big team - But that's how we like it! Thanks for the support! :D
+They normally display the stop time and the total time during the TV broadcasts.
+Thanks! It's absolutely amazing working with Renault and especially bringing the sub into it. Stay tuned for the t-shirts - You might be able to get your hands on a one with a few signatures on it ;)
+I know I'm kind of on the inside here, but I gotta get in on this :P Do you have a saying on liveries for the other racing teams within the Renault organization? If you do, do you stick to a common theme for all of them?
+Another one: What's the symbolism of the diamond pattern on the back of the RS16?
+Do you ever look at fan-designed liveries for inspiration?
+Some Reanult F1 replica wear is already available on the Reanult store. As for the t-shirts Christian was here to design, they'll be available in mid July :)
+Interesting proposition. I do need someone to clean my apartment. Stay tuned - I have a feeling you'll get a chance to get what you want ;)
+Are they permanent, or do they reset per season?
+Wait, so because you moved up a band you had to pay more for the drivers you already had?
+I would go for Süd Sections C-D. Gives you a good view of the pits, the start/finish straight and the curves leading onto it.
+Thank you, kind Sir! I'm glad my massive knowledge of F1 power units finally pays off :D
+Aston Martin obviously! We're the best!
+I can neither confirm nor deny that will happen...
+Thank you :D We look forward to some good battles on track - and some cold drinks in the paddock ;)
+Thank you :D
+Yes, they are. The teams are only allowed 60 people in the paddock crew, so they all have multiple roles.
+It's usually the mechanics who serve as pit crew. The engineers are very busy from the second the engine fires up to the second it stops. Every single byte of data has to be captured, analyzed and saved, whereas the mechanics deal with the gritty stuff, like changing parts and keeping the car running. Usually the individual mechanic is responsible for a specific part - for example the suspension - and will be working with the driver, engineers and strategists to come up with the best setup, based on the track, the condition of the parts and the preference of the driver.
+Maybe someone over on /r/alcohol knows

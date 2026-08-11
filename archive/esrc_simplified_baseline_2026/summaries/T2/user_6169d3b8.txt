@@ -1,0 +1,43 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone.
+  - Uses slang and abbreviations (e.g., "n shit," "ok," "tho").
+  - Engages in detailed technical discussions, indicating familiarity with coding and gaming.
+
+- **Recurring Interests:**
+  - Video games, particularly first-person shooters (FPS) and fighting games.
+  - Game development and coding, especially related to cheats and anti-cheat systems.
+
+- **Hobbies:**
+  - Gaming, specifically playing and discussing games like Counter-Strike: Source (CSS), Call of Duty (CoD), and Mortal Kombat (MK).
+  - Coding, with a focus on creating cheats for games.
+
+- **Technical Knowledge:**
+  - Former coder with experience in game cheats.
+  - Knowledgeable about game mechanics, coding practices, and anti-cheat technologies.
+  - Familiar with technical terms related to coding and gaming performance (e.g., offsets, netvars, tick rates).
+
+- **Location Clues:**
+  - Uncertain; no specific location mentioned, but references to a class suggest a school or educational environment.
+
+- **Profession or Education Clues:**
+  - Former coder, indicating a background in programming or computer science.
+  - Currently in a class with peers who are also gamers, suggesting ongoing education.
+
+- **Demographic Clues:**
+  - Likely a younger adult or teenager, based on references to being in class and gaming culture.
+
+- **Opinions and Values:**
+  - Critiques of game development decisions, particularly in the context of character development in Mortal Kombat.
+  - Expresses a strong opinion on the importance of effective anti-cheat systems over "unhackable" games.
+  - Critical of post-WW2 geopolitical decisions, indicating an interest in history and politics.
+
+- **Repeated Topics:**
+  - Game mechanics and character development in Mortal Kombat.
+  - Anti-cheat systems and the effectiveness of various gaming strategies.
+  - Performance issues in gaming, particularly related to FPS and tick rates.
+
+- **Subreddit/Community Clues:**
+  - Engages in discussions likely within gaming-related subreddits, particularly those focused on FPS games and game development.
+  - Participates in communities that discuss both technical aspects of gaming and narrative elements in games.

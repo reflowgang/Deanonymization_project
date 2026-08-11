@@ -1,0 +1,500 @@
+This is now my new go-to metaphor!
+If the staple is as close as possible to the corners, that *could* work okay.
+Sorry, but this isn't really crowdfunding. Try /r/favors or /r/assistance or /r/care or /r/helpmewin.
+Do you actually need IPv6? If not, just disable it.
+Depends on if allocating more RAM to video makes a difference or not.
+Hit up your local REI and ask for their Outreach Coordinator. Every store has some discretionary budget to donate to community organizations that encourage people spend time outdoors. Yours seems like something that's definitely in their target. Even if they don't donate outright, it's possible they could loan gear to you at a discounted rate from their rental shop!
+Yeah, I don't think I've seen anyone really needing to use v6. I haven't seen any major non-internet related companies deploy it, let alone any home users.
+When you power up, start spamming the delete key until the BIOS setup screen shows up. Then change the boot device order.
+There's no glue gun in that picture.
+March 28 passed already. The first date has to be some time in the *future*.
+I know on my local network, the USB 3 plus actual GbE would be a big boost over USB2 and 300Mb. My remote users probably won't notice much.
+You've received 2 pizzas already. At this point, we require that you pay it forward.
+To be frank, as a minor, you're unable to enter contractual relationships that are required for businesses, at least here in the U.S. Also, not that I know anything about you, but the typical 14 year old doesn't have any education in things like business administration or cost accounting or supply chain management which are vital for a successful manufacturing business. Basically you'd need to be able to answer the question, can you make a pack of 100 straws for less than $2? This would be the cost of goods sold, not the retail price. You'd need to amortize the cost of the machinery, plus include the cost of paper and wax for each straw, plus labor, plus packaging, plus warehousing and shipping. This is the fundamental accounting that you need to be able to do in order to determine if the venture is worth doing or not.
+/u/Molly_B approved an exemption since it was a non-monetary request.
+FYI. You need to wait 90 days after receiving your previous pizza before entering any new giveaways or making new requests.
+Amazon has deliveries to lockers in various places.
+I wonder.. If the existing homeowners already are acting as a defacto HOA, what would happen if they sent the developer a letter that says, "No, you're joining OUR HOA" instead?
+For the life of me, I can't draw with a mouse. Looks like stereotypical MSPaint.. 😜
+Chicken Butt? 🐔🐔🐔
+The need a sequel where someone uploads the video to Reddit...
+My OpenVPN client on Pie appears to be working correctly. It's connecting to a server running on my Linksys router. Client version 3.0.5 (1816) Pixel 2XL
+That 7 year activity gap means the bot would just keep removing anything they post/comment in RAoP.
+My dad once had a co-worker who was so fat that they literally sat in the back seat of 1st gen Civic hatchback to drive...
+I never would have guessed that use!
+Are people on vacation, maybe? So they're shorthanded?
+Right.. But batteries are batteries. The Prius is kind of the trailblazer here as the oldest Teslas haven't been out there as long in large numbers to see what kind of issues, if any, are unique to those kinds of systems.
+The same pedal extensions ~~midgets~~short people use, I guess?
+A really big stun gun!
+NTA - Of all the things I can give a person, the most valuable thing is my time. I hate when people waste it.
+Happy New Year!
+So is your left foot bionic now?
+I think that happens more frequently in the middle of nowhere. You can't exactly do that through downtown Los Angeles...
+I just got mine. I guess I know what I'm doing for NYE! Update: Finished reading it. I was expecting more interaction between Alice and Iska. Otherwise, a good read.
+The Home directories are user-specific folders defined by the accounts you create on the NAS. Personally, since I'm the only one on my NAS, I haven't bothered to use that feature. Access to the Home directories are restricted to individual logged in users. Public is a non-user restricted space where authenticated and non-authenticated users can access. Web is mostly for the web server files. Another feature I don't use since my server is not outside facing. Don't delete this folder though. I think parts of the QNAP UI are also served from here. Now, Alert Threshold is the capacity at which the NAS should start issuing warnings. Typically you want to start issuing warnings when you have just about 1 drive's capacity remaining. In my case, have a 5-drive array. My alert threshold is at 80%. This is because if I need to swap out a failing drive, there's enough drive space remaining to still hold everything while it's missing a drive. Once you hit that mark, you should be offloading stuff you don't need or archiving elsewhere to remain below that threshold.
+Just outside the resort area.
+Well, yeah. He'd be on the wrong side of the road! :)
+Best of luck to you.
+I would think that food would be your biggest remaining expense at this point. But since you have a storage unit, you have a few options that most car dwellers won't have simply because you have space. 1. Buy in bulk when it's cheaper. Your basic staples are going keep okay in storage. You can still do Costco runs! Just take out whatever you need for the day's or week's meals. 2. You can get a variety of cooking devices. For example, a propane powered camp oven. Keep it in storage when you're not using it. 3. If your storage unit has power, a fridge and/or freezer would be useful. (but I see you're in Denver, so maybe you won't need a fridge...?) Being able to cook more things means not spending extra money to eat out at restaurants, and more healthy than fast food. And being able to buy more at once is often cheaper than buying single servings of a lot of foods. So hopefully your storage unit isn't too inconvenient!
+Round and round?
+Did you manually install OpenVPN or did you use a plug-in?
+And yes, I've USL'ed them!
+NTA - I bet your state's labor board would like a word with them.
+Often these kinds of bans exclude professional displays, but damn.. Those aren't even of the "safe and sane" variety. I guess if you're going to break the law, really really break the law...
+Hm. Did they also provide the ~~2 cert~~ .pem and .crt files?
+They don't give you a file for that? They only supply the .conf?
+Wouldn't it be the same as your initial request?
+Then it would be the same as your initial request, only that now you meet their karma requirement.
+Yeah. If that still doesn't work, modmail the subs's mods.
+My mind.
+Even better, tell people about your baby registry while you're there!
+The line to get to the gas station was pretty bad at my local Costco. Finding parking and getting in and out otherwise went pretty easy.
+Weddings are usually supposed to focused on the people who are actually getting married though. That's why an announcement like that is considered rude and tacky.
+More like the best incentive for keeping people on their new year resolutions to lose weight...
+That brand has been around for a long long time. :-/
+"Turn on your twat light! Let it shine where ever you go..."
+"Sorry, the viagra hasn't worn off yet."
+I just use USB powered string lights.
+Well, nobody can claim that you don't have guts now...
+Do you have any hobbies or activities that you'd like to explore that would take you outside? For example, a Meetup group is a great way to meet people with some common interests. Myself, as a desk jockey, I'm on a sports team that gets me out of the house a couple of times of week. While self-improvement is always an admirable goal, getting out there and socializing in general often helps us feel connected, and would be a better first step than to find a specific "someone".
+Hey, got a new one for you that was just announced. It's a RK3399K SBC based NAS with 5 SATA ports. https://www.cnx-software.com/2020/01/03/kobol-helios64-rk3399k-sbc-5-bay-nas-pre-orders-to-start-next-week/
+NTA - She's just bitter and is taking it out on you.
+FYI, your link needs http:// in front of it to be clickable, otherwise Reddit thinks you're linking a user.
+She won't be your last love.
+Sugar Free gummy bears will help!
+Just keep yourself busy with other things, so that you won't have time to dwell on it.
+The mods are just exercising their right to free speech, just like everyone else.
+Which server are you connecting to? Using that link, I was getting about 5.5MBps connecting to 14 seeders.
+Better stay away from little girls from Kansas!
+There was a blog post back in August from the vendor about becoming an official maintainer for their SOC for Armbian, so there's a good chance it seems! https://blog.kobol.io/2019/08/01/armbian-new-release/
+What the what??
+NAH - There's no side that's more right than the other.
+One of the big beer companies, Coors or Bud, I don't remember which... For emergencies, they'll can water and deliver it to affected areas.
+If you follow the Amazon link, you'll get a 404 error. So I think Amazon pulled that book.
+I had the same battery problem! The Microsoft store swapped it out for an SP5.
+Sometimes overcharging of the battery causes this. To that end, there's a firmware setting that limits the battery level to 50%, which is useful when the system is used in a kiosk or other constantly plugged in setting. https://docs.microsoft.com/en-us/surface/battery-limit
+Damn. That guy was an idiot. :-/
+NAH - Basically for people who have grown up around guns, it's no big deal. But for people like your wife, their reactions aren't wrong, but change with exposure and education.
+What format is your SD card in? I don't have a Max, but I know that if you're using an SD card reader on a Windows PC, it won't read Ext3/4, but will work with FAT/FAT32.
+If that's all you've got, then the actual video footage is missing. Those would be .MP4 files.
+You really should distinguish your posts and comments.. :-D
+But you aren't the only mod, so I don't think all the blame falls on you. :)
+NTA - she could have Tourettes and it still wouldn't be okay to lash out at people.
+Was there a link with sound?
+Right, which is why cutting up the already greasy pizza box to use as plates is a good idea. It doesn't create more waste.
+&gt; as I have been struggling to with the type of fuse I will require (mini, standard, etc) for the hardwire. Open your fusebox and take a look at what's already in there. Basically it needs to be that same form factor in order to tap power from it.
+They all needed fixing at the same time? That's like 0% readiness...
+NTA - It's not as if you had all the info you needed about what was going on.
+NTA - Your mom's treatment is a money pit since she can't seem to stop smoking. Also, American society doesn't really expect you to support your parents. It's nice to do, but not expected.
+NTA - Giving notice is a courtesy that doesn't have to be given. You could do it by calling after hours and leaving a voice mail to make it clear that you're quitting and not showing up the next shift. Don't really worry about this reference. The company is only legally obligated to confirm that you worked there, especially if you give them a contact for corporate and not the store itself.
+NTA - Results are more important that circumstances, harsh as that may be.
+NTA - Those were **YOUR** fucking seats. They weren't entitled to them.
+If they were being led away into the tunnel, they're flat out in the wrong section.
+How do you know it wasn't a problem with a restaurant oven, stove, or water heater?
+There's no right or wrong about asking. A vacation in general can be beneficial for mental health. However, because most people consider vacations a "nice to have" vs a "need to have", the fundraising often gets criticized by random internet strangers. TBH, your boyfriend isn't helping your situation much. To be able to interact with the world like a normal human being, you sometimes need to spend some money. Just being able to go out of the house and get some lunch is a welcome break from the monotony of home.
+Does it really need two fans? Or is the second fan mostly structural?
+But QNAP specifically makes that unit to also function as an expansion chassis for their servers.
+ahhhhhh...
+There's one in the US. https://www.atlasobscura.com/places/civic-musical-road
+NTA - You pay for what you've eaten, which is none...
+Target here in the US sold them for about $1, $1.50 maybe or so.
+She's going to speak to the manager...
+:(
+How do we get smarter people elected?
+Homer has [alcohol](https://www.youtube.com/watch?v=hUVwR0rw5fk).
+Wait. Why would connecting from different IPs matter? Like for example, you were using multiple devices, like a phone?
+He wasn't charged in France. They don't have jurisdiction for a crime that happens in the US.
+Wait. If you're not staying with your mom and her boyfriend, and you're not staying with your grandma, exactly where are you staying, especially if your mom is giving up the house?
+Then why is your mom moving out before you?
+Were you somehow expecting from the title that there wouldn't be any blood?
+Filter for the all the cat hair....
+If you've never done it with the lights on before, it's kind of scary. Even though you know it's impossible for your arms to hit anything along the way, there's this urge to never ride with your hands in the air ever again...
+On desktop, there's a +/- that you can use to speed up and slow down the playback.
+Any ideas why? Aside from not being Biden, Warren, or Sanders?
+How many FPS was the camera recording at?
+Might have to do with the prevailing winds at the time of the scheduled stop.
+They probably rehabed it before From the Earth to the Moon was filmed in it.
+Both El Toro and Tustin are hazardous waste Superfund sites. You really don't want to live there.
+Well, the problem is scammers. It's always scammers. The karma requirement exists because they want people to be genuine contributors to the Reddit community. Not just people who karma farm for free pizza or loans that they plan on defaulting on or to make requests for cash. Also, if the only reason why a person has an account is to score free stuff, that doesn't really help the community when it's just take take take and no give.
+Yeah, but if you're using it in bed, which one do you want to accidentally drop on your head? 🤣
+Slightly faster CPU. Otherwise, it's spec'ed the same as my old SP4. It also seems to run cooler. I don't hear the fan kick in as often.
+RocketChat? https://github.com/RocketChat/Rocket.Chat.RaspberryPi Also r/Rocketchat
+This is a great idea!
+So everyone should go post YTA there? :-D
+NTA - Next time buy a Costco-sized box, since she doesn't want you keeping track.
+What do they get in return for running the DNS?
+The odds that you'll lose more than one drive at a time goes up significantly...
+Yeah, that's the worry. At the end of the day, a business still has to make money somehow.
+BCClient? I think that's a bitcoin-related client, or so my superficial googling shows.
+It makes the addresses that spiders harvest unusuable.
+Why?
+You gave money to a low effort campaign like that? And for a game? Sucker.
+RocketChat is one of the nicest Slack-lookalikes out there, if you're familiar with Slack.
+It's going to be slow. For comparison, I ran it on a BananaPro, and older competitor of same vintage as the 2B+, only except that it has a SATA interface and GBE, and it was slow. The 2B+ is going to be slower, because the USB and network interface share the same bus. It also doesn't help that it's only USB2 and 100Mb Ethernet.
+FB doesn't allow the free dynamic DNS names. That's the issue. I own a domain name, and it's currently using a dynamic dns app to point to my IP, and that seems to work okay.
+It flew just fine, just not very far!
+You can assign different paths on a per show basis though, in Sonarr/Radarr.
+r/redditalternatives might be interested
+Info - Live streaming especially means being live during peak viewing hours. Is it possible the hours you want to spend with him conflicts with that?
+A lot of us are here because we were suckers though...
+Goat/lamb isn't usually a big part of a Chinese festival diet.
+Business centers don't have a lot of things. For example, no food courts. The one in Vegas I went to did have a gas station at least.
+Me, I just like seeing the stats for no other reason than that I like to see them. I'm just weird like that. Even YouTube has a feature named "stats for nerds". 🤷‍♂️
+Mine are also the XT1s, and yes, sound triggered too. So I'm going to guess that it hears someone coming before they show up on camera, so it starts recording before the person gets there. Have you tried walking up to it yourself to see if that's the case? Or listened to the clip with the volume turned up?
+Question. How does the site financially support itself then?
+So this is just something to think about. Many commercial ad networks have issues with sites that are considered "controversial", meaning lack of editorial control can cause them to close the account if the site becomes too toxic in their eyes. Just as a lot of people complained that Reddit's rules and policy changes have been done because they want to attract advertisers (like shutting down many popular but legally problematic subreddits), monitization of your site may require concessions to your free speech ideals. There are a lot of other free-speech alternative sites in existence. Some of them are elegant and look great. Some of them have a really interesting method to let the users vote on moderation. But none of them are commercially attractive because of the content they host, so they exist either through donations and/or the creator(s) pay for everything themselves. A subscription model might work best once the site has reached a certain critical mass, but when you're trying to expand the user base, it'll slow it down growth more than a news site paywall. I guess what I'm trying to say is that so far, no one has really discovered the secret to making a free-speech site really financially successful yet, and I think that's the real issue you'll need to consider before committing to this for the long run.
+The only way to be 100% sure is to go there. IP based geolocation doesn't really mean anything if the machine that's using the address isn't actually in that area. For example, take a look at the methodology used in this article about VPN providers with fake server locations: https://restoreprivacy.com/vpn-server-locations/
+NTA - It's not like you told a lie. And it's not like he asked you to help him keep a secret.
+Awww.. Poor *World's Greatest Dogs*...
+They sell baby traps for catching free range babies now??
+So his pants probably have an easy access hole?
+NTA - You're not their personal taxi.
+And get rid of letters that sound differently all the time.. Like the C in Cat and Celcius, or the P in Pterodactyl and Phone and Pajamas.
+Huh. ~~Did they get added after this post was made?~~ I see USL bot added them 24 minutes ago. So yeah, that's what happened.
+I wonder if TJ can add a remove function to the USLBot for people like this...
+Throw a couple of bags of the Black Forest gummy bears into the mix!
+Can you convert it into the Space Battleship Yamato?
+I would buy a ticket for that crazy ride!
+For future reference, or for anyone else reading this. If you're really evil... On your server: 1. Make a new Plex library of Other Videos. 2. Call it whatever you want. 3. Point it to an empty directory. 4. Go to her account on your server, and change what's shared with her to that new directory and unshare everything else. That way you don't have to delete anything. Optional 5. Load that directory with something she'll hate, like a video of you giving her the finger.
+Wouldn't a Clothoid work better?
+Change your Netflix password.
+That would only track what they've told the bot to track though. I know there are donors who've given outside of our framework. Users that have ever given or received already have a report they can look up for each occasion they've given/received. In your case, it's here: https://www.reddit.com/r/random_acts_of_pizza/wiki/profile/kinsongaming However, the monetary field of value isn't really used. Sometimes I'll fill it in with something like a ChiaPet instead of a cash amount. Is this something donors are actually requesting?
+&gt; I was really upset because I didn’t think his promise was based on us being together Why did you make this assumption?? OF COURSE IT IS! He had no other reason to offer it to you otherwise. YTA
+Isn't land in Detroit pretty cheap already? Or am I thinking of Dearborn?
+The sub she runs has a post about free condoms. So I don't think she's completely unaware.
+Thanks for figuring that out! I'll have to try this soon! :)
+I think I'll have to add paypal detection in the automod.
+It was a 3-way election. CCP split the remainder, and did not get 43%.
+Boats are a money pit.
+I'm surprised investors haven't come in buying up blocks at a time to redevelop and gentrify the place. But I guess that won't happen if there are no well paying jobs in the area.
+Yeah, housing is the biggest expense here in California. Either you have to have bought your home 20 years ago, or you get paid a lot. While people complain about state taxes, those generally get spent in the state anyway, helping the local economy.
+&gt; Chiba Toshikazu and Fujibayashi KyoukoKudou :(
+Bad bot
+Unless you're stuck with a PTO system...
+Here in California, there are many contributing factors to homelessness. The biggest is that there isn't enough housing being built to satisfy demand, let alone "affordable housing". With the passage of Prop 13 back in the 70's, the number of people selling their homes was greatly affected. The reduced property taxes were a great incentive to not sell. Most of the residential property tax burden shifted on to the more recent home buyers, increasing the cost to own a home. Another reason was that towards the end of the housing bubble and mortgage crisis, investors came in and bought with cash, further reducing the available housing for sale. Something else that might not be too obvious is that low mortgage interest rates actually drive up the price of homes, putting them further out of reach. With property taxes directly related to the price of a home when bought, you can see how Prop 13 made things worse. As a whole, Californians are definitely partly to blame for their own whole mess, but as individuals, there's just much not within your control. We still need unskilled labor. We still need waiters/waitresses. We still need retail workers. But none of those occupations earn enough to make living in California affordable.
+Whoa...!
+In the long run, your own posting habits, peculiarities, and mistakes can give you away, even on Tor, as you still have a digital online fingerprint out there. Also, wouldn't signing up for a business account require more info than a regular user?
+Those seem to work for me. My PiHole points to those as the upstream DNS.
+That's a damn good edit! I wish I had skills to do that...
+Oh wow... I mean, it's a stupid thing to do, but I'm kind of envious.
+Is that better than being the Kanye West of fast food?
+That would only end up wiring the cables in parallel, which doesn't increase voltage, just amperage.
+Surprise! Eggs! Pickled Eggs! Kind of a like a bad Kinder...
+The app paradigm when it comes to Windows seems odd to me. You could just create desktop shortcuts to the various web sites that you're interested in. Almost always, the full desktop browser experience has more features than an app that has to be updated to match site changes.
+I do recall the PacBell co-lo in Irvine was always stocked with snacks and drinks!
+Connectivity is a good point. It's something I need to ask about when getting quotes.
+Wait... Didn't she post this on SLH? https://www.revddit.com/r/SantasLittleHelpers/comments/e5wxgv/we_received_all_of_the_gifts_on_our_wishlists/ Or were there more that were sent afterwards?
+That's actually the theme song from Disney's Robin Hood, just sped up.
+Speeds were in KPH though...
+Isn't cyberghost owned by Kape?
+Heh.. I think having "activate windows" in the wallpaper would be pretty hilarious myself. :)
+I'm glad I rode it at least once. It was an okay ride.
+I'm surprised the car wasn't simply towed and impounded.
+FYI. We're missing a Thanks post from you from [this time](https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/9ixgfw/offer_its_pizza_time_whos_hungry/e6n6vm5/).
+Ah, the pull-over of shame...
+Wow. That worked better than I would have guessed.
+Can you finish a rotisserie chicken by yourself?
+Yeesh.
+I think some of the posts over in r/PrivateInternetAccess lists the concerns. FYI, PIA is being bought out by Kape. https://www.reddit.com/r/PrivateInternetAccess/comments/dz2w53/our_merger_with_kape_technologies_addressing_your/
+Well, for D+ and Netflix, that might be useful because they take down titles for various licensing reasons. But yeah, that's going to be extra huge in Netflix's case.
+That's one crazy squirrel!
+According to the post by the admins in r/modsupport, they've made changes in how they ban and disallow reporting of items older than 90 days. https://www.reddit.com/r/ModSupport/comments/epn2lp/weaponized_reporting_what_were_seeing_and_what/
+Ah... Basically for technical reasons, Reddit's code makes it impossible to be entirely compliant with the EU's right to be forgotten.
+They were. If you follow the link to the original source article, you'll see they've found the drivers license of a user in California.
+In this case, it wasn't any different than most employment documents. If your HR department is online, it wouldn't be different.
+It's free for evaluation, not production. 🤷‍♂️
+I have the R2D2 one...
+Why did r/borrow permanently list you on the USL as a scammer?
+Cleared the path for the cammer, I guess.
+You'll need to hit up the mods at r/borrow. When they unban you, you'll also be removed from the USL.
+Don't such bots/sites exist? https://lew.la/reddit/ https://viddit.red/ I think the vreddit_bot is banned on some of the subs, but using these sites work throughout just fine.
+Go paddle an outrigger/dragonboat/or SUP around Mothers Beach/Alamitos Bay?
+Before you invest a lot of time into this, keep in mind that your CSS changes won't be reflected in a lot of the Reddit mobile apps which make up more than 60% of the users.
+Depends on what country you're talking about. Every nation has different requirements.
+Yeah, especially since the parent site never responded to the private report. :-/
+Do you guys have the fobs for payment yet?
+Non-Facebook link: https://www.amazon.com/hz/wishlist/ls/2RWMXW0J0UEEI?ref\_=wl\_share&amp;fbclid=IwAR3dNvYVOjdbMDGGyWd\_U\_D-rcJIeTASX4MWjCM5DCS-avTUfmZTi--YV5A
+I recall seeing a GFM several years ago for a dude who wanted to buy his dream car that his wife didn't approve of. Edit: [Found it!](https://archive.is/t9DLM)
+The LattePanda Alpha has been reviewed by a lot of people, including ETAPrime using the PCI slot to drive external GPUs. But that setup isn't really that convenient.
+I remember those station wagons! My friend's family had one of those, and it was pretty fun sitting in the back like that!
+This appears to be a surface street. There usually aren't any limitations because of the need for left turns.
+They don't show up under the Storage and Snapshots... External Storage list at all? Maybe the USB port(s) died on your qnap. Have you tried a USB stick to see if that shows up?
+Just don't use Wifi!
+How much of a pain was it to remove the ceiling liner? I was thinking about routing the cable to the rear camera that way...
+Will you have a car?
+Okay. At least the area is fairly easy to get around on a bicycle. The local public transit isn't really that great.
+Wouldn't the most appropriate thing to dress up a giant rooster in be a giant condom?? 🤣
+Oh wow... I wonder if they show you how to get an SBA loan to get into that business....
+I highly doubt the driver could be found at fault for hitting joggers that they had no chance of seeing in time.
+In this case, I think the driver wouldn't have even known there were pedestrians until the last second. It's like #*SURPRISE!!! Pedestrians!*
+If the credit union referred you to them, then they're probably legit as that's the agency they used themselves.
+INFO - Is there a reason why you don't consider Adele family?
+Picard_facepalm.gif
+I bet there are a lot of phones buried in the snow...
+Someday, I want to see in furniture stores a server cabinet that won't look out of place next to a liquor or china cabinet...
+My TS-563 is on 4.4.1.1146 also, but the external drives work just fine. But they're formatted EXT4, if that makes a difference.
+That's about as off-road as you'll ever see a Mercedes get around here in SoCal...
+I know. Just saying, we have a lot of those extra expensive SUVs that nobody ever takes off-road.
+Sentient? How? The breeding is for milk production, not for smarter cows...
+Because the American palette prefers sweet. Sugar is used a lot more here in the US than in Europe, in things that don't really need it. For example, yogurt and bread.
+The Blood of Christ is wine, which used to be juice...
+I think your definition of sentient differs from mine.
+Ahh.. gotcha. Sorry for the confusion.
+Building ANY sort of housing is needed, let alone "affordable". As long as demand outstrips supply, it doesn't matter what kind you build.
+Depends on the reason why it was banned. Some were banned because they had no mods.
+Or at least pass a high school civics final.
+Clearly posted sign: ✅ Reasonable amount of time: ✅ Even impound yards sell off unclaimed cars. But they also charge an impound recovery fee too. Maybe you should add that to your sign saying $20/day. NTA
+What's an appropriate amount of time to burden a neighbor then?
+Op isn't being compensated to store anyone else's crap either.
+Eh.. That's probably an overreaction. It's not as if he's tricking anyone.
+That would be nicer, yes. My own personal asshole move would have been to attach another bike lock of my own to it. That way I'd be assured of a face to face opportunity to remind them that my fence is not a bike rack.
+Oh dear...
+Uhh.. You'd have to provide people with your network setup. Things like what domain names you're looking for, and what you're forwarding to, SSL or no SSL, and stuff. Basically, "trying a lot of .conf's" without customizing them to match your environment won't ever work.
+That dude is still complaining in mod mail. I finally told him that if he kept trying to get a collectable car, I'd ban him.
+Here's a better version. Basically I unremoved it, ran it through archive, and then re-removed it. http://archive.ph/1GelN
+Try this? http://archive.ph/1GelN
+That would be kind of cool if we could adjust the level of complexity in the lock pattern....
+I don't think I would have categorized Reagan as Ultra Right. He had fairly progressive policies towards immigration. Though his "trickle down economics" was flat out wrong about the way it worked.
+Try an isopropyl alcohol flush on the charging port. You could have some salt residue from the bath that could cause a problem with your charger. Use a syringe and squirt the alcohol at the port a few times, and then let it dry. No rice needed.
+Well, yes, that's a big part of the issue. Those homes just aren't on the market for rent or for sale. Things like California's Prop 13 have made it so that established homeowners just have less incentive to put their properties on the market.
+Hey, you've got a collectors item! Too bad it's no longer mint in package....
+You're speaking about a relatively small subset of homeless though. For example, here in my city of Costa Mesa, CA, we get a lot of addicts that arrive by way of halfway houses. At issue with these is that because of the number of these houses, the impact here is disproportionately large and highly visible. In 2018, it was counted that California had 129,972 homeless per the [USISH](https://www.usich.gov/homelessness-statistics/ca/). Of these 34,332 were considered as chronic homeless. That's about only 26% that would probably be shipped off under your idea. Now, as far as those who need medical services, there was a recent-ish study that said the costs of treating the homeless who were housed was much less expensive and more effective because they had better aftercare and follow up. These folks would be the only ones I'd even consider shipping off anywhere, and then releasing them back into their original communities. Though I'm aware there are ethical concerns in forcing anyone to get treatment. The criminal ones that go through a cycle of jail-release-homeless-jail, I'm not sure about. It's hard to paint them all with the same brush. A lot of them get turned away by employers who don't want to hire convicted criminals. It's not like none of them want to work, but putting them on a farm should be only one of *many* options. It's the lack of options in their community that contributes to their homelessness in the first place. Forcing them to the only option isn't much of a choice. That's not much different than a prison farm isolated in the middle of Kansas.
+Well, okay, yes. Landlords do what landlords do. They aren't a public service. In the absence of any real competition, we get the market we've got now. That simply means we need more units available in the market. Whether that's by getting landlords to sell properties they're not using, or redeveloping golf courses into multi unit dwellings, there needs to be more units out there to adequately meet the demand at reasonable costs. This shortfall seems to be the one thing you rarely hear politicians addressing. While there's an immediate need to help people who are homeless right now which gets a lot of attention, very little is being done to address the primary root cause.
+Irvine has 2 99 Ranch Markets though... which one?
+I think I've seen the Tepui installed on the side rails before though. You'd have to change which way the tent opens to make it line up.
+It might be because your current from the outlet has a lot of spikes and drops in it. Is the circuit shared with anything electrically "noisy"?
+So how many BPS was that?
+Too many selfies.
+$confirm Because /u/procrastinator2112 didn't see this for some reason.
+Maybe shine it at a disco ball??
+NTA - That's pretty awful. Kids or no kids should be a deal breaker when dating.
+NTA - The company would be liable if anything happened because they were too cheap to get gender separated rooms.
+ESH - He's trying to avoid leading other people on with a wrong conclusion, such as "Oh she's cheating with him" or "that dude is going after someone else's wife/fiance." Not like it's really anyone else's business. But at the same time, being dismissive about it on your part doesn't bode well for future disagreements. You never know who might see you together with him in public, even if it's only at the grocery store.
+The way you've described him makes it obvious NTA.
+Well by now, all the color is gone, so it's just a flag of surrender...
+NTA - Nice throw!
+INFO - Is this something people buy tickets for and will have a semi-long run? If it does, it's not unusual to have multiple people play the same character. It helps to cover sick days and other time off that actors (just like any other employees) might need.
+So... Basically it allows more people to be showcased without having to perform different shows. You understand why people think you're being unreasonable, right? They want to give everyone enough time in the spotlight, and you're arguing about what you want without that in mind.
+Cool, as long as I get a refund on my loans that I already paid off...
+Melt, not bbq!
+Well, the biggest reason would be that OP would be in a better position to recoup some costs from the LL.
+I'm using the OpenVPN connection on my QNAP to PIA. I can easily hit 12MB/s downloading just fine.
+NTA - It's not really any different than saying "Australians have sexy accents vs American valley girls".
+Flat/thin metal plate with 2 holes. One to allow a tripod screw to pass through, the other for a strap or carbiner. This would keep the camera at the top where it would bang around less while attached to a tripod/monopod/selfie stick.
+NTA - You don't have a relationship this child. You've been refused many times. They still are offering you nothing. You should make it conditional to being included in the child's life.
+Even sperm donors aren't forced to become organ donors. That's the kind of relationship they've had thus far.
+Recently, Don at Novaspirit Tech built a server based on Debian, the underlying flavor of Linux that OMV runs on. https://www.youtube.com/watch?v=cSi-NOlomLc&amp;t=925s That link shows how he installed the drivers for an Nvidia GPU. It didn't seem too difficult.
+I'm using the QVPN app from QNAP. The .ovpn files I'm using I got from PIA, and imported each city I want to use in to it. Gave it my user ID and password, and that was it. I didn't have to do anything custom.
+NTA - But if you want, turn on battery saver mode. Your phone will make fewer updates that way. She'll complain that your gps location is all crazy, and then you can feign ignorance about how reliable it is.
+NTA - Though I would have left a note on the work letting the teacher know that you're deliberately submitting shoddy work to get the point across to your friend.
+Makes you wonder about how artsy the rest of the garbage became... Just think! *Syringe Beach* has a nice ring to it...
+NTA - Friendzoning is a thing. As long as he's okay with that, you're fine.
+Because I should have got a thin crust, that's crunchier/not as flimsy.
+Let's see, the most recent request that's still on hold was a batch of F-16s. The administration says the sale is approved, but it goes back and forth as Trump bickers with China.
+Wouldn't they eat their way out?
+... Find yourself a working claw machine, and use it for parts...
+The punitive fine is a lot higher when you're doing it as a business though.
+Are you connecting to your own NextCloud server, or someone else's?
+Have you not been to La Habra?
+&gt; I like to think that people might try to drive better if their habits are being recorded, but that's probably doesn't happen often. Yeah... I mean, it doesn't even work that way for a lot of people who claim to be religious. Even if their deity is watching, they're still assholes.
+It's actually less anonymous since it's fixed to you. The usual reason to want to use it is for torrents, so that other people can connect to you easier.
+Not that it's related, but why did r/FashionRepsBST ban you as a scammer?
+I could see Indiana Jones doing this. "Aw screw using the whip. I'll just shoot you instead..."
+I just use a 5-port 15W USB charger.
+8 hour flight? NTA
+ok.
+Dweezle or Moon Unit are fairly secular names...
+Oh.. in that case NTA. Let them look at that glorious high grass! Also, set up some surveillance because you *KNOW* those kinds of people are going to come over to "fix things".
+NTA - Your GF is very insecure. :-/
+NTA - Breaking up with him is probably a good idea.
+NTA - send him a message to remind him about messages...
+NTA - You wouldn't pay someone who painted your house either.
+Zombie lawn flamingos
+I'd have to ask if the same can be said of the protestors; are they locals or from out of town?
+NTA. Never hold a property without a deposit. A deposit shows if someone is actually interested or not.
+Well, he might be billed for the repair...
+NTA - If you named the kid Shiitake, you could call him/her a little shiit...
+A good parent puts their child first, so understandably, it would make me second at best. So it would depend on how well they could balance things.
+NTA - No chef uses a fork like that, so your standard is a little lacking. It would be okay if we're talking about cast iron pans, but for Teflon coated, anodized, or even bare aluminum ones, using a fork like that would damage the pan.
+YTA in that case. If you really want to go all out, send lesbian porn too.
+Are buckets of water not an option? Along with some grabbers/tongs, you'd just need to drop those in like a questionable firework.
+Well, you could carry an empty bucket without much issue. Water seems easy(-ish) to get onsite. And a bucket works well as a drum when empty, if you're just marching with it.
+Nothing in writing? Then there's nothing to enforce.
+They already are...
+I could swear this was Irvine... Looks extremely similar to my ex-gf's apartment complex.
+What does your lease actually say about it?
+I'm hoping for a giant iceberg crashing into some seaside resort town...
+Some municipal morgues allow students to do their community service hours with them.
+RocketChat works on a Pi.
+The vanilla that used to get pumped out by the candy shop on Main Street.
+What you would use to explain yourself (if you had to go to court) was the precedent established with your landlord in that case.
+NTA - And they're weaponizing their kids to try to get you to come back. :-/
+Or you could just make your own subreddit...
+There are also subs for specific parks, like r/joshuatree.
+Huh.. They meet the account age and combined karma requirement for r/Assistance. I missed that they don't meet the comment karma requirement for r/Need.
+Whoa... I wasn't expecting them to make that change.
+How well does that work, if Ir cameras are used?
+The LL has insurance because it saves them the hassle of going after the renter who caused the damage, and gets them back into business as quickly as possible. If the renter pays or not, the LL doesn't have to personally worry about it. But that doesn't mean that the insurance company won't pursue it's own case, and that without insurance of their own, the renter would be facing a small army of lawyers by themselves.
+ESH - Not sure why that was even in question.
+Bugs Bunny also taught people that cross-dressing can be fun.
+These are illegal??
+Interesting. I wonder if I can use Excel to change the delimiter.
+What were they using before?
+How about "The Dirty Way to Destroy the Goddess' Heroes"?
+NTA - And GTFO, because that's an abuser, not a boyfriend. :-/
+Given that Irvine has been accused before of making pretense stops, not sure why that's unexpected.
+Magic is too far behind, the MC actually gets home, and then GOES BACK to the other world by his own power.
+Of all the things I've watched, the closest similar would be Sakura Quest. It's a SoL show spanning a year in the lives of 5 young women working on the tourism board of a boonies town. https://myanimelist.net/anime/34494/Sakura_Quest
+That CircleVision...
+INFO - $100 means different things at different income levels. If you can afford it, $100 might mean very little.
+NTA - It was an accident, but you gotta be more careful. Where was the friend in all this, leaving you alone with a toddler?
+NTA - Ask your husband how he'd feel if he found out he was the "replacement kid".
+NTA - It seems your husband is easily duped.
+I kinda miss Reddit Bronze...
+Stretch marks are not really in the same category as self harm scars. You can retain stretch marks from a significant weight loss or pregnancy, so by itself, it's not really a flag.
+Because people are allowed to learn from their mistakes?
+Sleep on the living room floor then?
+NTA - But I'd be tempted to meet just once so I could ask what all that was *really* about.
+NTA - Being trans is not a free pass to being inappropriate. Edit: Judging by the downvotes, people think being trans IS a free pass for being rude and inappropriate. You all suck.
+What does the chair mode look like? Or is that it, and you just kind of sit on the pack?
+It's happened before. Kent State.
+There's time in space. I mean, the earth that you're on is in space after all.
+Well, code enforcement is the department in most city governments that makes sure that buildings and construction are up to snuff.
+That's pretty cool!
+Also, your account is only 12 days old.
+NTA - I think your family are the ones being greedy here.
+NTA - Is he suffering early onset dementia?
+What does your lease actually say regarding that? Otherwise, it sounds like the LL is forcing a one-sided change to the terms.
+YTA - You can't really ask that of anyone. I get how you feel though. It's the same problem as dating a single parent. If they're a good parent, the child will always be a higher priority.
+You mail in a ballot AND still get the day off??? :-O
+Yeah. So basically, there's nothing the LL can hold you to in regards to finding a replacement. It's not your problem.
+The account requirements exist because our focus is on people who've been active on reddit, and not new users who create accounts for the sole purpose of fundraising. This is regardless of the story being given. Throwing a tantrum just earns a ban.
+I have to admit that I once accidentally knocked the paddle out of the hands of the kid in front of me. The mom actually blamed the kid for not holding on to it.
+Info : What does it matter?
+The thing is, Mark Twain was remarkably progressive for his time.
+FB builds a profile about you based on your activity, not just on what you post.
+Not if you log in. Tor doesn't prevent yourself from giving away your own information.
+I guess the major argument I can think of to support your position is that the Disney experience has always been "sanitized", which is totally fair. It's entertainment, not education.
+I'm not the mod that banned you. But I had removed you from the list a couple days before. 🤷‍♂️ The ban was reviewed and found to be inappropriate, so you were unbanned at the time. For that ban, I do apologize. However, for this new ban that was earned for this post and your subsequent rants, I'm merely going to correct the tag from #sketchy to #troll.
+It depends. There are a lot of non-FB sites that use FB for tracking, even outside of FB. That's already known. The safest thing to do is not use FB at all.
+Well, TBH.. Troll is all about your behavior. I mean, you've made half a dozen posts with the bulk of the text just saying "fuck". However, I can also see that you're not exactly unjustified to feel that way. Honestly, I'm kinda undecided if I'm I going to reinstate any sort of ban at all. At the time of your initial post, r/Charity did not really have a policy set for selling things for charity. And mostly because of this incident, we've established and listed a new policy allowing sales by the actual non-profit organizations. It never should have been a ban-able offense for someone trying to do a good thing for a charity just because they broke an unwritten rule. And now that we have one written down, it still is not supposed to be a ban-able offense. So I need to have a nice long talk with that mod, otherwise I'll have to demod them. And now that I've written this out and thought about it, I'm not going to bother adding you as #troll either. I think it would just be unfair on top of being wrong to do so.
+Sadly, not just this county. :-/
+INFO - As much as I may sympathize with your situation, are you saying you're cutting her off just because you want her to do better than you? Because I don't understand the reasoning here. Isn't it possible to be both a mom and a high achiever with the right support?
+Great for driving through protests, I guess... /s
+Singing telegram to her place of work.
+They'd probably sell more if there were samples of it given away. It's really difficult to get people to buy a package of that, taste un-tasted.
+NTA - Seems like HR didn't read anything.
+INFO - "Whipped cream"??? :-O
+Even snowfl.com is a great front end without having to run a jackett server.
+NTA - I think ignoring him was the proper thing to do.
+Super YTA. &gt; I really DO NOT understand what I said wrong. That's because you're shallow.
+&gt; Hospital rates are up in some places This is exactly what "flattening the curve" is about. Making sure not to overwhelm hospitals. In many places, hospitals are already above 80% capacity for COVID, which forces them to cancel elective surgeries. It's not the elective procedures taking up all those beds.
+Ultimately the shows cater to a specific demographic, so that dictates the kind of shows that get made more than anything else.
+Those purple Tide pods...
+NTA - Boob friends forever!
+Do GPM users actually like YTM that much? I kind of wish Maps would support PlexAmp.
+In California, the speed limit for the big trucks is 55, even if the speed limit for everyone else is 70.
+YTA - Way to be unsupportive...
+NTA - that's just wrong...
+If we're talking about a production environment, I'd almost never recommend a DIY solution to anyone, unless we're talking about a company with their own in-house linux admins.
+Pros: Makes camp cooking easier to set up. Cons: Smoke and grease goes into your vehicle, smelling it all up. I mean, the idea of organization is good, but I'd want a box like this with fold-out legs to use outside of the van.
+How about an OC-1? I need a better way to carry the outrigger besides inside the car... https://imgur.com/a/g7jaWeY
+Google Play Books can do epub! It works on desktop and on mobile too.
+NTA - Your sister's dream is stupid.
+But even in the stores, it's not something they have a cook in the back make, is it? Most chain restaurants only reheat stuff made elsewhere in order to maintain consistency across the chain.
+NTA - Your sister has unrealistic expectations about motherhood.
+How do you get that jumbo pack of toilet paper home along with everything else without driving?
+Pizza, but I think you have to phone it in?
+NTA - Isn't there a local group for ex-pats like your parents?
+Most airlines also offer a bereavement fare that you should ask about. It'll be cheaper than the usual fare.
+I guess you could use it on your SO in the bedroom...
+That's a nuance I'm not sure of. Good question!
+NTA - Your parents' relationships are not your relationships. :)
+NTA - It's not a political marriage, so why bother getting married?
+Why do they need to connect to your own NAS? Doesn't your school have their own resources? 1. You'd need to run it past your school's IT department first. Unless you're the one going to do **all** the tech support for it, most IT departments don't want to support random user hardware, nor anything they haven't vetted. 2. Your school might already have a preferred vendor for hardware. They also might pay for something similar for all the teachers to use, or repurpose old hardware to create something like a self-hosted Nextcloud. 3. Security, security, security. There's been malware hitting QNAP servers lately. Making it open to the internet makes it a target, if you don't set it up correctly, which brings us back to point 1, because if you get hit, you might be on your own.
+I did say "kind of"... 🤷‍♂️
+One of my classmates reported that his roommate tested positive yesterday. The rest of his roommates are getting tested/were tested today. Fortunately, we're only in an online class.
+Github.com would probably work. Github Pages allows those repositories to be rendered as HTML instead of as source code. But it does have some limitations. For example, you can only make a single repository show up like that on a free account. You have to pay to get more. But they do have educational pricing, which I haven't really looked at.
+I'm surprised the owner/landlord isn't also filing charges.
+NTA - "Nice Guys" are the worst. The sooner he understands he's not entitled to anything more than friendship, the sooner he can change his expectations.
+NTA - Your insurance would throw a fit for not having her listed as a driver on your policy.
+NTA only because of the age of your kids. At 16, their brains are still developing, and there is evidence that smoking pot as a teen has detrimental affects.
+NTA and just cut her off. Why would you torture yourself?
+NTA - Her expectations are hypocritical. Your guy friends dodged a bullet.
+It's not really an OMV specific question. But here are some of the ways you can access it: 1. FTP. This service is already installed in OMV, though by default it is turned off. 2. If you're connecting from outside of your network, a VPN connection could make your OMV machine appear local to you. 3. An app like Nextcloud/Owncloud. This would be the user-friendliest way for an end user to access their files. In all of these cases, you'll need to make sure your firewall forwards any required ports to your OMV box. There's more than one way to get what you want. You just need to provide more specifics on your requirements.
+Holy cow.... I had a client that did that. They had a really hard time getting blame to stick on anyone else for when the folder got flushed.
+FYI. Due to your outstanding unpaid on r/borrow, you are not eligible to participate here.
+https://www.youtube.com/watch?v=kLy7RXnkDu8 It's a docker install of OpenVPN for OMV5.
+That is probably the most random thing I've seen as a wallpaper since the flying toasters....
+&gt; in case anyone is confused lol.. Next we need random fake BSODs! 😂
+For a case that cheap, I think I could deal okay with all those screws...
+Reballs, huh? I'd be playing the angle game then, trying to ricochet them off all those surfaces. :-D
+"The lines are just a suggestion!!!"
+Haven't there been reports from China about people getting reinfected?
+Depends on the kind of headphones you're using. Are you using something that's strictly headphones, vs headphones + mic?
+Aux cable is equivalent to just headphones, no mic. So the plug confuses the phone as it's actually expecting a 3rd input for mic.
+NTA - Your sister needs to grow up.
+Bluetooth works fine. This much I've experienced. :)
+What's worse is why do so many ships in sci-fi seem to fight using tactics from the age of sail? Like, in Star Wars... Broadsides? Really? Why present more of a target than you need to???? Why not just point all your weapons forward and point yourself at the enemy, and go! Tacking on weapons that only shoot to the sides is a waste of space, weight, and energy ( and/or ammo storage ). It's not like you want to stay in that position where someone else is also shooting at you and can't miss.
+In this particular case, the timeliness of an adequate response would be an issue.
+NTA - People are weird. You should get your husband to do that after a really big meal too. :-D
+It works plus helps to keep your drink cold.
+&gt; It works plus helps to keep your drink cold.
+NTA - Odds are, she'd just waste it by abusing drugs and alcohol again anyway.
+NTA - You'd also have to take your daughter to a restroom when she needs to pee. Your wife's friend has weird expectations.
+NTA - Your sister already owes you for giving her a place to stay. Anything more than that just makes her a choosy beggar.
+Teeth (2007) IMDB ID tt0780622
+https://www.reddit.com/r/darkest/
+So a long long time ago, I did QA for VU Games. One of the titles that came through was Barbie's Horse Riding Adventures. It was cute. It's what you'd expect; Barbie riding around on a horse and stuff. Playing it "normal" is not what we do in game testing, okay? One of the first things I did was figure out that you could ride the horse into a tree house. A freaking tree house. The next day, we had some new testers starting, and one of them was assigned to this game. So I had her do the same and ride the horse into the tree house. Several minutes later, and very loudly was heard (her exact words), "I can't get my horse off!!!!" Now, as our test lab had multiple games going through testing at the same time, most people in the lab would have no context for that statement. So, after the round of laughter and snickering was the reply, "You're doing it wrong!"
+See, now this is why appropriate timely response is at issue. Think about it. In order to have a fast enough response, every station/substation would need to have a SWAT team standing by in order to respond appropriately. The reason why most metro police departments don't have such a thing is because they don't have the budget for having such a group standing around doing nothing most of the time. Instead, the equipment and gear is disbursed to all officers so they can prepare and head over from wherever they are. And that's why your line of thinking doesn't really work.
+So IMDB categories Teeth as comedy/fantasy/horror. - 6 Balloons is drama. - Contracted is drama/horror/thriller. I wouldn't really call these similar. Acceptable suggestions would have included Re-Animator (1985) which is categorized as comedy/horror/sci-fi and Bride of Re-Animator (1990), also comedy/horror/sci-fi.
+&gt; I'd also be interested in seeing how countries with unarmed police do it. Well, the bobbies in UK who were famously unarmed, became armed out of necessity. Aside from them, I can't think of any other significant examples. You have to also keep in mind, no other nation on earth has the 2nd Amendment which makes firearms a lot easier to access.
+I'm just saying it doesn't matter how smart you are. Going out alone always had a higher risk, and he didn't plan well enough for the worst case scenarios.
+NTA - But... that's not really going to fix the situation, right? Not saying you should appease her. But I will tell you that until you stop living with her, it's always going to suck.
+Some people go out knowing there's no way to return when things go bad. That's pretty much on them. Call it brave. Call it stupid. The results were the same. At least people knew Earhart was in trouble when they lost contact and didn't arrive at her next destination. But nobody knew McCandless was in trouble.
+NTA - Roommate etiquette demands that shared items like cookware should be washed as soon as possible, to avoid just this kind of situation.
+Without seeing the actual Chinese character used for her name, it's difficult to say that's what it actually means. Chinese has many homonyms and especially depends on the dialect. Has it ever been shown?
+To see if they've made any progress in learning, and to give them extra help as needed.
+NTA - It wasn't your place to second guess the medical record at that point. The mom was/is an AH. I can see why double-checking for an actual doctor's note would be warranted, but until then, you need to abide by the record.
+If it was a call to make an apology about how he treated his dad all those years, I'd agree, that takes courage. However it wasn't.
+That'd be a call that starts like, "Hey dad, I've missed you all this time. Let's get together." Not "Hey dad. I need tuition money. kthx."
+NTA - Time to move out, and never go back.
+NTA - Nothing stopped your friends from ordering more than one.
+It's not the voltage, it's the amperage.
+According to their web site, they require &gt;= 4A.
+NTA - It's a scam. Your deity doesn't need your cash. Your deity supposedly created the universe without your cash.
+For Americans, eating horse IS weird, and not legal here. Americans consider horses an integral part of the western heritage of the country. Also, horses are often treated with medications that make them unfit by our standards for food. Instead, we ship those very same horses to Europe, which is worse because that makes us the exporters of horse meat that would raise just as much fuss here, hypocritically.
+Americans are weird about a lot of things. So that's fair.
+How many seasons is this going to get? Because it'll suck if it ends too soon.
+How often did you have to keep looking to make sure the camera didn't fall off? :-D
+Looks awesome! Is the MPG hit better or worse? :)
+Good thing the street wasn't paved there yet...
+A full sized mattress? Wow...
+Durian
+It's in the LL's best interest to replace it themselves, rather than let the tenant replace it with something janky.
+Is there anything on the client side that needs to be done to use it?
+It's a shared space, not your workspace, I'm afraid. YTA in this case.
+INFO - In some states like California, they don't allow new teen drivers to have their friends in the car without an adult present. So assuming that you're in that age range, you could have pulled that as a reason to decline.
+NTA - Money is one of the biggest reasons for divorce. A divorce court would likely split the asset even though it's in his name because you also contribute to the household budget.
+What's so sudden about it?
+Well, she's an anti-vaxxer too.
+That's what *she* said.
+Print out a still picture from the video. Tape it to the mailbox with the caption of "Stop it."
+NTA - That's awesome! So make broccoli, cabbage, and beans your go-to dinner to prime yourself for the mornings! :-D
+Depends on what else is going on in your household at the time.
+NTA - Single use wardrobes are a waste of money.
+As long as there's no queen, the colony wouldn't last very long.
+Unless there's a queen, a colony of just worker ants can't reproduce.
+So my source is only from a documentary about the Uncle Milton Ant Farms, but they just go out to the desert and shovel up an ant colony for the ants. While it's possible that they could scoop up a queen, most ant mailings don't have one.
+Police report and insurance claim. The insurance will go after the neighbor for her, to recoup the costs.
+What's the point of insurance if you don't use it?
+That usually happens if the other parent thinks the SAH parent is doing a shitty job.
+[Here's a more in-depth video about that kind of dragon boat racing!](https://www.youtube.com/watch?v=FIcFBs36TGU)
+I don't get it. Most doctors aren't forced to do anything. That's why there are specialists. You wouldn't want your ear-nose-throat guy treating your shin splints, or your gynecologist treating macular degeneration.
+INFO - **Ex-**bf now, I hope?
+There was a bar in Newport Beach that was recently shut down because 10 of their employees were infected. But the rest of the shopping center was okay to remain open.
+You mean they don't already bleed you for tuition??
+Sub. Cross dressing Bugs Bunny would be his dom.
+My old SP4 was replaced out of warranty for the same thing. Give MS a call?
+One of my friends who did crime analyst work for a while, once told me of a vandalism report where someone used chocolate syrup to write something offensive on a residential driveway... 🤷‍♂️
+Is 230F bad? What's the normal range?

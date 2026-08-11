@@ -1,0 +1,50 @@
+7 horrifying facts about how cotton is made, 90% of people are too scared to repost this!
+Cement. Then you can't even break it open.
+It will expire.. and be expired for a few days, then be renewed.
+Well, the vote is only delayed. They will vote it back into effect soon.
+Gak?
+You first need to log in using the xbox app. After that, windows+G, or the xbox button if you're using an xbox controller, should open up the game bar.
+I'll let them keep the newlines if they stop making paths and commands so insanely long.  /usr/bin/vim   "C:\program files (x86)\notepad++\notepad++.exe"  /home/sy029/.config   "C:\users\sy029\application data\roaming\"  apt-get install vim   Install-Package -packageprovider chocolatey vim    fdisk /dev/sda (n, p, 1, 82)   diskpart (select disk 0, create partition primary id=0x8)
+Yes, and you can also set a variable for any folder. My real point is that Microsoft uses very long descriptive names for everything.
+Also Microsoft is introducing MSAscii™, the full details are actually under an NDA, but one change is that the \r will now be 0x07 in hex, replacing the unused Bell code.
+Northstar Cafe?
+&gt; Facebook announced an ambitious plan, got a ton of publicity  And then the article calls it "secret"
+Probably depends on the reason you're having trouble. Basically blue light signals our brains that it is daytime and we should be awake. Take away the blue, and we switch to night mode.
+If you need to change settings somewhere in the registry it might as well be considered true for a large portion of non tech savvy users.  One of the biggest issues I see are with people on bandwidth caps. I bet they'll be real happy to see a quarter of their monthly data cap taken from windows downloading a new service pack.
+The online is pretty dead if I recall.
+The "best" answer is to try a lot and then pick one.  The useful answer is to start with ubuntu. It is probably the best "it just works" distro. It will let you get a feel for what linux is, and what kind of things to expect. After that, if you decide you want to go further down the rabbit hole, the sky is the limit.
+On any given day I can walk into yodobashi camera and they have an entire aisle of mechanical keyboards. I didn't think there was a shortage at all. Maybe you should check online?
+I want @japanfax back.
+Isn't nova the one that recently has that really abusive contract? Like they ask you to reimburse the company for sick days?  Edit: Maybe I'm thinking about a different company on the sick day thing, but there is [this](http://generalunion.org/Joomla/index.php/en/nova/1156-new-nova-contract-is-fishy).
+Have you tried using the windows 8.1 drivers? They will not be WDDM 2.0 (DX12) but they will probably work.
+Force a windows update on the laptop and see what happens.  Really all that "reserving" your copy does is download it in advance, so that you don't have to fight with anyone else downloading on release day.
+The only think I think you left out was translation.
+Or maybe the hand got a body transplant.  /r/showerthoughts
+Can't say about release, but the current technical preview has a developer mode that enables sideloading.
+I remember reading somewhere the the whole elder scrolls series was based off of Bethesda's d&amp;d campaign. I wonder if someone could get the real deal from them.
+That card is about $400 here :( Damn Japan and high hardware prices, yet amazing internet.
+AMDGPU will fix the problem of drivers not being compatible with kernel updates, but will it fix performance as well? I thought The larger issue was the quality of AMD's opengl and Mesa.
+Looking at the source code I see:  -a: accident   -F: fly   -l: logo   -c: C51    According to the changelog, -l used to be "long." In the current version it is not. Possibly the option was removed.
+I know, but what I really want to know is, is there some easy way to automate this, other than going through the list of dependencies and manually installing them?
+A different model of train. Images from wikipedia: [C51](https://upload.wikimedia.org/wikipedia/commons/6/63/JNR-C515.JPG) [D51](https://upload.wikimedia.org/wikipedia/commons/8/86/SL_20081207.jpg)  Of course there could be many different versions of sl too. I was looking at [this](https://github.com/mtoyoda/sl) one.
+Japanese schools are all about tests. If you can't put it on a test and have an exact answer (i.e. no opinions or critical thinking,) they don't teach it. This is also why English education in Japan is so bad, even though everyone takes classes for six years. You can test grammar. You can't test speaking (with standardized tests.)
+The entire country of England recently banned anyone from Japan who took certain English tests as part of their entrance requirement because of the rampant cheating. Some test centers were literally a person standing in the front of the room reading the answers, while everyone else marked them down.
+This is probably in reference to carrier lock. If your phone was bought from docomo, it can only use docomo's network, same goes for other carriers. Is the phone you're trying to use the sim in unlocked?
+Programming. If you have a pc, you have everything you need.
+Is this a console issue or a font renderer issue. Why does it work in Konsole, but nothing else?  And while people are throwing terms around, I'd like to shill for lilyterm. It even has a daemon mode, so that the rxvt people have no arguments to use against it.
+[/r/snapdecision](http://www.reddit.com/r/snapdecision/)
+Nope.
+Not this one.
+Pretty sure it was available on MS-DOS, but not 100%.
+Even so, maybe its enough to stop it from moving onto the network.
+They aren't really apps. They are extra files required for other software to run.
+iocane powder
+At least that means that there is some sort of system to it. It's not just something they put an ad in the paper for people who like clay and human remains.
+Those were generally black and white though.
+[Randomized Word Walls](http://www.nexusmods.com/skyrim/mods/43409)
+http://chocolateandzucchini.com/ingredients-fine-foods/43-things-to-do-with-fresh-shiso/
+Right click on the start menu and click disk management. Find your windows drive.. Does it list "system" and "boot" as the things there?
+Japan:  Don't be a dick.   Seriously.   I'm looking at you, Americans.    Also don't [get drunk and trash a koban.](http://www.reddit.com/r/japanlife/comments/2vn6o4/why_are_there_no_police_in_the_police_station/)
+We also use it when we buy soda, but not milk.
+So the answer to OP's question is No, it will not make single threaded software multithreaded. You don't state this anywhere that I know of as a feature of your software, I have no idea why you are avoiding this question.
+&gt;domain holders with sites associated to 'commercial activity'  In other words anyone with a .com

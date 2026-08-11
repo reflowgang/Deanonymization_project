@@ -1,0 +1,49 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Casual and conversational tone.
+  - Uses humor and sarcasm (e.g., "I'm not gay or anything, but you should divorce her and marry me").
+  - Engages in discussions with a mix of technical jargon and everyday language.
+
+- **Recurring Interests:**
+  - Technology, particularly computer hardware and software.
+  - Gaming, especially first-person shooters like Battlefield.
+  - Music, with references to various artists and genres (e.g., Death Grips, Atmosphere).
+  - Movies and TV shows, with specific mentions of series like "Halt and Catch Fire" and "Always Sunny in Philadelphia."
+
+- **Hobbies:**
+  - Gaming (specifically PC gaming).
+  - Watching and discussing movies and TV shows.
+  - Engaging in DIY tech projects (e.g., building PCs, troubleshooting hardware).
+
+- **Technical Knowledge:**
+  - Strong understanding of computer hardware, software, and troubleshooting.
+  - Familiarity with networking concepts and NAS (Network Attached Storage) systems.
+  - Knowledge of operating systems, particularly Windows and its versions.
+
+- **Location Clues:**
+  - References to Minnesota (e.g., "Minnesota here, can't buy anything except 3.2% beer on Sundays").
+  - Specific mentions of local places (e.g., Buffalo Tap in Savage, Eagan).
+
+- **Profession or Education Clues:**
+  - Works in desktop support, indicating a technical or IT-related profession.
+  - Knowledge of hardware and software troubleshooting suggests a background in technology or computer science.
+
+- **Demographic Clues:**
+  - Likely an adult, given the context of discussions about work and personal responsibilities.
+  - Engages in discussions that suggest a level of maturity and life experience.
+
+- **Opinions and Values:**
+  - Values freedom of speech but acknowledges its limitations in different contexts (e.g., workplace).
+  - Shows a critical view of certain online communities and their behaviors (e.g., "More like misogynist rights activists").
+  - Advocates for responsible behavior in online transactions (e.g., cash-only sales on Craigslist).
+
+- **Repeated Topics:**
+  - Technical troubleshooting and advice related to computers and gaming.
+  - Discussions about local culture and events in Minnesota.
+  - Commentary on social issues and online community dynamics.
+
+- **Subreddit/Community Clues:**
+  - Active in technology-related subreddits (e.g., /r/techsupport, /r/buildapc).
+  - Engages in discussions in gaming subreddits (e.g., /r/Battlefield).
+  - Participates in local interest subreddits (e.g., /r/minnesotavikings, /r/minnesota).

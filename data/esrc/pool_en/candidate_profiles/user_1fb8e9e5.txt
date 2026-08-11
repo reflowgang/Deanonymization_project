@@ -1,0 +1,500 @@
+I've bought some MOD :)
+Personally I have no need to move my funds as they where made in a cryptographic fashion. But thanks for the concern :) Edit - it just clicked you generated a address whilst all your funds where showing. Ouch. I always double-check the addresses on the explorers first anyhow.
+send them a message and see what they say
+finally topped up my Freebie OMG at $16 :P
+&gt; I feel a lot will change once the Jinn processor ....my wealth will change :P
+Congrats! I'm holding my IOTA till $1000+. I will be past the moon then, but it will be symbolic :P
+My PRL has gained 65% in the 3 days since I bought xD
+Have a good day everyone :D Data marketplace going live incoming soonTM!
+&gt; BUt is not even close to as volatile as crypto. So your saying the GBP ***didn't*** tank 20% in the space of a few hours on the Brexit results last year? sureeeeeeeeeee ;)
+we're talking numbers and I just showed you a example of similar volatility. Cherry picking, yes. No politics in my words.
+same :(
+Same here tried to withdraw MOD, thats been stuck on processing. Immediately after I try to withdraw PRL and it won't even let me try and process it. Something is up.
+mine 4 hours, the other isn't even working!!!!!!
+I'm just going off all the people coming here asking the same question. I'm not a insider, I don't know. Nothing to panic about IMO, just give the exchange a day or two to make everything right again. Chill homie. without Kucoin my PRL are basically a dead asset anyways... smh
+I'm going to check back tonight/tomorrow. No point stressing over things out of our hands.
+I will
+I knew they weren't broadcasting any transactions cos I've been watching the address all day :L
+My PRL just came through 2 hours ago. Safe to say I'll try and find alternatives for PRL. :( So I'm finally all good now :) Still on the Kucoin network?
+I bought mine at $.4-.6-7 Last week and yesterday at Moon base :)
+yeah man the regret is real, and I'll be damned sure to look at hedging in XRB in the future, first I want $10 IOTA :)
+This will happen
+which exchange?
+Yeah I've read of many terrible happenings over there. r/Hitbtc is a fun read xD
+thats because a few days ago 1000 Dent was worth $25
+I don't think your late to PRL party, we are still sub $100M
+GNT was the flavour of ethtrader early in 2017, but when the pump died out so did all the GNT shillers.. don't be put off by the lack of GNT talk.. it just other ERC20 tokens are shooting up thousands of percent and GNT is flailing in profits right now ( a measly 500% gain in a weeks.. smh) Don't fear GNT will have her day.
+now hodl PRL ;)
+&gt; Im thinking, if I do put any more fiat into the game, I'll aim for more risky, more reward, short term coins. What do you think? I'm a all risk all reward Kinda guy. But with crypto many people either dumped everything they own into crypto or 5-10% of their networth -- the final decision is down to you.
+Yes - read this - https://nxtforum.org/news-and-announcements/(ann)-jinn/
+I know what I'm holding - IOTA man ;)
+When your trying to withdraw with a address that already has a pending outgoing transaction again you are trying to "reuse" that address (and breaking the rule of Winternitz One-time signatures) .. so it is expected that your wallet will stop you.
+please do not use HitBTC
+I'm going to start playing around with XRB soon (just hoping for a IOTA breakout first - hopefully $10! :P)
+&gt; this all sounds way more complicated than it should be. It sounds more complicated than it actually is, the "reattach" and "promote" ( you can only promote after you reattach once) button are in the exact same place.. you would just have to click on the transaction in the wallet, to see the buttons... but with that said this doesn't actually sound like the current problem. &gt; Hes saying he has a zero balance but knows he has funds. Thats likely because of the recent snapshot, although granted *before* the most recent snapshot, after I downloaded the latest wallet I had to reattach some addresses before my balance showed in full again, maybe you should try it with him too? The latest wallet is here - https://github.com/iotaledger/wallet/releases
+HitBTC are a scam
+I hear Dogecoin is good for withdrawals,
+which coin is blasting off?
+Thank you! xD I have one question, why does it have a negative value on the block explorer?
+Nice to see ~~$10~~ $12.5 Bought at $4 last week ¯\\_(ツ)_/¯
+&gt; Don't sell it, you likely will miss it's pop then. HoDling since $.33 :)
+I disagree. Bosch is holding a conference on the 9th-12th January. They will be talking about their SmartCity plans. They own IOTA.
+&gt; Stepped on board with 2% of my crypto worth :) Thats how the IOTA addiction starts and then before you know it, right after that naughty dip you find yourself 90% IOTA
+Good man! JiNN is a risky but good bet in my opinion. Dom said the hardware side of IOTA will be released in Q1 2018 .. this can only mean JiNN (I think) The long-term goal is to live off of JiNN dividends (and IIRC David is planning on this too) Also -- conspiracy me thinks insiders have already started accumulating JiNN in the past few months -- the price has spike with growing volume (very good sign) https://coinmarketcap.com/currencies/jinn/
+Yeah man I crying into my $.35 IOTA buys rn :'( I don't care how negative the sentiment gets in here - I'm holding my IOTA -- Also I highly recommend you guys buy JiNN before the Q1 IOTA hardware is released..
+Me too brother -- I for the fourth time in my life have a YOLO long on IOT/BTC thats up about 10% right now, I'm holding this one till margin-call or +1000000%
+https://medium.com/iota-ucl/wallet-refresh-the-case-for-a-desktop-app-8aebaf19520a
+&gt; What do you think the JINN coin will be used for? From what I can gather the sole purpose of the coins is so the JiNN token holders can receive their dividends via nxt -- there is literally no other reason from what I can tell. Also I imagine the token itself will appreciate. Who knows -- maybe the JiNN token will be implemented in the processors themselves somehow?
+FYI its not called UCL wallet anymore (because the UCL isn't associated with the wallet) .. now its called Trinity wallet.
+Also this news was from a few days prior - &gt; ***Bosch joins Intel, BMW, Audi, and Mercedes, buys stake in mapping company Here*** &gt; BMW will be the first OEM to offer real-time safety data, starting in 2018. Not exactly on the same topic, but if you put all the pieces together it paints a pretty picture. https://arstechnica.com/cars/2018/01/bosch-buys-stake-in-aggregated-vehicle-mapping-company-here/ _____ Also - JiNN is coincidentally rising right now, and garnering more trade interest :P
+My IOTA has been dipping for nearly 2 months D :
+I'm in long-term until care enough to make a MEW account :P
+use of of the Light nodes on Iotasalad.org/nodes
+&gt; This is gonna get ugly. Downvoted for FUD I look forward to your tears when the Data Marketplace goes live.
+Congrats -- your the first person I've blocked in r/iotamarkets
+If the company goes live and the processors actually work and are integrated by major companies I imagine we will be much higher -- considering there are only about 58K circulating JiNN and maybe 400 JiNN on offer upto about $30K...
+&gt; 105,557 readers &gt; a community for 20 days hmmmmmmmmmm
+me too except I'm in IOTA and its been close to 2 months : (
+And I must have been smoking Meth to watch 250x gains from $.15 to $37 (!!!) Godamn I'm mad I didn't buy at $.15
+March is between 45 and 75 days away
+&gt; expecting a 250x gain in any investment may be a bit too optimistic. I never expected a 250x gain in a short time off any coin, I'm merely stating I missed out on such gains
+lol - no, thats where we are now. If you think XRB will be virtually as stable as FIAT currencies you are mistaken
+I'm deleting and reposting this question
+Set no expectations, set no disappointment ;) Goals are nice to look at but if we put any of our guesses as fact we'll all be butthurt for along time. Patience is the key, I think. No need to ride coins waves -- Rather, start the wave and never fall away from the tsunami -- which is DAG
+Been here 4 months :)
+lol
+do not store your IOTA on the reddit tipbot. Download the wallet, and be in control of your own money. Time and time again people moan about not being able to withdraw funds from tipbots (whether its the tangles fault or the Tipbot's is still undecided).
+&gt; Somehow IOTA to me is the third evolution in the line of BTC (Blockchain Basis) -&gt; ETH (Dev &amp; Smart Contracts) -&gt; IOTA (IOT). Therefore I want to support this technology. Not just to you, but to us all. This is a reason why many of us are here.
+$21 XRB looks tasty AF. Cmon IOTA rise like a demon to let me spread a little risk!
+I took this post down, on a fellow IOTA community members request -- so no controversy for this post mate. But this goes for us all, lets keep the Data Marketplace quiet until it is live.
+these issues have been addressed many times by the devs and the community alike.. anyway we have our very own u/aboose to look out for us in r/cryptocurrency now, so he might be able to neutralise emotions at times. :)
+So, we are all seeing Batman. Right?
+So if anyone looks back at this in 5 years. I got more OMG!!
+Just closed my IOT/BTC long for a profit (after coming within a hairs length of liquidation last night) YES!
+$1000 would be a $3T marketcap. I'm going to be around for it
+HODL = mean exactly that. Hold through the good days and day days alike Hodl started as a mistype on a thread title from a Bitcointalk forum years ago, and the mistype just stayed. Its famous now.
+same xD My AVG is $.38 though
+My first Crypto was LTC Bought in December 2013 ($15)-- went down 90% over the following 18 months. I accumulated 10x more by April 2015. The rest was a beautiful story.
+I've thought about IOTA, and the possible economy it is creating. The thing is its hard to put a number on a economy that doesn't exist yet.
+I sent them to my Etherscan address and haven't even set up MEW yet hehe
+hahahaha
+well I guess Bitfinex screwed themselves because I received the exact amount of OMG. HAH Identiifiication 1 , Bitfinex 0
+Did you read what I wrote? The out-going transaction for OMG was $11 in fees.. I didn't mention Coinbase or any-other exchange so I don't know why your telling me this..
+&gt; I work for Bosch and penetrate them ┴┬┴┤( ͡° ͜ʖ├┬┴┬
+try this node https://durian.iotasalad.org:14265
+Fuck that guy. He is a scamming cunt
+One day you guys will see JiNN pump to $50K a piece and plummet when the the tokens are transferred to bonds in the hardware company &gt;:D Hint - JiNN is the mother of IOTA
+I wouldn't touch that shit atall
+:D
+FYI the alpha testing of the wallet has been on-going via slack for close to 2 months (or atleast when I first heard of the group)
+Yeah thats the thing IOTA makes XRB redundant when the COO is turned off/ when the network scales to 1000 Confirmed transactions per second etc. I get the excitement around XRB, I do. And maybe I'm butthurt typing this (I was looking at XRB at $.15) but at the end of the day I chose my horse , and anyone that has ever perused r/raiblocks and r/IOTA clearly knows IOTA has a massive potential use case far past P2P (which ***all*** cryptocurrencies do today) I can say if IOTA fulfils its promises to be the backbone of the IOT, it ***will*** have atleast a trillion dollar marketcap. Can you say the same for XRB? Its literally like betting on Ethereum Classic to flip Ethereum. &gt; IOTA is designed for machine to machine transaction and has not demonstrated any will to make their platform user friendly. You sound pretentious here, and have demonstrated to me you lack basic research in IOTA. IOTA has the Trinity wallet coming out in February on desktop that will make IOTA much more user-friendly.
+FYI look up the Trinity wallet, good things are coming. :)
+I think the best thing for XRB is to go 100% DAG, then it can scale to infinity just like IOTA
+I have 6 different Crypto's now and not one of them are mooning Fuckin Bitcoin man :angryface:
+&gt; Well RaiBlocks is actually 100% a DAG. https://github.com/clemahieu/raiblocks/wiki/Block-lattice &gt; Raiblocks has one block chain for each account which is controlled by the account's private key and each block chain is replicated to all peers in the network, we call this arrangement a block lattice. I can't even read what you said after that.
+I view IOTA as a coming blue-chip for 2018 (if its not already) so my risk appetite is set. But yeah I've been questioning dumping JiNN to increase my OMG portfolio. I'm bullish on JiNN but there are so many "accredited investor" requirements that I need to fill before receiving fiat into my bank via dividends that I'm not sure its even worth holding -- or maybe I should see a solicitor first.
+IOTA has good news nearly every week. We have a anti-gravity effect /s But seriously I imagine events will gain traction when investors gain confidence in IOTA w/ Trinity wallet in February
+There is the Trinity wallet coming out on February -- it is said to be much more user-friendly.
+&gt; that-isnt-a-blockchain that will be used for some pilot project? Nope, the pilot program is going on now -- the Data Marketplace will be going live by the end of January. If you thought about IOTA for more than a day, maybe you'd come to the conclusion that Bitcoin can not and never will be used for mainstream adoption and technologies like the Tangle can. Also I want to add - You are ignorant -- as otherwise you would know IOTA has gone through many stress-tests in the past. Maybe its best you don't invest in IOTA, it sounds like your FUD campaign would turn into a hype campaign, and we want neither of these.
+&gt; The first community to come up with the idea of changing the chain-like storage structure into a DAG of blocks was NXT. https://www.forbes.com/sites/shermanlee/2018/01/22/explaining-directed-acylic-graph-dag-the-real-blockchain-3-0/#1ddd0f41180b So, maybe we are both right
+&gt; The concept of Internet of Things has been functional and existing for years. You mean cloud computing &gt; Cloud computing is an information technology (IT) paradigm that enables ubiquitous access to shared pools of configurable system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet. https://en.wikipedia.org/wiki/Cloud_computing &gt; Success or failure of IOTA's data marketplace won't change that. See my first point &gt; The term was thrown around too much and became so stale that even people who constantly spout marketing speak decided to move on to other words. You don't know what your talking about.
+Maybe PRL could change that
+&gt; The concept of IoT and its applications have been around for decades. ____________________ &gt; A significant transformation is to extend "things" from the data generated from devices to objects in the physical space. The thought-model for future interconnection environment was proposed in 2004.[34] The model includes the notion of the ***ternary*** universe consists of the physical world. Yes, the concept has been around for a long time but it doesn't mean it existed past theory (because technological advances just weren't that progressive yet) Also note the quote refrences a ternary universe (to which IOTA is ternary based) &gt; As of 2016, the vision of the Internet of things has evolved due to a convergence of multiple technologies, including ubiquitous wireless communication, real-time analytics, machine learning, commodity sensors, and embedded systems. Point encase. The IOT is still being developed asof 2016 &gt; These devices collect useful data with the help of various existing technologies and then autonomously flow the data between other devices. Which as a example - the Data MarketPlace will be the worlds first ***autonomously flow(ing) data between other devices.*** https://en.wikipedia.org/wiki/Internet_of_things Next time reference your words with sources. I won't respond to ignorance.
+The market is waiting for Data Marketplace/ Trinity wallet and Q imo. With so many people bitching about user experience, there won't be much-else to do other than moon when the stigma dies w/ Trinitys' release.
+The Trinity desktop wallet is released in February The beta ios* wallet end of Jan IIRC
+I mean't OP
+There is no invite link for slack anymore, most of the groups have already been deleted etc as we have migrated to Discord https://discordapp.com/invite/fNGZXvh
+HODL , its so cheap right now with Binance around the corner
+&gt; We are planning on launching a Proof of Concept in our plants today. Fantastic!
+&gt; Turns out patience is for ~~poor~~ rich people :(
+&gt; Ultimately what really matters is how ~~much money~~ IOTA can evolve to be the Backbone of IoT ~~make then~~. FTFY
+I am so fucking bullish on IOTA. HODL All the fundmentals are there, its the perfect prize in the cryptocurrency puzzle. The only key is patience. Also - I am little too much of a drunkard tonight, henceforth the celestial mongoloid of my inner-IOTA thoughts have awoken. p.s Can we have a price-ticker on the banner like in r/Bitcoinmarkets already please?! Also - &gt; Moreover, there will be a form of two-factor-authorization (2FA) in this (Trinity) wallet. Since it is supposed to be a wallet running in a decentralized fashion, it will be realized via TOTP using Google’s Authenticator/Authy; this is the most decentralized way to do it. Does this mean we will have a 2FA back-up code incase we lose our phone? https://medium.com/@iotasuppoter/iota-the-new-wallets-yes-plural-f20a8ab5237
+Yes, I think so. I've already reattached all my balances again.
+Don't be man, IOTA is a game-changer. Maybe you won't realise this today. Maybe you look back at your reddit comments in a few years and chuckle.
+If you read through the whole conversation you would have realised I was the implied stupid, and I was ripping him/her/it for calling on sources as stupid. Welcome to sarcasm.
+Only you can decide
+&gt; The initial storage peg will be at least 64 GB per PRL per year. Call me stupid, but $1 PRL doesn't add upto 64GB of data.. $15 is a fairer price for this in the real world :P https://medium.com/oysterprotocol/how-prl-pricing-will-work-in-the-future-d67c4f231386
+not today
+Jinxed ;)
+I take XRB seriously. Although how far is a P2P DAG/Blockchain hybrid really going to successfully challenge IOTA? I like XRB but I wouldn't call it a IOTA killer. XRB is like humans in the stone-age. Quick and agile vs IOTA - the technologically superior 21st century
+PermaNodes which store the entire Tangle are being developed
+Sub $10K BTC is scary D :
+It really wasn't. I was thinking $120K last year, and still am. I'd rather avoid the bear market, thats all.
+&gt; You're insane prediction Its less insane when you understand that everytime BTC crashes, sooner or later it has a meteoric rise far past its last ATH. :)
+$10K is the new $420. Confirmed!
+Germans used their hyper-inflated currency as [wallpaper]( https://www.google.co.uk/search?q=german+currency+wall+paper&amp;client=opera&amp;hs=WPr&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;fir=A8rvAIWdZBIMRM%253A%252Czr4MhILl002SkM%252C_&amp;usg=__q5YOlMjnpV3wbjiABH02roNGP4E%3D&amp;sa=X&amp;ved=0ahUKEwj5v6rusLXbAhVQI1AKHTEXB_wQ9QEIOjAB#imgrc=A8rvAIWdZBIMRM:) Maybe Venezuelans can do the same
+Charlie Lee's brother founded it, gives it some credit.
+50% increase won't be so hard. We've done 100% before in a day ;0
+I've read some good things about Skycoin , I don't think its a scam
+I wrote here because I thought this would be a more positive environment than r/CC's daily. Why are you salty, if you care to read here?
+believe it or not I can't read your body language through a computer.
+flip a coin it would give you a better chance at winning.
+&gt; why the duck is iota at ~1,60€ while having so many positive/favoring news + partnerships etc.? Is it because the "actual" workplace for iota beeing between companies? Well, here is a can of worms! I can think of a few reasons off the top of my head - 1.) The general cryptocurrency market, has crashed this year, meaning that most coins/tokens have endured a sharp bear market 2.) When institutional investors buy-in, they like to keep the price suppressed in defined price ranges. Check [this]( https://www.investopedia.com/articles/trading/08/stock-cycle-trend-price.asp) out for more info
+Well then you will hate 42 coin.. https://coinmarketcap.com/currencies/42-coin/ $28,000
+TIL 42 cost $1M on 14th Jan 2014 https://coinmarketcap.com/currencies/42-coin/historical-data/?start=20130428&amp;end=20180603
+&gt; [To prevent the possibility of a Sybil attack, assemblies require oracles to provide Proof of Resources. The Qubic system is very flexible in this regard. It can accept different ways of proving resources, and it even allows for a mix of different proof types, depending on the specific assembly needs. Examples of such proof types: Proof of Work (PoW), Proof of Stake (PoS), Proof of Bandwidth, Proof of Spectrum, etc.](https://qubic.iota.org/protocol) Passive income gogogogo Which will also limit the available supply hehe
+IOTA giving passive income changes everything. I can live off dividends hehe I will host a Oracle. AMA
+[here](https://www.reddit.com/r/CryptoCurrency/comments/8o6omw/daily_discussion_megathread_june_3_2018/e02ef1h/) More precisely it states &gt; Rewards are distributed to oracles who return the correct quorum result according to their respective weighing factor.
+Because you can host a Oracle (one option is via POS -- staking your held IOTA), and get rewarded for doing so. Oracles aren't live yet.
+I don't know man
+A node that can take in any kind of information and process it See [here](https://blockchainhub.net/blockchain-oracles/) for more info
+Its more interesting now I know we can POS our IOTA :P
+&gt; Do you know if the future IOTA oracle is going to be centralized to the DAG/Tangle? _____________________ Considering Qubic will run on IOTA, I think the answer is yes. But I'm not 100% I understand what your getting at. &gt; Do you know if the future IOTA oracle node will follow a consensus algorithm? __________________ &gt; [The Qubic system is very flexible in this regard. It can accept different ways of proving resources, and it even allows for a mix of different proof types, depending on the specific assembly needs. Examples of such proof types: Proof of Work (PoW), Proof of Stake (PoS), Proof of Bandwidth, Proof of Spectrum, etc.](https://qubic.iota.org/protocol) Consensus algorithm is agnostic, meaning that even we (the holders) will benefit from POS if we include ourself as a Oracle. (which I will) I have no idea what POBandwidth or POSpectrum mean. &gt; Do you know if the future IOTA oracle has a whitepaper yet? ________________________ I think a Oracle whitepaper would be in a larger Qubic whitepaper (which has not been released) Check for more info at Qubic.iota.org .. which has way more than just one page now.. its more of a website now.
+What did the removed posts say?
+&gt; Meaning to say, when this goes live will the API data have to exist within the tangle? (EX - could Qubic potentially pull an data feed from Weather.com at a specific time and execute a smart contract to pay for example 1 ETH to an address if a weather.com temperature variable is met? Qubic itself will be in IOTA transactions -- as in Metadata that the oracles will be able to pull the data from, and the smart contracts understands and send wherever it needs to go. ( The little message boxes in transactions on thetangle.org) ie &gt; "This spam was created using the iotaspam.com spammer in offline mode, therefore I am not receiving rewards for this spam. &gt; 'NICHOLAS MONSARRAT' &gt; Lieutenant Commander Nicholas John Turney Monsarrat FRSL RNVR (22 March 1910 - 8 August 1979) was a British novelist known today for his sea stories, particularly The Cruel Sea (1951) and Three Corvettes (1942-45), but perhaps best known internationally for his novels, The Tribe That Lost Its Head and its sequel, Richer Than All His Tribe. &gt; == Early life == Monsarrat was born on Rodney Street in Liverpool, Lancashire, to parents Sir Keith Montsarrat, surgeon, and Marguerite Turney Waldegrave. Monsarrat was educated at Winchester and Trinity College, Cambridge. He intended to practise law. The law failed to inspire him, however, and he turned instead to writing, moving to London and supporting himself as a freelance writer for newspapers while writing four novels and a play in the space of five years (1934-1939). He later commented in his autobiography..." Click on the text button when you see messages on [said transaction](https://thetangle.org/transaction/FYTOQEEBBYBYFSSOLGYKHBKVNDNWXBQQXEVRLFSJSXYWRRFUEMKJZSW9PP9KIZVIRMPSXTIFUQXTA9999) From what I understand Qubic is only information, so no currency is exchanged through it.. But for when Qubic oracle owners get rewarded that will be in only IOTA (which will give the adverse effect of a reduced supply from all the IOTA getting locked up = higher IOTA price) -- But on the hand of Smart contracts (and ETH being exchanged on the Tangle), I don't think enough information has been released to suggest interoperability will run into other currencies being executed on the Tangle. Although I think I've read some hints over the last year on this being possible, I'm still not 100% it was from the IF itself. (that being said I should reread qubic.iota.org) I'm so pumped for IOTA, and now I realise that I can get a passive income at the same time = really pumped !
+Considering I didn't expect any passive income off IOTA this is pretty huge for me. Any passive income off IOTA is a huge bonus. (considering I was just holding anyway) :)
+&gt; I think most made so many trades that they couldn’t figure out what they owed Check out Bitcoin.tax
+What does your portfolio look like % wise?
+because those other storage coins don't solve the problems of webwide ad-blocks for websites revenue. Oyster is a kill two birds with one stone kinda coin (except now we have SHL, and a potential meshnet decentralised web too). On one side you can store 64gb of data on 1 PRL for a year... and on the other a mechanism of Broker nodes (which will go on websites hosting the PRL one-line script.. also aiming to use 50% less CPU than adverts on websites).. which means that websites can receive an alternative source of income.. we won't have to read those dastardly "remove you ad-block" everywhere we go.. The future is bright my friend, only many people think Oyster is dying because of the low prices .. I say this is the *best* time to get in. Many people are at the exits, but fuck 'em. They see a red chart and I see a future.
+I mean, you need the broker nodes to make a alternative revenue other than adverts .. but if you are asking why you need broker nodes for decentralised storage.. you don't. (as far as I understand it works the other way around, but I don't know enough to clarify*) As I say Oyster is a two-birds-with-one-stone sorta' coin. The perks of Oyster compliment eachother they are not necessarily intrinsic
+I disagree man, alot of websites I never even set foot-in nowadays because they force you to remove ad-block. How is adding one line of script to your website impractical?
+I like the simple design
+PPC?
+If the account doesn't have too much value do you mind if we can see the address/transaction?
+a bundle hash would be good. I am just trying to see how the auto-reattach is working (I haven't used Trinity yet). Maybe we can work from here Obviously don't post your seeds, don't show anybody them ever
+Mhm, I'm leaning to the idea the assembly of qubics will decide together what rates they want (sorta like how miners work w/ Bitcoin) . Maybe we will be autonomous :)
+Okay, well I see one reattach so far (I can't help you with the Trinity design unfortunately.. yet) .. From what I understand it should have a loading screen for 15-30 seconds (and if it does that means you are POWing your IOTA's)
+You can add 10% premiums to cash-in-hand sales because it has the added benefit of the Coin-buyer purchasing 100% anonymous. Thats the general rule of thumb on LocalBitcoins
+OxBitcoin FOMO has begun..
+me, I've been meaning to mine it for the last 6 months , Can't hurt to buy 1000 0xBitcoin just incase Think about it man, This *will* be a shitcoin to go up x1000 in the next bullrun .. its too damn obvious
+Plan of action for the week FOMO 0xBitcoin and buy the top
+me too
+I am so fucking excited to swingtrade 0xBitcoin
+I don't wanna change your mind bro, I think its worth holding onto ;)
+because I think it will explode it price, and I want to catch the runs
+Nano in every comment
+Control + F search "Nano" would disagree on the daily over the last 6 months. Its been pretty religious.
+Cool!
+Its for sure a scary time to buy.. but thats what makes it so tempting
+What do you mean by defects? Your question is confusing. &gt; are those removed or transferred to a different address? No, "defects" in the tangle would never get confirmed.
+&gt; And the ten thousandth article about Qubic? Thats because it is one of the biggest news releases in cryptocurrency ever. Whilst 99% of all coins are trying to lower fees, and make it scalable -- IOTA did that off the bat, and now the real reason for IOTAs existence is explained. FYI Qubic is the mother of IOTA https://bitcointalk.org/index.php?topic=112676.0
+Ouch man! I was thinking of fasting for general health. Do you recommend?
+what are the other two?
+Thanks mate
+I think BNB will be a top 10 coin :)
+IOTA
+I secretly think we a replaying 2013 so YES !
+What if you never sold?
+They will care in 2025 when a Miota is $350 and the world is addicted to the IoT. People can't fight convenience.
+The IF have given a vague idea of states the COO will be in for total removal - 1.) The centralised COO 2.) A distributed COO, that is spread over many nodes (perhaps the DC's will act independently of one another (which is the only way we can achieve TPS to get to 3.) 3.) Once the topology of the network is secure enough (confirmed via 10,000+ TPS/CTPS (hopefully) the distributed COO will be removed entirely)
+&gt; Which do you think would be the best long term hodls guys? ETH IOTA XMR NANO .. and maybe BAT (but I don't know enough)
+You can buy on LocalBitcoins and no bank will block you.
+&gt; Unless you are a trader it means little at the moment. it still hurts to see where I was in december and where I am now, though.
+No KYC to the buyer or seller either? On LBC you need to verify yourself to the website itself, as I understand
+Why do you keep on bullying him? Thats not cool
+BTC bear flagging .. luckily (or not) I've saved some dry powder AKA USDT
+yes
+&gt; unless I draw more than the max safe thoughput of the cables so they get hot and maybe catch fire. I'm getting flashbacks to mining in my bedroom now :() Fire waiting to happen
+Sooo I was in profit for the majority of my trade .. but I woke up in the middle of the night and realised the tides where turning .. and I bought back in at a small loss :( ... No trading for me then eh
+I'm thinking of buying [this](https://www.evanscycles.com/specialized-levo-fsr-comp-6fattie-2018-electric-mountain-bike-EV306355?lsft=esvt:59566-GOUKE4815706,esvq:,esvadt:999999-0-1323154-1,esvcrea:232331975670,esvplace:,esvd:c,esvtg:pla-349355889836,esvo:EV306355-M-RDBK,esvaid:50080&amp;esvt=59566-GOUKE4815706&amp;esvq=&amp;esvadt=999999-0-1323154-1&amp;esvcrea=232331975670&amp;esvplace=&amp;esvd=c&amp;esvtg=pla-349355889836&amp;esvo=EV306355-M-RDBK&amp;esvaid=50080&amp;gclid=EAIaIQobChMIp-nH_bDU2wIVE90bCh35ogbeEAYYASABEgILCfD_BwE) and doing a road-tour :P
+Lets feel the pain for another 2 years &gt;:D
+datta boi
+I found it funny because you wrote two conflicting phrases/sentences: &gt; Apple of smart contracts ____________ &gt; We’re not talking about your master-race PC bullshit here
+You can open multiple windows of [iotareatta.ch](http://www.iotareatta.ch) and complete remote POW as many times at once at you like. (And I am helping you too) Edit - Confirmed :)
+Its OK. I'm used to being out of context
+&gt; down-to-earth. I see what you did there
+I'm not a newb, and still make stupid trades :(
+I honestly don't know what to think about how the passive income will turn out. From what I understand it will be* the same economics as Bitcoins mining POW // Supply and demand will determine the price // Lest we not forget this will also lock up IOTA and drive the price higher
+Tipbot isn't working mann :( PM your IOTA discord name. (discord has a functioning Tipbot)
+just wait till you get to you 1540th day ;)
+Yeah, if you don't look* at the history of cryptocurrency since ever. But if you do (and still think this).. well.. you and I obviously see two different worlds
+since 2013, I found out about Bitcoin because my friend was buying drugs on silk road
+mhm, lucky guy probably blew another 10,000 BTC before 2018 (or unlucky?)
+Na its cool hehe :)
+You are creative ! :D
+&gt; June 11, 2018 _____________ &gt; IOTA is one of the major encrypted currencies in the world, with a market value of $11.8 billion. I wish
+done :) If you ever get stuck open up iotareatta.ch (and do remote POW on as many screens as you want) and it should help alot :)
+Interestingly*, out of all the countries to pay attention to IOTA, I would have to say Germany has the highest concentration of active users (on this sub). If you go to any other Cryptocurrency subreddit you will never see such a high percentage of Germans. (which imo, is reflection of the network effect the legitimisation the IOTA foundation has had on Germany as a whole)
+I'll see what I can rustle up. :D
+na man, we just got 2 years of sideways of BTC at exactly $6780 now &gt;:D
+that is just by chance mate. It is a checksum https://en.wikipedia.org/wiki/Checksum
+I had the same reaction when I saw the weird letters in my wallet too :) .. different letters obvs.. u/P00L_DEAD , did you ever get your custom built IOTA node running?
+Wow :) and its gotten even better since your screenshot
+say that again in 5 years
+then he will be laughing, although most of the coins at the top today will not be in the next bullrun
+LibertyMark never sells his ETH
+thats why you have to DYOR
+If we are going off the rate of comments here, I'd say the volatility is atleast hitting a local peak
+&gt; for the first time in my life I have money, and I'm getting my crypto now. Smart move!
+Hey guys, We get another $1 party again :D
+I haven't been able to concentrate in work at all today. I'm a man full of regret. When this bear market ends maybe I will look back and smile
+Yes I'm holding IOTA, but given my current circumstances I think it would be more foolish to not try and time the market to my advantage. I've given up looking for big gains (15%+, right now I'm looking for scalping +2/3/4% would be sweet)
+I got into IOTA early last year, and given the research I had put into it, I've came up with the plan to hold IOTA (and I've been pretty religious since my DCA'ing August-November in holding onto her) but recently I've thought (and maybe I'm too late to the shorting party?) but why not ride the lift up and down? Maybe its dumb of me but with the right mentality I will hit my target! (it doesn't have to be big, just consistent) Maybe I'm changing my philosophy again. &lt;10% trading might be healthy? Time will tell I have a collection of ERC20 tokens aswell // PRL OMG etc. But my focus is on IOTA. I truly think it is the successor to blockchain, and a key to the 4th industrial revolution of the IoT Oh, and Goodluck with your over-leveraged shitcoins :D edit - closed for 3% profit : P
+Don't worry mate. The sharks are even stronger, only it hasn't rained in awhile and they are lying on the floor
+I traded to USD 1x, and already got some bids hit in my sleep so not all bad :P
+Guys, this sideways at the absolute 2018 HAS to be a bear flag, right? Otherwise that'd be the greatest troll to drop $100 below to $5800 and zoom up?!
+you should look at the comment above yours
+Nothing too serious?
+Nice! I'm there till saturday morning, so PM me if your close by. : D
+AFAIK Its impossible to spend Bitcoins genisis block
+You know why they call him spoofy? Because he's all guns and no ammo
+Idk man I'd like to have a 1300 BTC buy wall :)
+I just wish I could turn back two days and shut my fucking mouth.
+because your on np.reddit.com? I like old.reddit because this new hipster reddit is all too much for me.
+&gt; Undervalued gem called Byteball* Do not read this post .. that coin is a scam ------------------ So I succumbed to curiosity... and read below the subtitle &gt; As a new developer in Byteball team, my first task is to make Byteball easier to understand for new developers because I have the fresh experience of becoming one. This guy is essentially advertising and working for a scam.
+Why did they give it to the banks?
+Right now? Probably around $6-8M of potential miners sales a day. (if they sold all the mined coins which won't happen)
+No cryptocurrency, go to a different industry. IRAs are safe.
+If you lose your job you have to sell your assets to survive. Given a recession, people will struggle.
+Quiet guys! Hush! Its moving and MagicPoopCanon has given us the nod...(don't tell anyone!)
+Long time no see r/IOTAmarkets. &amp;#x200B; Hope you are all well... Stressful times hey. Well guess what I'm still here ! &amp;#x200B; Enjoy the holidays and forget about Crypto for a little while.
+what are you talking about it dropped to .207!
+So I just did the maths on my new jobs hourly pay its almost exactly twice as much as my last job! YES
+Into IOTA, yes
+when I'm home tonight I'll see what I can do
+He literally stole fucking thousands and thousands of dollars from me I so fucking pissed about it . Fuck you Bruno
+Ye, well that would be $.002. Figures man. Decimals are there for a reason.....
+being 70% richer than last week doesn't feel too bad.
+and I have PTSD from it !
+Datta boy IOTA, you show XRP who is king :)
+I will survive the 2019 bear market too
+I can feel the sarcasm through your keyboard, its awkward as fuck lol
+So I had a chance to have a look and it seems its just people posting porn now.
+BC? I'm from the UK. I got MK Ultra too
+I too own a shit load of SHL friend. Feels bad
+Lol.
+lol
+actually he got sentenced to jail because he chased a boy onto train tracks where the boy died (hit by a train). I think Aki got done for murder/manslaughter.. thats why he is so famous
+&gt; Water is usually free with a meal in the restaurant (not that surprising to the Americans here, but coming from a place where they charge you more for water than tapped beer, this is cool) Thats because in a restaurant/bar if you ask for tap water they legally have to give it to you for free
+I have a different accent to everyone that I live around. lol
+me too. lol
+when was Earth mentioned in the question again?
+Its a trap. leave
+Good point , I'm a hypocrite OK . I picked the moon :(
+I learnt the drums in year 7 too :) Shame the teacher left the next year and my skills have never been used again :( I was good at freestyling by 12.
+Living in Liverpool, I semi-frequently see people post pictures of him getting the train to Manchester.... I think I might have seen him in person once too. The urban-legend is real. :(
+One time I traded BTC/GBP on a not-so-well-known site. Thought It was a gonna' .. alas , no. GBP arrived the next day... didn't feel nice though. Why didn't you test it first? I mean .. ??!!
+&gt; makes me not want to invest any more in IOTA if it can disappear that easily. wow, hold there tiger. Reclaim = you reused an address = in theory a bad actor could have "claimed" your 100 Mi for themselves because you didn't respect how to behave w/ a winternitz signature (1 time use) .. I pity your situation , but you are pointing the finger out of direction , next time think a little more.. Anyway. Good luck. Edit - I see my judgement is off, SYFL ..
+The issue is the valve is loose and I don't know how to make it air-tight again .. :( (and maybe I popped it aswell, had to walk for 2 miles w/ flat) I'm taking it back to the bike shop tomorrow. (I should get my road-tyres ASAP (again)!!, (they've only popped 2/3 times in 2 years) I bought it yesterday and I'm loyal to the shop so I'm sure they'll sort me out.
+When I'm feeling bored I like to read about the Crypto-horror stories , late at night. Huhuhuh .. But then I think about all of my own. :O , Thanks for the Platinum, friend :)
+&gt; Craig Wright, the inventor of Bitcoin preserved the protocol in “Bitcoin Satoshi Vision” (BSV). facepalm
+42
+instructions unclear bought 401k
+TIN FOIL HAT TIME BABY
+don't, if trade have a plan, accept that plan will fail
+amazing! Congrats mate What language did you learn?
+&gt; ankylosing spondylitis owwwwwwwwwwwww
+Honestly I think you're kicking yourself too hard. I'd find it difficult to find someone in my neighbourhood without any of those. God, I have half of them .. Enjoy life friend. :) TIFO : Compassion is unpopular
+F
+A joint
+Onecoin was a Ponzi scheme that was shut down ...........
+OP's username checks out
+Its a touch trait to hod . Sometimes you look back and think what the fuck was I doing ? lol ... life is a cake with bits of poo hidden inside. Saying that I have a dozen Krispy Kremes and a dooby to smoke (fingers crossed) ehehe
+:D , myself I don't know if it was depression (but erm yeah) the last year has gone swings-in-roundabouts .. in a good way. I don't know if that made sense ..
+ADA'V THA
+LTC rose 9x before last halving , it's close now at 6x
+hot wallet? wallet.btc.com ? I tested it out for convenience and liked it .. The most secure it gets is 2FA
+When you sign up for a Unique Tax Reference , and Revenue and Customs are asking you to fill your Tax return :( Yes , there was a 5 month gap .. I know what I signed up for lol
+NO ITS GRINding
+I TOO AM PUMPED . MY LUNGS ARE PUMPING RIGHT NOW
+life isn't so easy
+haha thanks bro. I'm off for a BBQ in the park with a different group just now. Maybe I'll have more fun! :)
+Yeah thats what I thought too
+Halal meat , lol jk . 100 years ago we were probably butchering animals without giving a second thought to stunning etc .. Now religion is tied in we have a "reason" to discriminate .. animals gonna die .. life goes on.
+You reminded me bro! I made cake! Blended it. Incredible.
+took the words out of my brain
+replace excitement with vested interest and you're bang on ;)
+hold there tiger, our Circus is still in transit. Next stop : Facebook.
+I don't know much about Libra (Facebook's Crypto) , but from common sense I'd say they would use it as THE currency for their marketplace etc. A big deal.
+np homie
+Give it 3 days and you'll be off to the markets ;) Just like a elastic band ALT/BTC
+that doesn't sound right. He's not going to get taxed for not profiting on 1.6M , only if he sold ..
+I've done so much of this over the years , and If I could back to my original positions. I would.
+that went from 100 to 0 real fast boi
+I hope those jacked on Margin use today as a valuable lesson. Its a beautiful day here anyway , I'm off to get stoned on a boat. lol
+街上将流血
+If you say EOS and hold on the S you can even hear it bleed
+lets see www.ceddit.com/r/waltonchain Nope, you are full of shit. No censorship on the attack.
+The American dream
+Just saw a post on r/worldnews about how the police were tear-gassing peaceful extinction rebellioner's (but disruptive,, thats the point.. to make people stop and think) .. and removing them from the road .. (hottest day in France ever appaz) weird world .. :(
+We saw a spicehead beinding over waist up . At the time wired , I asked (5 am) os he ok? no reply , figured immediately . came back 10 mins later after smoking a doob and he was still there , like a gucking zombie
+7 pills is suicide
+the rule of thumb is that SSRI's take 1 month to take effect (and more often than not in that time your mood gets worse before it gets better) so yes AFAIK OP's friend is retard
+weed is a aphrodisiac
+hey man I have an addiction too. probs spent the same in a decade on weed
+20 times in 6 months is definitely going to give her a physcological addiction. I doubt a physical addiction, yet.. well maybe. I mean fuck, I've done coke very few and far between over the years , only this year I did it /4 times in the space of 6 months and there was at a point at craving from me .. now I'm not one to fall down the addiction rabbit hole (aside from weed) so , my honest opinion is that she has a addiction to coke.
+The philosophy of the sub is harm reduction and if you can't respect the people here looking for safe advice on the do's and don'ts you are in the wrong place. We don't segregate here bc of x y and z , the spirit of the sub is about making the best choices , and ultimately its not down to you who can and can not participate. if you don't like this sub you should go on wikipedia for your harm reduction.
+Neither of you know speak the truth .. you need to consider the socio-political-economic variables .. its not a simple task .. you need to figure out who is going to pay for fund each country etc ...........
+I'm white , athiest and British. I also have a history degree and the writing is on the wall you fool
+&gt; Asked if it was worth speaking to Trump, Zarif said: “It doesn’t need speaking. He has to realize that he has been fed misinformation. And he needs to wake up, and apologize. He has to apologize, he has to change course.” So much sense
+There is no getting out now its only going to get worse and worse from here on in.
+I know bro , I only have a handful of close friends left , all the others are either just acquaintances, foes or just "friends." I'm actually scared of losing my best friends right now cos they mean the world to me. Ah. But I'm overthinking and we are going travelling to 3 festivals this year :) :) w0o0o
+Thanks for your story , was interesting. Glad you stuck away :), I touch party drugs like coke and MDMA a few times a year apart from that and Phycs the only think I like everyday is weed .. and its my day off xD
+MDMA is just one big ball of love :)
+Hey man its your body and your life . If you are happy whats there to do but carry on the fun :)
+You can get baked from a dry herb vape on .15 grams , its not that you* use less THC , its that its more efficient, end up getting up way more high than if you packed a blunt vs 1/10th in a vape . ya know.... so much cleaner aswell.
+its ok in my zone now , the students are back.
+mhm you make a point there, but the cone has more leeway which I assume is why its the defacto "spliff." Tasty and efficient.
+:(
+no whole pills are very strong these days don't do that. If you are going to redose u should do it 1 hour later whilst you are still coming up . cos if u wait 2 hours you'll fuck up the symbiotic nature of the pills
+thats because when you come back to reality you realise how dismal it all is and want to go back to your happy place.
+Cynic me is saying u should put more weed in the joint bc there ain't jack shit for resin by the cherry. Happy birthday
+high (5) , Actually I'm sober but I like cracking that pun. ehe . Have a good day Frent
+day-in-day out used eye drops to whiten my eyes. I now have a floater in my eye, and the connection is uncanny,
+yes mate anger is part of the withdrawal. something about not having nicotine makes me irrationally angry.
+I don't mean to engrave your addiction but all of the side effects you mention are from tobacco itself, you get none of those symptoms with a vape. Go get your lungs checked out mate, sounds risky.
+its ok I will buy us both drinks. Gin!!! x0x0x
+nononono. its not ok to to take MDMA one week apart. The minimum you should space out your use is 3 weeks and the golden rule is 3 months. doing it 1 month later should be ok but anymore frequently than that and you would be abusing it and MDMA damages your happy transmitters. Some never get happy back if they burn the bridge.
+&gt; What is a fentanyl overdose like? Did he see it coming? Was he in any pain? AFAIK it is quick and painless bc of how potent Fent is.
+1. burn house 2. burn vehicle 3. burn passport 4. ?????????? 5. Buy Yacht 6. Yacht to Belize
+if you are worried clean house and put your stash somewhere close by
+Use your common sense 2 weeks is nothing. He will be OK.
+&gt; bc I smoked a gram of weed to the face The face is a classic, but my personal favourite is smoking out of the anus
+Cannabis has this quality whereby you scrutinise your life. If you can't accept the past and move on with your thoughts then maybe its not a drug for you.
+smoke a joint my guy
+Now I think about it, thats one job thats sure as shit going to end in a nasty overdosing death
+The euphoria is less pronounced and things generally feel more sober
+&gt; If you can tell me ONE thing that alcohol does that drugs do not do, get you in legal trouble simply via possession
+Brothel Go figure
+I have both of those and I;m strong as fuck so you would like me hehe
+&gt; I get hooked on the vision of me having a blast with friends and being connected to them me too :):)
+hey why did you let Martin Shrekli's; Wu Tang Clan album out!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+hey man , I was in a tight spot a year back. Bad job brought out all these anxieties in my life. Not even a good job. Took along time to realise that I needed to go. In a better place now. I'm sure you will be too. Soon.
+mhmm but we didn't speak about bo in 2 different ways , we were just speaking of BO = still my point stands and obviously if you have no respect for your body nobody will respect you .. but that said I cycle everyday like 40 miles so Im a bo monster
+idk man I can only see a dick in a box
+doesn't sound right to say the earth has to host another 7 billion of us (going 10B soon). The best thing for this planet is if the coronavirus wipes us out. Honestly.
+my best friend is a female and I'm a guy, we are really intimate . so it can happen :)
+The Chinese standard is to cheat , so i'm not surprised that they can never finish a job.
+The lengths a man will go to get that good good smoke
+I've been researching China's "statistic" policy. On Chinese death certificates, the state gives the long term condition as the result of death. Eg , if you got Leukaemia in CH and died of pneumonia, your death certificate would say cause of death = Leukaemia. The true figures of death are unknown and will stay unknown. The system is broken.
+I was playing around with the depth of field. Initially I had taken pics of the string in focus , but I found it more appetising to the eyes to have a larger depth of field. &amp;#x200B; I'm a relative newb, (well I've been into photography for 10 years , but only as of recent have got my first DSLR. so generally getting around the camera is a learning curve in itself .. &amp;#x200B; ISO 100 f14 1/10000 Oh and 70-300mm ef canon lens
+wow
+FYI I haven't gotten into editing yet (and it feels kinda dishonest tbh.....) but yeah, unedited.
+he took spice
+best view in the whole city though! EDIT , nope lol. I was thinking of Everton park. Toughest hill to climb!!!!
+Its asif it was meant to be, now find out the message :)
+Reflection is one of our strongest tools to develop so thinking through life experiences like this is setting you up to be a wise man or woman :)
+Drugs aren't for everyone. I hate that shit EDIT - Lol everytime I say what I think about K on here I get downvoted, Circlejerk of a place. YOU EITHER LOVE K OR YOU LOVE K OK OTHERWISE I DOWNVOTE U. Its a dissociative. It makes you feel messy, clumsy, sleepy. Sick. EDIT2 , and it destroys your body too. Will age 10 years in 3 if used regularly, and die about as quick aswell with the organ failure.
+I switched from smoking to vaping and the "need" to have weed has totally gone.
+The bird came into shot by chance! haha. There were for sure better looking photos I had of the ribbon but the Seagull made this one for me. Thanks for responding. I appreciate it.
+If I had to guess where that pic is I'd say close to York or Coventry? Totally guessing. lol
+The Volcano is the only device that is medical grade , so in that regard. Yes the safest. OG Volcano, not the Hybrid. Although I'm sure its fine.
+~~Its only the Volcano that is medical grade~~ Volcano and Mighty
+and ice especially
+&gt;!thats!&lt; cut&gt;!ting!&lt; a &gt;!very!&lt; fine line &gt;!f!&lt;o&gt;!r!&lt; &gt;!moving onto!&lt; crack
+Yes, my joints are ne&gt;!ver end!&lt;ing at festival&gt;!s :D:!&lt;D
+&gt;![I FOUND THE OG DYNAVAP](https://www.ebay.co.uk/i/121062503884?chn=ps&amp;norover=1&amp;mkevt=1&amp;mkrid=710-134428-41853-0&amp;mkcid=2&amp;itemid=121062503884&amp;targetid=882134734012&amp;device=c&amp;mktype=pla&amp;googleloc=1006884&amp;poi=&amp;campaignid=9441192234&amp;mkgroupid=96850532638&amp;rlsatarget=pla-882134734012&amp;abcId=578896&amp;merchantid=113733459&amp;gclid=CjwKCAjw8df2BRA3EiwAvfZWaCQvZfupqzSmZf9Ek-aMKdLwN1xG3ojUg05ThFyP8E4ZOr-xPHKKUhoCqg8QAvD_BwE)!&lt;
+&gt; That South Korean church where most got the virus? Singing in close quarters. Spit flying. The same sort of thing that happens with protest chants (we will see if outdoors is enough of a factor to mitigate). The South Korean Church, infact was found to be a "super spreader" present because she was spaying "holy fucking water" in everyones mouth to protect them from the virus. fucking dumbos hey EDIT , the same bottle
+You'd love a Volcano and probably never need to buy another vape for a long time, quit smoking (10 years) as a result.
+No deliveroo need more riders to saturate how many jobs we get and pay us less. In the time I've worked with Deliveroo the base pay has dropped over 30%
+UK, I'd say he was a westernised Asian, (if that even exists) lol
+SO FAR &gt; REALLY BRO!!!!! I AM NOT TALKING TO MYSELF NOW. FUCK OFF P.s I'm joking hahahaha
+1984
+I'm familiar after studying the effects of Meth on addicts haha :)
+I liked the taste of smoking weed too.. and like everyone else I am starting to despise it.
+I really love it, really good job :):)
+spice does this thing to people whereby they become a statue for a long period of time . I've seen it myself with the homeless alot. It seems to disconnect any coordination to some peoples bodies, if say that happened to you on Cannabis that could only be described as a psychotic break.. now the fact that you all got fucked says to me the chances of you all being mentally ill is unlikely and you did in fact take spice.
+I can't see the c-vap on the dyna website??????? :((((((((( HELP. Yeah it costs 30 pound with shipping. May aswell just get a proper Dyna from hte UK for a few more quid........
+lol its good I got it for 21 pound in the end :) total https://couponfollow.com/site/dynavap.com#C3972356 Cheers
+Thank you :) :)
+r/shoulditrip
+its a big no-no to dump your mates in the shit, so by all means OP stick it to the man or (figuratively) stick it in the man
+besides the fact the evidence is plain to see on the clearnet if it does get to you OP
+noooooo!! Thats really sharp man!! I'm assuming this is a secondary or third tapering?? Anyway it sounds like you are really close :):). I've gone from 30mg to 20mg (no side effects) been 5 or 6 days. My body never agreed with them and about 1 of every 10 days or so I would chunder down the toilet. I'm on 20mg for another 20 days and then 10mg for 30 and then (fingers crossed) I'm good :) I know multiple people that cold-turkeyed them but I don't want mad mood swings.
+In the UK , I've only seen Sertraline get a bad name for itself, because well it doesn't work for alot of people. Other than that idk about S. Good luck, hope I helped.
+we had something similar at the end of our road before the council vandalised it. Now its just been graffitied with 5G KILLS
+I had to stop using the eye drops cos I got a floater in my eye
+If I remember correctly there is a service in America that hands them out for free
+ye but how do you go into a shop w/o identifying yourself. Its a catch 22.
+sorry bro I only have an 8th of Oregano. Do you want it . I heard its really good to smoke
+its not clean cut to compare the British police to American , because 1.) Their president just gave the police the leeway to do "whatever it takes" to stop the protests. 2.) They are using the military and the police have guns.
+FYI in the title it sounds like you want to kill yourself
+u/emisoliiiis
+Bro you've had a long hard 2 months to think about this same story. You posted this awhile ago with less detail. I can't figure out if you want to bang her or you want to shank her. Just don't go back.
+well she sounded like a bitch, a rat .. so on that fuck her . But you know her more than me so if you like her , ask her out , and if she says no well then you don't have to worry anymore/
+&lt;3
+I had an acquaintance once proudly tell me he started smoking weed at 12
+me 2
+If you have vaped the weed charcoal you have gone too far. Its easy to do on the Arizer Solo. Aim for a dark brown and its good,
+probably because its the elephant man of vapes
+thats not the point of this post though, point is you are increasing the chance of death by mixing stims
+I looked and they are pretty expensive still. about 50 pound from what I can see on Amazon, and then there is building it , which I would never, ever do.
+Hello!
+Hi!
+kk
+Bro you are picking up carts in a black market , you have no idea what cannaboids are in them.
+why ask the question if you know its dangerous!!!!!!!!!!!!!!!!
+AFAIK CBD doesn't smell out like other cannaboids?? ANy ents that have vaped CBD chime in? My experience was only with smoking CBD flower and it was an alien (nasty) taste to me
+me too!!!!!
+You have a weekend contract?
+Thanks bro, sorry for getting angry
+yeah it was really pissing me off on the way home that D say us nothing more as a tool for them making money. There are really only 2 ways out of this situation, to effectively unionise or quit./
+No I am/was getting confused because I am signed up to Prime , but it still says "1 free month, then 7.99 after 30 days) but going off what everyone is saying , the guy that has the job of making the page I read is doing a shit job
+Death is a stretch too far for me, but I'd wish they have some more empathy for us.
+I gave in after realising I was being pedantic, I'd agree with you except its not gonna cost me anything more cos I have Prime anyways
+Western Supermare?
+not suitable, this guy smokes a lotta weed, topping up after every hit won't be his thing.
+looks good but its only for london. https://uk.trustpilot.com/review/www.peyk.uk
+They all break quickly no matter what you pay, my 20 pound pair that I have used for about 2 months of work is held together with gaffa tape when in use. EDIT - if you really want dry feet the whole time out, get a pair of waterproof socks (30 pound) and get a pair of shoe covers much comfier life/
+&gt; Ciudad Juárez, a town that sits across from El Paso, Texas, was the second most dangerous city with 104.54 murders per 100 residents
+We don't have any paraphernalia laws here , so when the police question what I am going to do now with my 80 pound Space case, I simply responded "that is not illegal" , worked a charm twice, no thrice. I've been in situations that would probably land me in jail in the US but thanks to compassion I am not.
+Well not really. we have a 3 strike policy in the UK if found with small amounts. Last time was on my birthday.
+haha its ok Frent, this was all a result of smoking joints , the vape is alot better for discretion :)
+I just got lucky , was really wound up over it , and it was the first time. I saw the police but didn't care to move away to finish my joint.
+and teeth :) Mine where white when I smoked but I got the Hollywood smile now :D
+&gt; couple questions. r/relationships
+&gt; any tips? Yes mate , can i have yours?? Could do with a spare
+The adaptor through the Arizer Solo is great, because its a session vape, every hit is amazingly hard, really changes it into a different beast :)
+I've heard some bad things about them recently bro. Idk, give it time. Is it the American side of s&amp;B or the German? I've communicated with the Germans recently (1 month) and they were excellent. Ceramic parts for Hybrid I got. How long have you waited for a reply?
+I heard the parent company made a $1B loss in Q4 2019 , so does ring alarm bells. Shouldn't worry about S&amp;B though, I'm sure they will come through.
+Doing drugs alone is a red flag for addiction so I doubt somebody wants to deal with alcohol withdrawals. And its a depressant. ** OP ORIGINALLY SAID Weed. Maybe a low dosage of shrooms. Alcohol.
+I think you would like https://www.youtube.com/channel/UC0znI3dRWpNF8lvbPBTlzyw
+Maine, I don't know much longer I can take with you talking shit about Vegas. If we tell them its just sand there nobody will visit my camel :(
+usually when I shop for 11 days I like to make a decision pronto. wtf
+8 pound Royal mail surcharge and 25 pound tax? ;) Yeah same thing happened to me. P.s I just got a Cvap and I love it!!
+No I mean I got my first Dynavap, the C-Vap :) Its great, The customs charge was for something else, just around the same price.
+Splinter Z , sells cooling stems. they're pretty nice
+I guess with time when we see 1, we assume a longer time period?? science is weird man
+There are two versions of Deliveroo now , one by car and scooter and one by bike. I made 79 pound in 7 hours today, Quite the difference. Having said that I was mildly impressed because many of us are waiting 30 mins+ for jobs , I only nagged 79 cos I was trying to distance myself from other riders.
+360 tastes nice but won't do all that much for you , so go higher. I start at 180 C and go to 230C. Around 200 is a head high and anything above sedates the body.
+A k-hole is a literal dream state, I don't know what the fascination is with it. And the feeling of K is horrible. Wobbly, disorientated, sick.
+yes
+When my earnings ebb and ebb away the writing is on the wall. Wages constantly falling, not getting better.
+I just got a range of Bokah lenses, well a few .. anyway. They're great at creating a depth of field , and something that might take your fancy in creating the perfect focus
+OK well I'm glad you can have fun too :)
+I've used SSRI's and my anxiety has slowed to normal rates , its been a long 2 years but in about 25 days I'll be off for good.
+Thank you :)
+The average tab is 100 ug so I cant see how this is plausible
+Just got a Volcano Hybrid (to vape my weed (its my DOC) and my expenses have fallen 3 or 4 fold.
+I've had mine 2 months, Its my favourite vape. It gets me so high. 10/10
+Out of all my friends, or acquaintances I've ever met or spoke about Acid with there was only one, guy in our friend group that did that much. He was never the same again.
+FlowerPot, there are so many different accessories it confuses the fuck out of me , but if you are lucky enough to figure out the buying bullshit thats it .
+I was looking into the weedEater awhile ago, but I read that the Vrod is better for flower? I'll likely buy one in the next year , if a vape doesn't beat it by then.
+Guys headspace is just off, you never know how to communicate with him. I've fallen away from my best friends of that time so I rarely keep in touch other than facebook now.
+Yeah I get wrecked from .2 grams. I have a custom bubbler for the Volcano too, so smoking just doesn't compare anymore
+This is my first shot of macro with a ring flash , so was quite excited and jumped the gun on my first model, not even 20 minutes ago.
+you are not allowed to roll fat people over !
+it was shown in a few studies that nobody cares about anything but themselves https://medium.com/the-ascent/research-confirms-that-no-one-is-really-thinking-about-you-f6e7b09c458
+no I like it with lemonade
+I got 100 odd turkey bags for about 20 pound, they will last me atleast 5 years
+If you find out she does it more than once a month, unfortunately it'll likely spiral to **she does coke**. I did it 3 or 4 times in the space of 2 months and got cravings for it last year. Its not my DOC.
+no, you're wrong . it hits hard. I have both
+You can't compare Kratom and MDMA like that atall. Taking MDMA repeatably, daily will ruin the experience almost immediately , by the second day.
+a retrospect molly i was s&gt;!n!&lt;orting &gt;!this!&lt; shit, &gt;!a!&lt;n&gt;!d!&lt; i&gt;!t!&lt; was down to my last 2 &gt;!lines, and they were some!&lt; fatties. &gt;!at th!&lt; i &gt;!s point the molly got me high!&lt; like &gt;!every other time, cant really focus, wanting to!&lt; do everything &gt;!at a single time.!&lt; &gt;!. .!&lt; &gt;!TROLLEDD HAHAHHA!&lt;
+Yeah , I got robbed years ago, a week or so before a house party. I blacked out then, coke , xtc, weed and alcohol, nothing serious happened but I got myself wound up wired at the wrong time. (over getting robbed)
+The difference between a good and bad vaporiser is the difference between you preferring smoking to preferring vaping. With a good vape you will recognise the taste, hit and enjoyment kills any throat burning spliff in your mouth
+If I were in your position I would (probably) send the riskiest by post and pocket the dynavap or something. Goodluck, we are rooting for ya :) And if you do send by post, and you get a "love letter" just remember to do research on what to do, like not acknowledge the package etc.
+Vaping weed vs smoking weed really limits the munchies you get. Deffo still there though/
+&gt; We also kept going to the corners of our small room to talk to each other in private, despite everyone else clearly being able to hear what we were saying. hahahahahahahahahhahahHAHAHAHA
+Right so you want to know what terpenes are released at what temps. I know of the bat THCV is released at 219. THCA (turns to THC) at 154C , but as we know hits harder with the THC at the 200. Some vape at 198.199, but don't know the names off top of head. Best way to get the best high is to know what cannabioids you want, https://honestmarijuana.com/vaping-temperature-chart/ https://www.siranaturals.org/blog/what-do-different-vape-temperatures-mean-for-cannabinoids-and-terpenes &gt; CBC (cannabichromene): A unique chemical, CBC is about 10 times stronger than CBD for stress and also has antiviral, anti-inflammatory, and antitumor properties. Boiling point: 220˚C/428˚F. CBC looks like a good one to look at
+Isreal are about to legalise weed too ;) Let me be clean , this is real news
+Dear diary; I made it 1700 days The end is neigh The horse also neighs? The horse is on the Ketamine I think you need to tell your mum
+&gt; looking for something electronic,
+no I downvoted because it was a stupid idea. its a butane vape
+worldwide shipping is $30 , so its $34 ,
+I got lucky with the two piece model of the [Vivitar 75-205]( https://www.pentaxforums.com/userreviews/vivitar-75-205mm-f3-8-macro-focusing.html) on Ebay , snatched it for 13 pound Inc shipping , a vintage Vivitar extender set (10er) . I'm pleasantly surprised with the results. https://imgur.com/a/UGjfn3v
+I was trying to show live action of Liverpool league celebrations. Kicking off footballs was rife , and so were smokers/flares. &amp;#x200B; The lighting is a big issue here, ISO is 1600, so you will notice its very grainy. less so in the RAW format though. I was struggling to get a wide angle shot (given I'm using a 50mm prime here that is a given..) &amp;#x200B; f/1.7/ ISO 1600 (RIP) /1/160 &amp;#x200B; &amp;#x200B; I got about 100 photos from here but only a handful are satisfactory.
+*premier league, shows how much I follow footy.
+thanks for the feedback, I'd have to agree
+1.) I'm still using the RX Gen 3. its just annoying cos I have to try to turn it on again and again at times 2.) I just got a [Ehpro cold-steel 100](https://www.reddit.com/r/Vaping/comments/cbxfxd/ehpro_cold_steel_100_review/) as a box-mod for my splinter, looks like it will have a much longer life span.
+&gt; Capacitors within them can hold a lethal charge for years after unplugging it. how? they sound nuclear
+As of yet I've only been using manual because well its MY shot and not the cameras. Thats how I feel , and maybe I'll change, but I wouldn't feel as wholesome knowing I didn;t actually do the main leg work.
+no its not cool to hold a prejudice against somebody because of their opinion.
++1 volcano, you are right the merits are small to get anything but a Volcano Classic
+I had just woken up, and had to second guess , as the title says. why there was a volin in my room. haha. &amp;#x200B; Eye illusion. &amp;#x200B; 1/250 f/1.7 ISO 1600 (I didn't actually know it was this high Side fact - I have my 10-18mm Canon lens arriving today :D
+I do that without drugs
+The Volcano is amazing I mean I can get to a 10 off less than half a gram, if thats not amazing I don't know what is
+I don't get this subreddit I posted a verification pic 2 months ago and here you are posting???
+Id give the Volcano a 9/10, Normally I have to go through 4 to 6 bags to get to a 10 tho 5 bags = .2 grams Arizer Solo - 8/10 the splinter Z a 7/10 and the C-vap - a 5/10
+Hit up Arizer support w. copy of receipt.
+the first owner probably sold it knowing it was broken, if this is your first use of it. Speak to them. Depending on how they described it, it could vary from a mistake to fraud.

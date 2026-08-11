@@ -1,0 +1,500 @@
+Atlas Poles
+&gt; single use trains-as-weapons would actually save money. assuming the first artillery shell magically comes for free I guess?
+Kan ha varit så bråket *egentligen* började
+fus ro nah
+Cogcrete!
+&gt; Why are people so hellbent on concern trolling when they don't actually know shit about the topic? because reddit. if you sound serious enough and make it seem vaguely legit, you're gonna get upvotes
+I just bought a used 1080 Ti a couple of weeks back because I ain't touching those new gen prices with a 5 ft stick
+Kirchsteiger såklart...
+They probably will just make it more rare
+Yes. in the Friday Facts a couple of weeks ago, they even showed how this looks with the [new belt textures](https://cdn.factorio.com/assets/img/blog/fff-269-10-underground-side-loading.gif) full fff here: https://www.factorio.com/blog/post/fff-269
+Stay the fuck away from Factorio m8
+I usually count in bool *false, true, true, true, true, true, true, true, true, true...*
+Good question. I'm programming VHDL for revolving sensors for industrial applications. I'll let you take a guess :D
+Working in a department called "Industrial Automation" so I guess it counts? mostly programming VHDL though, so not too related in detail
+Well they needed a miracle to fix this code so... I guess?
+Yeah that makes sense, but the V in VHDL *obviously* stands for Very High Speed Integrated Circuit *rolls eyes*
+They said Far side, not Dark side
+But.. but.. RimWorld!
+Sooo... It's just canny?
+A pane in the glass?
+Surprised_pikachu.jpg
+But this is useful for when you just want screen snippets, and works on all Windows 10 computers natively, meaning you don't have to install it every time you need a screenshot on another computer.
+&gt; I managed to find a job that is more fun than playing Factorio. But if you do your job *too well*, maybe it'll suddenly be the other way around?
+och mig. tack
+"China Export"
+I thought that was expected to come?
+S M A S H B O I
+I Will always downvote titles that just say "truth"
+Probe-assibly
+H E F T Y C H O N K
+You're right of course, but now you're going against the stream.
+Fuck that pun almost missed me.
+Every other week or something actually. It should be repeated to establish that it's the ground pillar for all the trigonometry and going back to it several times will help cement that intuition
+I think it would quickly become too much of a chore to refuel lamps... kinda like it is to refuel inserters, which is why I only use them for early coal power where they feed themselves :P
+jag kommer ihåg det lite på grund av samma grej. Minns att jag tänkte hur ironiskt det var att det är motsatsen till VIS, men var inget läraren sa
+Show bobs and vagan
+obviously, or you'd have to hop around on one leg all the time
+4 ex confirmed!
+So this is what becoming a martyr is like
+your resource settings seems way too generous then and/or you're just not thinking large enough ;)
+Isn't it ironic that the hate itself is fortnite dancing?
+&gt; Preventing burnout by making something frustrating has the opposite effect. The point is that it's not the Delve content or the non-Delve content that is frustrating. It's just the *switch* from one to the other that's frustrating. GGG is betting on that short period of frustration is well worth it to avoid the longer term burnout that is much harder to come back from.
+And let me tell you Armageddon Brand isn't helping any of that :P
+/r/mademesmile
+I think he was joking
+at least there are plenty of craftable ele+chaos hybrid resists affixes now
+I found that one unique strongbox that spawns several ghosts, and just as I pop it, 2 intervention agents gets farted in from the 5th dimension on top of the ghosts...
+https://i.imgur.com/IQcVVCm.png
+Today I started a Ramparts map Just as I zoned in, the caravan started moving.. up on the wall...
+/r/boneAppleTea
+Rolls makes more sense anyways
+Yep. One of the very few reposts I can't help but enjoy... ...But upvoting? Hell naw!
+It's just like certificates for https websites
+Håll käften
+You should work on your formatting a bit
+Ah fuck, you've corrupted it...
+Yeah.. I'm at 17 on lvl 88 ...
+I have learned so much in this conversation
+also curious about that. Would save quite some time if all branches were the same
+didn't know Uber Elder was in Act 8
+Should they delay the release because Blizzard fucked up? lol
+Of course, the same could be said about the whole world's population, minus 20 people
+&gt; ya, people get hung up on what's the best ultra late game efficient set up The annoying part for me is when you have something at maybe 90-95% efficiency and people keep whining about the last 5-10%, but I feel it's a bit of a different story when someone builds something at 5-10% efficiency :P But whatever, finding bottlenecks and unnecessary infrastructure that can be optimized and improved is one of the fun parts of the game
+Thought it would be some jacket commercial or something "Super awesome fabric withstanding all weather and shit"
+https://i.kym-cdn.com/photos/images/original/000/966/742/9f8.jpg
+An even better example is emergency personnel accessing your house trying to save your life
+Well, yeah "Updated the hideout loading screen art." https://www.pathofexile.com/forum/view-thread/2277394
+&gt; gems jewels*
+I heard people saying it was outdated in Delve, but the delve affixes were there.. is there something else people are talking about? Level ranges? tiers? Edit: I checked, and I don't think any Betrayal mods exists, so I guess it is outdated Edit2: I'm talking about poeaffix
+Jokes aside, no shame. I died a lot before I learned more about the fight. Then died a few times mostly due to that fucking phys blast he does with dual wield, but nowadays I never die. You play, you learn, you get better... ... also, these days I try to be a bit overlevelled, just to be sure :P
+It's a good mindset going in to almost any bossfight. I usually just run in circles around the boss until I start figuring out what happens, and counter-attack just after they attack since it's very rare for any boss to have a quick attack right after a big obvious one. Took me 3 portals to kill Mastermind in betrayal going in completely blind. The 3rd portal I actually died during the hideout teleport.. lol..
+&gt; It is not outdated, can you be more specific? poeaffix
+http://i.imgur.com/vMcJD.gif
+Still sane, Uxile?
+It's been bugging me for years. It's so fucking stupid
+/screenshot [x resolution] [y resolution] [zoom] *"Takes a screenshot with the GUI hidden, centered on the player. It is saved in the "script-output" subfolder of your User data directory. Resolution is optional and defaults to the current window size. Zoom is optional and defaults to 1."*
+I got rid of the copper wire belt and made direct inserting and had some fun with [a snakey design](https://i.redd.it/va4j210enk701.png) not very optimal but it's doing just fine and looks cool :D
+I posted a "non-greedy" 2-centrifuge version some time ago that would only insert exactly the amount of fuel needed, so it could be used early on when you haven't built up a buffer, but I can't find it atm
+I found it! I don't know if it's what you're looking for, but you could try I guess !blueprint https://pastebin.com/Ws1rK7dG Edit: you might find some other useful blueprints [in this thread](https://www.reddit.com/r/factorio/comments/7pvx6r/non_greedy_selfpriming_kovarex_refinement_setup)
+is this diviners strongbox with "drop cards of stack size 1"?
+*Fiiiive gooolden riiiings*
+And I died 6 times on a Core map yesterday... (it was twinned, which I didn't notice until 2 deaths, but still...)
+I mean.. I was running around the boss room after killing the mastermind and felt like I was missing something.. "Wait, isn't there like a treasure room somewhere or what?" Made sense to add it
+I was literally sitting at three 3 rank in fortification, while captain was 2 rank, and debating if I should just run it anyway.. Good thing I waited Edit: or maybe this bug only affected the scarabs?
+Hmm, I've never fought shaper or anything above. only killed red elder at most. I managed to kill mastermind in 3 portals going in completely blind to the fight. The hardest part was figuring out the mechanics on the fly. Parts of it wasn't super obvious when half you brain is focused on just staying alive. With that said, you have to be somewhat used to boss fights, prepared to dodge stuff and quick on flasks, but the arena allows for some hiding and possibility to "pause" and recollect
+my /deaths says otherwise
+but.. it's free?
+what? he wasn't talking about maps
+I read this in Hydraulic Press Channel voice
+[No, listen to me Exile!](https://i.redd.it/yywd8uqmxaq11.png)
+Can someone make a chart where we can navigate all these charts?
+yes that was the joke
+Yes that's a better reasoning =)
+Maybe people think that GGG shouldn't have put those lootboxes in the game to begin with... idk
+case in point: tuesday patch
+#HHHNNNNNNNNNGGGGGGG
+Increased rewards and reduced difficulty of main league mechanic after people complained
+Kommer från alla som offrat livet i MS Röj
+Yes, seeker is the only set I've bought
+**Fakta** ---- *fghjjghjk*
+No you didn't, stop pretending, it wasn't funny to begin with, and it isn't funny now.
+Oooh boy that fake accent is so annoying
+It's so fucking annoying
+Finns ett bingobräde för alla de där
+Hehe, nice 1 2 punch
+15 minutes in Gimp? That's just enough time for me to accidentally delete the image 4 times, and turn it black and white
+I think the tsunami happened long before these videos
+Counting cliches on reddit? I hope you're overflow-protected
+Exactly what we need right now. How do we set another one off?
+Says*
+Ah, so actually alt-right?
+Awww va gull- vänta nu...
+I heard similar statistics on vinyl records the last 10 or so years.
+&gt; just less of it. isn't that the whole point?
+There's a very clear natural selection scenario for this species
+because it's extremely hard to make a general classification algorithm like that, especially when a camera adjusts the color temperature and exposure at free will.
+I manually stopped watching the gif 2 seconds before the end because the point had already been made. Then I saw the sub... lol
+Why? They ran sideways
+What do you mean? They ran sideways
+What's the point of the x-x tautology?
+I mean you said "If X-X = 0" and no matter what you put as X, that statement will always be true, i.e. a logical tautology so therefore, your statement: &gt; Y-X=what would've been the time if the guy started the timer as soon as the wire enters the water ... will give the correct result regardless of when the wire was put in the water.
+but that wasn't because of a prophecy.. it was because he couldn't use essences on jewels Edit: [Proof](https://youtu.be/Pnwn-Q2Dz5Q?t=94)
+I see. Yeah I'm sure someone else got fucked by it earlier but I guess I missed it
+Not for corruption but on armor base in general
+kinda = kind of kinda of = kind of of
+Has trouble with hybrids sometimes though =/
+there's nothing danish in that clip
+Rape and child porn happens in real life too, maybe we should get a couple of subreddits for that aswell then
+yeah, but his only argument was that it was "real life" so I showed him why that didn't make sense
+Angree
+maybe it ended up in our favour after all. maybe we saved a lot of dev time that would otherwise be spent on shitty minigames instead on focusing on making the core game better and reducing loading times. maybe...
+If he can afk uber elder now, it means he can easily kill uber elder with other characters, and has done for quite a while, which would get him a lot of currency. connecting the dots yet?
+Yes it's big, but saying it's "light years" big petty much insinuates it travels at light speed which I very much doubt Edit: nevermind, I assumed it was matter launched away from the star, but the matter is already present around the star, and the [light echo](https://en.wikipedia.org/wiki/Light_echo) reflects off it
+Well I'm assuming it's superheated matter expanding from the explosion that's sending light in our direction to form the circle, and lanching matter at lightspeed is... non-trivial But I don't know for sure what it is Edit: alright, [Light Echo](https://en.wikipedia.org/wiki/Light_echo) was literally a known concept. Though he just made up the word here and now lol
+Thanks, I hate it
+Att ha bra attityd och vilja göra sitt bästa i kombination med att båda parter i förväg är väl informerade om förutsättningarna borde egentligen räcka för vilken person som helst att fungera på vilken arbetsplats som helst. Om du har 2 dagar inskolning under bältet och båda parter vet om detta så har dom ingen rätt att kasta skit på dig bara för att du inte vet allt vad du ska göra ännu. Det borde i sådant läge räcka med att du visar att du vill lära dig och ställer upp och hjälper till, vilket du uppenbart verkar ha gjort.
+men hallå! Vi importerar ju elkraften, inte lukten! Dumsnut :D
+jag ser att du inte vet vart ordet "Handskar" kommer ifrån
+Kilkenny Draught?
+tvekade också pga att den kändes ganska ljus, men kunde inte släppa hur skummet såg ut. Känns defenitivt som att det kom från en burk med patron iaf
+Kommer från tönten som snaskar granris
+oh right. restaurang verkar det vara ja.. glöm allt jag sa :D
+[r/restenavdenjävlahalmbocken](https://www.reddit.com/r/restofthefuckingowl)
+*Shia Labeouf*
+&gt; Quite interesting indeed! Careful now!
+Check the subreddit rules in the sidebar (on desktop browser at least) ----&gt; more detailed version at https://www.reddit.com/r/factorio/about/rules
+Mandela effect
+sick with armageddon brand!
+det verkar som att du råkat hamnat i ett parallellt universum där sarkasm ej existerar. Var god dröj, vi jobbar på att lösa problemet
+&gt; Döm inte folk efter sin tids värderingar, döm dem efter sin tids värderingar. Ser jag dubbelt eller skrev du samma sak två gånger nu?
+well at least they've learned enough to put version in the name right from the start
+FinalGUIDEcheatsheet_Version_23_complete_real_actuallycomplete_REALLYcomplete_ajghasdg_asf_1_1_1_1 - Copy.jpg FinalGUIDEcheatsheet_Version_23_complete_real_actuallycomplete_REALLYcomplete_ajghasdg_asf_1_1_1_1 - Copy (1).jpg
+&gt; I was already buying it without even knowing about the free demo (if there was one, i don't remember back in the 0.12 days). Yes there's always been a demo available
+What's the point of the double rail signal at the station? Rail-in, Chain-out should be enough for that part since only one train should be in that station at all times anyway
+&gt; factorio blueprint editor at least link it bro :P https://teoxoy.github.io/factorio-blueprint-editor/
+Probably because in temples the rares already had a fuckton more health than the "normal rares", so now they got a bit absurd
+Men det är fan inte lunch. Tagga ner!
+Laughs in VHDL
+Och nu får OP chansen att se folk mitt i processen av att dö
+Gillar hur detta blev en omedveten roast. Du säger att estetutbildningen inte alls lyckades utbilda dig inom musik på det sätt de försökte. Alltså har du lärt dig allt du behövde om det på annat håll och på egen hand.
+I'll be honest. I'm impressed that you managed to fart out a 1k spm base without knowing what you're doing :D
+which color picker are you talking about as an example?
+Red: 0x3C = 60 Green: 0x3E = 62 Blue: 0x1A = 26 Here's that color in the Paint palette: https://i.imgur.com/huz2x2t.png Here is that color shown in percentages for both RGB and CMYK scales: https://i.imgur.com/d2od250.png
+every color that guy showed had close to equal amounts of Green as Red when represented in RGB. That's pretty much the definition of yellow. Very dark yellow will look green-ish, I admit, but since we're talking objectively here, it's a different story. when converted to CMYK scale - a scale which actually has yellow as a variable - it will show *a lot* higher on yellow than any other color, showing that it's very distinct, compared to having "a bunch of green, but the same amount of red, and also a bit of blue"
+Isn't it odd that you're using a color grading which doesn't contain a "yellow" variable to show it contains green? With that logic you could say pretty much equally red (98 vs 92). if you convert to to CMYK, a scale which contains Yellow, it will show a high value of yellow, and nothing of Magenta or Cyan. There will be a lot of Black too, and it's essentially the darkness of the color that tricks us that it looks green-ish
+#WHY!!? CAN'T YOU HEAR ME!!?
+Here is the RGB value in [Paint's color palette](https://i.imgur.com/huz2x2t.png) which "color column" does it seem to belong to? Edit: oops, linked the wrong pixel. here's the correct palette: https://i.imgur.com/kMimPTF.png Slightly more green than the first I linked, but much closer to a distinct yellow
+&gt; yellow + blue = green 58 yellow + 3 blue = ?
+Hahah it's right there in the middle too. nice
+&gt; Yellows are trying suppressed the greens with downvotes and invoking the 'word of god' &gt; &gt; Greens are presenting factually supported evidence. check through my comment history for factually supported evidence of yellow then
+oh that's a real handy tool
+there_it_is.gif
+Mini-Gretorna, lololol
+om jag bor I svealand då, är jag inte Sveabo?
+nån skulle ha svarat med "Det här är ingen begravning, man får skämta"
+ITT: People who don't know the shop idea is about as old as PoE itself. Not saying it's a bad idea, and it makes sense people suggest it time and time again, but yeah GGG knows about every variant of this idea and already shown they won't do it.
+few years back when I did this I noticed that biters that were already on the map were still aggressive, while the new ones spawning from the spawners were not, so you may have to perform a "kill all" command too. It might have changed since then though
+It's why wars are fought with guns and cannons, not swords
+duktigt censurerat namn där
+problemet är väl att det kallas "crabfish" istället för "färgade och komprimerade slaktrest-pinnar". Går säkert att hitta på något bättre namn utan att vara vilseledande. Ingen har väl gnällt på att de trott Pölsa var gjort på ... uh.. Pöls-djuret
+which is why we're seeing it on r/funny a few days later! Although I will admit this version is a bit refined and better
+Sant, vi fortsätter vara dryga och otrevliga istället då
+[WITCH DOCTOOOOOR!](https://youtu.be/0ttGgIQpAUc)
+Take the walk on the city walls all the way around. It takes like 2-3 hours depending on pace and pauses, but that's where you get the view of OP's picture. There's a couple of places where they sell ice cream and/or juice etc. on the way too where you can pause for a bit.
+looks like they tried stopping it from even starting
+this comment deserves a sticky
+I'm curious about the tile building one. I know you guys run a bunch of automated tests for many scenarios. How come something as simple as placing concrete crashing the client didn't show up there?
+They're at least 1 year exclusive to Epic as of March
+Yes I know it's hard to figure out all possible test cases. My wording of "simple" was based on the bug report it was based on. &gt; "Just start sand box, get a ton of refined concrete and place it in large quantities."
+Alright, thanks.
+det tolkades väl som att du sa typ "skitsnack, du ljuger, du vet inget, du har inte ens källor" fastän du egentligen var lite nyfiken på mer info. verkar vara lite grinigt, ja
+xD mEmEtUrNeRiNg
+&gt; Planeringen spenar väl ingen roll? Skitsnack, du sitter bara och juver för oss
+I think it's % of your maximum health in both cases
+No, that's how Minecraft works. only a 20x20 chunks area around the player is loaded and actively simulated. But in Factorio every single part of your factory will always run no matter where you are. How else would outposts get attacked by biters or your power plant run out of energy while you're out looking for resources?
+full source code in C++ allows for many low level optimizations (I'm sure /r/Rseding91 could talk for days about this). items on belts are somewhat grouped, but you can always pick up each one individually. Some of the optimizations are described in various Friday Facts blogs, but for us mortals it will still appear like magic tbh :D
+remember that starting in a grassy forest area is A LOT more peaceful than starting in the desert. Or maybe you just subconsciously adopted the "defend your pollution cloud, not your base" rule and underestimated how effective it is
+lika svårt som att lägga upp en bild istället för att lägga en länk i en self post
+😂
+I've said it before but I'll say it again. I'm pretty sure they will remove the cost of using those wires by hand at some point. It just makes sense since they're only used for that, and I can't see how it would be exploitable in anyway when we can already do it with blueprints.
+^^shuuut ^^uuuup
+Badare bar bara blek basker
+Perfect form 😂
+awww.. I knew I should've cropped out the text to hide it... Well some random dude on the internet appreciate your efforts anyway! &lt;3
+Well he's not wrong...
+I just realized I read it that way because my brain wanted it to fit lol.
+You mean left?
+[You're more right than you think](https://youtu.be/n44L-SOI1I8)
+&gt; you need like twice the time Do you usually drive near double the speed limit?
+It's been a long while since I saw the original cut (i.e. without cuts) the last 5 times it's been this shitty repost
+blir ju sugen på guachemole nu
+yeah I noticed that.. but it should work if jumping while backpedaling, right?
+I was riding to DMeast yesterday for some aoe farming. didn't spot a single horde or alliance the whole ride from camp Mojache to instance. That's on Mograine. one of the highest EU pop servers, and also quite balanced
+I mean it kind of made sense... If the only thing he wanted with the game was to get something you needed botting to get, then what would you do when that too failed :D
+I said no horde or Alliance. That's 0 on both factions
+The seeds aren't the spicy parts though
+That's 3 strikes for OP now
+which, in context of "anyone in Europe", probably qualifies as "far north"
+more specifically you want to *puncture the can* under water, to avoid it spraying toxic biohazard goo on you (can is under a bit of pressure due to fermenting). After that you open the rest of the can like normal (i.e. not under water)
+He rolled nat 20 on that joke
+2 strikes and your (insides are) out?
+Yeah it seems every week this subreddit sees a new "Our first Ragnaros kill" post still
+Quill has done a lot of Factorio gameplay before though
+DM seems pretty deserted these days anyway
+our guild haven't seen a single legendary in any raid so far... We probably aren't alone in this either
+Yeah LC has the most potential of being a shitty system so there's gonna be more cases of players whining about it. And I'm guessing that fact alone causes players to whine about their guild's LC even when they are treated fairly, just because they didn't get loot (others deserved it more, and/or loot just never drops for the class), and they have learned that LC systems are easily abused so that's the easier conclusion
+&gt; I am not sure you will have enough time to change loadout during raid That seems like a reasonable drawback of being less prepared for raids
+Kan vi inte bränna upp skvallertidningar istället?
+Yeah I should've just done a quick "lol"...
+It's possible. Maybe he told him "alright you started this fight, now you fucking finish it"
+The odds of a priest dodging twice in 3 attacks lol.
+Just try the free demo I guess
+You don't just fucking mess with Scandinavian fika
+I think we had our very first arcanist bindings drop this sunday. LC told me and one other mage to roll for it, but I lost, which I have with every epic roll since start of classic :D
+I'm doing DME with herbalism now. I've finally learned to clear the whole Hydrospawn room too now - except for hydrospawn himself. It's probably not efficient to do the whole room, but was fun to achieve. Never did ZF. seemed too boring.
+Detta betyder ju så klart att man kan piratkopiera hur mycket musik och film som helst med rent samvete eftersom man redan skattat på det
+I suppose it would become very similar to getting exalted with a faction. It is somewhat interesting to have the competitive side of only a few people getting high rank, but it's just so crazy implemented right now that people literally get hospitalized for it. Definitely nerf the decay, and maybe some sort of cap or diminishing returns or whatever.
+I think you'll be fine just going there but maybe check this list to be sure https://classic.wowhead.com/western-plaguelands#quests
+/r/thanksimcured
+Don't get me wrong, I love seing botters getting owned. My point was more that OP seemed to act like nobody had talked about this here and they wanted to show how to do it, and I was confused since I've seen several posts about this very method already.
+&gt; a moderator will take action. I think they will... ...lock or remove this thread soon Edit: or both, I guess. lol
+I wouldn't be surprised to see some statistic of my gameplay that showed me using Q to select what to build a lot more than using hotkeys. Once I've placed down some belts/assemblers/inserters I usually just Q them to keep expanding.
+No no no, Iran fired a \*missile\*, not a CEO
+Losing\* Losses\*
+Off topic: anyone else annoyed that this topic has 37 comments, lengthy suggestions and a lot of discussions, but is still downvoted to 0?
+&gt; den är väl dokumenterad, av dem sjäva. Detta är alltid det som får mig att skratta mest när det handlar om järnrörsskandalen
+So basically jump on the boat if it's there and then keep running and jump off it if it doesn't start moving instantly
+The best time to play Vanilla WoW was 15 years ago... ...the second best time is now. At least you can be happy about Blizzard actually re-releasing this game so you get a chance of experiencing it (close to) how it was.
+&gt; Could I still get 7 Frostbolts off if I PoM immediately after activating AP that's literally what "PoM at Beginning" means. i.e. no &gt; I start casting immediately after hitting the macro? no you don't. It's 1.5 seconds after (GCD)
+I think you may need a /stopcasting in between
+Even so I bet more people will want to flask when BWL is out than for MC, even when it's just for fun
+I thought crit was very valuable because you rarely get enough time to cast fireball, and instead you mostly spam instants and scorch and they all have rather shit spell power coefficient. OP did say fireball sniping though, so I guess more spell power makes sense there
+&gt;a year in a half r/boneappletea
+Ugh.. great.. who invited Doom Doom...
+well you are a subset of "everything" so he probably got a few hits on you as well
+huh? I've managed to charge stuff from zeppelins a lot
+Haven't stopped them before.. they just don't seem to take any action for Classic..
+I often go for a couple of demon packs in the room next to the lashers to avoid getting locked out
+&gt; \&gt;1% drop rate this reads "more than 1% drop rate" btw
+*hrm* my ears are up here
+I'm doing [this method](https://youtu.be/9MniAwwFKsg?t=665) for the demon packs, and [this method](https://youtu.be/9htHGtXYSuw?t=217) for the imps+demon packs. I did die quite a few times before nailing it though, but now I can clear the whole room except for Hydrospawn, but I can't do it very fast. the guy in the 2nd video clears lashers and most of the demon packs in 12 minutes and I don't think I'll ever pull that off lol
+It's like [this thread from yesterday](https://www.reddit.com/r/classicwow/comments/elt0u0/how_would_you_change_the_honor_system) about how people would change the honor system 47 comments, lots of different ideas, very long suggestions, and some discussions going on. No real toxicity or controversial stuff. **Upvote counter: 0.**
+I just got my whirlwind axe at lvl 32 and having a blast with 2 targets and sweeping strikes + cleave. just generally avoid mobs above your level
+I don't think it's when they release spirit. It's when they're ressurected at the graveyard, because then the body becomes skeleton
+Reminds me of an interesting fight we had in Scholomance when we accidentally pulled Darkmaster Gandling right as after Lord Alexei Barov died. I managed to kill him as the last guy standing with like 500 hp
+We even had one trash pack drop 2 cenarion BoEs at one point. Last week we got the first arcanist bindings ever lol
+Only because of downtime? Do you have any idea what kind of dps warriors are capable of? Where do you find the first ranged dps in this list https://classic.warcraftlogs.com/zone/rankings/1000#metric=dps&amp;class=DPS
+40 minutes waiting for onyxia buff and then get disconnected and rollbacked to before you got the buff
+100% reason to remember the name
+I agree that "unimpressive" isn't fair, but I really don't think an equivalently geared and buffed mage should out-DPS a warrior on golemagg or magmadar.. Maybe ragnaros, but not guaranteed. top5 dps in our guild runs is always warriors and rogues, and that's even when some mages go flask.
+The doctor's name? Fuckin \*William Wallace\* What a brave heart
+Yeah I think that was his point
+So you have chosen the path of insanity. You must walk this path alone, for none shall dare follow. My only hope is that you at least are aware of the path you tread upon, and that it means you will turn around very soon.
+Haven't got mining so never tried doing any boss. While I've managed to clear the whole room I rarely do. I find the imp packs fuck me up more and more every time I try lol (feels like it's almost impossible if the caster never does a rain of fire). I usually do all the lashers, then the first 2 demon packs (8 demons) and then restart.
+Was gonna heal RFD with my feral spec druid two days ago and we had 2 warlocks in the group, and the tank was the lowest level of us all.. was quite intense
+Reminds me of how many Path of Exile league names are on the ["most popular metal band names" list](http://theblekgoat.com/wp-content/uploads/2014/12/most-popular-metal-band-names.jpg) :D It's become such a meme that last summer when they started teasing the Legion League, the community manager said "It's on the list"
+isn't it 36? Edit: yeah base 30 ft + 20% with Arctic Reach = 36 ft
+Warstomp, tauren masterrace
+wha.. Have I been levelling staff skill for nothing?
+Just remember, this just makes you feel even worse everytime you *do* lose a pvp fight ;)
+Was actually surprised to see mage 2nd.. I don't pvp much though, and when I do I never use engineering or try to sheep-reset fights or whatever. Basically I'm not using my full toolset lol
+Good job but now it feels like pope shadows need to be darker
+Onyxia is always going to be a bitch though, in my experience
+of course not. but that's very different from banning streams and videos. I find it unlikely to be true
+&gt; I myself can care less if the healer heals So you do care?
+Well you mentioned Blizzard so that's why said vanilla.. But noone did guides? I'm pretty sure you could read up on boss fights online. There were probably far fewer of them around though, and maybe not so many players that cared to spend the time reading/viewing them in advance anyway. I raided up to C'thun but I honestly can't remember how we did with strategies and where we learned them. probably posted in the guild forum and then talked through it on ventrilo before starting the wipe fest
+Do explain
+Then you missed the point. I'm just teasing you because you don't seem to know that it's actually "I couldn't care less", and not "I could/can care less". It basically means the exact opposite.
+Om du inte har testat än så vet du inte säkert ifall han kanske trollar sönder dig eller inte
+Nåja, om OP redan lyckats spränga 2 bomber så borde hen väl redan veta hur man får tag på ingredienser
+Here's another one that basically does the same thing https://regexr.com/
+We actually got through the whole dungeon without anyone dying. Felt rather good about that. was very close a few times tho. One of the warlocks was at like 40 health when my heal went off, partly because i had 1 or 2 mobs attacking me at the same time lol (yeah, threat was all over the place...). The problem with druid as only healer in a group is that you can't ressurect more than once per 30 minutes
+We haven't wiped in several weeks either, but phase 3 is always threat juggling and just hoping she don't time a breath just after she kills the current "tank" and turns to the mage standing with the rest of the raid. It comes down to all the threat reset fireballs during phase 2, and how your tanks prepare for that (we kinda don't care about it, and just hope at least some warrior get the aggro before too many die in phase 3 lol)
+or for fun
+Have a couple of mages in the guild who has popped a flask for a couple of MCs. Haven't done it myself yet though. Might do it for BWL though. Seems a bit more useful
+I do that a lot, but I'm also a mage so I can prepare like 200 water in advance
+I'd say the resto pot for lucifron is more about removing the impending doom but it's nice that it takes care of the curse too
+true
+now now, I do love me some curse of elements too
+Absolute power move
+This is what happens when you don't do 0-indexing
+You feel chosen.. and you skip the part where you have to spam lfg for a group.
+AV can be such a grind but I kinda like the small skirmishes that can occur when capturing an enemy bunker for example.
+Also, setting bid to a lower value than buyout can make your auctions sort earlier because sorting by price only sorts by bid, not buyout. I put up 10 felcloth yesterday, and just 30 minutes later there were like new 20 auctions of felcloth that all were cheaper than mine, but because I have a 30% lower bid price than buyout, I ended up selling all my felcloth before all other auctions anyway.
+We even beat an alliance premade in 30 minutes yesterday. Maybe it's just so easy to give up when you don't have queues
+yeah but no point in wasting an item restore if you can just do vendor buyback
+Yeah it's all "fuck mages this" and "fuck mages that" until they're stuck in Kargath and really need to get to AH real quick ;)
+why is the name censored with different colors?
+Huh.. Isn't there an "All" tab by default? Or did I manually add that first thing and promptly forget about it?
+Finns det nån databas med alla gamla banners så man inte blir för repetitiv?
+Did you read the tweets?
+"I'm listening"
+#LOL
+And doesn't have a gigantic watermark right smack in the middle lol
+I'd recommend a normal consumables speed run for them to practice just how to pull and what trash to skip, then next time they could flask up too.
+Dude who paid it basically completely reset the whole discord and made it into some shit server for completely different gaming community. I guess he wanted to buy the userbase of a couple thousand players, but 99.9% of them had nothing to do with the new content anyway, so they're basically just an idiot for doing it.
+I mean ... &gt; It should always go to a human if you're alliance. You sort of did.. Not every guild is gonna have a human main tank, and that's just how it is really.
+That water didn't look very... transparent
+Nåt ska man va bra på 😂
+I think it's basically because it takes so long to queue as Horde, so people put more focus and effort into the game when they finally get to join. Also, since Horde can't premade, it means that all the good players are equally spread out with all the bad players, while Alliance pugs probably have more bad players cause most of the good players are queueing as premade
+Found the botter
+Oh, NA. nvm
+Yeah.. just some low lvl alt should be fine right? isn't the dude they're killing quite low level?
+It isn't
+I don't think we'll ever have a week without a post about Onyxia being stealth hotfixed lol. This boss' mechanics has eluded players for 1½ decade now. Aside from that odd character-ID specific fireball bug I wouldn't be surprised if she hasn't been patched at all.
+rank 1 is 1 second cast and GCD is 1.5 second. If you really want to minmax you should cast a rank of frostbolt closer to 1.5 seconds
+This is getting out of hand!
+&gt; Black, Islamic and a scientist? and a boxer!
+I think tapshead.gif would've been a bit more concise
+The point was about quests xp though, not mobs
+&gt; qifs that should solve the pronunciation debate at least
+Pulling off some leet skills at 13.37 o clock
+along with like half the playerbase? =D
+Huh. We never cleared AQ40 (killed twin emps tho), but definitely killed Rag pre-sons a lot at that point (don't remember if it was every time, but I think so)
+Molten Core trash packs are often more chaotic than boss fights probably because they contain more random nukes on players than most boss fights. Talking about the ones after Garr
+&gt; "...ran into three warlocks who somehow used a summoning circle" Oh no! You have entered a soul contract with the warlock cult. They will be coming for payment later.
+actually, reading it again it says "breezed through bwl every week and even did aq40", so it might just mean they did only some of AQ40
+Agreed. Badly researched Loot Council though
+We use a hunter to pull Garr away from his adds, so the adds keep running toward the offtank (and any warlocks ready to banish), and Garr runs a different direction towards main tank. Since most healers are on offtank for the adds, they can share the threat, and main tank will only ever get hit by Garr. Or I'm misunderstanding how you guys pull him
+Just so annoying to finish up the elite quests of stromgarde when you have to run back and forth like 4 times for the last one
+Also saw a few suspicious characters there. but even more obvious were 2 rogues on the turtle coast of Tanaris. They always turned very suddenly - often like 90 degree turns. They never stealthed, and never answered whispers.
+[Full list of spell coefficients](https://www.reddit.com/r/classicwow/comments/95abc8/list_of_spellcoefficients_1121)
+**WARLOCK** Shadowbolt - 3/3.5 - 85.71% Soul Fire - 3.5/3.5 - 100% Searing Pain - 1.5/3.5 - 42.85% Immolate Direct: (2/3.5)*(2/3.5) / (2/3.5 + 15/15) = 18.65% Immolate DoT: (15/15)*(15/15) / (2/3.5 + 15/15) = 63.63% - 12.72% per tick (5) Conflagrate - 1.5/3.5 - 42.85% Rain of Fire - 3.5/3.5/3 - 33% - 8.25% per tick (4) Hellfire - 3.5/3.5/3 - 33% - 2.2% per tick (15) Corruption - 15/15 - 100% - 16.66% per tick (6) Curse of Agony - 15/15 - 100% - 8.33 per tick (12) Curse of Doom - 15/15 - 100% Drain Soul - 15/15 - 100% - 20% per tick (5) Siphon Life - 15/15/2 - 50% - 5% per tick (10) Drain Life - 3.5/3.5/2 - 50% - 10% per tick (5) Death Coil - 1.5/3.5/2 - 21.42% Shadowburn - 1.5/3.5 - 42.85%
+&gt; RDP I had big trouble with windows remote desktop during first week. when I got home I was always disconnected for no reason. Started using Teamviewer instead and never had a problem.
+Did have good success farming essense of air there for robes of archmage, but that was before the last layer was removed. Since I'm on a full server atm, I don't bother even trying farming there now because It seems so unlikely that it wouldn't be contested.
+Plenty guilds run the whole of Molten Core in less than 30 minutes. Anything is possible with a prepared group of people who know what they're doing.
+&gt; a guild that does full BRD runs all day on saturdays, every Saturday. huh.. a BRD guild? that's a new one
+Correct
+then eat the corpse
+Yes definitely true. Plenty is a relative term here, but 20 guilds having done it felt like plenty to me. Say less than 40 minutes instead. that's at least 120 guilds
+Until i realize I'm arcane spec and the warrior is a gnome
+Sounds like a made up reason. You really think they only did that because they wanted more money from server transfers?
+Tycker aldrig att jag upplever detta. Inte för att jag jobbar i butik men man är ju där rätt ofta
+Fan den där har jag funderat på själv förut. Min toalett är mellan badkar och skåpet under handfatet och det är för långt fram till väggen framför för att ha en hållare på den så jag får ha rullen stående löst på skåpet under handfatet bara
+At least it's still wholesome in a way because she got to make a couple of sketches together with dad.
+I'm sure she still had fun making the videos
+I like it.
+If it *is* the perfect game for you - and there's a good chance it is - just beware that the first week of playing will hit you hard and leave you without much sleep. Basically, just make sure you don't have anythig important planned the coming week
+Detta: https://www.reddit.com/r/sweden/comments/eomdjd/stockholms_tunnelbana_%C3%A4r_nere_med_kidsen/ https://www.reddit.com/r/sweden/comments/ep4lwe/helt_okej_boomer/
+Hahaha Downvoted! How dare you interpret the title "Livestream Fails" as something that contains Fails! NOOB!
+Almost no mage in my guild is focusing pvp, but only one of them is troll... that wouldn't make sense if everyone now picks race only because of the racials. I know I didn't.
+Casual sick wrist drop omg :D
+2 out of 19 bosses, although on Onyxia you can just stand on the edge a bit and pretty much never move when feared.
+&gt; Lol thanks! hmm, who are you thanking?
+just saw that first time yesterday
+bärsärk utan särk?
+Sweet. Quite a lot of bodies there lol. How long did he last?
+the aoe is waaay bigger than the visuals
+Are you also getting Error 500 on every reply and end up posting duplicates? lol. Had to delete a couple of my own just now.
+I'm not used to see designs with 90-degree inserters, but looks nice and compact. And while some people want all inputs from one side, I think this is a good solution to get the correct mix of resources everywhere when you have so many different resources to input.
+I got to revered and about 16k rep. then I got staff of dominance so had no need for offhand. Should've grinded out the last bit while I could lol. Although even now it's just like 3 AV's away so it's not too bad
+"Vatten kokar vid 100 grader, och mjölk när man vänder ryggen om" Parkera dig i köket vafan. Det är värt det. Går bra att steka falukorv under tiden. Det enda tipset jag har är att efter mjölken kokat upp och man har i makaronerna så sänker man till väldigt låg värme och med locket nästan helt på. Då behöver man inte röra om lika mycket alls, men värmen hålls kvar såpass att det typ puttrar fortfarande. Har aldrig bränt fast stuvade makaroner, men så lämnar jag aldrig köket med mjölk på spisen heller.
+Wake me up when it's all over
+It was just a screenshot of the player, and OP claimed all on his own that it had been there for 7 days. None of which is proof of botting. You could easily do this to a real player who farms a lot in your favourite area, and hope to get them harassed.
+Jag brukar sätta igång nåt Youtube klipp på mobilen medan jag står i köket om det blir för segt :P
+Dude definitely hurt his hand for real there lol
+That is fucking horrible. But I'm not surprised anymore. From Blizzards side it really looks like they've detected some software on his computer, and the support is 100% hellbent on Luke just want them to tell him which part of his "cheat" made them detect it, so that he can fix that and continue to cheat in the future without being detected. Basically. they're completely incompetent.
+But that doesn't really sound like something the support wouldn't want to tell him about imo. I mean if that was the case wouldn't they just say "VPN is not allowed" or whatever.
+Slösa inte tid på honom. Han är efterbliven.
+It's all the same song
+Took me almost 2 months before I got my first epic... but that was choker of fire lord, sooo I'm not concerned about my LC lol. (also we were almost always 8 mages, and had quite shit luck with mage drops during the time)
+Yeah sure but I was thinking he was suspended because suddenly having an odd IP from other part of the world, but I just remembered his email literally said "external program" so that can't be it.
+Once back in november I think. was farming essence of air in silithus. Sitting down drinking and look around and see a night elf hunter far away doing something. I hover on the ground below and see Black lotus, but it was too late... Had I just paid attention to map (was tracking herbs) I probably would have got it.
+Magmadar may be the worst example for mages in all of MC. All other bosses usually have at least *something* else involved too, like decursing, aoe adds, sheeps. I guess Baron without getting living bomb is similar.
+Oh right. yeah golemagg is worse. Ragnaros usually consists of a couple of ice barrier/fire wards and reaction blinks too :P and it's a long enough fight to require some mana management
+Have you ever tried Blackrock Depths (BRD)? It might be quite interesting for you. It's not until lvl 50+ though
+&gt; So far i go oom when rag is around 10%, Yeah 1 or 2 ticks of evocation is usually all that's needed. Damage spikes can be very random. Sometimes I don't get knocked back at all, other times I get knocked back so much my blink is still on cooldown (I died when rag died lol...). I think I had like 4th most damage taken that fight.
+Same faction, Same race, same class, same name lol.. But this time i levelled up a Druid alt (55 atm), so that's a lot of new experience for me. I mainly went for a rogue and warrior alt in vanilla.
+they were 20g on my server back when i tried getting robes of archmage. Was pretty lucky with the drops too (got like 5 in 15 minutes at one point) so I think it was worth it for me. Haven't been there since then though. Just doesn't feel like it's worth it anymore with the layers gone and lower prices.
+probably out of habit and people just don't care. It's a decent point though. Could probably hide your standard setup of spell keys.
+&gt; collision collusion*
+Looking at it again, yeah. It seems he's like "Okay, I guess you can actually wear them at lower rank, but you still need the rank if you want to buy it again"
+I think the conversation is a repost from someone else, and the other screenshot is from OP where they prove that a rank 9 can wear rank 10 gear, which should also mean that a rank 7 can wear rank 8 gear
+Uselessubreddit
+Literally gateway drug?
+&gt;The Commander is weak and small Your commander is literally half the size of ours dude!
+Horde usually have more than 2 mages defending all the time
+Seems like the whole part of "Toxic people" is really what makes the current "meta". No matter which side the map favours, if one side has players being toxic to eachother combined with knowing that next game is instant, compared to waiting up to an hour for a game, it's pretty clear who has the upper edge.
+Not true. I've lost several games around 30 minute mark
+Yeah, and I honestly think that's a bigger problem than any map advantage. If AV was completely mirrored, and one team was full of toxic people and the other team organized a split defence/offence - which side would probably win?
+who are you talking to?
+How does it mean that?
+I thought they changed that to show 0? Or maybe this was the change.
+I'll be honest, I still think it's quite bad to have GM's that don't know the game. I remember seeing much worse examples on here a few months ago.
+my guild master in vanilla was tauren hunter. was not chill, lol
+åh nej jag känner hur den fullständigt sätter sig på hjärnan
+hmmmm
+Same guy who made this video has made several others about women [Abduction as romance](https://youtu.be/t8xL7w1POZ0) [Stalking for Love](https://youtu.be/rZ1MPc5HG_I) [The Adorkable Misogyny of The Big Bang Theory](https://youtu.be/X3-hOigoxHs) [Predatory Romance in Harrison Ford Movies](https://youtu.be/wWoP8VpbpYI) It's not all literal assault, but definitely some of it, and a lot is borderline
+Alright didn't think about the "for laughs" bit specifically. More like "portrayed as OK"
+Well it's the main input of everything the body needs to survive so it's not that strange
+Yes, it was Horde who patched the queue system, not Blizzard. Good thinking
+So why did Blizzard try to fix that system then?
+&gt; As in a long distance instant cast to put them in combat? And off GCD too. Can start casting polymorph at the same time.
+Fire blast and CoC is very useful for a 1.5 second reposition.
+Short for Graphics Card!
+well he replied to "can 1v1 basically anyone in PvP with little effort." but yeah generally that's probably true I would guess
+Övergick från skolprojekt till något de kunde försörja sig på. Känns som det enda de hann lära sig i skolan var "hänvisa till källor!" och trodde då att de kunde göra vad som helst så länge det fanns en källa. Ännu intressantare artikel från förra året när själva anmälningan skedde: https://www.svt.se/kultur/lars-polisanmalde-succepodden-for-80-fall-av-plagiat &gt;”Att du anser att vi plagierat ditt arbete får oss att må sämre än du kan ana.” och &gt;– De skrev att de hade gråtit över mina anklagelser. Sen kopplade de in advokater. Och då tröttnade jag och polisanmälde istället, säger Lars Ohlson. lol
+Känns som Netflix egentligen skiter fullständigt i vad man har tittat på och bara använder namnet för att rekommendera saker de vill att man ska titta på
+In my experience it actually gets worse with flash. Too much white/cold light and extreme reflections that make it look odd. I thought they looked crispy and nice in this picture, even if slightly pale.
+I feel Galv often dies first anyway. But maybe that's just because horde usually pulls a bunch of lieutenants to the entrance and kill them first.
+Yeah, OP means "new" as in new for *you*
+OuyaBoy?
+Literally no. Some information we have says there are plenty of alive smokers in the world right now.
+Excellent!
+and wagons
+No you just broke it differently. Missing the underscores
+This is before Arugal turned it into Shadowfang Keep
+"Beware those who are ALWAYS READING BOOKS" Alright listen here you cheeky little shit
+Would be nice if there was a way to target a "grid" pattern or something, instead of those lines that makes the shots hit too close to each other. Like a Death Matrix square that you just click once over a whole biter base and... deleted
+Och vart menar du att den slutna kretsen går om kvastskaftet exploderar?
+Well in the first second of the video it really looks like she was coming in for a hug to begin with. Nice moment all around either way
+Yeah you just keep digging
+/r/titlegore
+Looked more like he was trying to talk to them while holding a helmet. Didn't look like he tried handing them the helmet.
+Funny how the exact same thing happened 100 years ago during spanish flu. It wasn't protests though, it was a parade and public celebration because ww1 was over.
+/r/Angryupvote
+Pretty sure just saying "fuck" once is enough, so probably not very interesting overall.
+The redditor who made this comment has been sacked
+of what reddit wants it to be or?
+That was an amazing finisher
+Except that you can barely hear any full sentence in that whole song of course.
+I've always heard "bore crosses".
+Ah that explains it
+"Insane advantage" LOL
+*After realizing the mistake, a spokesman said "This is the one thing we didn't want to happen"*
+Very cool. How do you eat it?
+ser reklam för den varannan dag på facebook.. varför just nu?
+Says the dane who can't even recognize his own language... kamelåså!
+Dis-gusting pun tbh
+Well what's a repost without a fake title?
+Last BWL I innervated the shadow priest equally as much as myself, and one holy priest a couple of times too. But on the other hand I joined last minute on my alt druid for some guild's second raid so it wasn't that serious to begin with
+Ironically, Tiananmen square pictures is one of the things I keep finding without looking for it because people can't stop fucking reposting them every week.
+Didn't even see any ads
+And perfectly instantly framed too, almost like he planned it
+He went full r/polandball there for a sentence lol
+It's the exact same setup of classes that has been botting in Stratholme for months now, and their style of names look really similar to the names you'd find before the recent banwave. It's not proof but it's very indicative
+Samma här. annars hade jag fått 0 poäng för kunde absolut inga andra ledtrådar
+Funderat på någon högskoleutbildning? Kan vara ett bra sätt för att både få en typ av omstart i livet, och samtidigt lära sig något som man är intresserad av. Bygger ju lite på att man är just intresserad av att lära sig mer om något ämne dock.
+Well at least you only have to set up a requester chest once with all science, and then just copy paste that one for the rest of the game.
+And now you're spending even more minutes complaining about the minutes you've spent! Leave while you still can!
+The millisecond it started trending it was just another insult to add to someone who *probably* was older than yourself
+Lol.. if anything it's too alive
+And that one event makes you think all the classic devs are unwise? what?
+gotem
+&gt; Nefs tear It's actually Nel's tear. Nef is just borrowing it
+Yep it's absolutely a valid caution and I rarely buy early-access games because of the risks involved - but it's just that: caution. The risk doesn't apply to Factorio. If you get intrigued by the game when looking at gameplay videos and feel like you really want to try it out, and even like the demo, the fact that it's Early Access isn't going to be what would turn you away from the game. I'd be very surprised if someone got all the way to that point and somehow got disappointed by the full game after buying it. That's why it's completely valid to say "There is no need to wait for full release"
+En plattform för grupper och event och chatt som nästan alla man känner är medlem i är svårslaget för kommunikation. För det mesta i övrigt är det mest irriterande. Blandning av folk som delar artiklar man aldrig orkar läsa, kedjebrev, blandat gnäll, och var 4e post är reklam, och de övriga är lika ofta fyllda av "suggested for you" vilken snuddar på reklam det med. Väldigt sällan är det personliga bilder och upplevelser som delas numera, om det inte är inom de slutna grupperna/eventen/chatter jag nämnde tidigare
+Well blink works while stunned so that's not very hard.
+Folk som har extra "h" på slutet av sitt namn som ändå inte uttalas! Edit: Tur att ingen har tittat så noga på mitt användarnamn än
+men vafaan, jag hade ju redan skrattat å allt..
+Då kanske du kan få specialparkering!
+I thought it looked preaty
+Loose LIPs sink DiPS
+Då har du missat nåt https://youtu.be/Omr18N5JkaE
+This is why magic works!
+Yes
+Yeah that's the joke, but in reality it can't possible have anything to do with him since they quite swiftly got rid of him from Method after that action.
+What the fuck, this is epic.
+I've never actually watched this one but I remember people saying the audio is the worst part. The soul crushing screaming from the husband. This link is staying blue today too
+Ooooh that's why I also had 120k
+Power move
+If that was something surrounding a star it would be moving at several times the speed of light to keep up with that rotational velocity
+This is an old video from Sweden
+No I don't think so. You would definitely notice shaky footage being post-stabilized by the whole picture morphing and details going back and forth between blurry and sharp. This whole footage looks sharp and focused all the way through. My bet is some type of small hand-held gimbal.
+Sundeath if we are to look at the 2020 trend
+"No honey not tonight, I'm on my turd period"
+It will but not as much
+And 13 points in frost isnt a huge sacrifice for fire anyway. Hurts mana conservation a bit though
+the individual belts for each assembler are telling me otherwise
+Yeah I'm likely gonna drop all frost for AQ, but right now it's perfect.
+That's not what he said. Did you read the whole post?
+Check out the top comment of the [Original post](https://www.reddit.com/r/gaming/comments/cc2hgm/me_choosing_a_new_game_to_get/) in /r/gaming
+I would definitely put Factorio very high in graphics. Very nice looking and high resolution textured machines and objects with neat animations etc. Doesn't have to be 3D and hard to render to be "good graphics"
+How do l change the suggested comments sorting? Sorted by new as default is so fucking annoying
+I didn't even notice until i saw the trailer someone commented. Lol
+The number of Daily Deaths and the number of people in hospitals (Both intensive care and in general) has been steadily going down since beginning of may in Sweden. Only new cases are spiking and I assume it's because there's a lot more testing going on now (finally). I don't know exactly how the numbers in the US looks in comparison. I've only seen the daily cases spike. Edit: [Graph](https://i.imgur.com/4eMSGpo.png) from https://c19.se/en
+Literally my poor warrior running through thousand needles a few months back. And I thought Druids were supposed to be peaceful, and not go lowbie ganking =(
+I guess i was just their scratching pole for the day
+Binding my own missus
+#AKTIVERA PROTOKOLL SJUTTIOSJUMILAKLIV

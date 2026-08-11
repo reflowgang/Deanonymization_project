@@ -1,0 +1,45 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Detailed and technical, often using jargon specific to gaming and programming.
+  - Engages in lengthy explanations and discussions, indicating a preference for thoroughness.
+  - Uses humor and sarcasm, particularly in critiques of game design and industry practices.
+
+- **Recurring Interests:**
+  - Strong interest in video games, particularly CRPGs (Computer Role-Playing Games) and game mechanics.
+  - Engages in discussions about game development, programming, and technical aspects of game engines.
+  - Shows a preference for indie games and critiques mainstream gaming practices.
+
+- **Hobbies:**
+  - Likely enjoys playing and analyzing video games, especially those with complex mechanics.
+  - Engages in game development or programming as a hobby, possibly working on personal projects.
+
+- **Technical Knowledge:**
+  - Demonstrates a solid understanding of programming concepts, game design, and development tools (e.g., Unity, OpenGL, DirectX).
+  - Familiar with game mechanics, character builds, and strategies in various games, particularly in RPGs and MOBAs (Multiplayer Online Battle Arenas).
+  - Knowledgeable about computer science principles, data structures, and algorithms.
+
+- **Location Clues:**
+  - Mentions being a resident of Texas, which may indicate a preference for local gaming communities or events.
+
+- **Profession or Education Clues:**
+  - Identifies as a Computer Science student at the University of North Texas, indicating a focus on technical education.
+  - Expresses frustration with the job market for entry-level positions in game development, suggesting a desire to enter the industry.
+
+- **Demographic Clues:**
+  - Likely a younger adult or college student based on references to education and job searching.
+  - Engages in discussions that suggest a familiarity with both gaming culture and academic environments.
+
+- **Opinions and Values:**
+  - Values quality in game design and expresses disdain for practices that prioritize profit over player experience.
+  - Advocates for better treatment of indie developers and critiques the industry's hiring practices.
+  - Shows a preference for games that offer unique experiences rather than formulaic designs.
+
+- **Repeated Topics:**
+  - Game mechanics, character builds, and strategies in various games.
+  - Critiques of the gaming industry, including discussions on game development practices and company policies.
+  - Technical discussions related to programming, game engines, and software development.
+
+- **Subreddit/Community Clues:**
+  - Likely participates in gaming and programming-related subreddits, given the technical nature of comments and discussions.
+  - Engages with communities focused on game development, indie games, and CRPGs.

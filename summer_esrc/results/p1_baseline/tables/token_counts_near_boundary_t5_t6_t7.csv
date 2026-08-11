@@ -1,0 +1,11 @@
+rank,T_level,user_id,n_words,status,prompt_tokens,total_tokens,error
+1,T6,user_27a3fa64,16386,exceeds_limit,,,
+2,T7,user_54c1ebee,16380,exceeds_limit,,,
+3,T7,user_1302cb61,16378,exceeds_limit,,,
+4,T7,user_e4ab67b6,16360,exceeds_limit,,,
+5,T7,user_25b48a9a,16253,exceeds_limit,,,
+6,T7,user_c154e834,16547,exceeds_limit,,,
+7,T7,user_6d071251,16192,exceeds_limit,,,
+8,T7,user_938164a5,16691,exceeds_limit,,,
+9,T7,user_9ce96cbf,16692,exceeds_limit,,,
+10,T7,user_6fccf8b5,16723,exceeds_limit,,,

@@ -1,0 +1,46 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone, often using humor and emojis.
+  - Engages in technical discussions with a clear understanding of the subject matter.
+  - Uses abbreviations and shorthand (e.g., "iirc," "imho," "etc.").
+
+- **Recurring Interests:**
+  - Virtual Reality (VR) technology and gaming, particularly related to Oculus and HTC Vive.
+  - Development tools and programming languages, especially Unity and Unreal Engine.
+  - Video game design and development, including VR game mechanics and experiences.
+
+- **Hobbies:**
+  - Game development and programming.
+  - Engaging in online discussions about VR technology and gaming.
+  - Possibly playing VR games, given the technical knowledge and interest in VR titles.
+
+- **Technical Knowledge:**
+  - Familiar with VR hardware and software, including Oculus Rift, Gear VR, and HTC Vive.
+  - Knowledgeable about programming languages, particularly C# and Unity.
+  - Understanding of game development processes and challenges, including performance issues and compatibility.
+
+- **Location Clues:**
+  - Mentioned shipping costs to Australia, indicating the user may reside in Australia.
+
+- **Profession or Education Clues:**
+  - Likely has a background in computer science, game development, or a related field, given the technical discussions and programming knowledge.
+  - May have experience in software development or game design.
+
+- **Demographic Clues:**
+  - Gender is uncertain, but the user expresses awareness of gender dynamics in gaming and technology.
+  - Age is uncertain, but references to long-term interest in gaming and technology suggest a mature user.
+
+- **Opinions and Values:**
+  - Advocates for inclusivity in gaming and technology, expressing concern about gender representation.
+  - Values practical knowledge and hands-on experience in learning programming and game development.
+  - Critical of the gaming industry's treatment of VR and its potential.
+
+- **Repeated Topics:**
+  - VR technology, including hardware specifications and software compatibility.
+  - Game development tools and techniques, particularly in relation to Unity and Unreal Engine.
+  - Discussions about specific VR titles and experiences.
+
+- **Subreddit/Community Clues:**
+  - Active in VR-related subreddits, particularly r/oculus.
+  - Engages with other users in discussions about VR technology, game development, and industry news.

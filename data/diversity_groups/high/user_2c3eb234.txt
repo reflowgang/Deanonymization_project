@@ -1,0 +1,50 @@
+&gt; Eve Online was a very different experience, and could have evolved into much more than "Spreadsheets in space" had CCP made tough choices back when their universe was young. To be honest, this is very much overrated. Unless you're doing manufacturing/industry stuff, you really don't need to touch a spread sheet. As far as min/maxing loadouts goes EFT/Pyfa and other tools takes care of this in a more user friendly manner. Also, we already have spreadsheets for Star Citizen :P
+Just noticed your flair... How did you become a Alpha tester for Ara?
+I don't think they'll have a Ara Nexus next year, but I can definitely see something limited like Google Glasses and the associated Explorer program.
+Still better than schools in the US denying evolution....
+So much bezel.
+Interesting they went with the Snapdragon on the Selfie and went with the Atoms on the tablets. If the 10" tablet is any good especially considering it has the new 14nm Atom, I might get it as a replacement for my aging 1st gen Nexus 7. Currently using the Surface Pro 2 as my primary tablet. Also, FINALLY USB Type C in a mass market device!
+This is a ridiculous statement. You really expect your average kid to build an app that can do the same things say Snapchat/Twitter/Facebook/whatever popular games are??? DO YOU write your own apps or programs? If so, what apps/programs?
+Hah lol! That makes a lot more sense.
+&gt; ZenSelfie: I got my Zenfone2 and i dont take selfies. The Phone is great and a flagship shaker for 200-300, depending where you live. If you like Selfies, good, if not, dont bother. Even if you don't like selfies, having a good front camera is nice. I use my phone to video chat with friends/family all over the world, so having decently good camera helps.
+Aoba, Myoko, Mogami are all solid ship when played right. Love my OP Mogami right now :P
+If that PCs still on 7 and is bootable, you can recover the key using something like Magical Jelly Bean.
+The AMD 3xx should be out in a few weeks. So obviously, wait.
+&gt; They should include the new stacked memory (which AMD is implementing in some of the 300s) and a die shrink. Late 2015/early 2016 will be where it's at. It would depend on if nVidia can get the volumes they need. Right now, AMD has bit of an upper hand as far as partnerships goes since they've been working with Hynix for a few years and AMD expect a full year or so of competitive advantage with HBM.
+You... Stop tempting me to buy a 3D printer XD
+100% agree. It *screams* "SC fan" but does so quite subtly.
+Play it as more of a support ship and help out your teams BBs with added firepower, killing DDs and providing AA cover. Also, modules make a pretty noticeable difference.
+The website still needs a lot of work though.
+WinZip and 7zip can use at least AES 128. Both have supported this since ~2004. Not sure which one WinZip use by default though.
+How much are you willing to spend? And how often do you print?
+It's a joke... And also pointing out that their ultrabooks have more than 1 USB port.
+&gt; This makes putting it in the devices make even more sense. It's additional cost in most cases. However, boost converters are used in say things like fitness trackers (ie. FitBit) already to improve endurance as the MCU + sensors don't need a lot of power. &gt;If it's not going to work in every scenario, why pretend it will with this thing. Apart from the article, most people in this thread has pointed out why it's not very cost efficient and has limited application.
+&gt;"I hope WG does away with 3-4 cap circle matches as, IMO, they're too difficult to get a pub team to cooperate with" I disagree. 3 caps with some map changes can work well especially as people start to learn the basics of the maps. Yes, they'll be terrible people, but that's just the nature of multiplayer games.
+Dude... you're the Ancient One :P
+Man, the Aurora is tiny :P
+No no, honey pot in in the sense that it keeps those people off here for the most part.
+2 weeks ^tm
+Probably don't have the manufacturing volume to satisfy all three models with Exynos SoCs.
+Damn lego, you're fast. &gt;The problem could be even worse for Hurston, if rumors of them developing a new line of antimatter-based weapons are true. Not the first time we've hard about this... wonder if we'll be able to get/steal them down the road.
+It'll become the standard in the next 2 years or so. ASUS already has a phone that'll have a Type C connector.
+Thunderbolt is an Intel standard that only Apple has adopted so far. Hopefully, this will become a more mainstream standard for when you need higher bandwidth than USB 3.1.
+You do realize VirtualBox and a few others on the list are Oracle projects? I have no issues with Oracle taking down *their own projects* from SF esp. if they are infected.
+If people want memes, fine, but they should be tagged just like the leaked stuff so I can use [Reddit Enhancement Suite](http://redditenhancementsuite.com/) to filter that shit out.
+I've used both Anker and Aukey chargers/batteries and they all work well. As long as the Anker one says QC 2.0 you'll be fine. And obviously, you need a QC 2.0 compatible phone/tablet as well.
+Are you talking about car chargers or regular chargers?
+Well... this was an unexpected post.
+&gt; Anything I can set in the BIOS to prevent this? Or some keywords I can get for Google as I can't seem to find a solution. Not really. This is done on almost all boards now. This is done so that the motherboard can figure out the max rpm of the fan so that the PWM values can be adjusted properly.
+&gt; Probably had a hidden account or something Don't even need a hidden account, a test/dev account with the right permissions can easily be overlooked especially if said dev/test account is a department shared (yes... I know) account.
+The charge current is completely dependent on how much capacity you have left and battery size. It has little to do with the charger as long as the charger can provide 1C or slightly more.
+Minefields would be interesting... But I'm afraid half of my random team will die to them for a variety of reasons.
+Really? Are you going by that unsourced post that random blog made and everyone else reblogged?
+&gt; I know quite a few companies still run XP That's just a recipe for disaster...
+Dude, just look at the performance. It does worse than a $200-250ish phone.
+Hopefully, Google isn't crazy... but with Google, you may never know.
+Psh. Amateur. . :P Just set up IFTTT or some other page monitor tool to alert on new posts on the RSI RSS.
+Lol. Fail on my part. Fixed now.
+&gt; mine has developed ever expanding cracks in the window. The cracks are more than likely because you over tightened the fittings.
+S6. Some random blog said their Samsung source said "S6 sales less than expected" and most blogs re ran it.
+Yup!
+How did you crack the band? I wear it 24/7 and do swimming, running, jogging, sleep, etc all with the band on since December, and no issues.
+Just look at /r/runescape and /r/2007scape. There's still a sizable chunk of people playing this surprisingly.

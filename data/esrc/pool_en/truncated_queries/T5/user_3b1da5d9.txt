@@ -1,0 +1,100 @@
+There are a lot of games that are biased af towards certain architectures.
+he should have his own web mini-series.
+In what way would it be more chaotic?
+Also if its a company employee who's calling with the problem, they'll treat the downtime that the issue causes as a coffee break, and since its *your* job to fix it, they feel no responsibility to cut their break short by clicking that little update button.
+Well no shit. But the OP was saying to praise **PC** games that work well regardless of GPU brand, instead of fucking over either 70% or 30% of users for picking "the wrong card"
+Fix yo flair. It still says titan x
+Considering the cooler is just the same reference theyve been using for the high end cards for a while now, I'm gonna call BS on that.
+Nvidia never started off PhysX, they incorporated it into GeForce after buying Ageia in 2008, who made dedicated cards for it after they bought the software from Novodex in 2004.
+the game is literally called SUPERHOT
+Should use sharex for screenshots, it uploads to imgur.
+Less underrated more "under-realised". It looked to be pretty damn perfect, then it seems at the last minute they undid stuff. You had really nice maps, balanced well, but then suddenly a bottleneck where every player has to pass the same corridor/room. Also everyone had too much HP.
+It's fallout. I'd be about halfway done with character creation.
+Just because you've had no issues doesn't mean that no one has issues. I've had a GTX 460, and a 970. Both times I had to reinstall drivers once or twice a month because something broke them. Especially driver updates, they always crashed and broke. The r9 270 I moved to after the 460 barely had any issues, and the drivers were WAY more stable. After I sold my 970(vram lies and coil while like hell itself) I got the 290 I have now. Overclocked, still more stable than the Nvidia cards I had.
+It is possible in dx12, but the guy your replying to is taking about stacked memory modules (hbm)
+It will be possible in DX12 to combine crossfire ram, however.
+Paid mods.
+If you're on about AMD CPUs, the TJ MAX (The thermal cut off point) for the FX processors is at 80c. Meanwhile Intels is at 105c, IIRC.
+If he complains again, just say "sod it" and force CPU and GPU fans to 90% all the time.
+[Checked it on my 8320 right now.](http://i.imgur.com/MK0fhtI.png)
+The current X86-64 framework is all based on AMD64. Intel tried making their own (IA-64) but it was never compatible with 32 bit applications so it bombed. So they need Intels permission for X86, then AMDs permission for the standard x86-64.
+Dogmeat wasn't there (there was another, more robotic dog) but I think that one can slide because its a spin off.
+You have to go into the BIOS, and either select boot or change the boot order. Some manufacturers block USB or Disk Booting because "security"
+There may be a separate option thats disabling USB/CD booting, in the BIOS.
+No clue then. Sorry.
+That's powercolor's special one. they tend to bring out super-pimped versions of cards, like the Devil 13, which was 2 290x GPUs on one card (they did this ***BEFORE*** AMD did the 295x2)
+The end of the speech leading up to war never changes. I'll eat my shoe if that's not him, it sounds exactly like him
+Its bootifol.
+I have to go do something, I'll be back in an hour or two, no mobile data ATM. Thanks for help in advance.
+Yeah, I guess the whole reset of settings on every app gives me a pretty good time to flash a new ROM without losing much.
+Gamasutra ran a massive campaign about how gamers are dead and horrible racist mysogynists.
+Didn't they say you could bind it to work like a thumbstick, where you hold your thumb on, and the further from the centre you move, it moves as if you were dragging a thumb stick that way.
+No, you said it were as if you were dragging a cursor around, laptop touchpad style.
+Most people also need to change the existing line bUseThreadedAI=0 to bUseThreadedAI=1
+Not DX12, but they said they have one built into windows 10, IIRC part of the "XBOX WINDOWS" program.
+Would be awesome if they could somehow pull through info from cheapshark.com or isthereanydeal.com, so you have a price check of all the major retailers.
+They'd just need to make something to pull data from here http://isthereanydeal.com Or just a small web wrapper so you get that website in the launcher.
+The PSU was obviously hired by Intel spies to sabotage your experience ^ ^ ^/s
+It's called binning. They were testing the higher up models, and if a core didn't meet standards, they blocked it off and sold it as "without" that core. It was just cheaper to not laser them off, which is what everyone does now.
+Its part of an update.
+Website only shows PS4, Xbone and PC.
+Seconding this. OP, Can you get a screenshot without a weapon equipped?
+If 60 is a bargain, what does that make 10 for the complete pack?
+Pay less, get GOTY
+It tends to go down to about $5 for the ultimate edition. Didn't notice it during xmas sales, but it will probably do it again this summer. (Edit why the duck did this get down voted?)
+10/10
+I have no option for 60fps in Chrome?
+Stop being an autist.
+Stop being autistic
+&gt;buy and maintain and continuously upgrade I haven't had to open my PC up for around 2 years now. You don't need to constinously do anything.
+The digital prices on PSN and Xbox live still baffle me. Digital distribution should be ***cheaper*** that physical copies of the game, as there is no physical production or shipping cost, its just the cost of running the download server that they already use for updates. Steam (and other PC digital distributors) have really shown them up for both price and quality, yet Sony and Microsoft still regularly charge full price for games even when stores have gone down to half price on a new boxed copy.
+Emulators are ***NOT*** illegal. I have ePSXe on my PC, and I can put my fully legit crash bandicoot ps1 disk into my disk tray and play it, and nothing illegal has occurred. Look up [bleem!](http://en.m.wikipedia.org/wiki/Bleem!). it was a legally sold PS1 emulator software in the early 2000s. Sony took them to court and lost, but the legal fees hurt the company badly. Downloading ROMs/games for emulators, however, is as illegal as any other form of game piracy.
+Emulators are not illegal. Look up ["bleem!"](http://en.m.wikipedia.org/wiki/Bleem!). Legally sold, won a lawsuit against Sony and everything.
+Yeah, I didn't bring up the price differences at launch because that's been true for decades. I was talking about comparing digital to physical pricing, especially price drops with age.
+Back in 2005 a $600 PC really was nothing special. To build a PC of that tier nowadays is around $350 or so. It started around 2008 that the prices of parts dropped substantially.
+No you don't. I still run GTA V on high/v.high settings, 1920x1080 60fps.
+&gt;imitation come taste *whoa*, I thought we were talking about cola here.
+[Have you ever actually seen the full image?](http://i.ytimg.com/vi/trweyxPCy9I/maxresdefault.jpg)
+Sure, let's go have a 1080p banner. Its in the spirit of things, but not really fit for a banner.
+&gt;torture and brainwashing Also being taken and inducted before they've really developed any social skills, and growing up with 70 other people who were the same.
+It was touched upon in the first book that a few other remained. Grey team were deemed inaccessible when they were calling personnel to defend reach, and until later books picked up on it, it was just left to assume that they're still out there.
+No, because we are not factoring in the price of the Xbox. Just gold subscription. Games with gold are part of what you get with the subscription. Not free. A toy with a comic is not free, but you aren't paying extra. Its in the price.
+If you got him a GTX 4XX or 5XX he could cook the steak and eggs with his PC whilst they're still over on the grill.
+Because those don't herald the beginning of a game that will take a dump on your graphics card if it has the wrong label on it.
+just take care to wait a little while after the new AMD cards come out. Then either get the 290x after the inevitable price drop, or get the new 290x equivalent.
+Still also not confirmed for rebrands either. Just the same WCCFTech "leak" bullshit.
+&gt;Buys thing. &gt;Wishes that makers of other-thing™ would die off so that can enjoy paying 3x for the next version of thing™, which isn't actually any better because no one is competing for it. FTFY.
+Because you are basing your "enjoy your rebrands" with no fucking evidence at all, and now your panicking because for the first time in months the circle jerk isn't aimed against AMD.
+If he has those in SLI, he's a madman and he must be stopped, [Al Gore warned us](http://m.imdb.com/title/tt0497116/)
+Much more of a track record for performance issues on gameworks than gaming evolved titles.
+you will, however, encourage a lot of people to try overclocking before they're ready, and also encourage a lot of "omg just 100mhz more and i'll beat the next guy on the board" and burns it out. Also cheating.
+i can smell the pcb smoke from here.
+And you think Little "first desktop" Johnny knows that?
+The thing is AMD aren't really doing any shit to get called out on atm. Meanwhile you get defensive when people dislike nvidia for lying, fucking over competitors and more.
+I stole a java console thing in chrome. [I have gone too far](http://i.imgur.com/sZaFTHh.gifv) It doesn't even steal my mouse cursor, so i can just put it in, minimize that chrome window and play real games.
+by playing it, the community as a whole works on goals that unlock deals.
+If you said your PC was running GTA IV well, I'd call you a liar.
+^
+^
+One great thing about the UK. Apart from in the most remote small villages, You are never in a position where you only have 1 or 2 ISPs to pick from, so they all have to be competitive, big or small.
+Remove double comment.
+I've played the hell out of half life 2, portal, BioShock infinite and gmod. I'll check out thief. I have 1st one on a disk and 2nd one on gog.
+Thanks.
+Thanks. I didn't actually know I had BioShock 2...
+I've played a lot of spore, and I should probably put more time into skyrim. I prefer MSI afterburner to EVGA precision, and I legit forgot I own prison architect.
+Forgive me if I'm wrong here: everyone is ripping into them for the rebrands. Last year we HYPED THE FUCK OUT over nvidia releasing the GTX 970 and 980. Two cards. AMD still holding their tongue on the FURY and FURY X. These are the two we want to see, especially with the FURY X *supposedly* being faster than the 980 ti. Two cards. Why are we ripping on AMD for doing the rebrand alongside two new cards? This is more than Nvidia did last year.
+What the heck does gameworks have to do with anything? I was just commenting that people are mocking AMD for releasing rebranded cards as if its a bad thing, when they still have Fury/X on the way. I have no doubt we'll see new Fiji cards soon, just like the 960 came along.
+Steam didn't exist in 2002...
+OPs gearing up for the maddest Bad Rats giveaway PCMR has ever seen.
+But it's not cool. You're supposed to get a buddy, flip a dumpster over and bunnyhop your way onto it in the dumpster like the cool kids.
+Like water-skiing with more bullet casings
+Probably one of the less weird fetishes I've encountered.
+Not on his side, just facts on VR. To get a proper 3d image, they need to render the scene TWICE, from slightly different positions, which is quite taxing on the graphics processor in the console. To avoid nausea, you also need a minimum of around 45fps per eye (early versions of the oculus rift did 30fps per eye, equivalent to running the game at 60fps because of that 2 perspective thing, and it causes severe motion sickness in good amount of testers) so youd need to basically run the game at at least 80 or so fps (40 per eye). This will either need resolution or graphical quality drops, as the ps4 can't do the current graphical quality it does at that framerate, most releases at the moment are running at 30.
+Also marketing and hype generation for the actual moneymaking products.
+It provides a lot of marketing for their main moneymaking products.
+Link or bs.
+This is old, and also an iOS exclusive right now. The fuck does it do with PCMR?
+I can also see modders getting a lot of hate for not releasing a mod on consoles, if they decide to use features which won't work like the script extender or similar.
+&gt;1920 Even the percentages are going 1080p
+Nintendo may well be best off getting away from the normal release cycle of other console generations, as they won't be in such direct competition with them.
+Which is why they'd probably be best getting out of competing with the Microsoft/Sony release cycles, as they offer different things.

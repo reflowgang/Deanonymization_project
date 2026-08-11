@@ -1,0 +1,26 @@
+Classify each Reddit comment below into exactly one category.
+
+Categories (choose one per comment):
+- P = Personal disclosure: the author reveals facts about their own life, identity, relationships, job, location, health, or experiences (e.g. "my wife", "I work as", "when I was in college").
+- O = Opinion or value statement: the author expresses a belief, preference, judgment, or value (e.g. "I think", "I believe", "in my opinion", "X is better than Y").
+- T = Topical discussion: the author discusses a topic, event, product, or idea without meaningful personal disclosure about themselves.
+
+Rules:
+- Assign exactly one label per comment: P, O, or T.
+- If a comment mixes personal detail and opinion, prefer P when the author discloses something about themselves.
+- Short reactions ("lol", "this", "+1") are usually T unless they clearly disclose personal information.
+- Do not explain your reasoning.
+
+Respond with ONLY valid JSON in this schema:
+{
+  "classifications": [
+    {"comment_index": 61, "label": "P"},
+    {"comment_index": 62, "label": "O"}
+  ]
+}
+
+Use the bracketed comment number from each comment as comment_index (e.g. [61] -> 61).
+Return one entry for every comment shown.
+
+Comments:
+{comment_block}

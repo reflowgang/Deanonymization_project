@@ -1,0 +1,200 @@
+Just like any fed duelist / assassin.
+July 29th is the release date of Windows 10. Since LoL is in a partership with Microsoft, I hope LoL will be optimized for Windows 10. :) Can't wait!
+&gt; Two words: Please don't. We already have enough Gosu wannabes running around. QFT. Vayne top doesnt really work, especially because most of top laners can exploit Vayne's weakness. Also, her ward tp to a fight will be muuuuuuuuch less significant than a mega gnar's ward tp to a fight (or any other top laner). Hell, Vayne will get that cs rather than tp-ing to a team fight. My opinion.
+&gt; I'm a support main that likes to support vaynes. They basically push you to your limits as a support to, you know, make you improve. "Think you can peel for me in this team fight? Ha watch this!" Flashes into enemy team. QFT. Been there so many times :O Is this for real? Lol
+50 wins XP boosts OR x days XP boosts if you plan on not going outside.
+How can you find out? Probably somewhere at 70-100 Euro. I regret nothing.
+No, I'm from Romania and I didn't hear such things.
+Check your email. Post what's in your email
+How can you be real if our eyes are not real?
+How can you be real if Jesus is not real? #JadenSmithTweets
+Taric's new best friend. WOT IS THIS M8???
+https://www.youtube.com/watch?v=YEJ566EnNgM
+...the How can you be real part from my original post is from Jaden :D But yeah, you're right.
+Katarina Riven Vayne Shaco Blitz
+http://eune.op.gg/summoner/userName=SaiyaJiin I don't think I can play worse than this but I'll give it a try.
+because you had your fb account linked to your LoL account
+The fifth tier of every division is like that. People there either dont care (because they can't be demoted) either are frustrated because they can't climb any higher and are stuck. The fifth and the first tiers are horrible as far as I know.
+Gnar? His W will do % hp damage (in case cho stacks 6) and he will probably survive cho's combo. Also, his mobility (e) will allow him to dodge cho's Q I guess. Edit: Made the post clear.
+Let's duo bro! I go ad soraka jungle.
+As far as I know, no.
+All in and no way back support? Annie?
+more like Braum :)
+To be honest, yes, I'd find It pretty useful.
+I think its good how It is. The ability to memorize when your opponent will get the flash back on separates the smart players from the lucky but not so smart ones. My opinion. Edit: You can always use chat timestamps to remember things ;)
+Modify? Do you know what bug smash is? Code modyfing. But adding an extra feature requires extra coding, coding which can break other things, not re-writing the whole thing, but wring new code lines for sure. Lets take this example, is there a code line that calculates the needed mana for a skill? Yes, there is (the one that makes your skill unavailable when you don't have enough mana). Is there a code line that calculates and displays in how much time will a specific skill be available if the cost is X , the current mana is Y and the mana regen per second is Z? I dont know. If there isn't, that's the part that needs to be written/added to the existing code. That will require extra QA testing, extra bug fixes, HQ approval for the final product. The time is a problem, HQ approval is a problem and if one of them is not right, the feature will not be added. But please tell me how easy is to add this feature and get it ready for live in 4 weeks.
+On a serious note, do you know how much time you (as a company) need to create a champion? 2-3-4-5-12-24 months, depending on how complex the champion is. 6 a year is actually good.
+Are these mobas as late in development as LoL? Please provide some evidence that other mobas release way more than 6 a year. Also, in year 1, Riot had all these champions as "work in progress" since 2006 (when riot was founded). LoL was released in 2008-2009.
+No one cares about you and you're pointless as well, but look at you, being on reddit and stuff. Yes, we need.
+Because it needs counterplay? How do you counter yasuo ult?
+Use flash on Annie only if its followed by the summon of Tibbers.
+My objective for this season is gold. I started in bronze 3 and now in silver 4. What's your objective?
+There's a difference between questioning a misplay (such as.. why did you focus x instead of y, why didn't you back etc) and flaming because of a misplay. I dont think people leave because their misplay is questioned in a non-offensive way.
+I think it's up to each summoner. To be honest, I don't mind being questioned about my bad plays (such as take two towers with fiora instead of fighting mid) and I answer in a serious way as to why I did that (I'm behind and useless in fight, I need the gold, the team needs the global gold etc). But I do understand your point, some might find that a bit rude.. being questioned and stuff. To be honest, that's all about ego, if you can accept that others are better or not.
+http://www.reddit.com/r/BestOfBronze
+Wait until you see Ekko in the LCS.
+Ekko is banned almost every game in low elo.
+Disable range indicator?
+Options &gt; scroll down until the end &gt; uncheck range indicator. It's in the interface section if I'm not wrong.
+Stop being racist man, I see Ekko even if he is black.
+Fireworks, yay!
+So your team can hard carry you or why? I dont get it. o.o
+The selected AFK remains in game, dancing, or spamming ctrl 6. He will be blocked by gates and his summoner spells will be disabled tho. Just an idea. :P
+I saw a 0/8/0 Nasus doing that.. he ended the game with 900 stacks and ended 10/8/x because everyone ignored him (including our team - he was in our team) for a while.
+Isn't that duck randomly spawned ?
+Check the patch notes. They said they tweaked the text a bit.
+Server fart. Unless you lost MMR/LP, I wouldn't be bothered much by that. It's a common thing these days.
+Jazz, electro swing or just electro house. Depending on mood. Never something calm.
+Use the search feature buddy. No, you're not. it's a general thing I guess. We all seem to have that issue.
+I once made a triple kill with Kata. My cat had to walk over my keyboard. Flash was lost in the process.
+This is fake. If you're Vayne, you're not accepted in the team in the first place. :D
+I want a Windows chat client that connects to League chat automatically, after I input my credentials once. I'd like it to allow me to see who is online, in-game etc without having to open the LoL Client.
+Make R a skill shot and give W bigger range. As an Annie main, I'd like that. xD (so I can flash W instead of flash tibbers)
+Just ban her if you don't like her. The obvious counterplay to her is banshee. She can't land her R, she dies pretty fast, just like any other assassin or mage.
+Wonderful video! This makes me proud for being an Annie main.
+Annie. I like kids. Pls don't judge...
+I'm only 22! She looks like 19 to me. :(
+Fragmentation maybe? Every new patch re-writes the files of the old one on your hard disk, which means that there could be some high fragmentation. Defrag your hard disk, it should get better afterwards. (I recommend SmartDefrag or something similar, not the default windows defrag) Edit: This is not a 100% working solution, just one that might actually work.
+Apple$oft
+You have a samsung monitor. Ugh
+I don't understand why reddit community just throws downvotes without at least explaining why something is wrong. Thanks for explaining. I, sometimes start with sweeper + ward, to take out their wards from the bush I'm throwing skillshots, but not because I really want to do that, but because I'm low elo and usually forget to swap trinkets after sightstone. But that's just me. :D
+Nidalee?
+That could be useful in low elo. Make everyone troll me to have vision.
+No. You're just a little spoiled brat that doesn't appreciate any work done and cries because not everything is how he wants. Stop being childish.
+&gt; Game modes that they wont even bring back despite the cries of the community Which one? URF?
+You can make a page for every champion. Or.. what do you mean?
+What if I tell you it's a visual bug and it doesn't really stop? But yeah, OH NO ITS 0KB/S! Better restart it, that will fix it. /s
+Server space? It will eat up server space just so you could kill bots, or your friends every now and then. Just like in dominion. No, not a good idea. Edit: Didn't they explain why they can't have these modes in customs?
+LoL is not dead. It has 3 times more players than Dota2. What are you talking about? But yeah, jump ships, we have enough reddit scientists in LoL.
+No, thank them for giving me something to buy. You don't thank the doctor that removed your brain tumor even if you paid 15,000$?
+Na is the smallest server compared to euw, eune, kr, ch. I believe other servers make more money than murrican server and school is not over yet in these regions. Topic: Dates are fine. Riot shouldn't care if you were at school, have exams etc because done of us are not in school anymore and don't have exams either.
+Q has some sort of cast range, and e, well, its the leash range of your soldiers I guess. I might be wrong, please correct me if i am.
+If they say "chill", it's because you flame them or rage at them. You should really chill, regardless of game mode.
+Here's a honest opinion as to why I dont give a damn: 1. I spend 5-10 minutes in the client, most of the times, I login, queue and play. Repeat that for 3-6 games a day, so the client doesn't really matter to me. 2. Replay system: There is op.gg, baron replays, lolrecorder etc, they all work fine, so I don't really need an official replay system that would work EXACTLY the same. 3. Crashes and leaks are part of every piece of software, nothing we can do about it, Dota 2 will probably crash on some laptops/PCs as well. 4. Bugs: There are several, in every game. They are simply not that obvious. The bigger the game, the bigger the bugs. 5. I play this game with friends, for fun and I still enjoy it. Move to dota2, I don't care about that either.
+Go to your taskbar, click the volume button, adjust it. You're welcome.
+Dominion IS fun, and you shouldn't let others ruin that for you. You should use this event in your favour, because the queue times are lower now. :) More dominion games for you!
+bye. dont let the door hit you.
+No, Runescape is clearly harder to keep bug free than League, because more players means much more stressed servers, more demands, more issues etc. But yes, Riot's QA department had a bad time lately and I agree with that. ... and to be honest, I don't care if Riot wants my money or not, (Which company doesnt, anyway?), I decide when and what to pay them and as long as it doesn't affect me in real life, why should I or you care? I don't care that &lt;insert cigarette company name here&gt; only wants your money and doesn't care if you die because you smoke, do I? Some people smoke, some people do drugs and some people buy riot points. You are not better than anyone and you're worth is pretty much the same as everyone else (nothing) to any company. Yes, I should really put my hate shoes on simply because you hate Riot. Mhm, that's gonna happen when I'll be sick of Riot.
+OMG you're a true detective. Teach me master.
++++ I'm annoyed by these people.
+Valve 1996, Riot 2006. Valve is a much more mature company, so it probably has more experience Yes, Riot has 3 times more employees than Valve, in 10 offices, not just 2 like Valve. That means, there are several employees working in QA, localization, sound, artwork etc in different timezones which create 1 big issue: communication. Communication between teams is crucial and I believe there's a big issue at Riot regarding that. Anyway, why do you try so hard to convince me to switch to some boring slow game? I don't want to play Dota, it looks and feels horrible in my opinion and very very very very slow paced. As I said, I don't miss or really want any of these features, don't lecture me on how a company cares about money or not, I said I don't need these features, what I receive for the money I pay satisfies my needs just as smoking satisfies yours.
+Almost, the 0.5% of League playerbase which is on reddit will help them do that. /s
+I have better ping than that using my phone's internet. Your internet sucks and the route it goes to rito servers is different than the one used by blizzard.
+Good bye.
+this is not /r/dota2
+Another dota post.
+&gt; You can only switch to dota and enjoy it Nothing related to the dota bs we're seeing on reddit, right?
+IE &gt; Chrome. Let that sink in for a minute.
+That's romanian music. Lolololol
+That's something else. And yes, there are 700,000 people here while LoL has over 65M players as far as I know. Reddit's opinion doesnt really matter.
+We gud bruh.
+Volvo omg. i'm done
+[Akcent - My passion](https://www.youtube.com/watch?v=ay_fw54W2Fg)
+The first one that reconnects unpauses the game. All of you got disconnected.
+There's one made by Vice. https://www.youtube.com/watch?v=of1k5AwiNxI
+EUNE? Silver 4 noob here. I play decent, pm if interested. Also /r/teamredditteams
+What to check ? antivirus didn't detect anything.
+That's the spirit!
+Fuck off with the dota crap. This is lol subreddit. Mods, pls...
+Probuilds or solomid. My opinion.
+Not having your ice cream money will teach them a lesson for sure
+That's a classic!
+Are you seriously going to ask for other MOBAs on a LoL subreddit? FOR REAL? Please stop with these posts, I can't report / downvote fast enough.
+No, it's LeagueofLegends. Go to /r/gaming if you want to find other games. Simple as that.
+Shame. Shame. Shame.
+Here. Take this report
+Do you play Dota2?
+90%? Hahahaha. Based on what? Today, I did not encounter any league toxicity in ANY game.
+That's why you dont understand. Dota players are as smart as a rock when it comes to LoL. I see what you're doing. Leave now please?
+I played 7 games today, no issues, not even trolls or flamers. Should I play more before I find an unplayable game?
+You do realize that they have 1000 employees in 10 offices across the globe, right? Each office do things unrelated to UI or gameplay, like localizations, PR, social media, esports and so on. Stop saying that bs, the numbers have nothing to do with the manpower of a company, on the contrary, it can slowdown every single project. Source: I work for a Gaming company as well.
+I figured that out today. I can't wait to see them gone so we can get back to other topics.
+I don't like Dota2, it's slow. I tried it. Go away now? Its a trash game, I would shift delete it because my recycle bin would be offended to send such a trash folder to it. Just GTFO in the threads in the dota section, there are shittons of LoL circlejerk as well there. Just use them, not our subreddit and let us stay with out greedy masters ok? Oh and "Dont try to make Dota2 happen, it's not going to happen". Not now, not tomorrow, nor ever. Go away.
+Yes. As long as It works for me, i don't complain. Seems logic.
+*dota 2 players are talking about dota on lol subreddit. Good night, have a great day.
+See you in 3 days. Oh wait.. post history. I doubt you even played lol. GTFO please.
+Shame
+Them chills I get when I hear that voice and music!
+U blind mate? This is /r/leagueoflegends SHAME SHAME SHAME SHAME
+Shame
+Just stop playing for few days, do something else, then comeback. You'll see things different.
+I can join. SaiyaJiin Silver 4.
+ApropoTV.
+I got fired because I failed to achieve what my boss wanted me to achieve not what was mentioned in my contract. (He asked me to sell a huge amount of pills to old people, more than my contract mentioned because he needed to fulfil a target for the team, I failed) I recovered with movies, junk food, positive music and long walks in the park. I did this for 3 days, then started looking for a new job.
+Positive post. I like it. Don't let reddit upset you dude. Have fun :)
+Clickbait. So people would click on the link. Would you click on something that says "meh play. any bronze 4 can do it but I'm the one who recorded it" ?
+Finally! People keep questioning me why I build it on Gnar. Someone finally understands. Thank you sir.
+Zhonya?
+Add friend, connect.
+Nice catch! I don't remember anyone pointing that out before.
+Stay behind and kill everyone focusing the feeders or getting close to you. You know, use your team mates as human shields
+Don't tower dive
+Its free.
+Well, people from the chatrooms refused to play several times.. they were just sitting in a chatroom. What can you expect?
+I actually liked this event and i didn't care about the mundo skin. Fk me, right.png?
+I know It was a Gnar jungle, but please help me understand this: Why botrk on Gnar?
+That makes sense. Thanks. I guess I'm playing gnar as a CC tank, building only frozen mallet for 'damage' to use the W efficiently. ...and thanks for LCS reference, I wasnt referring to these builds anyway, most of the Gnar players I know dont build botrk, but thanks again for explaining. It helped me understand.
+As in, you AA-QQ and the next AA will be cancelled? I don't understand what you're referring to. I played Gnar a lot and the only thing that annoys me is the cursor bug after changing from mega gnar to mini gnar while activating Q.
+A penis. I kid I kid, she would need skills.
+How do I stop this?
+As far as I know, your queue time is based on what the captains are looking for and can be extended if they reject the pick. You won't see the team comp if they rejected you.. You won't even know if someone rejected you. I might be wrong
+Thanks! Its confusing :(
+How could talon not see her? O_o
+Its a frog, not a bug.
+Maybe it doesn't appear if you disable the range indicator. It has something to do with it. I have this problem every time when I play Gnar and I keep forgetting to disable range indicator.
+Blocked due to copyright.
+I did something like that several times. No one even said "GG". Why? Oh.. because I'm not dyrus, I forgot.
+No, not at all. "I'm not a hater" should contain that as well. I just dont understand this subreddit, that's all.
+I think that was a little bit over the edge. Next time I will strictly refer to me or people close to me. Sorry.
+Annie jungle.
+Yes, 80073cf6. How to fix this?
+Why? You forgot to mention why this build would be better than a black clever + frozen mallet + tank items build, for example.
+*Lissandra. Get her, she is fun.
+Baronreplays are lighter on resources for me. I have a bad PC as well
+The skill level increases though divisions but just a little. Silver 5 is similar to bronze 1 and 2, and Gold 5 is similar to silver 1. I climbed from b3 to s3 (atm) and I didn't notice a huge difference between these tiers. Yes, in silver 4 people tend to prioritize objectives over kills and ward more, but other than that, not such a big difference.
+Annie, she is easy to play. If you want something harder, try Orianna.
+Tbh, there are not so many MAJOR bugs in the current build. Yes, your phone will sometimes lag, do weird things and such, but nothing you can't deal with. Good luck!
+Win10? Cancel all downloading, pending etc apps from your Store beta, restart you phone and try again. It worked for me for other app.
+Ban what annoys you the most in your games, or what you can't seem to deal with. I usually ban Katarina, Fizz and Cho'Gath.
+Yes. For example, I send champion select reports directly to support, then dodge.
+Nice!
+https://support.riotgames.com/hc/en-us/requests/new &gt; I have a question about league of legends Good luck
+If you know him in real life, make some post-its with the basic things for him. Some friends helped me that way (reminder to buy wards, listen to pings, buy boots stuff like that). You can't do much to change his mentality in-game, try the real life route. Also, you should stop playing with him for some time and tell him why. :)
+No. LoL didn't ask for permission to post on your wall, so there will be no post made by "you" or Lol on your wall asking your friends to join lol. I can add a screenshot if you want.
+Common angry LoL player.
+Draw a ward icon on a post it along with "Buy a ward, save a life" Buy boots , they get you going. Just 2 examples I had on post it. What you can do, is go at his place, play a game, get that "I am better than you" attitude (No sarcasm) and make few post its and stick them to his monitor. Tell him to not take them off, because these will help him get out of bronze and improve, and always look at them when he plays with you. Use your creativity with the post-its and make fun of the situation, it worked pretty good for me. One post it with me being buttfucked with the title "Bronze life" was a bit too much tho, don't do that. :D
+Maybe something with "Let your support stand in front of you, he will do his best to protect you" should do it. Also "always follow your support"; "never jump in a fight first"
+A little fun in 3 couldn't do any damage to a marriage, could it? Fun chat :D
+Good luck with it :D I think it's the best way to remind someone something.. because tbh, I forget to do things as well while I'm game, and flashbacks with these post-its remind me of what I didn't do :D
+I once said (while on Tilt) "report my ADC for being polish, feeding, flaming and AFK" and I didn't get banned. The reports are filtered and unless you were racist (like racist.. not just little poisoned arrows), you will not be banned.
+No problem. We all have THAT friend.. and if we don't, we are THAT friend. :D - Liviu 2015
+No, you don't have to add anyone. Just connect with facebook and you're ready to go.
+Server fart. You're not the only one. Unless your internet is down
+I guess they didn't want to talk about Shurima's Legacy..
+Is it acceptable to be banned because one of your team mate got banned as well? There's the answer.
+&gt; I just feel like I can't have a decent ranked game on Sundays, I usually can't stop after first loss, but today after a horrible game, I successfully stopped. This happens every Sunday. :( It's not an excuse, I just wondered if for me it's a bad day, or it's a common thing. Apparently, it is a common thing. And when I'm on the winning team, the next game I will probably be in the losing one. Here is an example: http://postimg.org/image/gp06komoj/
+It does. What do you mean?
+Indeed! But... what does it mean? :o
+He's cute and hid in a bush next to Garen. Wasn't Gnar frozen by the watchers? As far as I know, he wasn't killed.
+Nice!
+Song: https://www.youtube.com/watch?v=BfJ7GNLax0U version used in mix: https://soundcloud.com/crowell/crowell-bommer-yasuo-vip#t=1:11
+"false positive" or "false alarm" is when antivirus software identifies a non-malicious file as malware. I believe your antivirus detected riot's hackshield which is coded into the client and sometimes detected as a virus.
+Contact support to remove them from your account if you don't need them.
+His soldiers are like mini ADCs, so yeah.
+Server? I'm silver 3.
+Fizz, Yasuo, Vayne.
+Did you buy any of them? If not, then the answer to your question is yes.
+Yeah, that. So he didn't really die.
+Every game with people from my team speaking polish in chat. My PTSD triggers and I panic. #justeunethings
+ADC players should do this more.
+Banhammer.jpg
+Yes, Cortana works fine on 730.
+1st of July. Use the search feature please.
+it had to be asked....
+Vaynes killing team mates for gold incoming....
+Meanwhile... I can't get out of silver..
+Why cant i use hydra with fiora's R?
+Annie / Orianna
+i like nutella
+It's called hotfix. They already do that.
+RP showed up instantly, but I didn't receive a confirmation mail. something is wrong

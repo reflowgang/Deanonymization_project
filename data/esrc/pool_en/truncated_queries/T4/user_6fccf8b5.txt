@@ -1,0 +1,50 @@
+NES FF1 called them Lit, Lit2, Lit3. I always wondered why they chose thunder over lightning for the later games. Wouldn't lightning hurt more than the sound of lightning?
+No problem. Also, you gotta tap the comment and select the reply icon that pops up underneath to reply directly to a comment. Here's the [iPad user guide](http://www.reddit.com/r/AlienBlue/wiki/ipad) from the sidebar to help familiarize yourself with the different gestures and navigation of the app.
+/u/fattybomchacha wrote up a pretty solid approach to tackling it. http://www.reddit.com/r/FFRecordKeeper/comments/38775l/some_tips_for_phoenix_cave_elite_from_personal/
+All gifs load just fine for me. Running iOS 8.0 using AB version 2.9.2 on an iPhone 5. What version of the app are you using? It can be found in settings &gt; about alien blue
+Here's one example of a [foreign link](http://imgur.com/6YVpB9i)
+For iPhone with the new UI, when in the sub tap the action button in the top right and scroll to 'subscribe'. For iPhone using the 'classic UI', when in the sub tap the action icon at the bottom center of the screen and select 'subscribe'. For iPad, when in the sub tap the alien icon at the top and select 'subscribe'.
+You post a comment and it doesn't post? Does the message pop up saying your post was submitted? I'm wondering if maybe between the time you loaded the post and commented on it, it was either deleted or removed but I think you receive a message saying so when you submit it.
+It's animated text, I think that's why it won't display. Open it in safari and you'll see what's going on. Here's a permalink to that comment: http://www.reddit.com/r/pcmasterrace/comments/38z0w1/just_to_clear_the_air/crz1r39 I'm guessing it has to do with css which AB doesn't display.
+[Here's the stats at lvl 14/20](http://imgur.com/DSVNZ9u), sadly no mag stats.
+It's almost on par with Danjuro plus an AoE SB. All in all, not too bad.
+It'll be a beast in the core dailies but I'm not sure if there's enough time to even build up the SB when running the dungeons, maybe once in the one of the last rounds. But for a buck, I can't complain one bit. Slap it on black mage and he's going to wreck house, at least on hard mode.
+Sounds like you're using version 2.9 The latest version is 2.9.2 and is a separate download.
+Tap or swipe (from left to right) across the comment and an option tray pops up underneath. Tap the second icon from the left and select 'view *username's* history'. http://imgur.com/cxEQ88X
+This is how I felt too about a year ago. I started doing weekly discussion threads with the idea of starting with the albums and then getting deeper but I ended up getting burned out pretty quickly. Feel free to spark up any discussions that you'd like, I'm sure others would love to chime in.
+When in a sub, tap the action button in the top right corner and scroll down to 'subscribe'. edit: [using the new UI](http://imgur.com/LWKQS2A) [using the classic UI](http://imgur.com/KkatkqU)
+That was a bug in version 2.9 Which version are you using? It can be found in settings &gt; about alien blue
+Hmm, that's a little bizarre. When you downloaded the new app during the free pro giveaway, did you go into settings and go through the process of getting the pro upgrade or did you just download the app? Sorry if it sounds like we're just going around in circles getting nowhere, just trying to get this all sorted out for you.
+Were you able to fix the app crashing problem or does it still happen?
+I have 15 and voted 5-15 and then realized I could've voted 15-30 also. Probably could've been better to have 0-4, 5-14, 15-29, etc. Just thought I should mention that although I doubt it will skew the results by too much.
+Fucking hell, Just now I was checking the stats between the two and accidentally sold the killer bow. [mfw](http://imgur.com/67Py32v) Hopefully I didn't come off as bragging in the first post, I was just kind of bummed to pull such an item on an essentially throw-away account.
+Thank you. The worst part is something like this isn't the first time. Once combined a 3+ luminous robe the wrong way and ended up with another 3+ instead of a 3++. And you're right regarding two games, it's very time consuming and I really don't have the time for both. I'd like to ditch the second one but besides abilities and characters, it's doing a lot better than my main. It's sad to see a grown man playing this game double fisted. ^^^I ^^^may ^^^have ^^^a ^^^problem
+http://www.reddit.com/r/AlienBlue/wiki/faq#wiki_why_are_some_of_my_subscriptions_missing.3F
+Tap up top where it says optimal to switch to standard mode if you're using the new UI. On iPad, tap optimal in the bottom left corner to switch. If you're using the classic UI, pull down to switch.
+I see, wasn't sure if you knew or not.
+I was able to load that post with no issue using alien blue 2.9.2 http://imgur.com/EF9CCo8
+That means the post has been removed. If you open that post in safari, the text body will be replaced with [removed]. Edit: here's [the link](http://www.reddit.com/r/Fitness/comments/3b9g4j/so_i_just_cancelled_my_gym_membership/)
+Unless you can get a hold of the old app, pretty much. Fortunately, they've changed what pro unlocks. The free version is completely usable as the pro version just unlocks extra features. [Here's what pro unlocks now](https://reddit.zendesk.com/hc/en-us/articles/204356655-Why-should-I-upgrade-to-PRO-).
+settings &gt; posts &gt; show post flair settings &gt; comments &gt; show author flair These settings will enable text flair but not image flair.
+You can still use multiple accounts, just not have an easy way to switch. You'd have to swipe and delete the login info to switch. Or buy the pro upgrade.
+Reddit bought alien blue and hired its dev back in October 2014. They had to re-release the app under their licensing. The old app has been pulled from the App Store and is no longer supported. The pro upgrade from the old app does not transfer to the reddit-owned alien blue app.
+Have you tried setting websites to open in standard mode by default? settings &gt; advanced settings &gt; media display settings &gt; websites &gt; standard
+I see what you're saying. Sounds like you'd benefit from the old way the app handled optimal/standard where it would stay in the mode you were in for everything until you changed it yourself.
+Bummer. Hopefully someone will be able to provide a better answer for you.
+I'd suggest re-authenticating your account and see if that works. settings &gt; accounts &gt; tap the alien icon to the right of your username
+Tap the spot that has the dots with two arrows above and below them. http://imgur.com/fCRWOHh
+What does that even mean?
+Yeah, /r/random and /r/randnsfw are currently broken. No idea why, but it's been an issue since 2.9.8.
+Tap the blue action button in the top right and scroll down to 'new comment'.
+When in a subreddit, tap the blue action button in the top right corner and scroll down to 'subscribe'. Check out the [iPhone user guide](http://www.reddit.com/r/AlienBlue/wiki/iphone) and /r/alienblue101. They're a little outdated but still have a lot of good info about using the app.
+You can definitely set up more than 12 filters. Not sure why you aren't able to. I'd suggest re-launching the app.
+Check out this link: https://www.reddit.com/r/AlienBlue/comments/3yxuyx/cant_restore_pro_upgrade/
+The settings you save in 'preferences' on the website are reflected while using alien blue, no need for the pro upgrade for this. Make sure you have 'I'm 18 and willing to view adult content' unchecked in 'preferences' on the website and then re-authenticate your account in the app by going into settings &gt; accounts &gt; tap the alien head next to your username Let me know if you have any questions.
+Yeah, a few other forms of media do this as well, including articles from /r/blog. Why not tap that back button in the lower left corner of the screen?
+The imgur comments beneath the ablum? It does the same thing as the album with the green tab.
+Did it hang on the upload screen for a while? That happened to me a couple times. It'll sit at the uploading screen for about 15 seconds and then say that message. I'd try again and the same thing would happen. Force closing and restarting the app fixed it.
+settings &gt; posts &gt; content filter
+It's a separate app that needs to be downloaded from the App Store. The one you're currently on has been pulled from the App Store and is no longer supported.
+It's called alien blue. https://itunes.apple.com/app/alien-blue-reddit-official/id923187241?mt=8
+The iPad version is now a free app, that's why there are ads. The free version of the iPhone app also has ads, the pro upgrade removes them. Once the app becomes universal, you will have the option to upgrade to pro and not see any ads.
+When viewing the link, tap the blue action button in the top right corner and scroll down to 'share' then 'copy'. Then just paste the copied link in the link field in the submission window. Make sure you're viewing the linked content itself when choosing 'copy', otherwise you'll copy the link to the comment section of the actual post.

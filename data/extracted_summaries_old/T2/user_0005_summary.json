@@ -1,0 +1,30 @@
+{
+  "interests": [
+    "Clojure",
+    "performance in programming languages",
+    "compiler design",
+    "artificial intelligence",
+    "software development",
+    "remote work opportunities",
+    "debugging techniques",
+    "education and certification in tech"
+  ],
+  "topics": [
+    "programming language syntax and aesthetics",
+    "JVM performance issues",
+    "Clojure's community and development",
+    "historical context of AI education",
+    "compiler optimization",
+    "remote work policies",
+    "job market dynamics for software developers",
+    "use of debuggers and their design"
+  ],
+  "writing_style": "informal yet articulate, with a critical perspective on technical topics; mixes personal anecdotes with technical discussions.",
+  "technical_expertise": "knowledgeable in programming languages (Clojure, C#, C, C++), compiler design, artificial intelligence concepts, and debugging tools; familiar with performance issues on JVM and native code optimization.",
+  "personal_attributes": {
+    "age": "in 40s",
+    "educational background": "Computer Science degree with emphasis on compiler design and AI",
+    "professional stance": "selective about job offers; values remote work flexibility"
+  },
+  "summary": "The user exhibits a strong interest in programming languages, particularly Clojure, and their performance implications, along with a critical view on the state of the community and its challenges. They have a background in computer science with a focus on compiler design and artificial intelligence, and express a nuanced understanding of software development, debugging, and job market conditions. Their writing reflects an informal yet knowledgeable style, punctuated with personal reflections and a clear preference for remote work arrangements."
+}

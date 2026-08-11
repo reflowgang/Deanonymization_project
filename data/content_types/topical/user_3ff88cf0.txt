@@ -1,0 +1,50 @@
+Do you use public transport or work near one? They are far from out of site and out of mind. In many of them, particularly around community housing, being mugged on a Wednesday afternoon is hardly unheard of.
+Do you have time to build a fort line along the german border? Maybe iff you hold up the soviets enough then america will liberate germany instead of the soviets.
+By greek catholics do the mean orthodox? When did the name change?
+I love the metric system as much as the next guy, but how is it relevant here?
+You know there are a number of factors, such as voter turnout and lack of preference voting that make the UK a lot harder to accurately predict than Australia right?
+&gt; I would like to see the peer reviewed studies on this issue before I make up my mind  There's been a number of them now. All report vaping being damaging to your lungs. One or two even came to the conclusion that it's more damaging.  Edit - Fine some citations:   * [Vaping may have a cancer risk 5 to 15 times higher than than long term smoking](http://www.nejm.org/doi/full/10.1056/NEJMc1413069?query=featured_home&amp;&amp;#t=article) * [Ecigs cause a 58% increase in macrophage infiltration](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0116861#abstract0)
+*Generic down vote for stupid comment*
+We have zero information to say whether lives have been saved or not.
+Links above.
+Links above.
+Citations edited in.
+Air resistance involves area, speed and weight. A piece of paper encounters quite a bit of resistance at low speeds for instance, fold the paper into a plane and it slices through very easily.
+&gt;and universities do not accept students who have not met a certain score in this  HAHAHAHA!
+Isn't English the primary,  or at least universal secondary,  language of fiji anyway?
+What's the age distribution on the non-english speakers?
+Computer Science.
+Usually the employer just wants them as a cheap indentured servant and don't give a fuck about their language skills.  Hiring isn't always handled by the people that have to work with them.
+&gt; Naturally, nomads can choose to settle on a more permanent basis, by completely switching over to a Feudal, Tribal or Republican lifestyle  So I can have an alt history where turkic invaders set up a trade republic on the black sea?
+That is a perfectly solvable problem though.
+Depending on the type of project, using source control would solve this just fine. Let the commits speak for themselves.
+I've seen this in IT too. Just about any software project for external sale can be classified as R&amp;D.
+The did spend money on infrastructure and on energy/financial efficiency.
+&gt; Are you just being facetious now?  Nope. Your saying all I have is conjecture, where is your evidence?
+Hasn't Constantinople only changed hands once in the last 2000 years?
+Did Germany ever consider not building such a large fleet so as not to piss off Britain?
+Flammable scaffolding!
+&gt;It's different from English. It's Australian Sign Language - a different whole language.  Apart from the method of communication, what makes it a different language? Honest question, AFAIK this sound a bit like saying written english and spoken english are different languages?
+A lot of places in Melbourne you could get a 2 bedroom apartment for that.   I'm not arguing it's not harder,  I'm arguing it's still possible if you adjust expectations.
+Exactly. A million houses in tge country no longer pissing money down the drain on temperature control.
+What he's saying is that 35,000 people can be considered "a lot".
+We are building more, apartment buildings are going up pretty quickly around Melbourne at the moment.
+OP said he waa doing that, he explicitly said he was waiting for the market to adjust to his expectations.
+Not sure if it's Australia wide,  but in some states bars can lose their liquor license for not providing free water.
+The server typically has compiled code, so nothing to ignore.
+What? They don't tax your savings.
+Your own link says half a million owning two or more.
+I'm not sure if food is covered,  it comes under RSA rules.
+Sydney looks very different,  I have no idea why there is such a discrepancy.
+We did have the GFC though.
+This is highly optimized compared to others I've seen. Let me now when it's loading each client in a separate sql statement or several.
+Or foreign investors just fill the void!
+Id, not ID. It's an abbreviation of identity,  not an Identity Document.
+I've seen a few different processes lead there, usually cargo cult thinking.   One common one seems to be: stored procedures are faster &gt; everything must be a stored proc &gt; stored proc can't handle dynamic scenario &gt; handle it in code.  They refuse to admit that dynamic sql would be faster because it would break there long held belief.  I've had conversations with DBAs that think the entire table should be sorted/paged in code.
+Are there any competent people left doing VB? Anyone with half a brain would have moved to c# years ago.
+That's not double dipping,  that's taxing new income.
+We're also edging cloaer to tge next election,  it takes time to turn a ship around,  especially if we're heading into a recession.
+Maybe some condensation forming on the aerial.
+Brand new, ground up rewrites often have just as much (often more) technical debt than the system they are replacing.  That crusty old access app might not follow any design patterns,  but it's also not bogged down by layers upon layers of them.
+I lost count of the amount of times FIFA added an "All new 3D ball".
+Except the people that live there still need someone to flip their burgers.

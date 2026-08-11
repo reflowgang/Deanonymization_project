@@ -1,0 +1,11 @@
+rank,T_level,user_id,n_words,bucket_target_words,status,prompt_tokens,template_overhead_tokens,body_tokens_est,tokens_per_word_est,total_tokens,error
+1,T7,user_0cc626ee,10025,10000,ok,13452,217,13235,1.3202,13453,
+2,T5,user_f959eee4,10054,10000,ok,14221,217,14004,1.3929,14222,
+3,T7,user_32ae32f9,10994,11000,ok,14752,217,14535,1.3221,14753,
+4,T6,user_378003e3,11001,11000,ok,14984,217,14767,1.3423,14985,
+5,T7,user_c709e252,11983,12000,ok,16237,217,16020,1.3369,16238,
+6,T7,user_e9d1886c,12052,12000,exceeds_limit,,217,,,,
+7,T7,user_08aa624b,13014,13000,exceeds_limit,,217,,,,
+8,T7,user_d761140c,13035,13000,exceeds_limit,,217,,,,
+9,T7,user_9bee2a7c,14003,14000,exceeds_limit,,217,,,,
+10,T6,user_b325310b,14022,14000,exceeds_limit,,217,,,,

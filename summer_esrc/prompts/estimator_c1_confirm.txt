@@ -1,0 +1,12 @@
+You previously selected candidate {k} as the best match for the anonymous query profile.
+
+Query profile:
+{query_summary}
+
+Selected candidate {k}:
+{candidate_k_summary}
+
+Task: Confirm or reject this selection.
+Answer with exactly one token: YES or NO
+- YES = candidate {k} is the same person as the query author
+- NO  = candidate {k} is not the same person

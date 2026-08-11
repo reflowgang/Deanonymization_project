@@ -1,0 +1,500 @@
+I dont remember smissmas having balance changes.
+/r/shittysysadmin
+I doubt we get a 30 for 30, but a 10 for 10 would be nice.
+Was it the Cam Janssen episode? I'm about a week behind and still have not finished the Lucky Luc 31 thoughts episode.
+Glad to see it's not just TF2 that suffers.
+It's so stupid it only does one thing. Works no matter what.
+You could even rotate games between Wembley and New White Hart Lane. Don't forget New White Hart Lane is brand new and built from he ground up for both football and soccer.
+Apparently we just did. I dont know how, but we did it.
+How can you win 5 if Buffalo has won 2?
+I'd argue Risto over Samson.
+This is the best week to be at work though. You get to catch up with all of your internal housekeeping they you are too busy to do. It's not like users are calling or tickets are coming in. Plus you get to look good for staying in the office AND you get extra summer vacation time in the summer when it matters.
+What about both remote IPsec as well as site to site VPN conflicts? What about merger and acquisitions? What about Virtual IPs and new devices getting plugged in by mistake. Better to pick a /16 from the 172.16.0.0/12 and carve it up as needed and use 192.168.0.0/16 for things like /30s for internal routing.
+Not to be a pedant but it's "affected" not "effected" Most of the time, you'll want affect as a verb meaning to influence something and effect for the something that was influenced.
+Boston, Calgary and Tampa will be tough. Other than that there are lots of winnable points.
+Someone get these guys some coffee. They are sleep walking.
+Dogshit second period, dogshit second line. I see a theme.
+Pretty sure it is. There is a gap right above the knee pads but below the pants that is largely unprotected.
+u/Flashwad3 lives south of Gandy
+It's either that if its above the pad or a bad knee if right on the pad. Either way he is probably going to sit down for a week. Koekkoek time?
+Toronto fans and parades that never happen.
+Two lines that could be a top line on any other team. A 4th line that would be a 3rd line on most other teams. The ability to roll out Hedman or Mcdonough at will. A top 5 NHL goalie. Really a lot of it is that most plays are underpaid my about 500k-1M/AAV and they have a big chunk of their middle six on ELC allowing them to have an extra quality player.
+Problem is, even if they get a ton of picks those players wont report.
+PDO is a heck of a stat.
+813/727 checking in. He's covered here
+I dont have enough popcorn for this.
+Picking off a class. Medic in 6s, sniper in 9s
+If you have the time listen to ghosts of the ostfront. The eastern front was brutal.
+Tampa really does have two 1st lines. That team is so deep
+If he can gain a semblance of receiving corps he should be good.
+Can I interest you in a Kyle Okposo? He checks all the Chia boxes [X} Overpaid [X] 30+ [X] Slow [X] Long contract
+That's not his point. He said he made his bank is about mental health at this point.
+?? A good egg is a general statement of a good person. Has nothing to do with gender or fertility.
+Something about how shitty it is to say "good egg" because it bases a woman value on her fertility. &gt; Egg is a term in the transgender community TIL
+I know most of them, but who is the top left corner?
+Cooperstown is a place everyone should visit once.
+As a Bills fan this made my morning.
+&gt; Freak accident is definitely what this seems like Thing is, it's not a freak accident. It's 100% predictable, when sticks get out like that, eventually one will ride up and hit your face. How many of these are the exact same play again and again. https://www.youtube.com/watch?v=SY1FkVNT460
+Season 1 of RGL 7's, I'm BLU and pocketing the Med as pyro. I am all the way up my meds ass only trying to keep him safe. As we approach mid a RED Soli tries to bomb the med and through sheer luck I reflect 3 rockets, kill the RED soldier, hurt something else, at the same time our BLU med pops uber, we killed like four or five of their guys, we got the point and the next one before they ever recovered.
+Alex from Buffalo, not Willy
+That really sucks for the guys who get cut and not paid. If the PA gave a shit they would add somethign where players get their salary over 20 games. Was 16+4, now 18+2.
+That gonna be a remove. a) fear of revenge stuff b) belongs in r4r
+"Competitive"
+Free as in speech, not free as in beer.
+Seeing as we give the pointy end of bomb, missiles, and shells to about half the world consider it a small payback. Not many people complain about us sending 7M in tomahawk to blow up a goat pasture.
+To be fair, there is an export of our TTT passwords, IPs, network devices, and visio to a thumbdrive. Drive is stored in a safe in the CFOs office.
+I also did not realize what sub I was in.
+Yes, actual CP.
+In 7s, pyro is a viable pocket due to reflects and spy checking.
+I find them to much better but YMMV.
+303 in the 303.
+RoR
+My first thought, if it's the GM that's a fireable offense, if it's the ownership I'm even more worried.
+You see he lost his love of hockey and didn't fit the (losing) culture so we had to get ride of him. Also he doesnt fight so he is pretty much worthless anyway.
+Mustard, Kraut, and pickles if you desire. Other option is cream cheese and a pickle spear.
+I agree, but there is also no way the Blues let him walk to UFA.
+Also all 21Tb is used. https://imgur.com/r3fNC4s
+It's a landing zone for data. I write to tape once a month so If it dies, it dies.
+Yes, 3 boxes writing on all four ports as a LAG/Trunk. 4Gb/s will saturate the disk and the traffic is very bursty. This is real sloppy math but it gets the point across. Assuming 100 IOPS on a 7200 disk times eight disk is about 800 IOPS. 800 IOPS * 256KiB block is around 200Mbit. IF I use 64k block that drops me to somewhere around 50Mbit before saturation. Unless my math was wrong with sizing.
+Which is funny as my dad got investigated for a year over the fact that hit hit me (well deserved) once but otherwise was a supportive parent.
+Could it be worse?
+Old, expensive, declining, on a bonus laden contract, and NTC to boot. See Detroit last year.
+Yes, the league made a bit less than expected. Players are getting tired of 10% escrow as well. If they minimally raise the cap and revenue goes up, the players hope escrow goes down. Plus the Expansion and new US TV deal are right around the corner. I think everyone is waiting for a year to see how those things settle down.
+Between two of them you probably get a whole season.
+Skinner is over paid by about a Million per, and in an ideal world it would be a six year contract. I dont know anyone not bitter at GMBot or the Pegulias for the way the RoR deal went down in the first place. That he won the cup was just extra salt in the wound.
+Cant buy out guys on LTIR.
+Reagan, Carter, Ford, Nixon. Still not a lot to pick from. Also FWIW Bush the Elder wasnt bad per se, just kind of hands off the wheel and let the Reagan back end administration keep doing their thing.
+I mostly agree, but I'm fine with a Sanders vs Biden purity test.
+Which is why Florida is doing everything it can to stop Felons from voting.
+Connor Sheary. #Packyourshit
+It looks like he rediscovered his love of hockey.
+Dont ask a Canucks fan unless you have 15 minutes to spare for the rant.
+I cant wait for the day when a Canuck wins the award so you can watch Vancouver explode.
+I want to thank my agent (for getting me the hell out of Buffalo) - RoR
+https://hfboards.mandatory.com/threads/why-mark-messier-is-often-regarded-the-worst-most-hated-vancouver-canuck-of-all-time.1385597/
+https://www.reddit.com/r/tampajobs/ or https://www.reddit.com/r/TampaClassifieds/
+I think you might need to work on your writing skills. Your post comes out like rushed stream of worlds. Which is exactly what OP is trying to stop happening to his kid. Slow down, think about what you are going to say then say it slowly, well enunciated and with purpose.
+Even though my comment was sarcastic and short, I dont understand why you think my comment was rushed. Would you prefer a longer form grammatically perfect essay? ^^^^ Less words, less redundancy and it flows better.
+Nope. I came across it last night and figured it would be a good read.
+I really like the challenge rule change. It should cut down on the 1mm offside ticky tack challenges but still allow blatant mistakes to get caught.
+For discretionary calls the on ice call stands and never will get challenged on the first place.
+Cap is 81.5 or 82 M and should be approved by the PA midafternoon.. While not in stone it is pretty close for teams to star working the phones and setting up plans.
+Eastern Europe, Lativa, Finland, etc... are all GMT +3 I think.
+Which is where Sherry, Okposto and other failed wings are currently playing.
+I disagree. having lived in Buffalo and Rochester most people I know have far more in common with the Rust belt and other Great lakes than downstate.
+You actually might be wrong. The way I understood it was that the value was one or the other but not in between. Yes, I am serious.
+10oa, 2 of Horvat, Boqvist, and Boeser
+The sheild of Sedin was very effective
+At this point, tradition.
+Is it really going too far?
+Left Foote, right Foote, front Foote, back foote
+Who is drafting for Tampa, Rex Ryan?
+Hasek for Stephane Beauregard ?
+First round was last night the rest are today. Starts at 1pm Eastern on NHL network and Sportsnet.
+I really do see Mitts being a winger who can cross into the center much like PKane88 did
+Under 18.
+Lottery protected. I hear it either becomes a 2nd or slides to 2021. Either way the Canes get a pick between 15 and 45. Not a bad pickup. I assuem the Canes buy him out and he signs with the Sharks
+Yes
+"Space cat"
+I think it's an upcountry/rural thing. My family will put an S on list of words such as Walmarts, stores, etc...
+Marchand - Bergeron - RoR Get Marchand to drive Malkin nuts, Berg to play positional D with Sid, and RoR to work the wall. Shea Webber - Doughty Weber to break someones face down low and Doughty for the breakout pass.
+The many, the plowed.
+It becomes an issue once the Leafs/Rangers have cap issues
+To add on to that I generally have one guy permanently watching the AHL and a guy scout my AHL once at the beginning of the season and once after WJC. Typically he scouts AHL team, USNDP, WJC, AHL USNDP, draft/shortlist.
+While I'm a big fan of microdosing I dont know if that is the correct answer considering the current legal status.
+I'm on the road right now but IIRC the spider charts showed they were better when paired together. Even their O-zone stats were not bad from a possession perspective, they just could not score. EDIT: Found them https://hockeyviz.com/fixedImg/spider/1819/BUF/girgeze94/wrap https://hockeyviz.com/fixedImg/spider/1819/BUF/larssjo92/wrap Also notice how much 10 (Berglund) helped.
+Answer: That asked me to make conjecture about others positions. I dont deal in hypothetical situations, etc...
+Even go for Manafort and watch them scream.
+Their rocket program is great.
+The horror, you might have to talk to your family for 15 minutes.
+But the kids dont have autonomy. They are living in a house where the parents pay the internet bill so that he can use their PC, running on their electric bill, to sit in the chair they purchased, in the house they pay for. There is an adult in that situation who is either working OT, a job they wish they could quit, or didnt go on vacation for the kid to have those things.
+They should send my Ex-Wife. While not the best at aim, she was really good at rounds per second.
+Does it not bother you when others are not respectful of your time and efforts?
+Every team is waiting to see how low Point comes in and hoping to use that for leverage.
+Why didn't they Robidas island him to the Canucks for a 7th rounder?
+That first season is rough. Once Sysko shaves his head it gets much better
+That was the only thing that kept me watching discovery past the first few episodes. They always take awhile to find their footing.
+Miami
+Food fight. Great line.
+Gillibrand reminds me of a Karen. Always trying to butt in. I'm expecting her to ask for the moderators manager any second now.
+Seems to be that way so far.
+Marianne Williamson seems like a real moonbeam spirtual type. Way, way, out there.
+She doesnt believe in mandatory vaccinations, so...
+That's how it works now.
+As a pretty far lefty guy I understand that position. I dont know why anyone would tie their self to that position. Also I think that would be the first thing to get dropped in negotiations.
+I liked his 2 minutes. Seems like a policy wonk.
+I dont get it either. There is a case to made that victims or reporters of crimes should not have their immigration checked though. But if there is a workplace crack down ship them back home.
+Buttigieg with the great opening "Because we didnt get it done" to a positional pivot on why.
+Just the opposite in my mind. That was a great response.
+My PoV from best to worst. Harris looked strong, Sanders loves his stump speech, Joe is a season politician, Buttiguig is middle of the pack and performing well, Bennet is running for a cabinet position, Gillibrand seemed shrill, Williamson and Yang appear mute, Williamson is waiting for the moonbeam to come out.
+This ain't it, Kirsten.
+Biden "Our administration" - Drink
+Is that the Asian maniquin on stage?
+Obama - Drink!
+New Zealand - LOL
+That's a quote senator. - Maddow
+"We have no idea who he would have pissed off" - Pete
+Clear winners; Harris, Buttigieg Losers; Bennet, Gillibrand, Hickenlooper Currently in New Zealand - Williamson
+Wait, was Yang even there? Which is a shame as I liked when he spoke and would have enjoyed a slower stump speech.
+Each their own. Part of it was that Bennett and Swalwell kind of morphed into one person.
+Too much inertia at this point, same with Bernie.
+120 minutes give or take.
+YouTube tomorrow
+Whoa, are you wrong. You should go in talk to the person face to face, take accountability, and discuss solutions to the problem going forward and move on to the next problem.
+90's deadpool was great. I was a huge comic nerd from 85 to 95 or so and enjoyed deadpool. Then I read more modern interpretations of Wade and it was cringeworthy.
+Thing is Bernie is powered by his positions and drive not nuance. If everyone takes his position all he has is drive which can sound cranky. Four years ago he shined due to the differences in position between himself and the rest of the field. Now, not so much.
+Boston fans "Why does everyone think we are assholes?"
+To be fair some people are very thrilled about a boring return to the Obama years.
+Yang is gonna get Dean Screamed so hard.
+Follow the path not the person. If it's Bernie great, if it's someone else who becomes the flag bearer and allows Bernie to Whip the Senate, so be it.
+This one? https://brownbase.org/setlist.php?band=Ween&amp;show_id=347
+Mid pairing RHD, covers BoGo while he is hurt AMD can play defense minutes
+I dont disagree but I'm playing devils advocate. A lot of value can come from putting yourself into the others shoes even if for OpPo.
+FWIW, I've never worried about getting shot in Ybor
+^^^ Raises hand
+Ted in Tempe? I need to get there.
+I didn't know OM5 was out. Thanks! Off to wikipedia's page and an hour of unrelated topics
+This had been a high event game.
+Europe
+Things getting interesting.
+Yep. If there is one thing fans of all teams can agree on is this this league is horseshit.
+LPT: Use a real format. YYYY/MM/DD makes sorting by date much easier
+That Corndogs name? Sidney Crosby
+No reason 34 cant become a thing. Pick two of Houston Areo, Toronto #2, KC Scouts, or Quebec Nordiques. Heck, Toronto alone could reap 1.5 billion with a Rogers/Bell split.
+Do you think the Bell Roger's ownership of the Leafs is sustainable? A way out is to have one buy the other out to pay half the expansion fees of a Markham or Waterloo team. They both have the pockets.
+Missed a chance for Ben Bis-Hog
+My Favorite was coming from a late night server install that ended at around 3am over a long holiday (Thanksgiving, 4th of july, etc) Cop pulls me over and asked that same question. My response "Because it's 3am and it's like shooting fish in a barrel for DWIs this weekend?"
+I have not looked at heatmaps, but sure if you say so. My point was that this may be part of shoring up the position of a 2-4th liner, then shipping E-Rod out as part of a bigger move.
+Same. Cheers..
+Reminds me of Rob Blake's ass when he was a killer
+Johnny Boychuck was a beast as was Regehr's tunnel of death.
+I loved my Drury, but I miss Ballard
+Seriously, that was the equivalent of whipping your dick out.
+That was delay of game.
+Yea he will get burned if he keeps doing that.
+Either show fair catch or kneel. Otherwise its live.
+I didn't see him kneel to give himself up.
+Yes they should, but they did not.
+I'm surprised the announcers can even talk whith JJ Watts cock in their mouth.
+I dont think so. There must be a clear indication to all players.
+He plays the heel so well. I hate him.
+WTF?
+He powered through that. Great run.
+Yea that's a hold
+He is right though. TE should chip block in to the Tackle
+Does anyone have a shotgun? Asking for a friend.
+So about that alcoholism...
+Knox is a genius
+The man is broken
+We choked and got fucked. It was a very BDSM afternoon
+Do you think of Estonia as Nordic, Baltic or both?
+Another question about what a fair catch is.
+The team covered the fine already
+question is who are "They"?
+I dont see the rest of the world pulling out.
+He doesnt drink. I'm thinking uppers after getting no sleep last night.
+My dick is big, powerful, lethal and fast.
+No questions.
+So did Team USA
+I still think both Mitts and Cozens are going to end up as wingers long term.
+A 2C, a middle 6 winger who can plop in 15-20g and plays with toughness, and a true #1 G.
+I'm going to wait for facts to come out before Sticky. Not like people have a history of letting a story get in front of facts.
+I'm just glad there is a service loop near the camera. More than I expected to be honest.
+Reminds me of a "Secure door" thats surrounded by 3/8 and metal studs. Dont go through the door, go around the door.
+Never saw it but that's a good example of lateral thinking. EDIT: here is the real thing. https://www.youtube.com/watch?v=rnmcRTnTNC8
+I've done it as internal red team and it's both lots of fun and extremely boring. There are lots of reports, auditing and other assorted paperwork. Pay is pretty good though if you dont mind the travel.
+I would say its 50% travel and 50% in office/work from home. I dont know Cali pay but in WA 10 years ago it was starting around 75k going north of 150k. I'm on mobile but I'll some links later https://www.layerone.org/ if you are in LA is a good start
+The scary thing is the deeper you go the worse it gets. There is some gatekeeping about the really bad stuff
+I firmly believe if that had happened against the Pats BB would not have challenged it and been mad at his own guys. Say what you want but he knows the rules are the rules.
+Still in the same general field but more of a move up and over. Mid-High level computer administration and management including playing defense to hackers and guys breaking in.
+Frankly I'd keep working if I won the lotto (not that I play) for 20hrs a week as I need something to do. As for the bus? I cant really control that.
+Or has already happened and we are just waiting for the information to reach us.
+The Canadian identification song. Sing the first line and if there is a fellow Canuck the have to respond.
+Sabres had a running joke of the "Ryan Miller shutout" where he has a shutout and lets in a goal with a minute left on a softie
+Ted Nolan. I wish had been given more time.
+I hate the fact that this is even review able.
+Do they want to squash it or just have deniability, the ability to hand out heavy suspensions, and legal protection in case it goes banana?
+That song has been on repeat for a while now.
+Rob Ray?
+Thought that would be on the Sens TSN broadcast.
+It was first done by a Uni of Michigan player
+I dotn see how it's a four parter. One more to wrap up the turning points of the war and another that goes over the final days of the war including Nukes, Russian front and reconstruction.
+I've heard this story before.
+But the brisket makes up for it.
+Are we still talking about brisket?
+Anyone could draft Eich and Dahlin.
+A real credit to the Texas education system there.
+Explain how we have both BoGo and McCabe then.
+Those two teams must love each other, they keep hugging each other.
+/r/hockeycirclejerk
+Lazar with all the hustle there.
+Sword team committed seppuku
+Eddington, he just wanted freedom for his people
+&gt; While Buttigieg was never meant to lead those meetings And scene. I have issues with Pete and his police issues but this is making a mountain out of a molehill.
+I read that as The Athletic is kicking our butts and we have to do something.
+What's the difference between paying for physical SI and digital TA? $30/yr is still $30/yr?
+4 day bender in Vegas
+Next year in Miami might get better attendance. Put the ASG in Vegas, LA, or Miami; Draft in the northeast, Winter classic in the Prairies and suddenly it gets more reasonable.
+I disagree with your idea but at least it's a new and interesting idea.
+Should have stuck to LAX
+&gt; The only reason to be upset by The Athletic is that their business model has sucked money out of local newspapers. To be fair, they absolutely have done that, however local journalism sports journalism has been dead for 10 years.
+Lacrosse is a great sport. Makes you run but still gets physical. Frankly if you have kids get them in it ASAP. Less chance of long term damage than football but still makes a fit kid. Same with wrestling and swimming.
+&gt; So beating the shit out of your opponent with a weapon is ok unless he is on the ground 'cause that is too far apparently. Correct
+I've had two major concussions, one was a result of boarding in hockey and the other was a guy absolutely cranking a shot off my head as a LAX goalie. I went down like a tree.
+So basically what Yzerman had to do which was terrible
+We need a 2C in the worst way. We hate Toronto the way Rangers fans hate the Islanders. wings must be eaten with Blue cheese, never ranch.
+I may not be a pilot but if I see a plane in a tree it's safe to assume someone fucked up.
+Okposo has a NTC not a NMC. He can be selected in the expansion.
+Gretzky had his heart, but lost it.
+Those ice level mics are magical
+They did the thing!
+Username checks out. :-) BTW I assume you need to be a level 4 ref do do a FPHL game. How was the test?
+Thanks, I was confused by the P as well. Heck, I still remember Elmira being in the UHL before the moved over to the coast. Hockey at that level is "interesting"
+No disrespect to the Sens, I'm a firm believer that Ottawa scoring two empty nets goals is a huge fluke and robs the Sabres of truly accomplishing what their incapable of. I've spent the last few minutes in pure disbelief and it just doesn't make sense to me. I've spent the entire regular season watching Buffalo play shitty hockey it's just not fair. If the Sabres lose again I will face that the Ottawa deserved the win, but I am just 100% sure it was a fluke and does a big disservice to Buffalo and the NHL.
+I slapped this at the end of the game thread. No disrespect to the Sens, I'm a firm believer that Ottawa scoring two empty nets goals is a huge fluke and robs the Sabres of truly accomplishing what their incapable of. I've spent the last few minutes in pure disbelief and it just doesn't make sense to me. I've spent the entire regular season watching Buffalo play shitty hockey it's just not fair. If the Sabres lose again I will face that the Ottawa deserved the win, but I am just 100% sure it was a fluke and does a big disservice to Buffalo and the NHL.
+At this point a lot of us have given up for the season.
+I'm going to run my car in the closed garage for a bit now.
+Anzac cemetery? That's a solid deep cut
+Out to space is very hard, much easier to slow them down and let gravity dake them back to the atmosphere where they burn up.
+How much money does Kunitz owe Crosby? Same thing
+Over, he is going to get a 10 for talking back/game management.
+All I can think of the Hanson Brothers during the anthem with the ref looking back.
+Seriously, I wonder why you would have a kid if you are both in danger of being deployed.
+Nice tip in Larsson
+This is some nice high event hockey.
+He could replace Matthews when he goes to the 'Yotes
+To be fair Tkachuk hacks and whacks all the time.
+Yea, fresh legs is why Rinaldo is in the lineup.
+I thought Gagner was more the small skilled type.
+Rinaldo "I'm next"
+Of course it's going to OT so it's a 3 point game.
+Talk about turning the jets on Drai
+Paul Yzerbart thanks you for thinking of him like that
+I thought I was going to get a quick hour addendum and this jerk drops a 3 1/2 hour show on me.
+Now I have to listen to the whole thing and there goes my productivity for the day.
+I guess I should have put jerk in quotes or added a /s
+Exactly, I can handle losing. It's the mismanagement of the franchise at the owner and president of hockey operations level that drives me nuts.
+The problem is we have no middle 6. The ROR trade completely hosed our 2C and Okposo has not been the same since his billionth concussion.
+Nine 11 in south Buffalo, gabriel's gate in Allentown or Mamousers in Hamburg are my go to for wings. Duff's is good. Anchor bar is the original but not even in the top 10 for wings.
+Ive been protesting for 20+ years and while I agree with what you say can we please burn down police stations and chains not local small businesses.
+Oh I get it, I've been there. Things break from calm to chaos in five minutes. But if you want to fuck with the state go to the local PD or city hall and fuck shit up all day. Dont go to the local strip mall. I'm 100% behind Molotov cocktail in cop cars (assuming said cop is not inside), 100% against the same cocktail in my local bar owned by a guy I know.
+If this happened 20 years ago I was probably one of those shitheads as well. We grow wiser.
+&gt; So tell those cops to stop murdering and hurting innocent people and solve the problem. Then go to city hall or the local cop shop and do it. Burn the whitehouse or city hall down all day. My buddy's bar is a harmless bystander.
+Which is why occupy wall street failed, and the WTO protests, and I fear BLM. We need cohesive messaging.
+No disagreement
+Nothing
+I was at the Saturday night stupidity and saying "Thank you" to the officers (de-escalation) from a distance. 90% gave me a wave or some sort of cordial greeting. Three did not. The guy with the shotgun was one of the three. The only words he said was an aggressive "Keep moving". I have a feeling he is either not a nice guy or having a bad week.
+&gt; yuppie neighborhoods like Seminole Heights You must know of a different Seminole heights than I do.
+I lost it. It's so refreshing to see guys not take themselves seriously.
+As well they should.
+The CNN split screen is lit. One side trump, the other cops and protests. They even have the audio mixed so you can hear the protests in the background. Trump says healing not hatred as a cop hits a protester.
+I may end up having to express my 2nd amendment rights and open carry tomorrow as I protest. I dont think someone knows how many liberals own firearms.
+It seemed to help the Alt-right not get beat.
+Already subbed.
+That's always a bad sign.
+If you can charge your radio you can charge your camera.
+Might be the first time he ever has.
+There’s a reason you separate the military and the police. One fights the enemy of the state, the other serves and protects the people. When the military becomes both, then the enemies of the state tend to become the people.
+It would be un chambered, no mag, and with a trigger lock. Also, yes I am aware of the risk and I will even use right wing talking points to attempt to bridge any divisions
+It really is a damn shame it going to have to come this. Because I'd rather be at work doing something.
+It's a quote. Also at the time as wrong or correct (It was incorrect) as it may be slaves were not people
+It's a fucking start
+Life is nuanced, and it sucks. I rather take 80% of something than 0% of everything.
+Of course not. Does beating a cop fix it? Can we have a constitutive conversation? Nixon did.
+99% agree, having said that why we (citizens) always capitulate?
+It would be a good start
+I get it I really do. I've been both tenant and landlord. Everyone is jammed from the tenants to the landlord, to the banks, to the underwriters. It sucks.
+I've been a landlord before. I'm going to be a bit fuzzy on exact details for reasons. I had my house, my old house, and my girlfriends old house. We met and decided to move in and after a while got a new house. My house was 950/mo mortgage and 1100/rent, she was 650 mortgage and 800 rent. Our new place was 1800 mortgage. So we are making a whopping $300 off our rentals. Now we have 25k in the bank. Good money right? No. If Either one of us looses our job or a single property does not pay we can ride it out. IF either any two of those thing happen we can hold on for a month or two. Multiple months of this and we are fucked. 4k in expenses plus utilities and food eats into 25k a lot quicker than you would expect
+I Understand
+I still dont get it.
+That was a Washington state issue.
+We really need to go to the Peelian principles of policing https://en.m.wikipedia.org/wiki/Peelian_principles
+Do you need to? No. Should you? Yes.
+Also Omega. While not a total face he strikes me as someone who will never play heal. He wrestling is too straightforward to be a heel.
+Problem is we dont need another winger, we need a 2C who can play a two way game.
+Are you in Germany?
+Given a long enough time everyone dies.
+Damn right I am. For 1500 users the cost savings are astronomical and it takes about 2 hours a month more and 15k in cap ex every 3 years. We save about 20-30k a year
+I just sent a PM.
+I honestly dont know if he was saying it racist or ironically to point out racism.
+Yep mine was HAM 1495. That was the whole number. You could dial 1495 and get my parents if you lived in town
+Yea, it's a tough position to be in.
+/r/tampacopwatch
+100% agreed. We had an issue and are generally hands off. It got taken care of with no drama and everyone comes out ahead. Win-win!
+Now that's a name I haven't heard of for a long time.
+Cops on bikes are awesome as they allow the police to actually interact with the community instead of staying in cars.
+I understand being angry and lashing out. It's not right but I get it. These are angry days and for good reasons. *Hugs*
+I'm fine with an equalization of force. If cops can have guns then civilians can as well, if cops cant then we should not. I'm all 2A but it seems to be where one group had the threat of force and another does not.
+No. Hall of very good. However the HOF is too easy to get into so he probably gets in.
+Not unpopular, I could not imagine standing up to my boss who was a 17 year vet on my 4th day
+Ybor 7pm.-ish
+I know the 'stache more than the race. That moustache was legendary
+Molotov cocktails, batons, and cops
+You get an up in general principal. I'm currently in ybor. Protesting is good, looting is bad
+Dryden, Espo, then Parent
+But it's a starting point.
+As compared to every other time he is silent?
+WWE? No AAA/NJPW? Possibly
+Like civil air patrol?
+To each their own. I didnt find it bad but It was not super engaging either. But then I was not a huge fan of the office (US), it was just not my type of comedy.
+Except its totally 100% not. This appears to be a private disagreement where to cops *should* be involved.
+Sometimes it is subtle things like not being 100% behind a system, mouthing out or going against the grain. I've been on both sides. Perhaps Aliu was not an ideal teammate and the rest of the team used racist reasons to push him out.
+Electric as all get out be he never really drove play. It was Max + 4 teammates.
+I did my 5 min of standing outside with me turning my back to them. No much but it's a start
+Seffner landscaping?
+About 2500-4k worth. Solid company, they dont hold your hand but if you know what you want they are top notch.
+Dont stick it in crazy.
+I'm in ybor right now. What do you like? Are you 21+? PM if you want to hang for a few.
+Try revolve and le France if you are into clothes.
+Also, I've heard that James Joyce will be fire around 6pm tonight. /s
+They can, they just choose not to. I came this ][ close to brandishing as a protester. If the military came I would have.
+Also true. You can be both.
+Yet a 15 year old black kid is tried as an adult.
+Pretty calm, about 500-750. They moved to in front of the sheriff's office
+Yet after 5 days out protesting I still have not gotten anything. I'm still waiting on my shoes.
+Right about cops and racism as well as being a piece of shit for beating your kid.
+All before noon!
+Also deployed soldiers and hookers. It does go both ways.
+Can't be true as the map has New Zealand in it
+He is very serviceable as a 4-7. All he does is move the puck up to transition
+I have many times. My favorite is you must have a NRA membership to shoot as the NRA underwrites their insurance.
+/u/dredding
+Hontoon Island park. It's like $20 for the site (up to 8) and there are almost no services. Toilets are 1/2 mi away, no power, no noise. https://www.floridastateparks.org/parks-and-trails/hontoon-island-state-park
+Doing gods work sir.
+Same here. Quills got more eroticism done with less nudity than most film do with all the sex. Give me the foreplay, give the the butt walking away from either gender but I dont need to see to middle "banging" section. OTOH, if they are naked bodies just being bodies I could not care less. I have a done, she has boobies, get over it. That's just bodies
+1) be white 2) if someone is coming at you and you did not start it you do not have a duty to retreat. See castle law
+Pilut in Buffalo would have been useful
+A bit of both, but I think smoke loses more than Beasly
+I dont think so. Torts is too much of a Heart on his sleave guy. If he had an issue he would say something offensive. He is one of the few guys for right or wrong I take at face value.
+That's not my takeaway
+Its starting to feel like we are getting really close
+Basicly she is seen as tone deaf, self entitled, and money hungry. Also no sports background
+I have not heard of any chance of he getting promoted to a league position.
+Please. Give me a Rick Dudly old time guy to manage Kim.
+There comes a time where you need to work harder or you need to quit. This trick is know when do which.
+Jim Kelly Fred Smerlas Bruce Smith Thurman or Andre Reed OJ should shave been but there is that whole murder thing.
+I was thinking Rex "the Dragon" Grossman
+I still blame the Cubs for all of this. Ever since they won the pennant everything has been wrong.
+1) prison or Jail? Jail is Falkenberg. Prison is further away and to me not tied to Tampa. 2) 100% 3) the city is accepting but it gets dicey real quick as you leave the city. Polk and Pasco county being a prime example of backwater cops and homophobes being only 30 min away. note this is a general statement and not indicative of any one person.
+Davis island
+Which is what? There is a large range of sysadmins who all have very different skillsets. What interests you?
+Counterpoint, Alex Kovalev was dirty as shit as all get out *if* he wanted to be but he didn't want to play that game. Same Vladdy K.
+&gt; mecca of the hockey world Montreal's 24 rings cant hear you
+Tampa, FL is acting much the same.
+Meanwhile of the three people I know who own small businesses and applied none have gotten any assistance
+Most Buffalo fans I know love the Canucks
+Also it helps that the two teams have never pushed for the playoffs at the same time
+Why would a CDMA carrier merge with a GSM network? That make almost no technical sense. Of course it the US cell telecoms so I guess no sense is par for the course.
+The number of people who have tried to join me in an elevator is appalling. Even worse is the number who get offended when I ask they not join me.
+Who the fuck is going to a strip club right now?
+I generally charge about $100 per drop
+One of the things about burnout is you dont know you have it until after when you reflect and ask yourself how you could miss the signs. I suffered for a year and a half without realizing it. Only after I lost my job due to poor performance and irritability, then took several months off did I see the signs that I had.
+I'm going to have to agree here. Could they have taken him home or let his sister pick him up? Absolutely. Could it been handled better? Yes. Once you get into a scuffle with a cop and point a tazer at them dont be surprised if you get lit up. Is it right? I dont know but I would not be surprised when it happens.
+I had a job where I was doing 60-70 hours consistantly. I had no problem as we were making meaningful progress. Fast forward and management started blocking progress and all the top talent left within 3-4 months.
+Typically if it's under a 100 foot run and there is nothing extremely odd/stupid 100-150 is time and material. Cat 6 is like 30 cents a foot or less and a jack and plate is in the $5 range. You can run about two drops an hour. It's not a great job but you end up sitting around $65/hr or so after insurance, license, and parts. So on par with plumber and electrician wage.
+Satan sure could.
+OTOH, it could easily slightly mutate more and cause worse symptoms or be harder to kill.
+Overman and Castor are going their best but the suburbs keep blocking things.
+My theory is that the Pegulas wanted to cut a lot of staff and Botts refused. Therefore they turfed Botts.
+Yep, that's exactly what it would look like but with ethernet. Find the studs, drill top down, cut a hole in the drywall and put a low voltage box, then fish the cable through. Google fishing ethernet cable
+Word of warning to all the people here perhaps? I went out Sunday night figuring it would be dead. Went to a bar/restaurant downtown. It was packed, none of the patrons were wearing masks, no space between tables, and the bar was elbow to elbow. I turned around. As I wanted to wear my mask, have everyone else wear a mask, and stay away from everyone.
+You can do the zoo if you make a reservation and wear a mask.
+Probably not everyone. I'm guessing something in the 25% range. Which is manageable if you keep a fairly flat curve. My issue is that it seems like people have disregarded all simple common sense precautions such as masking, washing hands, 6ft and small circles of socializing.
+Probably not right now though due to our friend Covid
+I had the exact same issue three years ago. Different providers coming into different sides of the building going through the same conduit at a bridge.
+I know it's a devise issue but he seems to ask good questions and has a good rep around the league
+Can you clarify what part was unclear? In interviews with players and meetings he seems sharp. He also has a good rep among other scouts, GMs, and "hockey people"
+I was while not OK, understanding as people make mistakes without malice. These new developments change that in my mind. Same as Rodney King. You pull him out of the car and are a bit strong on the taking to the ground part of the arrest? I get it. You hit him once? I disagree but I'd let it slide. Beat the shit out of him? You can fuck right off.
+Define a defensive man. The days of Hatcher are done. Its all puck retrieval and moving to transition these days.
+I've made a bunch of bad calls and even more good ones; most were minor, some were not. Having said that I've never been in a situation where it was life or death, and none were malicious. It looks like this could have been resolved by parking the car and getting him in the morning. It could have been resolved by complying. It could have been resolved lots of ways.
+I love how a bunch of the tag teams can all work AND put each other over. It's so nice to see
+The actual physical skill has eroded but the technique and mic skills are still there. It's like Brady, he sees the throws and can work the room but the arm strength (as it was) is just not there. Still an asset.
+The appearance is that they went from a full comment to video scouting and a '"do more with less" attitude.
+Alas, all my hospitality industry friends are missing rent or mortgage payments. This causes the landlord or bank to miss payments. Which is the beginning of a cascade of failed obligations.
+I thought it was great. I did a bit of scouting back in the day for the dub and its amazing how much you do and dont see.
+Dude, I'm 80% on the ACAB train and you still got a downvote from me. Perhaps you should reassess yourself.
+My point exactly. There is value in retraining violence.
+Funny as they have been one of the best in regards to half used tables, masking, enforced distancing, daily testing. Makes me concerned about the others that are less concerned
+Well if you dont test or report it doesn't exist right?!
+Also true.
+Cap Hill is it's own thing. I dont think you lived there. I have. Its "interesting" and not in a bad way but just different.
+I removed a post of your like 8 hours ago for being spammy. This will not work
+Castle is closed for the time being last I knew.
+Alas in this case the constitution does not work that way. The 1st, 9th and 14th amendments all stop mandatory masks. I dont like it but thems the rules.
+As a civic service
+Stuck in the middle with you.
+16 and 89 was magic
+I love couturier but there is no way philly gives him up
+What a trash article. It makes a mountain out of a molehill and tells is nothing new. But it a hot take and that gets clicks.
+That's embarrassing
+As an ex pentester and sysadmin, we got mowed over by the business and dismissed for being "difficult " or not in line with the company
+Barnaby was a shit on and off the ice.
+I had to do the boy culture shit. End result was a missing tooth, broken wrist, and major concussion in separate incidents due to older players or coaches. ITS NOT OK.
+Almost like there should be a grey area and understanding
+Theo was and absolute self loathing human being for years. Why? Abuse
+Replace he with she and weed with coke and it the same story.
+Yep. Other than the repression and self hatred its totally good.
+God he an ass,but fuck he is right.
+It always happens on a Friday night due to news cycles.
+100% agreed a sitting president cant say that due to their title/position. Same as Rumsfeld white the unknown unknowns quote. It was cringeworthy but I get what they were saying
+As well as every al Qaeda video.
+Also WWE is showing cases.
+Hasek vs Brodeur 4OT game
+Fuck dude, that's brutal. I have to report it as abuse/harassing
+Alcohol
+We're already dead.
+Sure it is but what is anyone going to do?
+I meant removed from office due to the Senate.
+I have no issue with Krueger as GM or other executive position, but I dont know if the team can be fixed as long as the current ownership is in place.
+Exactly, this such a nothing. Gay? Dont care Tried to hit on someone and failed? Dont care
+I haven't watched wrestling since the 90s. AEW brought me back. I love it because it knows that it's a joke and steers into the silliness not away from it.
+I really want to see AEW AAA and NJPW crossovers each league can help put the other over.
+My understanding is you need to. .. Go to a wrestling school, work the local indie circuits for a few years, get known as a good wrestler and get an invite.
+Dont know, dont care.
+I'm a way former fan. Last time I made it a point to watch wrestling was the 80s and early 90s. The Montreal screwjob was the final straw and I lost interest after. I casually watch Punk and Daniel Byrant but that was about it. I hate Hoss wrestling and much prefer smaller athletic guys with charisma
+I watched the end of the regionals and WWF in to 80s and 90s. It ended with the screwjob. AEW is the only thing that brought me back.
+Damn that's a great analogy
+Its straight out of the Daniel Bryant playbook. Be a man of the people and allow them to see themselves in you.
+Maybe, if I feel like it.
+Can we get one as well?
+I refer to myself as a digital plumber who will wiggle things on occasion.
+Wow, first time I'm 100% stumped. Normally I at least have a close guess
+Wow all the adults in the room are running away.
+Tampa just did the same.
+I'd it's safe to say most other racing bodies will ban them as well. I doubt they ever see a track again
+I dont think he would need to be as he would be dropped and never picked up. Whomever did this will never see pit lane again.
+Mariners and Mets for me. Tottenham for soccer
+Almost like different companies have different standards of conduct. Personally I hope they address it, he takes a month off and gets a very stiff match on his return
+I'm not staying home but I am washing my hands, wearing a mask and practicing social distancing. There is a middle ground between being a total ass and being a shut in. It's a difficult balance
+Not assault but a stiff match. Both parties needs to agree. It's called comeuppance. You nail the guy in PR and make a point to show that their peers disagree. I'm not saying legit hurt him. I'm saying a stiff match which is how social norms are enforced. Yes it was a bad joke and this is how it gets resolved internally.
+It's been done to death via Ken Burns.
+Why so many zip ties and no hook and loop (Velcro)?
+Is everything really that permanent?
+100% agreed. I think he has to turn face HARD, and be a SJW (not a pejorative term in this case) and play the compassionate/understanding guy for a bit. Fuck the storyline, this is a higher calling. The other option is steer into being a Latin rapist lover which will not work for him, AEW, or social norms
+A) yes B) perhaps but probably not C) no. However, there is bro power where one dragged another to a HOF.
+If what you said I's true that's not an overreaction.
+No pulp
+TIL, and am a better person for it.
+It will always be the toilet to me.
+I swore I was not going to drink today. Then I saw this thread. This fucking team...
+That's a paddling.
+Per my friend who owns a restaurant/bar all alcohol sales are banned other than off premise package sales. EDIT: After another call it turns out he was incorrect. Thats what happens when you rush policy and decisions.
+I friend of mine owns a bar/restaurant he called his liquor rep and was told to interpret it as all on premise sales other than package regardless of license type. EDIT: After another call it turns out he was incorrect. Thats what happens when you rush policy and decisions.
+Same here with our rep. EDIT: After another call it turns out he was incorrect. Thats what happens when you rush policy and decisions.
+He called the Tampa DBPR rep and claims that is what he was told. EDIT: After another call it turns out he was incorrect. Thats what happens when you rush policy and decisions.
+Eastern Washington or south past OLY?
+In Tampa the market for a private transfer is around 150k.
+We know. But they fill a much needed niche. I even use them and fortinet for our smaller installs.
+Two weeks before symptoms, two to four weeks for death or clearing so yes they do lag.
+I was at the protest and stayed on the outside maintaining like 20ft distance while wearing a mask. I was a the social staying in the far away section. Whats so hard? Was I unclear?
+I dont know the numbers but for years and years it seemed like JayBo was always on the ice.
+I was thinking the Panthers.
+I dont know of anyone who likes abortion. I also dont know of anyone who likes war but sometimes we have to do messy things out of necessity
+Clues are No Utica Devils or Comets, Portland is with the Caps, and Atlanta still has an NHL team.
+Half body or full with legs?
+DM me in the AM
+Yes, and I never pulled it out of my hip but retreated back about 20 steps rather than pulling it out and engaging. My hand was on my hip though BTW. I was scared shitless the whole time as well.
+Greatest thing I ever did was work 30 hours with a 25% pay cut.
+I wouldn't say happily. I was happy at $35-40/mo when there sports to watch
+Problem being people dont wear masks or distance as required. Baffling
+That's the chain, rent fails, mortgage fails, bonds/underwriting fails, investors fail.

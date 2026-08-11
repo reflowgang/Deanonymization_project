@@ -1,0 +1,50 @@
+At some point with the level of product placement we have been seeing... its 24/7
+We still could have a Stanis battle...
+Prices fall, company cuts budgets because you can never show a loss, building falls into disrepair, no one rents anymore, goes bankrupt, all housing lost.
+I can only imagine what happens when the cat stops running with that much inertia on the wheel with that little friction...
+Or blow part of a babys chest off... not that anyone has tested that... oh wait...
+What if we build a 56 rail wide slab of tracks and have bumper to bumper train cars...
+The only practical wheelie is a ever so slight power wheelie in first racing from a dig, past that keep 2 down on tha ground.
+Plenty of new tech, they have to design shocks and springs that have much more travel than they currently do since the tire sidewall isn't much of the the suspension anymore. This means figuring out how to jam that into a very small space. Then they have wheel tech, they have to figure out the lightest and strongest way to make the wheels since larger rims are generally a little heavier. The brake tech changes also, they can have more variation in rotor design, cooling, and operating temp. It all combines into a massive change for every team and a new category of engineering competition.
+http://i.imgur.com/YwgbT16.gif
+So if we had a sailor sub ohming a flavor like a subway sandwich while listening to yellow submarine which is subliminally sublime... you would have...   A sub ohm sub sailor sub ohming sub sammich while sailing subliminally into the sublime submarine songs
+No, TIL that to run a business doing hair braiding you needed a license and training and a certificate saying you were licensed... But now NO MORE! *waits for someone with a bad braid to have some sort of legal issue*
+Got that backwards, multi log is you are sorta playing one then the other. Multibox is you have everything synchronized perfectly and macroed so that all of your toons are playing at 100%
+http://viz.dwrl.utexas.edu/sites/viz.dwrl.utexas.edu/files/tower1_0.png  This one wins.
+You need a fuel filter.
+We found the person who doesn't clean up after their dog...
+This is /meme... no one goes to /meme...
+RAIDing consumer drives doesn't show a speed increase in client applications. This is not a client box this is a server with potential for high I/O requirements.
+Texas has a straight 10% rule. Though a cop could always ticket you for something else.
+They somehow got the 1st degree to stick based off a law designed to prosecute  premeditated intent to harm anyone. E.g shooting a gun into a crowd with no intent to murder a specific person.
+Simple drug test is a game over.
+The VRTX is a good box but doesn't scale well past 4 blades.   There is a box called the FX2S that may be a viable option.   Also if you want massive scale-ability for the future you should quote an M1000e.
+He is getting paid so its a ProLapse.
+Yep can already see the plants dying and the ground look like its dry as shit... Its like a picture representing why my electric bill is through the roof.
+/u/JeSuisUnAnanasYo's picture is of a skull cap not a half face. Half face helmets cover most of what a full face does but with no chin bar. They are better than nothing but I wouldn't feel safe with one.
+UNLESS EVERYONE IS A DOMAIN ADMIN DUMB DUMB DUMB!!!!
+Triranatops-rex
+Could you imagine the frustration of getting on the "toll lane" and then being stuck behind a bus...
+Have you seen what happened to that woman from some spilled coffee? http://www.vanosteen.com/news/images/mcdonalds-coffee-lawsuit.jpg
+It can be crammed into a pocket but is uncomfortable for sitting.
+Just 4 broken legs...
+Build one around a subtank nano   http://www.myvaporstore.com/Kangertech-Subtank-Nano-3ml-Tank-p/krstn-k.htm
+&gt;iTunes  Enough said...
+Follow the kernel revisions.   Vista was 6   Windows 7 was 6.1 - 6+1=7   Windows 8 was 6.2 - 6+2=8   Windows 8.1 was 6.3 - Fuck 8.1   Windows 10 is 6.4. - 6+4=10
+Seems like they did after the initial release... fuck it... its called windows 10 don't ask questions... *lights hair on fire and runs out screaming*
+She will just fall asleep every time she hears it...
+Gotta use a clicker on these types.
+1 toe please.
+Many companies have it, most don't use it.   There are really only 2 options.       1. Stop letting companies use hundreds of thousands of IPv4 addresses for private computers and do an audit of the address space.  or      2. Stop routing IPv4 though someone like Level 3.  As we have seen with windows XP... a corporation will do a hell of a lot to not change shit.
+Good server, stock it with at least 2x 8GB of RAM. 1 small SSD to boot and grab 2x 1TB drives in a RAID 1 for storage.
+We really wouldn't know till a full audit is done. They were so careless with the original ipv4 addresses that no one even knows where most are assigned to or if the company they are assigned to is even in business anymore.
+http://www.networkworld.com/article/2228854/microsoft-subnet/microsoft-pays-nortel--7-5-million-for-ipv4-addresses.html  700K addresses right there. Every major tech company owns a huge swath of ipv4 and most assign them to their workstations.
+dell 2800 series switches may fit your need.
+The massive demand is only because of companies assigning ip addresses out to client boxes or management interfaces or a million other things that don't need it all because they refuse to deploy NAT for the local network.
+Rule restrict the ability for you to work on it except every other weekend and a few weeks durring the winter.
+Probably just the same guy did the burn in test.
+The peeping toms will be the next state over...
+Well they did have a new package on Fernando's car... but it got crashed out early.
+Remember these things don't have a normal valve train... the valve train in a normal ICE takes up to 25% of the power of the engine to drive.
+Metric system... 800C is hot as shit...
+Got any of them 8gb ECC udimms...

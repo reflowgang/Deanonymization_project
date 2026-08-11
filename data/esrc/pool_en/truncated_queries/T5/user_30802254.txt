@@ -1,0 +1,100 @@
+When I first got it, it worked off the toolbar, not with E. After saving and reloading, it worked with E.
+I disagree. I made it and immediately put it on my hotbar to use it, same as the pick and the hammer. Worked fine like this until after I saved and reloaded.
+Note though: you only get a glowstick if the glowstick is farther up in your inventory than the flare gun~
+at the end of the punch line.
+I'm just now becoming aware of the concept of a "summoner"... it seems like bee armor allows 3 pets at a time. Is bee armor viable for hardmode or should I stick with a platinum set?
+Interesting, and yes you're right. It only replaces the most recently summoned monster. I can do any combination as long as I unsummon
+Yeah I've had a couple insanely amazing drops on this character. Shame it's only a game and not the lottery
+Yes on the bewitcher table and well fed, never seen a summoner potion I'll have to brew some. Do I need to keep drinking the potions to keep the buff, or just once before I summon? Also, what's an EoW scarf?
+I used the yo-yo a lot in regular mode, but it seems like it doesn't work when I have 5 summons going.. they hit the enemy so rapidly my yoyo never connects/bounces and the counterweight never comes out.
+hmmm, i didn't think to check, but that's probably why, I had just gotten back from fishing so it was probably past midnight already. That's good information, thanks! :)
+That being the case, wouldn't the corruption invalidate the room regardless of whether or not there was a door?
+This is fascinating.... Way more complex than I was originally thinking, but it gives me a lot of ideas. As far as the movement physics goes though, there's no situation where a block will bump a player moving at a set speed a different way randomly?
+Hmmm, actually since building out the trap system, it's common for there to be a total of 10+ enemies caught in tiger pits, and since I'm not actively hunting them down they are dying very slowly. I hadn't considered the total population might have an impact, but that's definitely a side effect of me not actively going through laps around my perimeter killing things. Thanks for the detailed response!
+Actually the video made me realize, NPC wandering is non-deterministic, right? A friendly NPC locked in a room with a pressure plate should hit it an unpredictable number of times (though probably not useful for virtual computers) Additionally, there seems to be some randomness to spawning piranhas from a statue on dry land. If a crab was spawned and there was a switch on his right and on his left, I'd imagine his direction of choice would be 50/50. Additionally, I've noticed when mine carts have underside collisions, I sometimes get unpredictable results, and occasionally even at max speed, a certain jumping route that's carefully calculated can misfire. I spent a lot of time trying to get a mine cart to fly through a door and the results were inconsistent. I'm going to try to play around with sequences of boost tracks and see if I can make something unpredictable happen, will report back.
+Regarding the saucer, I've had it spawn as early as 11%, and when I'm standing outside they literally spawn back to back with less than a 2-3 second delay between them, and as soon as I go down into my base they stop spawning. In fact, if I sit in my base and don't attack, I can sit there for 5-6 minutes and not see a single saucer, and the instant I emerge, a saucer spawns.
+I was actually wondering if it was an inside joke, maybe the actress had dated Rob off-set or something. She apparently had a date with Perd as well, so she's sort of the classic "I know a guy" trope who the writers can retroactively claim has had a date with just about anyone if it drives the plot.
+actually i have it on vhs, but I'm watching the YIFY rip. I'll need to compare the two. I didn't know that about TV stations though, that's interesting. Edit: I cross referenced, the YIFY rip goes back to regular speed about 20 minutes in, but the first 20 is definitely sped up visually. Same on my VHS.
+Oh I agree he's definitely not a parasite, a shoulder wound immediately reveals parasites plus with pinkish blood, so the direct red blood chest shot proves he's real. That said, he's obviously something unusual as well, as is Rick, since only he and Rick seem to be directly capable of accurate 4th wall breaks. My theory is that Rick is, in a way, some sort of producer, and Mr Poopypants is in some way the audience.
+Him being from a different dimensions seems needlessly complicated...
+apparently you and I differ greatly on our understanding of the definition of the word "major"
+at the big chicken store.
+Nope, /u/Charlie_Zulu, you're totally wrong; I'm not trying to get a space station to fly to a different planet, I'm trying to get it to orbit Kerbal. I'm aware that KSP is difficult, the "difficulty" i'm having is that a 3 part space station wiggles around like an angry worm on a hot sidewalk while floating in orbit doing NOTHING.
+Hmmm, I keep getting lured into the "more fuel, bigger ship" concept. I suppose keeping my fuel-to-ship ratio maximized could be done with smaller tanks.
+Humm, have you heard about "KAS" and "KIS"? Lots of people are saying things that make it sound like there IS a way to do this...
+precioussssss...
+Hmm, I hadn't thought about taking the simulation overhead into account, i've been focused on in-game concept design. Taking the number of parts into account changes things though, cheers/thanks!
+Interesting, and no... I'll look into this
+i mean ive managed to get into orbit, i know not to try to launch east (although the upside down world is confusing), and I've managed to land on Mun and get home... I'm not sure if "intuitive" describes it well (I had to look a lot of stuff up), but the problems I'm having are theoretically sound space stations wobbling themselves like a PVC pipe at a blue man group concert.
+I usually get out of mun's gravity with RCS rockets, the tricky part is knowing which direction to fly! =P
+In the real physics world, does more parts end up causing things to behave unpredictably?
+&gt; mild speech impediment I think the word for that is "lisp"
+I know what scene's you're describing, and I can see where you're coming from, and what you're saying does fit if you read between implied lines, and the 10 year disappearance is another point of confusion, as is the eagerness for the coupon for the free Morty.... here's my issue though, Rick c-137 is the "Rickest Rick" and would certainly know if his Morty was not his original "Mortiest Morty". Bottom line, Rick is not a tremendously emotional person, and his "poor Rickless bastards" comment, and indifference when picking the wrong Jerry up from Jerryboree indicates that he's not sentimentally attached to Smith families from other dimensions. The fact that he was willing to sacrifice himself (more than once, in the Shrodinger time fracture episode and the season 2 finale) for Morty, indicates that he has some special attachment to his own Morty.
+Are you actually enjoying this?
+Hmmm, I wonder how people would react to moving to a different Rick... would mean the entire first 2 seasons would be irrelevant. I'd lose all my attached feelings toward the character and probably be pissed.
+Only if it can star Redgren Grumbolt.
+How is Jerry going to accomplish anything though? In the season finale he was all "Anything you care to tell us about this previously unmentioned 'government'", when it's come up, in his presence, at least a dozen times.
+Ernest Saves Rick?
+possible to make a printable version on white background?
+What was George Washington's middle name?
+I had 3 coolers and built four of those water things &amp; still was in the 40s.
+Hmm, actually that's another thing I'm struggling with, I have a TON of animals, and they all have free range of the place &amp; make everything filthy. I'd been kicking around the idea of restraining them to a barn, but I've taught all my pigs how to haul stuff &amp; they're actually quite helpful.
+Only when there's combat going on, or when I'm specifically trying to get a particular project done, and a lot of times I supervise a hunting party. Edit: I just realized "season" means a 15 day season, not a 60 day year. I had originally meant to say year.
+Doing that now, Tundra in late fall is already no joke, so settling in the middle of nowhere near a lot of enemies. ...On that note, does the nearby factions (mapwise) impact who visits you? In my old base I was able to call for help to pretty much any faction, even if they are nowhere near me. I'm a 5 day journey from anyone, hoping I can get some trade.
+The ship is actually in a forest area, but there's about 15 squares of tundra to get from one forest to another forest, and all my animals and colonists die 3 squares in. I'm currently making a base at the tundra edge to wait for summer. This is my second colony, and my first one died horribly in the first winter, which I'm ashamed of, so I don't want to lose these guys.
+Mine too. Here's a thought; if you study the map travel, there's no movement from about 22h to about 6h. I suppose (as tedious as it may be), breaking camp at about 18h, building a tiny box around a heat vent &amp; striking camp at 8h every day might be necessary. That gives you 12 good hours of travel a day &amp; lets you avoid breaking your feet off trudging through the ice.
+Fire bad, rain pretty.
+Related observation: When I call to request a trader, factions nearby OR very far take the exact same time to arrive. Being directly next to a faction helps if you plan to raid/trade a lot with them though.
+Hi I'm new here and what are Launch Pods?
+The "cloth parka" hint was the best tip I had... I hadn't yet realized that different materials perform differently. I had a pile of camel fur from my Dromedaries that I wasn't even using.
+;-;
+I've had multiple times that a heat wave has destroyed everything in my fridge with two coolers.
+Nope, I'm on a Mac though, I wonder if that's related.
+I see it; "Toggle colonist bar". It's checked; no bar.
+Already abandoned the settlement with the dog, but I have a Megasloth I captured and tamed during toxic fallout that has Dementia, they get like 8.5+ DPS...
+Yep, mine's checked
+Yes, it's checked.
+It's amusing because Dadaist art is essentially anti-art, meant to offend and be hideous on purpose in order to protest against the wealthy and powerful and their notions of art.
+ALMOST conflicting with its erotic style. I love it!
+HOLY CRAP YOU CAN WALK OVER WEAPON RACKS???
+Hahaha, yeah that's exactly it. Thanks! :)
+That was a great scene :)
+rageking5 found it: https://www.youtube.com/watch?v=UaR_5tRi8ro#t=3m25s
+Full of frozen raw meat and room temperature kibble. They were set to follow a colonist who was working &amp; apparently he carried a meal with him &amp; ate in the field rather than back at home. From there, the dogs got too hungry &amp; just started standing around. Stupid dogs.
+I assigned them to a colonist, went into "Draft" mode, walked them to the fridge, then unassigned them.
+South Park does a similar gag when they take a field trip to Costa Rica, the tour guide over-pronounces the Spanish words like "Coh-STAHH-ree-KAHH". The memorable scene from that was where Carman rolls down the bus window and yells "Hey everyone look at the prostitues!" and one of them replies "hey mang, why you no take a peekshur?" and Cartman pretends to hold up an invisible camera and says "Okay~ Cleeeek!"
+I dunno how I feel about the pirate indie games vs pirate blockbuster games... theft is theft, whether you're robbing a mom &amp; pop shop or a Walmart. Walmart is a big faceless corporation, but stealing from them affects millions of shareholders and employees, many of whom are struggling in life. Why feel sorry for an indie game studio who has succeeded in making an awesome game, but not feel sorry for a broke sap who wants to play games and have fun but can't afford them?
+I always try to tame them.
+I made a colonist slaughter her bonded labrador, skin it, and then tailor it into a tuque hat and wear it. Winter was coming.
+Eh... On the one hand taking something someone worked hard on is wrong... on the other and least it's not the same as murdering a man, riding his horse, and taking his daughters as wives.
+RIGHT? Jeez, it's like having a bunch of teenagers.
+How is it not?
+I think he meant create a new game &amp; then send your 3 colonists to the first base; probably answer is no. I recently have discovered a really solid work flow planting cotton and selling it to buy slaves (the irony of which is not lost on me).
+You're basing this on emotions; i'm basing it on technicals.
+You just broke my entire life.
+Once they become colonists, you can't throw them into the geyser room any longer without pissing off EVERYONE
+So, your little sister...
+That's it actually haha, nice work! Now that I think of it, I believe Smash Bros had something similar.
+From a developer's standpoint, as best I can tell the "fleeing pirates" sequence of events is a 2-part sequence, consisting of adding a colonist, a short delay, then a raid. I would bet very heavily that the raid is just a standard raid that's put in the queue by the event, rather than a special subset of raid.
+Yeah you're right though, I can picture the blocky silver text on the screen.
+One of my colonists just shot someone with an assault rifle, the first bullet downed him &amp; the other 5 were just a bonus. Cost him a finger and a toe, but he lived through it.
+I usually let them die, but the attacking pirates often have some with good stats &amp; I can pick and choose after :)
+HAHAHAHA that's fantastic.
+OK THEN. In the original Sim City there were random disaster events, and your focus was on preparing to handle them by expanding your foundation incrementally in a way that was balancing the aggregate of needs using a variety of buildings; I need money so I build industry, now I need people to work at the place so I build residential, but the residents need to buy things so I build commercial, but now I have higher power demand so I build a power plant, but now I have higher pollution so I build parks, but now I have higher tax costs so I need to repeat, all the while expanding outward building roads etc, trying to find a balance of needs while increasing my revenue and therefore my foundation, while preparing for a fire to destroy everything. In Terraria, you run around mining/harvesting resources and using them to build block-driven buildings of your own arbitrary shape and design in order to fulfill needs of industry (smelting, weapon making, etc), while expanding the base of items you're able to build, improving your stats, moving up into better and better gear that you make yourself, all of which improves your ability to dig and build and eventually NPCs move in, each which has it's own specialty. The block-by-block building mechanism, the resource harvesting, NPC management, raids, random disasters, outward expansion, research and technology increases etc are all present in both Sim City and Terraria. Now you tell me how I'm wrong.
+If it had been Naomi Watts or Laura Vandervoort, I too would have been sad for two seasons.
+"Abrasive", so skilled in pissing off ALL my colonists who are actually working.
+MORTY GET AHO-OOHHHHHhhh-LD OF YOURSELF!
+I played with the moisture drainer, but it doesn't handle deep water
+WHAT IS THIS MAGIC OF WHICH YOU SPEAK?
+Yep, Actor is gender neutral.
+Hmmm, very good point. I believe German and French both have neutral versions of their nouns, but I don't believe that's the case in Spanish. To be fair though, it initially made things confusing in English when we started forcing everything into gender-neutrality, and I'd argue that any game with sci-fi vocabulary is also "difficult to read" until you're used to it.
+My vote goes with the Professor/a, I've used his/her or him/her in games in the past when gender isn't explicitly stated, or when the text isn't modifiable.
+That line of reasoning never ends though; Why have "Male" and "Female" as a binary, and "Gay" as a true/false? We need 55 genders and 75 orientations in order to be fully accepting.
+Oh I totally agree. I also know people over 80 who feel the same way about the N word. Keep fighting the good fight.
+OK then, lets use a word that wasn't offensive "from the time of its creation": The word "Negro" was considered scientifically and politically accurate for years; placed on medical forms, census papers, political surveys, and was officially recognized by the US government as "proper". In around 1970 we were told to stop saying it, and people born before 1960 thought it was silly and that it was a perfectly valid word. Here's a literal conversation I heard about 5 months ago between an elderly couple at a Dennys (I'll never forget it): Cashier: "Sorry our computer is down, which server did you have?" Man: "The Negro" Wife: "HAROLD! They don't like to be called negros" Man: "What? Why not, thats what they are" Wife: (whispers) "We aren't supposed to use that word, they're African Americans now" Man: "Afric~ I'm not saying that, that's stupid. They're Negros, and if they find that offensive, that's their problem" I understand that you feel "inconvenienced" to update your vocabulary, but so did this man, and you can fight social change all you want, frankly I don't care, and neither will people your age, but the younger generation will roll their eyes, be embarassed, and largely view you as backward and out of touch.
+Didn't spend a lot of time in Blockbuster's VHS horror section?
+In the end I was just trying to grab stuff &amp; get off the map... colonists are stupid about forming caravans.
+these don't look safe to eat...
+This is my second "Giggles", and my first one was also a complete psycho.
+Yeah... I always panic when a tribe of visitors wanders through. I've been taken down by hails of arrows triggered by a bad hunter shot far too often.
+Racist, but I like it.

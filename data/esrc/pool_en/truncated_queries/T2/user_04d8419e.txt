@@ -1,0 +1,10 @@
+what is really surprising about the stolen bases allowed is that the pirates are about league average in throwing people out, yet they still run.
+Been there, there is a company in the NW New York region that does the same thing. They tried to map the drives with group policy but one out of 5 people it failed (guestimate) so everytime they changed something we'd have 50-100 people putting tickets in and/or calling "OMG my Stuff is gone!" after so many times of hearing "why does this keep happening" all you can say is Server Admins.
+she must've typed google into Google.
+apparently one of the updates slowed alot of people down. [this video](https://youtu.be/0KP522js6Co) may help?
+first: you pay for 120M but your wireless speed may not be able to handle it. Try hard wiring in to the router see what your speed is. Wire in to your router disable your wifi and try it. you are also using an older core duo and probably intergrated graphics. If it is doing it on HQ videos try lowering it to standard quality. see if it stops. Also try it in a different browser. seems silly but worth a shot.
+oh yeah.. i have a couple that are maxed tokens that i just quit heroics on because i couldn't trade stuff in for anything i wanted... i'll have to check this out. Thanks for the heads up!
+i used putty tray quite a bit. worked nice.. most of the time just use straight putty now though
+quick google of the monitor doesn't show an HDMI connector or speakers? different/newer model? I'd first try using a new HDMI cable. Also maybe try a display port instead if the monitor supports it? Also possibly a new monitor power cable/brick.
+its not out of the ordinary, you would expect it to be faster but those router usb storage solutions are often pretty slow. If you are looking for something a little more reliable/faster check QNAP and Synology if you don't want to build your own
+I found [CDBurnerXP](https://cdburnerxp.se/en/home) (watch out for the crap ware install) to work well. Set it to burn at a slower speed usually makes a difference (don't know why) you may also need to try and fail to see which discs work best for your player.

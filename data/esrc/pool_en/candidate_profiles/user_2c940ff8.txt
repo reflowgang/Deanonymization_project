@@ -1,0 +1,500 @@
+Basically, if you can plug the drive into another computer (through SATA ports or an usb adapter) and access files, it's not encrypted. Full drive encryption is rarely used outside business/government computers.
+The subreddit is quarantined, it and it's content can not be accessed without first visiting the subreddit from a desktop view web browser and consenting to view it's content.
+The responsibility will be on you to send the transcripts to Tech. Most colleges will have a link through the student information system that goes to a portal where you can purchase and send transcripts to the college(s) of you choice.
+~64gb at an absolute minimum, although 120/128gb drives aren't that much more expensive
+Adapters exist to use a pci-e slot for a m.2 Nvme drive, although be aware that the motherboard likely will not be able to access those drives to boot an OS from
+The firmware packages on older boards that never were designed to access a pci-e storage device at boot time are frequently incapable of accessing a pci Express storage device at boot time. Just use a SATA m 2 in a 2.5 bay adapter or a 2.5" SATA drive here.
+Nintendo Wii era me would like to say hi. That is, the version of me that lasted a week before I started building up a massive collection of NIMH AA batteries.
+Amazon has lockers in many large cities, especially now that they own Whole Foods Problem is that the lockers may be inconvenient to access for many people.
+If a package does not require a signature for release, it will be delivered in a mailbox (small post items) or on a porch or other obvious location (UPS/FedEx/Amazon and other couriers, and USPS items too large for a mailbox).
+Not everyone's employer will accept parcels and mail and hold them for employees.
+It's what happens when nobody wants to pay a courier service to wait for the recepient to sign for a package.
+Many employers will not accept and hold packages on behalf of their employees. I've never seen one that did
+If the shipper and recipient don't require a signature at delivery, the carrier's obligations are filled just by leaving the item at the front door.
+Mail theft is a very common thing in the US these days.
+It's playable, just only in spindle load drives and not slot or tray loading drives.
+Fitbit making a pebble 3 confirmed. (I wish)
+The new SSD should appear as a 1tib "unallocated" space. Right click it, select "new simple volume", make sure the full volume is selected and that ntfs is the desired filesystem type, and give it a drive letter E: or something and click confirm/ok
+The unallocated space on the SSD hosting C: was likely set as a way to forcinly over-provision 10% of the drive space. Unfortunately undoing the over provisioning and expanding C: may require third party tools because of the windows recovery environment partition in the way.
+It's up to you what you do with that space.
+It's either go with a late paycheck as required by law, or lose your job for not showing up go work. Most people in such a situation would not want to lose a government job position.
+Doesn't matter for non-boot drives. The issue here is that the 3tb drive is using a MBR partition table, which has a hard limit at the 2.2TB barrier as noted. There is no way to use the last space without changing the drive to a GPT scheme, which will involve erasing the entire drive.
+A few non essential government services close down, and many government employees may see their paychecks delayed until after the shutdown is resolved, assuming the appreciations bill that ends the shutdown doesn't eliminate their job.
+The wd green m.2 drives are SATA m.2 drives, not Nvme. This likely explains the price difference.
+A few non essential government services will temporarily suspend operations. Many government employees will have their paychecks delayed until the government is funded.
+Needs more jpeg.
+Drivers licensing is a function of the state government, which remains unaffected by the affairs of the Federal government here.
+What CPU are you currently using. The 4790k is the best CPU of that socket, and may not be a worthwhile upgrade. Adding more RAM may also not be a worthwhile investment if you are looking to upgrade the CPU beyond a 4790k anytime soon, unless you find a nice price.
+Lack of regulation: in many cities there is nothing preventing a bunch of mobility devices on a sidewalk
+Press control.
+Oh damn, even the alternative Inc**s sub has been quarantined? Damn
+Can you provide a screenshot or something for context here?
+The drive in question is being used as a secondary/storage drive, and not booting an OS, right?
+Not always. And quite a price to pay for a treatment.
+It is, but it's acceptable as it isn't a terribly disfiguring form of mutilation.
+oh. damn
+Honestly, just go for a solid state drive at that point. Consumer 15k hard drives don't make much sense.
+Wireless charging becomes redundant and useless when a cable is connected, and most phones will disable the wireless charging reciver when charging over USB.
+For steam games, the most you would have to do is create a library folder and cut+paste the games from the old steam directory to the new library folder.
+Many tourists don't live in a area that uses every transponder system available, or want to deal with the extra step of running a toll and then manually paying it later from a computer. Cash transactions are settled quickly.
+Adding a extra hard drive doesn't make a computer faster.
+Frame's probably mostly carbon fiber. Good luck
+The local police department might want to have a word.
+The church of the Cincy Bengals maybe.
+It's the word of the day.
+There are various methods used, and it's not uncommon for the cue ball to be a slightly different size/weight or for the cue ball to be slightly magnetic.
+A few restaurants, and that's basically it when it comes to generalizing across the country.
+Partially because many US airports are much older structures than airports in areas that have rapidly developed in the past few decades.
+Current transaction fees at the current exchange rates come out to around $.10-0.20, unless a transaction has a large number of inputs and/or outputs.
+There are a lot of portable audio disc players that had the option to run off batteries or an external power source.
+No. No currently practiced surgery involves transplanting a uterus to a transgender female.
+Please
+Once every few years I'll throw a few bucks at a huge jackpot for the fun of it.
+Most of the Fallout 4 retail copies I have seen are just Steam keys in a box with a disc. That steam key can be activated without the disc.
+Unfortunately, probably not, maybe except at/in hospitals.
+Welcome to the 999th time this has been reposted
+One year we did 15k+ in gross sales with almost a single digit labor percentage. (Not counting the fact that shift was overtime for quite a few of us).
+Check Oscar and see if there are any registration holds listed. I don't know exactly what happened, and I'd rather not bring up the past if we can avoid it, but academic dismissal for failing grades will generate a "important academic standing notice" email from the Registrar shortly after grades post. That being said, IIRC you can't go directly from "good" standing to dismissal within one semester. Note if you did withdraw the entire semester, that will require a short readmission form to be filled out with your department before you can resume classes
+You're at a point right now where any upgrade will be a very large cost for fairly small gains. That might change two years down the road, but probably not by too much
+Not necessarily, if someone wants to walk up inside the kitchen or drive through window with a gun, they still can.
+Post/comment karmas are pretty much the sumn(the algorithms are a bit more complicated) of ones upvotes/downvotes on their submissions/comments. Silver is literally a shiny sticker on your post and nothing else.
+Many boards that ship with an updated firmware will have a sticker/label saying so. Updating the firmware will require you to obtain and install a compatible CPU to use to install an updated firmware. AMD provides loaner "boot kits" for this purpose if needed.
+It's a commonly used joke in many circles about how one's digital activities may corrupt the perception of oneself if they are discovered by others. A front page post uses this trope, hence why people come here to ask.
+The bloodstream is very effective to distributing stuff everywhere the body. For medications like insulin, time until the drug enters the bloodstream isn't critical, and injecting into a muscle or under the skin is a lot safer and easier than directly to a vein. However, injecting directly into a vein results in the drug being absorbed very quickly, which is desireable for recreational drugs. It also takes a long time to set up, which is why emergency administration of some medicines, such as naloxone (for opiate overdoses) isn't done by IV unless an IV line is already set up.
+It's extremely effective, hence why it has been adopted in such a widespread manner.
+Create an installer disc, such as by using the Media Creation Tool for Windows 10, and boot off of it
+What GPU are you currently using?
+It was designed intentionally to give every state equal representation in one of the two chambers of the Senate. If there was just a single chamber with proportional representation, the voices of the smaller states would easily be drowned out by the interests of a few large states. Having the second chamber composed of equal representation makes sure the interests of the smaller states can't be ignored easily. For further reading: https://en.m.wikipedia.org/wiki/Connecticut_Compromise
+Gift cards have often done the same thing, and so do many types of bank accounts, so it's likely not legal if the customer is warned about it.
+It's a furniture store with a pretty well known restaurant/cafe
+The cable/connector hasn't changed between versions, and HBR2 is sufficient for 1080/144 anyway.
+Housing provided by the school typically won't have unused "model rooms" available to view beforehand, although their website might have pictures and other details available. You still will be signing a lease/contract without seeing the exact room beforehand
+&gt;4k &gt;144hz &gt;Cheap. Pick one, or maybe two, but you can't have all 3.
+Eventually a compromise will be agreed on, it's just a matter of when it is and what concessions are made to each side in such a compromise.
+Definitely pci Express. AGP died out over a decade ago, and 64-bit platforms with an AGP slot were a rarity if they even existed.
+Just to confirm, the drive doesn't appear in disk management, even as a 1tb unallocated space in the lower pane of the main window?
+I would assume MARTA would try to utilize as much shared right of way with the railroad tracks that run up to and through Norcross, but going that way puts you a good distance away from i-85. Although Jimmy Carter bvld or pleasant Hill could probably handle the traffic of a major bus+commutter hub a short distance off the interstate.
+&gt;gaming PC &gt;Integrated graphics.
+Be aware that in many areas, controlled substances drugs may not be legal to carry outside their original containers, but ignoring that, there are plenty of options, such as a plastic organizer or small plastic bags.
+Attendance for weekday and many early/Saturday games typically fails to even fill out the stadium at the 45k configuration. The club would rather keep the upper bowl closed rather than have a bunch of empty lower seats.
+Technically possible, and there are probably mods that do. But also keep in mind that the speed of the redstone signal would be a huge issue: with a sufficiently large map, trying to keep the entire processor "in sync" would likely limit you to a clock cycle per every few seconds at best.
+Reddit lounge follows the same system as it always has: anyone with an active Premium subscription can access that sub. Gifts of Silver do not convey any Premium membership, thus don't give any access to the lounge.
+The 8350 would offer nothing except slightly better performance in applications that can use 4 cores effectively and maybe a higher clock speed (depending on where your current 6300 is clocked). Lightly threaded performance is identical except for clock speed as noted.
+It's a way of saying "I liked your post soo much that I gave Reddit a small amount of money to put a shiny sticker on your post" and that's pretty much it.
+Medicare is essentially a universal health insurance program partially funded by a separate income tax (on up to a certain income threshold)
+Basically if you aren't already scheduled in for 40 hours a week and can work a wide range of positions, you will be the top of the call-in list. Happened to me for a while.
+Yes, in such a scenario you would owe nothing at the Federal level and all funds withheld for federal income tax would be returned. You would also likely be owed a refund at the state level with such an income level.
+Either create/obtain a windows 10 installer drive and install Windows to the SSD, or copy the entire hard drive to the SSD.
+Because they can price gasoline down to a fraction of a cent, and it 9/10 of a cent looks cheaper than a whole cent.
+It would have to be a capture device of some sort. A computer can't control a camera or directly access an 8mm tape.
+Yes, state issued drivers licenses and learner's permit are state issued ID cards
+With the 2700 you would gain little to no benefit in lightly threaded workloads, and few games effectively use 8 cores. You still get a fairly nice boost in video encoding since that's highly threaded. First, just OC the 2600 for what's it's worth and have fun
+It's quarantined, not banned. It can only be accessed after visiting that subreddit from a desktop-view browser and consenting to view it's content once.
+No, and even if they did exist, they would cripple the performance of a device like an egpu.
+Some team's stadiums have posted signs saying that policy. I don't think I have ever seen it being enforced, but that's largely because it seems to be a universally respected rule to begin with.
+Very appropriate banner for that matchup.
+Is a drive letter or mount point assigned to the HDD in disk management? (Screenshots also help out here)
+Assuming gonad transplants were a thing (there is no reason why they would), they would continue to produce gametes (sperm/eggs) of the donor's DNA.
+Compression results vary widely upon what is being compressed, and it looks like unless you want to try running 7zip with lzma2 at ultra settings, you aren't getting much less than ~4gb compressed.
+Possibly, but as far as I am aware, such adapters may not exist.
+Doing so would be considered evading police, and unless it's an absolutely life or death emergency, in which case an ambulance should be used if possible, the justice system won't be too kind.
+If you have a product key or a valid digital entitlement or a prebuilt computer that previously used that version, activation is easy and/or automatic.
+It's a political bargaining strategy: the president withheld funding from parts of the US government unless such funding measures included funds to build part of a border wall. The legislature didn't agree with the president's demands, hence the partial shutdown
+Doing so would mean placing higher price tags on the shelves, which probably would cost you a lot of customers in such a competitive industry.
+No. Has to be an am4 CPU/APU, which includes the Zen CPUs and the few bulldozer-derived AM4 Athlons. An am3 CPU won't physically fit in that socket anyway.
+Go go the website that gift card uses for checking/managing the account and set a billing address.
+The cables aren't significantly different between versions, a cable designed and labelled for sata3 can be used for any lower version of the protocol.
+Did you change the filename of the archive to a text file, or did you change the default program associated to open rar archives?. If the latter, just right click a file, select "open with", choose whatever program you use to open that archive, and check the box to set that as the default program for that type.
+&gt; use that giftcard to buy a $20 visa prepaid card That cycle requires an input of money otherwise you will exhaust your funds with the activation fee on prepaid debit cards, which is often around $3-5 each.
+Reddit Gold was adjusted to make it less expensive, but only gives 100 coins to the recepient and a week of Premium. Reddit Platinum cost about what the old Gold did, gives around one gold's worth of coins, and a month of Premium like the old Gold.
+/r/meow_irl
+A few Republicans are also voting against funding measures that include part of a border wall, thus preventing a majority vote in both houses. If the president vetos a funding measure without support for a wall, a 2/3 supermajority would be needed in both houses to override it.
+Iirc, the g4560 and 8100 use different versions of the socket. A motherboard that works for one won't work for the other.
+Lga1151v1 and lga1151v2 are incompatible sockets.
+My only complaint is that 4k media is scarce and takes up a lot of space/time to download.
+Multi level marketing schemes typically require an agent, in order to profit the most, to recruit other agents to recruit others and sell products. This kind of scheme lends itself to aggressively using social media and friends in order to recruit others into buying products or becoming an agent, which is one of the cheif complaints many have with such schemes.
+USB power banks and a cell phone charging circuit can be estimated at around 80% efficient, so scaling the capacity to the equivalent of a 5v battery and taking that number as the charge delivered to the lower voltage battery is a good rough estimation.
+A few variables in play, but many routers will have external access to the administration page disabled by default.
+Just a side note: 14th Street's facility is very nice and close to campus, but their rates are probably a lot higher than you can find if you are willing to drive a bit more.
+Supply is artificially limited so prices are that high so that Valve makes money off them.
+Because a wall is the perfect place to waste tax money on.
+Country code 1 (north America)
+A USB C port that does not support the Thunderbolt 3 alternate mode will not function with an external gpu.
+There is no "Ryzen 5 2200G". The only Ryzen 5 Apu is the 2400g. And yes, the two can be swapped out without issue: any board that supports one supports the other, and you should be able to swap them out and restart without any issues. That being said, it's not too much of an upgrade.
+Sears/Kmart fell into a really bad place to be: they failed to adapt to the growth of online commerce, and struggled to attract traffic in their physical stores for many years. This put them into a position where many stores were losing a lot of money, which forced them to close unprofitable stores in multiple rounds to minimize losses while not liquidating the entire company. The company is now faced with a large [read: absolutely massive] amount of debt, and a failed strategy of working to restore profitability besides perpetually delaying the inevitable by closing more stores and selling off other assets like their store brands. Not the kind of thing a company wants to do if they want to thrive. [Also note that downsizing your company also will make it fairly difficult to take out even more debt, so they're in a tough spot there as well] In my observation, Macy's primarily focuses in the clothing area, which has been one of the few aspects of commerce that people still like to buy in person. (Sears also focused on appliances and consumer electronics). Home Depot faces little competition (besides Lowe's/ Ace) and has massive support from large contractors and individuals alike (there aren't many places to buy basic appliances, hardware, paint, and lumber and in one shopping trip). A lot of the stuff hardware stores sell is tough or cost prohibitive to purchase online.
+Any HDMI ports on that motherboard are non functional as your CPU does not have an integrated graphics processor. In this case, they are neither inputs or outputs.
+The 1070ti installs into a PCI Express slot on your motherboard. It doesn't 'dangle' outside the case.
+Unfortunately from what I can find, that USB port is just a USB port and doesn't support Displayport or Thunderbolt.
+The more popular games were produced in a finite number of copies, yet demand still exists for them.
+For most card issuers, yes. Available credit is restored as soon or shorty after a payment is posted to the account
+It's a site-wide feature: comments are disabled on all posts older than 6 months to prevent old discussions from being needlessly revived.
+My thoughts exactly
+Right click the start menu, open an admin command prompt window. Type "diskpart", then "list disk". Get the number of the 6tb drive, then type "select disk X" and then "clean" to erase the partition table and wipe that drive (warning!).
+Do you mean 4gb of ram on the laptop? Pretty sure OSX itself consumes more than 4gb of disc space, and no MacBook from the past decade shipped with a drive that small.
+Both listings are the same drive. You are using an old motherboard with a BIOS firmware, which means that you can't use a GPT drive to boot from Delete the one partition already made, and the installer will take care of making a MBR partition table for that drive.
+Might as well initalize it, selecting the GLT option, and then install Windows.
+Possibly. I highly doubt any will run against him in the Republican primary, so what matters is can a democratic party candidate gather enough votes to replace an incumbent president.
+It would become ridiculously impossible to get anything done. And if control of the military was handled by direct vote, that alone would cause a lot of issues.
+If you set the speed by activating an xmp profile, timings would be set automatically. If you somehow kept the same timings as used for 2133 for 3000, that's one hell of a lucky kit or a really loose timing set for 2133.
+Nothing. The combination of those two things is the joke.
+Does the partition editor you are using or Windows disk Managememt show the SSD as a large 500gb unallocated space?
+Yes.
+The vibrant pink ink is fairly sweet. A little mixed on the all-black Safari, but it complements my Charcoal Safari.
+The average American isn't affected, unless they work for the government or want to visit national parks/museums (for example, many of the government's Smithsonian museums may close starting Jan 1 after their remaining funds run out). Due to a failure of the government to fund a bunch of departments (largely because the president refusing to sign any funding measure that doesn't partially fund a border wall), a few departments ran out of funding, triggering a set of automatic spending cuts, including suspending non essential operations and withholding employee pay.
+Delete E: after all valuable data is removed. Optionally, remove the letter assigned to D:. Delete or move the 450mb recovery partition. Expand C: into the free space
+Oh. I wasn't sure how self-purchased Premium subscriptions worked in that regard.
+Read the terms of the rebate again. Most usually give a few weeks after purchase to mail in documents, as long as the purchase was made within the appropriate window.
+Yes, and this is how a large portion of illegal immigrants entered the country: they entered legally and illegally stayed.
+Legitimate chargers exist in such capacities but are typically expensive and large/heavy (that number/size of lithium cells gets expensive and heavy). However, there are a lot of disreputable sellers drastically inflating the listed capacit of their generic power banks.
+Move the steam folder to a different drive, then clone the drive to a SSD.
+Its what happens when thousands of people want to celebrate something together.
+Rock concerts typically don't involve standing in one spot in the freezing rain for 12 hours
+It's either wear a diaper or piss in your clothes while standing in the rain for 12 hours. Pick your poison.
+No need for walkways
+You're welcome to walk a few miles to find a business or residence with a restroom, but you wouldn't be allowed back to the festival.
+There are no reserved spots. You leave your spot and you aren't allowed back.
+Scratch off ticket games usually don't expire, and if that game does end, any winning cards are eventually cancelled.
+They do provide a few portable toilets, but in order to use them, you will give up your standing spot.
+The cost of issuing a pass system for reserving spots, and screening every person who leaves to use the restroom is quite large
+Costs way too much.
+Right click the start menu, select "disk management" and post a screenshot.
+Yes, although without taking testosterone by injection, it may be a bit more difficult to orgasm.
+It sounds like you were given a $50 statement credit. If you overpay a line of credit, your balance will show as negative as "you owe Discover -$50". (Aka they owe you $50).
+It's a design trade-off between georgraphical accuracy and clarity, but one that gets slightly annoying there. With some of the central stations, trying to draw the stations close together might create an unreadable mess ot require altering the geometry of the interstate highway markings.
+It's a big chick-and-the-egg situation: nobody develops high profile games for OSX as few play games there, and nobody makes hardware running OSX that is powerful for running games. Apple doesn't include powerful graphics processors on their laptops because that's not their target market.
+It is, and is specifically included in a lot of literature on mental illnesses, such as the Diagnostic and Statistics Manual.
+Yes, assuming the host has does not automatically disable inactive accounts.
+Port forwarding typically requires the client to have a static local IP assigned as rules typically use the local IP of the client.
+The shutdown is to an arguable extent, Trump's responsibility. It was largely his insistence on funding for part of a border wall that led to the failure of Congress and the President to pass a funding bill for various parts of the government before existing funding was exhausted.
+The view you provided might be showing both drives together but I see: Somewhere you have approximately 40gb just in jpeg imagine files. (The grid of Tony blue boxes on the right) Somewhere else you appear to have a large multi-part archive split into 1gb parts (the bunch of equally sized rectangles near the left). Clicking on any spot will tell you where and what file that spot is.
+If you get caught by a police officer, the penalties are pretty stiff. But otherwise nobody cares. I have had a few tickets for crossing triple white lines before. They are not fun to deal with
+In terms of accepting an order, all stores have a tablet near front counter. When a UE order is placed, a crew person touches the tablet to acknowledge the order, then [optionally] recalls a newly created mobile order with the contents of the UE order [the alternative is to memorize/handwrite the order and fill it without inserting it into the POS/KVS, often necessary during the daily POS close]. (It's usually preferable to serve these orders of ASAP and work from paper picklists to keep times down). A chime is played when the driver gets close to remind the crew that the order needs to be prepared. Some time later, the order is handed off in a tape-sealed bag to the courier. Basically it handles just like a mobile order except you don't know when the courier will arrive and a few extra minor steps.
+The taxes would be assessed on only the amount you receive. So the taxable income would be halved/split as well if you had one winning ticket. The effective tax rate may be slightly lower due to the way progressive income tax rates work. If you bought both winning tickets, your taxable income would reflect on having the income of both tickets, so the result would be the same as if you only had one winning ticket.
+Not really much, but at the same time, we're not going to let UE orders balloon out to 999+ seconds for no reason.
+The art of spamming.
+You have are least 1 Displayport port and a digital DVI port. As long as you aren't using high resolutions/refresh rates, a ~ $5 passive adapter will work
+The energy density and maximum power output of lithium ion batteries, combined with their decreasing cost, makes the idea of using large sets of C/D batteries unattractive. Why have a massive pack of replaceable cells when for a little extra cost, you can have a built in rechargeable battery pack less than half the size?
+If you are talking about the system in your flair, the motherboard video ports are complete useless as your CPU doesn't have an integrated graphics chip.
+I have never had a shift where I have ever seen more than 7 Ubereats orders pending at the same time, and our pie cabinet (or at least the old AF one that we use) has a neat ability to hold receipts in front of the advertising insert. Once kitchen starts sending up items, we move receipts to a delivery bag held in side2 used as a staging area (we're a slower store, so side2 is only open roughly 10% of the time, mostly on weekend breakfast/lunch shifts when we have the people).
+Damn.
+Spirit would like to showcase themselves as an example. Want a seat that isn't cramped as hell, to carry a bag larger than a small backpack, or just want something to drink on a 2hr flight? Well time to break out that damn wallet again. On the other hand, a $60 round trip flight from Atlanta to DC and a 3-1-1 bag loaded with vodka make the experience worth it.
+Same. Between roommates stealing my paper prescriptions and trying to fill them with a forged ID, having to take a few hours off a day for the monthly pharmacy visit, and the 1-2 hour pharmacy wait time with no text message alerts.. do I even bother finish the sentence.
+No, a state issued ID, like a Driver's license or ID card, is acceptable and the most common form of ID used.
+In most cases, it's both illegal and dangerous.
+This is me sometimes during the 10pm-11pm hour trying to have 2nd shift help me clean and stock up before they leave me almost by myself for my overnight shift.
+It's extremely hard to add additional checkout capacity to an existing store. So supermarkets are often designed around how much capacity they could need at any single moment in the future, such as Black Friday and the holiday shopping season, and then leave the extra registers closed when not needed for most of the year.
+For the same reason the competing ACT assigns scores out of 31/36: if you aren't going to assign a score based proportionally on the portion of the exam completes correctly, is there even a point in using a specific scale instead of just creating your own arbitrary scale?
+I joined the waitlist in August if the first season and now have had to roll over my waitlist spot twice.
+[us specific]. The paper itself is a unique blend that is nearly impossible to replicate accurately The printing process (raised intaglio) is rarely used outside of printing currency. The level of detail of printing is extremely hard to replicate using consumer inkjet printers. Certain features, such as embedded UV fluorescent plastic strips and watermarks (created by varying the thickness of paper), are just about impossible to replicate. This also applies to magnetic ink patterns, optically variable ink symbols, etc
+Worst I have ever have come across in years of semi-frequent ridership is a random hobo asking for money or trying to sell random shit.
+Assuming a compatible firmware version is flashed to the board before swapping out cpus. Most boards already have such a firmware available to download, it seems . Of course, you lose a few new features like PCI Express 4, xfr2/precision boost enhancements, and so on. But even then, I'm still considering dropping some money on a 6/8c zen2 upgrade for my b350 (MSI pc mate) some time down the road.
+Yes, the clock speed for 3000mhz-effective RAM is 1500mhz. Double data rate RAM is double-pumped (transmits data twice per clock speed), so the doubled effective speed is often used in communications.
+On Taylor Blended ice machines (at least the ones used in US), on the main page of the menu are buttons labelled "ice" and "blend". Holding either dispenses shaved ice and manually activates the blender motor, respectively.
+Sometimes it's just a matter of being a pain in the ass to find out how much you made from each employer and how much each with held in federal/state taxes.
+&gt; ! I saw your test transaction for 0.00 at a Burger King yesterday morning and froze my card. Wow, they actually test the card at a burger king instead of just hitting up gas stations, liqour stores, and Lenox square Mall for all it's worth? Must have found the new kid of the organized skimmer gangs... (/s)
+Spirit for example charges for anything beyond a personal item (the size of a small-medium backpack or smaller.
+The event host wants to advertise lower ticket prices, so they just bury that in fees instead of a higher upfront cost.
+Oh that would probably explain why Dunkin on Howell Mill had cops directing traffic this morning.
+It's a very small object, relatively speaking, and one with a very small footprint if you are looking at it from above Planets also have the advantage of reflecting light and having a very dark background. A flag is just a tiny object on a background that reflects a lot of light.
+Blood donation shouldn't be used as a STD screening test. If you believe you have contracted a STD, please don't donate blood until you are cleared by a doctor about it. Some STDs might be difficult to detect in small quantities, and the risk of contaminating donated blood supplies is not worth it But yeah, blood type will be displayed on your donor profile shortly after your first donation is processed
+Same. Give a bunch of random people a blank canvas: ...... And civil conversation occurs?
+As compared to what alternative? Air filled tires are a relatively simple invention that lacks a more complex but better alternative.
+So you want to kill it even faster?
+Some motherboards for modern amd and Intel platforms do include conventional pci slots A bigger issue is hoping that some modern operating system has compatible drivers for whatever that card is. (That chip number would point out that this is a FireWire add in card if anyone is curious)
+Meanwhile I'm just looking at all these wasted labor hours.
+Possibly, especially if large amounts of multiple medicines containing paracetamol (acetaminophen) are consumed without realizing the content of them or if one consumes alcohol alongside acetaminophen.
+There is a hell of a lot of meme potential here.
+I've heard of it being used in severe medical situations (potentially some trauma cases) and in terminal cancer patients who don't respond adequately to other options. It's a very effective medication, as long as you can precisely and accurately administer it, which is why it's such a huge problem when used illicitly.
+There's always releasing agents like methamphetamine and MDMA. Just tends to be that anything that increases the release of dopamine tends to be abusable.
+They're usually just a way of making it clear that you don't want anyone to open the door, not to stop someone who wants to barge in from doing so
+On the AMD side, Navi cards are close to rolling out to the consumer sector. This will be a huge change from the GCN architecture that has been used in some form for a very long time
+Yes, but unless the motherboard mentions it has an integrated WiFi adapter, you will need to obtain a USB/pci-e wifi adapter.
+Yeah I know what I was signing up for, but the promise of a sub-$100 round trip to DC was too hard to resist. And I did end up getting exactly what it says on the box, but I still want to complain a little bit
+Waterless urinals are a thing in the US as well, although they tend to have a constant smell of stale urine.
+Many US homes have less powerful water heaters with larger tanks. This reduces peak utility demand and equipment costs, but an undersized unit will fail to meet heavy demands and take a long time to recover after an extended period of high demand. It's also possible to outdraw a tankless heater unit, but tankless water heaters recover rapidly as demand drops
+65-70 during the winter, and usually 75-78 during the summer, when the house is occupied. (Atlanta GA, utility costs are insane down here)
+My bill, for a 4br unit with an electric water heater and stove, comes out to around 80-90 a month in winter and 120ish during the summer (AC demand).
+Ask the entity who issued the key for an extra copy.
+It looks like you still have a protective cover on the PCI Express connector of the GPU. Pull that black cover away from the card to expose the connector.
+Employment is an at-will relationship that can be terminated by either party without advance notice, although there are a few cases where an employee can sue for wrongful termination.
+Not to mention how Doordash and Postmates don't have our overnight/breakfast changeover times set correctly, so I usually have at least a dozen couriers having to call their guests/support to have orders modified
+Unless the customer is clearly warned beforehand, even a 50% automatic tip would not be reasonable, and I'm pretty sure almost any bank or credit card company would instantly side with the customer if such a large tip was added on.
+If I recall, most paycard solutions will have at least one ATM operator where free withdrawals are permitted. For some cards, ACH transfers to a checking account may be another option, and/or the ability to withdraw cash at any bank's tellers may be an option.
+Believe my first card was a 4650 with a whopping 512mb of blazing fast DDR2 ram.
+Basically, the shop wants to give you a way to make it a little less than completely obvious that you are purchasing/carrying alcoholic beverages. (Since social norms still sometimes treat alcohol as a sinful substance)
+The other person's insurance will pay out the appraised value of the vehicle at the time of the accident. If that is less than the balance of the loan (such as if a very new car, or a low down payment), you might have had to sign up for GAP insurance, which will pay the difference between the balance owed and the balance the other person's insurance pays. Beyond that, at the end of the day, your car must be paid off, and you're on your own as for getting a new car.
+Slightly, yes. Although you're talking a difference on the order of 100 pounds on a ~2000 pound vehicle. Weight savings alone won't make a really large difference.
+Even with slow elimination rates, you eventually get to the point where the drug is being eliminated at the same rate you are taking it. (The rate of elimination is proportional to the amount in the system at once). Aka steady state.
+It's normal for a artist to have a LOT of unfinished work at any given time. This could just be stuff they personally just didn't like, projects that had not been fully completed (say a missing instrument track) or just content waiting for the right album/collection to be put together. All that content becomes part of the decrased's estate, and often the right to finish/sell that content falls to someone listed on their will.
+It's usually forbidden for quite a handful of reasons, although as long as you avoid the watchful eye of a manager, or just have a manager who hasn't started sending a lot of people on breaks or home when it gets quiet, nobody really cares too much if you snap a quick picture of something harmless.
+Eventually the check will be returned by either your bank (from when you tried to deposit it) or the casino's bank (from when they tried to deposit it within the next few days. Either will be charged a fine and try to collect the funds back from you.
+The sky tunnels aren't a part of the station itself, as they are a part of the namesake set of connected buildings connected to the station. However, the view inside the faregates, looking at the platform from the faregate level, is pretty appealing for many. [I'm just going to shamelessly link Marta's own photo for reference](https://www.itsmarta.com/images/station-slider-images/peachtree-center/1.jpg)
+Typical practice is to charge the guest on the reservation a fee of around the cost of the first night (since the hotel has now lost the opportunity to sell that room to someone else), along with cancelling the reservation for a no-show.
+Possibly, as there are BIOS versions for many boards supporting the Zen APUs but not Zen+ CPUs.
+SSRIs are a lot cheaper than therapy, and many of them have few negative side effects for many people. (Whoever is paying for medical care often would like to try the least expensive options first).
+There is little need for that drug given that plenty of alternatives are on the marker, yet the abuse potential of the drug you mentioned is very high
+If it's just for employment purposes, and the old ID isn't expired, I highly doubt any employer would check the exact card against state databases or something. (Although technically, possessing an ID card that has since been replaced is technically illegal, I've only seen one person actually care)
+Medicare and social security taxes are about 5-6% each, and apply to all income from everyone.
+Wells Fargo offers instant-issue temporary debit cards on the spot if you request one in person at any branch.
+Your W-4 is likely set with a low number of allowances, causing excess money to be withheld from your paycheck each check.
+The gamecube-gba cable does not provide power to the GBA, the SP's internal battery must be charged prior to use.
+Exact terms will vary by employer/position/etc. I've seen some employers that will reimburse up to a certain dollar value, or the sum of tuition/fees (whichever is lower) as a non-taxed reimbursement on a paycheck.
+GEFORCE RTX Super New 2092.3 ti-84 plus Silver edition C maximum edition Edition.
+In general:. X470 has a few more chipset PCI Express lanes along with a few extra USB and SATA connections. They are both of the same generation of chipsets. Although x470 is marketed as the premium chipset, so you often will find more enthusiast-oriented boards using that chipset.
+$80/month for 1/0.125 with about 50% daily typical downtime as mentioned in our service agreement.
+Depends on the purpose. Disposable alkaline cells are really great if your device isn't going to implement it's own circuitry to make sure dangerous conditions aren't encountered, since they can be run down to nothing safely (except maybe for leaking out). Lithium ion batteries are easily rechargeable and have a huge advantage for storing a high capacity in a small and light package.
+The RX580 falls a little under that price point and is a great value in my understanding
+Attending college and working a job to pay rent and college. Yeah I'm doing very well at both and keeping myself alive. But at the same time, I feel absolutely dead inside. I'm being eaten alive by the same tasks that are keeping me alive. There's no time left to enjoy life, except when there is time but no energy. When this summer semester's over, I'm seriously just considering taking a midnight bus to a different city and just escaping reality for a few days.
+Was originally going to be two or so weeks ago, but was rescheduled to last night due to weather concerns.
+Telescoping?
+No real point in downgrading to a Zen Athlon with Vega graphics processor, and the old 1200 chips aren't that much more less expensive than the 2200g anyway.
+Very marginal upgrade. It's the same card, on a slightly refreshed production process, giving very slight gains in clock speed and power consumption. Meanwhile good luck selling a 580 and recovering a large portion of the 590's price out of it. Tldr: waste of money
+There are a few street parking spots on the side streets immediately south-east of the bridge. Usually not too hard to find one.
+A lot of it a limitation of how fast computers of the time could render environments of a given complexity and still maintain a decent framerate. The n64 is a rather extreme example. If you notice that the polygons models are composed of tend to be VERY large. This means that the system can draw a frame using a small number of polygons, many of which are solid colors. (Which also saves cartridge/disc space since high resolution textures don't have to be stored for a wide array of surfaces/models.) Super eli5: video games are like paintings, except instead of a picture I give you a list of instructions, where they are, where you are looking at them from, and where the sun is. Older computers could paint a picture much slower given the same instruct
+It was more or less a joke tradition that I never knew who started, but a cake day is a cake day, and sometimes takes the edge off a busy or long shift.
+There are some beers that are pretty enjoyable once you get used to the general taste of beer. I will not hide the fact that fruity sours are probably my.one true weakness. And also on the craft side, it's quite a form of art: there is a lot of room for creativity, and some breweries are obsessed with trying new ideas and improving upon them. Or just taking something everyone has done and doing it the best you can. But yeah, being drunk is nice sometimes as well. Just stay from some of the cheap "big" names like Bud light if you are trying to set a impression.
+Gift cards are a pretty close to "cash" asset that is difficult to trace. There are a lot of people willing to buy gift cards under face value, and if a theif can even recover half the face value of gift cards purchased with stolen funds, they can still get a lot of money. For example, if someone cashes a bad check, buys a $100 Walmart gift card, gives the number to someone across the country, and that guy uses it, Walmart basically can't really do anything to help the victim recover their funds. And the scammer pockets a few dozen dollars or so that would be nearly impossible to trace down.
+By far, yes. How many times have you heard of "ransomware" programs that exploit unaware victims or security loopholes to get into a computer, encrypt files, and hold the decryption key random for crypto currency payments? Just annoying users doesn't provide much of a way to make money, and stealingnuser data is often harder than just begging the user for money.
+I actually quite like it. Maybe it's perhaps from the desensitized taste buds of a long term employee, buts quite a different options and has a unique texture taste that's pretty hard to resist. For crew: mix it with fudge instead of caramel topping and maybe a little splash of hazlenut coffee syrup and it's a different experience. A little bit of Oreo may help.
+Dude. If you opened a hard drive outside of a specialized clean room, consider all data in that drive gone forever. Even the slightest bit of dust can fuck things up
+The TDP numbers really have me excited about the power efficiency of the 7nm process. The rumored IPC benefits over first gen Zen and higher clock speeds at the same power consumption might be enough to push me to upgrade my 1600 to a 8c16t Zen2 part a year or so from now. I'm not expecting anything radical. This is just an improved design bringing evolutionary improvements, not revolutionary ones. Although I really hope AMD can get a strong foothold into the laptop market with the eventual Zen2 laptop APUs, but that's quite a bit down the road.
+Cook-out has a lot of flavors to choose from and is close to Tech's campus. Not the best, but cheap and easy
+Answering the store phone on overnight shifts is always a fun game. Drunk, prankster, downright crazy, scammer, or some other permutation, you never know who will ring next.
+Yes, however tipped employees are typically paid far less than the otherwise applicable minimum wage, with the expectation that the rest of their pay will come directly from tips. (At the US federal level, the minimum employer contribution is 2.13/hr despite the otherwise 7.25/hr minimum wage.)
+Use what fits. Right angle connectors are sometimes useful in tight cases or for looks, but sometimes they just aren't appropriate.
+All that note really means is that the higher speeds aren't necessarily **guaranteed** to work. Worst case scenario is that an attempt at setting a higher speed fails and the computer crashes or fails to start up until you reset the RAM settings.
+Find a bag that fits within the maximum allowable size for a "personal item" bag, and pack lightly. Check in at a kiosk to get a printed boarding pass or just use the mobile app for a electronic check in if your airport allows it. And accept your random seat selection. Choice costs extra. Pack a few snacks and maybe a little vodka into your personal item bag or simply go without. There are no such things as complimentary refreshments here.
+Username checks out.
+Sweet chili and BBQ ranch sauces and crinkle cut pickles? What year is it again?
+Atlanta area stopped it yesterday morning.
+IIRC there are a few cities that have [tried to?] Place a tax on sugary beverages to discourage their consumption.
+Raw beef, or any meat for that matter, isn't ever pretty once you grind it up and chill it.
+That's the way nearly all of the industry is trending except the very low end. But basically cost is the reason: solid state media is generally far more expensive than a hard drive, especially if it needs to perform somewhat decently.
+Forever and amen, brother.
+PARK EVERYTHING. stores with a second pickup window have a ridiculously unfair advantage in spoofing OEPE times, since the second pickup window is not monitored.
+The phrase "if it isn't broken, don't fix it" is often applied here. Unless a future bios update adds something you need, such as improved support for newer processors or high frequency memory, there is little reason to update it.
+&gt; Civic Center -&gt; Anything but SoNo SoNo it is then.
+Given that it doesn't have an entry on the On The Go app, it's easy to forget about. Even more so considering that Cobblinc 30 also serves an almost non-stop route between HE Holmes and Six Flags.
+[my parents are trying to move a lot of stuff around to my sister's new apartment. One of our cats has other plans for today.](https://imgur.com/a/CNlpyyF)
+Some states have the option of listing blood type on state IDs. But when it comes down to an emergency situation, either it's dire enough that a type O- unit is going to be transfused hastily, or a few seconds/minutes can be spared to identify a patient's blood type. There also arises the issue of trusting the information disclosed by the patient on their IDs, since the state government won't actually verify the blood type selected before printing that ID card.
+Basically, imagine a fuckup as huge as "in soccer, gaining a 3 or 4 goal lead over the opponent, and then losing, in a championship match".
+It's a person-to-person payment app that really seems to be popular with the under-banked population in the US.
+Yeah, that's not going to be a service many will be willing to provide given that's basically a cash advance.
+Anything containing pseudoephedrine (Sudafed, [Allergy]-D, etc] has to be kept behind the counter because of purchase restrictions put into place to deter it's usage in synthesizing methamphetamine. Loperamide (Immodium) is kept behind the counter by some pharmacies due to its potential to be used in large doses as treatment for opiod withdrawals.
+Only after the league expands the playoffs to the top 10 teams from each conference.
+Some modern meters can digitally broadcast their current payment status, so when a parking enforcement agent passes by a spot with no active payment and notices a car parked there, guess who's getting a ticket. Other
+Check if my bank account still exists
+&gt;) how do the people that assemble the food know what to put on? Like when someone orders a big Mac how do they remember everything? Beyond a few unique builds like the Big Mac or some limited time items, sandwich builds aren't that hard to learn once you get used to it. Half of the burgers come with ketchup+mustard+onion+pickles and take if from there etc. &gt;How does the drive through work? How do the people inside know when there's a person ready to order? The headsets will play a sound pattern (a single beep or two short consecutive beeps) if a car pulls up to the inside (first) or outside (second) lane (respectively). The sound will repeat if nobody wearing a headset presses to talk to that lane.
+Masturbate
+The laptop battery is usually arranged with at least two or more cells in series to provide a higher pack voltage. 11.1v @ 1000mah would be about the same power output as 3.7v@ 3000mah.
+#floodtheconnector
+Use a service like Uber/Lyft which offer an upfront price quote which will usually stay the same unless your take a long detour.
+Everyone in the US is asking the same question.
+Can't wait to dream of purchasing one of those and running like 10 different video encoding tasks simultaneously.
+Left is the current time average (order age at the time it's bumped off) for the current hour (starting at Xx:00). On the right is the same average for the business day (measured from the time of POS opening).
+The two numbers are the average order age at the time the order is served off for the current hour (starting at Xx:00) and then the current day. So in other words, for that station that hour, orders were being served off an average of ~25 minutes after they started being keyed into the POS and 7 minutes for the day.
+Oh and throw in "having your genitals mutilated before you can even have an orgasm".
+A recent one that pops up to my mind. Guests who wait until they are already placing an order to call a buddy to ask what they want.
+Chicago in March is going to be a definite "yes" for me. I already have air travel and hotel plans prepaid and set for that one. Nashville and the Birmingham Legion Pre-season away match are also going to be possibilities because of the close drive. And then there's the annual Orlando trip which surprisingly isn't in late August this year
+In the US, it's not a common practice. Many corporate stores like the one I once worked at started a 2% bonus that could be used as paid time off, although many of us just took that as an annual bonus instead of PTO.
+Curiosity strikes me: why are there so many 1/9th size clear/translucent food pans. My store in the US doesn't even use that size at all
+That would work, but keep in mind that new device/browser logins also trigger push notifications to any Android devices (and possibly any devices checking that mail inbox).
+Money is such a useful store of value in part because it usually holds it's value fairly well and doesn't become useless if you hold it too long. In a hyperinflationary situation, that's not true: your money will be losing its value very quickly. In a few examples of hyperinflation, the official currency isn't used in many day to day transactions due to its lack of use, and another currency like the US dollar gains popularity instead.
+Any product containing Pseudoephedrine (items like "Allergy-D" medicines and a few others, and by itself as Sudafed), and in some cases Loperamide (Immodium) have to be kept behind the counter because the ingredient is often abused and purchasers must present ID and have the sale checked against and recorded in a state database (for Pseudoephedrine)
+At least in most systems in the US I have seen, no. Each sprinkler head is an independent fuse, and each will trip individually in response to heat. Although usually there's a sensor that will likely sound the building fire alarm if any water is flowing out of the system.
+Fuck it, might as well go out doing something either cool or incredibly stupid.
+WE WORK FOR A HOSPITAL YOU FUCKING DONUT.
+&gt;
+JetBlue assigns boarding groups sort of randomly by seat location to stagger passengers sitting in adjacent seats, not by time of checkin
+In a simple sense, take some somewhat unstable large nuclei, such as uranium, shoot some neutrons at it to form a nuclei that splits into smaller parts rapidly. That process releases a lot of heat and releases neutrons to carry on a chain reaction. Control the rate of the reaction so your facility doesn't explode, and use the heat released to boil water. Use that steam to drive a turbine powering a generator.
+One huge issue at hand is that larger bombs require larger/heavier planes to carry/deploy. Larger planes are potentially easier to detect and possibly shoot down, rendering such a weapon of limited use. Also, weapons like the Tsar Bomba are just straight up overkill if the goal is just to destroy a specific part of a city. Yeah we provee they are possible, but not every government wants to wipe out entire countries with a single weapon.
+A big reason, besides cost, why I stick with IR tablets is that they provide a much finer level control of dosage amounts and timing, given that my day to day schedule can vary wildly between days.
+You want some 32-core 7nm chips? Nah, here's some 14-core 14nm++^7 chips.
+Purchase APRs are usually fixed for the life of the account on every card I've ever owned. Perhaps asking your bank/issuer about it, but good luck with that if you already are carrying a large balance that isn't being paid in full every month.
+Trying to fill up 2 urns all the way by brewing 3 batches? Although if you step away and let this overflow, that's going to be one fun mess to clean up.
+Also keep in mind the app needs to download over 250mb of data from the internet once it's launched to function. This took a while on my end.
+Look up "powerline networking adapters". That's pretty much what you appear to be looking for.
+In a very short simplification,: they were caught using electronic devices to monitor and analyze nonverbal communications between the pitcher and umpire, with the intent to understand them to gain an advantage. This breaks an explicit rule banning the use of devices like video cameras for this purpose.
+Gasoline is pretty cheap, and infrastructure for delivering it exists all over the country/world. Oh and it's a liquid at standard conditions, so you don't have to worry about compressed gas tanks leaking out. Water doesn't provide any energy if you try to set it on fire. In fact, it's often a product of many combustion reactions.
+Given that the cook time for fresh 4:1 is 72-74 seconds (on my store's grills) it's not that bad in practice. Assuming the grill person reacts fast, the delay isn't that much. Although my store has a secondary pickup window, so we can place 1-2 cars in a parked position without having the penalty of sending someone to the parking lot For a higher volume store, 3-platten grills are probably an absolute must here. I miss having that flexibility.
+To adjust my thermostat to one degree warmer.
+With exceptions to modified release tablets/capsules where the physical form of the dose itself provides the release characteristics, many can. Although they tend to be a lot more expensive.
+I work at a store that's roughly 85-90% drive thru and delivery sales, with no lobby drink station. We don't have an ABS. Despite the flaws of the ABS/ABS2.0, we probably lose a shitton of OEPE from manually filling every drink. Also, don't place a sweet tea urn immediately adjacent to the cup extractor side. My first store made that mistake. Cue trying to do any maintenance months/years down the line.
+Both generations of ABS units will have a visual display showing what drink was poured into the slot where the cup is currently.
+It's a very strong flavor: you don't need a lot of it just to convey the flavor. Pour in enough vanilla extract to give whatever your working on a notable brown color and the result will likely be extremely bitter.
+Or fuck it, everyone's going cashless anyway (and sadly, RMHC cash donations are way down), so might as well join them.
+Hello yeast infections?
+The only thing that matters for most people would be if they filed for themselves and completely forgot to claim a credit/deduction that they were entitled to claim, and therefore paid more in taxes than they would have if they claimed such deduction/credit(s). Or just made some monumental mistake like if they requested a refund of less than they overpaid. If you're in a very complicated tax situation (like something like running your own business or such) it may be worth it to have a professional look over your taxes just to take the work off you and prevent stupid mistakes. But for many people, filing on one's own is not a difficult task
+Feels like the circle of life. Every once in a while a random surge of crime pops up in one part of the city for no apparent reason.
+In this case, since your second leg is a domestic flight, you will only clear customs in the first Canadian airport you land in. After that, you will check back into security and proceed to the second leg as you would any other domestic flight.
+The US is a bit unique in that it runs a few Customs Pre-clearance facilities in a few places (Toronto, Shannon, etc).
+Your cell phone most likely has the physical capability to connect and communicate on cellular networks other than the one you are subscribed to. In normal situations, those towers don't want to talk to a non-customer. However in an emergency situation, they are legally required to accept an emergency call from any cell phone physically capable of communicating with that tower, even if it isn't a phone of a paying customer.
+*Drinks corporate Kool-aid* Image is a huge part of any brand. When a customer comes inside, the appearance of the front counter order taker is going to be one of the first things they experience during their visit. A tucked, clean shirt at least gives a shot at making it look like they care about their duties instead of being someone just there for a paycheck and/or overburdened and tired. Nobody really wants to be known as the run of the mill, sloppy burger joint because nobody wants to go there when there are plenty of options just down the street.
+Basically, no. Either your credit card company will send you a check or just hold onto it for a while and use it as a payment towards any future purchases.
+That would imply there a complete lack of ethics/morals going on here.. wait a second.
+As a manager myself: 1.) Accepted a delivery of a 75-gallon bulk Coke syrup, without first to checking to make sure the tank was empty. As it turned out, there were a few gallons of sanitizer solution still in the tank that didn't drain out during cleaning, and that heavily diluted the syrup and the whole tank had to be wasted out. 2.) Was in a rush and forced a POS close, not realizing that the POS server and Cash/Inventory application had not recorded one of the registers drawers' close outs. Forcing the POS close effectively deleted that drawer from the app, and the business dates had to be rebuilt to fix that mess. (This also caused two drawers and the cash sheets for those days to be over/short over $100, as the money for the deleted drawer ended up being assigned to the wrong day before those dates were rebuilt)
+They are pressurized, but not to the same level of air pressure that you would find at ground level. At cruising altitude, the air pressure in the cabin is still quite a bit lower than that at the ground.
+1.) The company collects a small portion of each transaction as part of the fees the merchant pays to process a transaction. 2.) The credit card company is essentially placing a bet that you will be using *their" card when you someday have to carry a balance and/or miss a payment. If/When this happens they start collecting a ton of interest/fees.
+Everything besides Coca Cola is just your typical 5-gallon Bag-in-box systems
+Hello bankruptcy
+In the US, federal taxes are a progressive system, using a set of rates increasing with income. Income levels are divided into "brackets" and all income within each bracket is charged the appropriate rate for that income only As a simplified example. 0-$10 might be charged 1% 10.01-$20 might be charged 2% and so on. Someone making $15 will pay an overall percentage of their income of approximately 1.3% ($2, rounded a bit). We call this percentage an effective tax rate.
+As a manager, I'm not pointing out a single person, but there are a few recurring traits that drive me up a wall. 1.) Making excuses to not complete a task that is easily within their demonstrated physical capacity. Lines like "but changing out the trash is a man's job" especially. 2.) Showing up late and/or (and especially "and" if both apply for the same shift) leaving early. Especially overnighters who want to leave at 4am when they showed up at 1am. Sigh 3.) Complaining about something every few seconds. Bonus points if they are able to do something about the issue but they specifically state they don't want to. 3.5) straight up backtalking also warrants a mention. One recent case was a few person who straight up told me they wouldnt listen to any direct task I would assign them because "it wasn't your sperm that made me, so I ain't listening". Bonus.) Completely blatant disregard for product quality and food safety, even after being called out for a violation a few minutes prior
+[at least in the US] Many lottery systems don't care about the order numbers are drawn, with the exception of one or more specific "bonus/multiplier" numbers in some games. So 6-5-4-3-2-1 and 1-2-3-4-5-6 may both be equivalent results for payout purposes
+Doesn't make any sense. I actually hate how my store prebuilds them without toys, but I'm not going against my GM there. It made at least some sense back when paper bags were used, but paper boxes fold open in a second and you can stuff a day's worth between side1/side2's landing zones.
+Comparison to that character has been used as an insult to Xi Jinping, and one the country/government doesn't really like https://knowyourmeme.com/memes/xi-jinping-winnie-the-pooh-comparisons
+Cosplay?
+People wanted to be compensated for their work so they can purchase goods they need. Nobody's working in an iPhone factory for free. (Insert jokes about child labor and all that lol)
+For most people, it's not that complicated, and boils down to a few pages of worksheets at most. Now if you're running your own business, made a lot of gains/losses on investments, and stuff like that and want to list every income-tax-exempt expenditure and take advantage of the lowest takes rates for certain types of income (such as capital gains), it can get complicated because over the years, legislators decided that money used in specific ways shouldn't be subject to income taxes, capital gains should be taxed at a lower rate, etc.
+Generally speaking, companies don't want your account compromised in a data breach: doing so would leave a bad impression of them in the customers mind and possibly some administrative costs Also, "pay us so you don't get hacked" is just a straight up dick move.
+I've been at work since 1pm. It's currently 3:38am. I'm at 58 hours paid time this week, so the paychecks going to be nice. But for now KILL ME.
+Reddit places a cake flair next to your username for a day when you make a post/comment on the first day within a few days if the anniversary of your account creation date. It's a meaningless flair by itself, but Reddit often likes to treat it like something just a little bit special.
+On each fryer, there's a plastic jug used to hold cool, fresh oil so that the automatic topping off feature can have a supply of oil to draw from. For non-RTI [bulk fresh/waste oil] stores, typically a jug-in-box is swapped every time as needed. For RTI stores, the fryers can not pull oil from the bulk fresh oil system without someone holding a fryer control to fill a vat directly from bulk oil, or holding a switch/button to fill the plastic automatic top off jug from bulk oil. On Henny Penny fryers, the switch to fill the ATO jug is typically mounted on one of the center doors, and is a yellow/red rocker switch. HP fryers will sound a frequent alert if it detects there is no oil to pull from to top off vats. On Frymasters, it's typically a red button above the jug.
+Depends on who they found to be the sperm donor for the couple, given that the two couldn't reproduce on their own.
+The count of seeders includes anyone who has reported to the tracker that they have a complete copy of the torrent, not just those currently transmitting parts of it. There also may be a situation where nobody has a complete copy of the torrent at any given moment, but new users can still download parts of it from others who have those parts.
+Yeah, but until you die you will face lawsuits leading to garnishment of any wages and income tax returns, and your credit history will be poor, making it difficult to rent an apartment or get a loan for anything. For anything but student loans, you can declare bankruptcy, although then courts are going to try their best to force the sale of any non essential property to recover what they can of the debt, or possibly just outright reject your declaration if it's clearly evident that you can pay them back.
+For the large part, our lives are good as it is, even though far from perfect in our own view. It's tough to convince people to risk *everything including their lives* in an attempt to overthrow a government unless that government already is threatening every aspect of their everyday life. In your first example, you're talking about a band of citizens going against the US armed forces. Either that battle is going to be very short and/or there's going to be a lot of blood shed.
+1 breeze card/ticket per rider. No exceptions except for children under a certain height (2 children under 48" tall per paying rider?)
+Hell, even last year any away trip for an Atlanta fan involved a very long car trip or at least $100 in round trip airline tickets. Going to be fun to see how large of a caravan we can pack into Nashville / Charlotte in the next few seasons.
+It basically boils down to wether you ask a prisoner to waive their right to appeal and accept an early death, or kill a prisoner who may not be guilty of a crime warranting a death sentence. "Innocent until proven guilty" holds extremely true here
+In a very general sense, cancer ends up killing a lot of individuals when nothing else kills them first.
+Bank debit cards are also extremely common for everyday use for many people.
+Or just a black scarf with "here bitches" written in gold font.
+Most accidents will be happening during or close to take/off landing. Aircraft don't just spontaneously fall apart in the air very often. And if you just a few hundred feet above the ground, you don't have much time to get passengers to do anything. Modern aircraft can withstand a lot of equipment problems and at least glide to some landing strip or ditch themselves in a body of water somewhat gracefully. In the event an aircraft did just fall apart at cruising altitude, well now you have dozens of people, probably many passing out from a lack of air in the cabin, and many more who have no idea about safely skydiving and will likely injure themselves in the process (assuming the lack of air doesn't kill them first during the descent)
+Yeah the 3600 is an awesome chip. Upgraded from a 1600 myself a month back (repurposing the 1600 in a new salvage parts build to replace an aging computer at my parents house). Zen2's efficiency and the boosting algorithms are very sweet.
+One realistic proposal I have seen would be to essentially expand eligibility for Medicare (a tax-funded health insurance plan) to everyone.
+Worth noting that Adderall is a 3:1 mixture of dextroamphetamine and levoamphetamine, so the equivalent dosage for dextroamphetamine would be roughly 75% of the original Adderall dose.
+Markets absolutely rigged/fucked, yo. What else is there to do at this point but shitpost?
+Nearly every single election race in the US is determined by whoever can get at least 50% of the entire vote for that race. A third party candidate stands no chance, especially if their platform sides more with one of the two main parties than the other.
+Setting a minimum wage that would mean anything is seen as against the spirit of the free market.
+On an airplane, many transactions will be accepted without contacting any banks, and stored for processing later. The merchant is willing to accept the risk of a declined transaction as a cost of doing business (especially given that many on-board items have a huge profit margin).
+He's already been eliminated from the race from states that have already voted, and long ago has announced he's not seeking the party nomination anymore.
+Race riots breaking out over the country aren't by themselves for disposing of the normal election process.
+A one-way mathematical operation that produces a fixed-length output that (ideally) should be unique for every input.
+It's still an issue, but there now are more pressing demands that need to be addressed.
+Still in service for now. Although the chopping block probably isn't that far off
+Mudkip. Was the first shiny I ever caught/obtained in the main series games growing up Ironically, thanks to the throwback events I now have nearly every other starter as a shiny.
+Generally speaking, flights over the DC area are typically heavily restricted, especially if you want to fly directly over government offices at a lower altitude.
+No, voluntarily taking time off does not qualify you for unemployment benefits
+A little bit under half of all ballots cast in the 2016 presidential election were for him, thus granting him the office.
+That family of forms is typically used to report income earnings from non-job sources, such as the commission made off selling products you designed.
+There would still be a slight negative penalty for higher credit utilization (this may be a larger effect if that credit card is among your only active lines of credit), but credit utilization is a minor factor in many scoring models.
+In a countering perspective, everyone's getting bailed out before they can fail too hard. Paycheck protection loans, the $1200/adult stimulus check, the $600/week federal unemployment additional benefit, etc.
+If it's likely to end up in a shortage, it's going to sell out no matter who ends up with it. Might as well place quantity restrictions so that more people have a chance to purchase some of that good while they can.
+Somewhere out of public view (such as under the counter or in a stockroom) there will be 2.5 or 5 gallon bag-in-box syrup packs, pumps to send the syrup to the fountain dispenser, some means of producing carbonated water. The fountain itself will have an ice maker and/or some way of manually adding ice to supply the fountain's ice dispenser and to chill the syrup/water lines. The soda fountain takes the chilled syrup and carbonated water lines, and the two liquids are mixed in the nozzle head when pouring the drink.
+Working fast food at 15, it's unlikely that you will make much more than $12000 a year, so when you go to file income taxes early next year, you will be entitled to a refund of almost all of the federal tax withholdings from that year.
+Driver's licenses/ID cards also act as evidence that you live at that address because that information is printed on them, so I would assume that benefits would outweigh the risk of harm.
+In terms of storage capacity, yes. Although the user must decide what will be done with the external drive, the OS won't just magically use it for whatever it wants.
+The simple answer is that the bill may rarely be paid in full. If you have insurance and they do approve the charge, the amount will often be reduced to a contracted value.. (if you have insurance but they don't cover the charge, you're screwed) If you don't have insurance, the biller will often settle for far less just to get something. Also, often medical debt becomes a factor in many personal bankruptcy cases, so if one truly has very little financial resources the debt may be discharged through that process.
+The right side of the aircraft is often occupied by ground equipment: carts for loading supplies (such as food/drinks), fueling trucks, baggage/cargo handlers, etc.
+Are they the same overall dosage?
+Fuck it, Frontier it is.
+Don't give Spirit any ideas there
+I personally don't see it happening if Niantic wants to maintain a large player base. If they do, the coin cost of buying ones way in needs to be reduced to something like 10 coins per set at most and/or the reward pool needs to be a bit better.
+Using a condom and/or other method(s) of birth control.
+Who really cares if feature updates stop soon after purchase, and one might not care if security patches eventually stop being pushed.
+Helicopters cost more to operate, per passenger, than conventional jet/propeller aircraft.
+Fuck it, Long SPY it is
+"At the next intersection, turn left and then continue straight for 0.2 miles."
+There's likely some inevitable explanation of what happened to some young impressionable minds.
+Easy, but overnight service/manager can be hella stressful, especially if the delivery tablets start singing an extended opera again.
+I have a few thousand extra dollars sitting cash, thinking of dumping it all going long on SPY and SPR ( Spirit AeroSystems) . How retarded does this idea sound?
+Yeah, especially in a college/city environment. Friday/Saturday nights with 2mgr/0crew were so painful we often had to completely shutter for at least an hour just to finish the POS close and set up for breakfast menu. Obviously this pissed off a lot of people since this was about the same time as last call at the nearby bars.
+Technically not at the moment, as I am living in short term accomodations outside my normal home state (Covid shenanigans) for another month, but will update registration later once I move back to my home state.
+At least trapinch is a less common pokemon with candy boosted. Flower crown Eevee was just a total joke even if it has boosted candy, as it's a ridiculously common pokemon outside of special events
+Oh and they will be axing support for the remaining pogo-compatible 32-bit Android OS devices sometime in August too.
+Quite frequently they charge the pharmacy so that they can offer a discount, and they college some statistics of every transaction and sell data.
+Yes subsidized student loans do report some data to credit bureaus, so other than the typically ~1% origination fee, it's a free way to establish some credit history until after you leave school.
+In Soviet Russia, Feebas takes you for a walk.
+Assuming the rewards aren't absolutely terrible like this season.
+GBL is suspended [indefinitely?] Until Niantic fixed a game breaking exploit.
+A little under half of all votes cast in the 2016 presidential election were for Trump, and that was enough to win the race.
+Basically any state provision decriminalizing marijuana despite the fact it remains a DEA Schedule 1 item at the federal level.
+Computing a cryptographic hash of a block of transactions with a random value added, and hoping that has falls below the target value in order to be considered valid and thus generating a reward for whoever solved it.
+The answer largely depends on how much you expect to earn in this entire year. Assuming that number is at least $12000 before any unemployment compensation(for a single filer), you should expect to pay at least 10% in federal income tax plus whatever state/local income taxes are applicable. Unemployment compensation is generally treated just like any other income.
+A cash deposit placed with the courts in exchange for not being held in jail before your trial.
+At least by Google's search results, I'm seeing scheduled times of about 8 hours nonstop from Tokyo to Honolulu and about 5.5 hours from LAX. Which makes sense given that the latter is about 2500 miles and the former is about 3800 miles Note at this moment there are no nonstop flights between the two airports/cities, so any flights listed for the next few weeks will have at least one connecting stop. The cheapest economy ticket for June 25 (Thursday) actually routes through LAX [and Vancouver] for a total scheduled time of over 38 hours.
+Unless you are traveling in a premium economy cabin or higher and/or have an elite frequent flyer program perk, checked baggage on domestic AA flights is not free.
+As long as you pay for the electricity you're using and paying any applicable income taxes if you sell off the earnings, it's perfectly legal
+Lucky friend status could be such a huge benefit to friends who meet up with each other maybe once a week or so that even a small increase in the chance could be worth it. At the very least, it would give stickers some arbitrary purpose besides being a virtual stamp on a virtual postcard.
+Unemployment is only supposed to last some time after you lose work while you remain actively seeking new employment. So it's difficult [in theory] to remain intentionally on unemployment benefits if there is suitable work available. Such benefits also normally pay only a fraction of normal earnings, but additional benefits were added to inject cash into society given that many jobs have been lost for some time to come. But yeah, it also shows that many jobs clearly weren't paying a decent wage when we also decided that the temporary benefits to avoid financial demise in the unemployed exceeded their prior earnings.
+Many washers like yours have a handle that is pulled out to either stop a current cycle or to select a different cycle, and pushed in to run the washing machine.
+Today's Donald Trump's birthday, and some people decided to spam social media with pictures of Obama specifically for that reason.
+The last digit is a checksum: for any given combination of the first 15 digits, there's only one possible value for the last digit of the card. The website can perform that same calculation to verify that you didn't make a mistake entering in the card number.
+I no longer have access, but going off my memory, the US resturant food safety site in @MCD contained some product quality/safety statements from various manufacturers of some of the products used. Still, it's likely a product exclusive to McDonalds and isn't likely sold in any other form.
+Individuals almost always report taxes per calendar year (Jan 1 to December 31).
+Pepsi Next, specifically. IIRC Coke Life and Pepsi True (stevia) also still had some sugar.
+Concentration is a measure (in this case) of content of ethanol per unit volume of beverage, and thus is constant regardless of the serving size
+They are essentially serving as a platform for serving advertisements in the form of coupons, and likely gathering/selling aggregate user data.
+Risk. Stocks often move a lot, and simply rumors/speculation of a company's future performance can often cause a lot of shares to be traded (causing price moves)
+It's considered a liquid (just like toothpaste, gel deodorant, etc), and thus can only be carried in the same fashion as any other liquid.
+A giant meteor striking the planet?
+Be aware that swamp coolers will drastically increase the humidity indoors.
+It could theoretically be possible to map a cloud storage provider to a network drive, and then use that as a page file. But doing so would be astronomically stupid given the chance for the connection to the could provider being lost, and it would be among the slowest possible places to put a page file.
+That's called a page file (or swap space in some operating systems) and is usually automatically handled by the OS.
+The theme song has been my ringtone for the better part of the past decade.
+Every mobile game with a virtual in-app currency ever made does this: It encourages larger purchases and apparently increases overall profits.
+In most states, the popular vote winner of each state wins all the Electoral College votes for that state (which are assigned to slightly favor smaller states to prevent large states from drowning out their interests) Once you have 50%+1 votes in a state, the rest of the votes in that state might not matter. You also don't need to win the popular vote in each state to win the office, but just need enough state's Electoral College votes to win a total of 270 of the total 538 electoral votes
+&gt;where does the additional meat to form a penis come from? A giant skin graft from a leg or arm for the small number who choose to take such surgical procedues. &gt;do transgender people new sex organ produce semen/eggs? do MtF people menstruate? No current surgical/medical technique can create functional gametes or organs like an uterus
+Same in Georgia in the US. There's usually multiple weekends and weekday early voting (unless it's a runoff race), and no excuse needed for requesting mailed ballots
+/r/worldpolitics
+Yes. It's very effective for drawing attention to the alert.
+Little demand and it's a fairly complicated task to perform, especially if you need to implement copy protection.
+Conference room: teleconferencing edition
+Hydrogen isn't a very abundant gas in the atmosphere: some sources on Google reporting the typical concentration as less than 1 part per million.
+Likely would work just as well (possibly better overall if there is a first pass metabolism effect) and work slightly faster. Although inhalation is not the most comfortable and practical way of administering medicine.
+Note that the motherboard connector is DVI-D (digital only) while [I assume] the monitor end is a VGA port? If you remove the interfering pins from the cable, you will end up with a cable setup that literally does nothing.
+Really terrible compression as a result of the encoder trading off file size in exchange for reducing the workload involved?
+It's way over exaggerated with some truth. There is a mandatory downtime of at least 3 hours every day(typical close tob 4) where the machine must undergo a heat treatment cycle to stop microbial growth. If this cycle doesn't finish completely, (such as if it's close to empty), it must be restarted. During this time, obviously no ice cream can be served. This cycle is typically completed during the early morning hours 1-4am start, or so) Also, tolerances for operating conditions are pretty tight. If a faulty compressor or something is causing the machines performance to be compromised, it may trigger the machine to lock out. Service calls for major issues can take a lot of time.
+Nope
+It'll kiss 50 one month and crash down to 20 at the last second the next month.
+Apparently to one person, yes.
+Yo, nice advertising.
+Banning financial compensation for blood donors makes sure that blood is being donated because the donor wants to provide their blood for medical use. If you compensate donors, the financial incentive could attract donors who have a disqualifying condition that would render their blood hazardous/unusable. Pooled testing of donated samples isn't always able to detect small traces of something like HIV, and if it does (and samples are pooled for testing) multiple units may have to be discarded.
+At least some states don't require driving tests/education beyond maybe a short knowledge test for those already over 18. If under 18, licenses will have restricted privileges and may require a road test. Under 21 (and usually a vertical layout) will be used for any printed card where that applies, regardless of class. The gold circled star indicates the card was issued under RealID complaint criteria.
+[take a look at the pinout diagram carefully](https://www.allaboutcircuits.com/uploads/articles/Fig1m11292018.png) Quite a few pins serve the same exact purpose as another pin placed so that it would be in the same spot if the connector was reversed. The rest of the pins are redundant in the sense that they would perform the same function but on a different pair of wires (which doesn't matter too much).
+It helps if you actually look at the connector you are plugging in.
+Yeah, it takes around 3 hours of optimal play with a fast running pace to even get there without a poffin.
+As noted, the ports on the motherboard are for use only by the processor integrated graphics. In the case of a Ryzen 3600, there is no integrated graphics, so those ports are not functional.
+Yes, but usually not if the same content is being mirrored to both the internal and external displays
+At least in my state (Georgia, Tennessee, and Alabama) they must be purchased in person, but just about every gas station and convenience store sells lottery tickets. I assume the same applies for all of the country.
+There's no point in an elevator carrying you all the way in the opposite direction of where you want to go, then back where you want to go. This actually can be HIGHLY counter productive if there are multiple elevators and/or there are more than a few people using the system at once.
+Challenge accepted.
+Likely the usage of leaded solder in some portion of the card. As such, to comply with California proposition 65 that label must be included.
+2 hundros and one 8/15/13, but zero shiny.
+Basically: Some types of plans (health maintenance organization, HMO) plans prefer if you stay within your provider network for everything outside of emergency care, and generally won't cover anything outside their list of providers. This can make it a pain if you need the services of a specialist not readily available in your provider network or really want to chose a specific provider for any given reason. Oh, and health insurance plans will often try to cut their way out of paying for treatment. For example, for emergency care, they often will find services that they believe were not medically necessary and refuse to pay for them after the fact. Or they may criticize the provider on a billing mistake and refuse payment until it is corrected. Even if it is covered by a insurance plan, typically the patient has to complete some amount of out of pocket spending before the insurance will pay for anything (this amount is typically a few thousand a year for many plans) Once that amount is reached (a deductible), the insurance company will split costs with the patient up to the plan's out of pocket maximum.
+Dimes, quarters, halves, and ones are almost entirely copper.
+They are still operating, just desperately trying to offload assets and downsize their operations to avoid having to liquidate the entire company
+It's just insane people being insane as usual. Absolutely no truth in your second paragraph
+Email address and the associated password alone could cause a lot of damage just by itself With the information you dedcribed, that could be enough to open new lines of credit in the victim's name, which would lead to defaulted loans appearing on the victim's credit history.
+To my understanding, that data is just sourced from your email inbox, assuming electronic notifications of bills are posted there.
+Market selling everything. Bought a few puts on airlines.
+Goodrx will often charge the pharmacy when the pharmacy bills a claim to them.
+And don't forget your hundredth Stunfisk
+The direct payments as part of the CARES act, to the best of my knowledge, are technically a refundable tax credit, and therefore wouldn't be subject to income taxes. Unemployment compensation, if you receive any, is still taxable as it normally would.
+Part of the reason why gasoline prices crashed was the ridiculous oversupply in crude (unrefined) oil earlier this year: there was so much oil on the market that you literally couldn't pay people to take delivery of any more crude oil. Since then, production has fallen a bit and demand had rapidly picked back up as the US economy reopens throughout much of the country.
+These CPUs are basically a "stepping" improvement over their non-xT counterparts. Just a small overall clock speed improvement and little else.
+A lot of hand sanitizer produced for the pandemic is now using ethyl alcohol (ethanol) instead of isopropyl alcohol, primarily because supplies of the latter are still very hard to secure
+GPS is a satellite service completely independent of cellular networking: any device with a GPS receiver can determine a location without contacting the internet. As long as you already had maps of the area downloaded, maps and possibly directions could still be available.
+It's not designed to be a secure piece of information. It's just that the fact that isn't exactly public information that has led to SSNs being a "secret" that should only be known by the appropriate individual.
+And my axe!
+I've seen a few pharmacies that seem to be okay regularly filling on the 28th day to some extent. However if there is a "do not fill until" date on the prescription itself, that must be respected.
+12oz (355ml) cans and bottles are very common, and nearly every commercial beer is available in the former (in my observations)
+Literally would break the underpinnings of the internet and potentially make it useless for anything that isn't public information.
+A bit of both sometimes. Part of it can just originate from how stressful and physically taxing the job can be. During my time as a manager, I'm guilty of having blown up on someone, and while I have myself to blame, the combination of abuse from the rest of my crew, being short staffed, and the physical demand of working 10 hour night shifts while attending school and trying to live a normal life had started to cripple both my mental and physical health.
+And many great insurance plans will still occasionally deny involuntary ambulance trips.
+And the habit of taking literally forever to mail refunds of account deposits. (closed service back in March in my case.)
+Feebas probably. But only because the shiny rate was boosted during the Buddy Up event a while back or something,
+The genes aren't located on the y chromosome: they are present in anyone. It's just that hormones tend to trigger those characteristics as encoded in genetics.
+It's GT Rowing recruiting memes all the way down to Ferst.
+I've always remembered "75 man with knife, 76 radio to fix" but I guess that works as well.
+We haven't felt the need to mandate that cars automatically apply the brakes and/or cut engine throttle above a certain speed
+It's a euphemism for a penis attached to someone born male but identifies as female.
+(not sure if directly linking it is allowed here) Voat.
+I can see that they may have wanted to target what's left of downtown office workers and GSU students (which I assume there are just about none of the latter given the current situation). But even StateFarm arena is quite a bit out of the way for those people. ~~Oh and if the Dome Marta rail station is still out of use, that just further detracts from the usefulness of this polling place.~~ [Scratch this last paragraph, @martaservice on Twitter indicated that the Dome station will be in use for voting]
+Prior to the restoration of GV, I was using the pause feature of Fi to "park" my old cell phone number, and only reactivate it if I needed to complete an authentication prompt for a service that still required it. When unpausing, I have been able to receive calls and texts within a minute of unpausing, and they have failed within a few minutes after pausing service again.
+Some monitors may support this (often as a feature called "picture in picture), but it isn't that common.
+At one point, yeah, silver and gold were used in coins regularly, and the metal value of the coins closely approximated their face value. By 1970, silver was phased out of all US coins in production (outside of a few for collectors/billion purposes), and as copper is much cheaper than silver, the metallic volume of those coins is far less than their face value.
+Some video players (Including YouTube and a few steaming services I have used) will notice issues with the internet connection and automatically switch to a lower resolution video stream in order to avoid having to pause when there is no longer any video footage buffered.
+Probably a perfect Nundro
+It's still happening on a large scale in the US though, as the rate of new cases picks back up.
+At Sam's club over in Birmingham today, I saw a lot of customers with carts of more than one toilet paper or paper towel case, and checkout employees were pulling a lot of them out of customer carts when they tried to check out with more than the permissable quantity (1 of each). Walmarts here are also very low on items like milk and bread.

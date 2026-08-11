@@ -1,0 +1,45 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Detailed and technical, often using jargon specific to gaming and technology.
+  - Engages in lengthy discussions, providing thorough explanations and justifications for opinions.
+  - Uses a mix of informal language and structured arguments, often addressing counterpoints directly.
+
+- **Recurring Interests:**
+  - Strong interest in RPGs, particularly "The Witcher" series (TW1, TW2, TW3).
+  - Enjoys discussing video game mechanics, particularly in relation to graphics, performance, and gameplay design.
+  - Engages with topics related to PC gaming hardware and software, especially graphics cards and gaming peripherals.
+
+- **Hobbies:**
+  - Writing fantasy stories, inspired by "The Witcher" saga.
+  - Engaging in video gaming, particularly RPGs and space combat simulations.
+  - Modding games, especially Skyrim and other RPGs.
+
+- **Technical Knowledge:**
+  - Proficient in PC hardware, including knowledge of GPUs, CPUs, and gaming peripherals.
+  - Familiar with game development concepts, particularly in relation to alpha and beta testing phases.
+  - Understands the intricacies of game mechanics, including physics engines and performance optimization.
+
+- **Location Clues:**
+  - References to Canadian culture and experiences suggest the user is likely located in Canada.
+
+- **Profession or Education Clues:**
+  - Likely has a background in technology or gaming, possibly in a technical or creative field, given the depth of knowledge in hardware and game mechanics.
+  - Mentions of working with government suggest a professional background that may involve technical or administrative skills.
+
+- **Demographic Clues:**
+  - Appears to be a male in his late 20s to early 30s, based on references to personal experiences and cultural context.
+
+- **Opinions and Values:**
+  - Values detailed and well-reasoned arguments, often engaging in debates about game design and development.
+  - Critical of game development practices that prioritize profit over quality, particularly in relation to crowdfunding.
+  - Advocates for transparency in game development and expresses frustration with perceived injustices in gaming communities.
+
+- **Repeated Topics:**
+  - Frequent discussions about the "Star Citizen" game, its development, and comparisons to other games like "Elite: Dangerous."
+  - Analysis of game mechanics, particularly in relation to flight models and combat systems.
+  - Commentary on the state of the gaming industry, including crowdfunding and game development ethics.
+
+- **Subreddit/Community Clues:**
+  - Active in gaming subreddits, particularly those focused on "Star Citizen," "The Witcher," and general PC gaming.
+  - Engages in discussions about modding and technical aspects of games, indicating a presence in communities that value in-depth analysis and technical knowledge.

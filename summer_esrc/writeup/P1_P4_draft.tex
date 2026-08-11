@@ -1,0 +1,167 @@
+\documentclass[sigplan,screen,nonacm,10pt]{acmart}
+
+\usepackage{booktabs}
+\usepackage{microtype}
+\usepackage{multirow}
+\usepackage{xcolor}
+
+\setcopyright{none}
+\settopmatter{printacmref=false, printfolios=true}
+
+\title{Open-Weight Deanonymization under ESRC:\\
+Accuracy, Confidence, and Stage Assignment (P1--P4 Draft)}
+
+\author{DRAFT --- summer\_esrc}
+\affiliation{\institution{University of Luxembourg}}
+
+\begin{document}
+\begin{abstract}
+We re-run the Extract--Search--Reason (ESR) deanonymization pipeline with
+local open-weight models on Reddit (pool\_en) and Hacker News at truncation
+level T8, and compare against archived GPT-4o. Open weights nearly match
+GPT-4o on Reddit top-1 accuracy but lag on Hit@15 and fail to transfer to HN,
+where long-profile chunking collapses retrieval. Verbalized confidence is
+badly calibrated; selected-token logprobs rank better yet still fail as a
+reliable 90\%-precision filter. Swapping which stage holds the larger model
+does not change accuracy beyond sampling noise, and the calibration failure
+reproduces under the swapped stack. Draft for refinement; Gemma-26B Reason
+robustness pending.
+\end{abstract}
+\maketitle
+
+\section{Setup}
+
+We follow the ESRC attack of Lermen et al.: \textbf{Extract} (trait summary
+from comments), \textbf{Search} (embedding retrieval of top-$k{=}15$ gallery
+candidates with \texttt{all-mpnet-base-v2}), \textbf{Reason} (forced pick among
+candidates). Evaluation is at fixed volume \textbf{T8}. Unless noted,
+temperature $=0$, thinking disabled, seed $=2026$, bootstrap $n{=}10\,000$.
+
+\begin{table}[t]
+\centering
+\caption{Experimental configuration (T8).}
+\label{tab:config}
+\small
+\begin{tabular}{@{}llp{4.6cm}@{}}
+\toprule
+Item & Value & Notes \\
+\midrule
+Pools & Reddit pool\_en; HN & 500 / 500 queries (HN: 499 usable) \\
+Gallery & $\sim$1k candidates/pool & Same archived embeddings where applicable \\
+Top-$k$ & 15 & Search Hit@15 = true ID in shortlist \\
+Extract / Reason $T$ & 0.0 & max\_tokens $=1024$ \\
+Seed / boots. & 2026 / $10^4$ & McNemar exact on paired users \\
+\midrule
+\multicolumn{3}{@{}l@{}}{\textit{Baseline stack (P1/P2/P3)}} \\
+Extract & \texttt{qwen3.5-4b} & 16k ctx; chunk-and-merge if needed \\
+Reason & \texttt{qwen3.6-35b-a3b-nvfp4} & 32k ctx \\
+\midrule
+\multicolumn{3}{@{}l@{}}{\textit{Cross-tier (P4-C2)}} \\
+Extract & \texttt{qwen3.6-35b-a3b-nvfp4} & Same two models, roles swapped \\
+Reason & \texttt{qwen3.5-4b} & \\
+\midrule
+Frontier ref. & GPT-4o (archived) & BSP Reason + FAISS tables \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{P1 --- Open weights vs.\ GPT-4o}
+
+\begin{table}[t]
+\centering
+\caption{Local baseline vs.\ GPT-4o (95\% bootstrap CIs). $\Delta=$ local$-$GPT-4o.}
+\label{tab:p1}
+\small
+\begin{tabular}{@{}llrrrr@{}}
+\toprule
+Pool & Metric & Local & GPT-4o & $\Delta$ (pp) & $p_{\mathrm{Mc}}$ \\
+\midrule
+pool\_en & top-1 & 36.2 [32.0, 40.4] & 39.4 [35.2, 43.8] & $-$3.2 [$-$7.6, $+$1.2] & 0.18 \\
+pool\_en & Hit@15 & 44.0 [39.6, 48.4] & 53.8 [49.4, 58.2] & $\mathbf{-9.8}$ [$-$14.4, $-$5.2] & $4.5{\times}10^{-5}$ \\
+HN & top-1 & 16.6 [13.4, 20.0] & 38.0 [33.6, 42.4] & $\mathbf{-21.4}$ [$-$26.1, $-$16.8] & $1.7{\times}10^{-18}$ \\
+HN & Hit@15 & 23.8 [20.0, 27.7] & 59.4 [55.0, 63.8] & $\mathbf{-35.5}$ [$-$40.3, $-$30.7] & $9.4{\times}10^{-38}$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+On Reddit, top-1 is statistically compatible with GPT-4o, but Hit@15 is
+significantly worse (Table~\ref{tab:p1}): identical embedder and gallery imply a
+\textbf{query-summary} gap from local Extract (often chunk-merged) vs.\ archived
+GPT-4o summaries. On HN the gap is large on both metrics. Nearly all HN profiles
+are chunked ($497/499$); top-1 falls with chunk count (2--3: 20.2\%; 4--6:
+16.6\%; 7--10: 13.4\%; $11{+}$: $0\%$, $n{=}6$). Search collapse (24\% vs.\ 59\%
+Hit@15) is the main mechanism---Reason cannot recover IDs never retrieved.
+
+\section{P2--P3 --- Confidence and calibration}
+
+We score Reason picks with (a)~verbalized confidence in $[0,1]$ and
+(b)~$\exp(\mathrm{logprob})$ of the selected candidate-id token; plus redesigned
+(c$'$): C1 binary confirm $P(\mathrm{YES})$ and C2 mean pairwise win vs.\ top-3
+Search rivals.
+
+\begin{table}[t]
+\centering
+\caption{Confidence estimators on the baseline stack (full pool).}
+\label{tab:p2}
+\small
+\begin{tabular}{@{}llrrrr@{}}
+\toprule
+Pool & Est. & ECE$\downarrow$ & AP$\uparrow$ & R@90\%P$\uparrow$ & Note \\
+\midrule
+pool\_en & (a) & 0.407 & 0.616 & 0.221 & overconfident \\
+pool\_en & (b) & 0.421 & \textbf{0.816} & \textbf{0.448} & best ranking \\
+pool\_en & C1 & \textbf{0.116} & 0.607 & 0.055 & best ECE \\
+HN & (a) & 0.688 & 0.353 & \textbf{0.000} & cannot hold 90\%P \\
+HN & (b) & 0.583 & \textbf{0.660} & 0.159 & still thin \\
+HN & C1 & 0.243 & 0.428 & 0.061 & cal.\ better, ranks worse \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{(b) wins ranking / R@P; C1 wins ECE} but does not dethrone (b) for
+high-precision selection (Table~\ref{tab:p2}). Isotonic calibration on half-splits
+(seed $=42\neq2026$) confirms: naive $\tau{=}0.9$ on (b) is badly overconfident
+(delivered $P\ll0.90$). Isotonic approaches $\sim$89\% precision on Reddit (b)
+with heavy abstention ($\sim$18\% survivors) but fails within HN and does not
+transfer Reddit$\to$HN. HN$\to$Reddit can hit $\sim$97\% precision but only
+$\sim$7\% of queries survive. Frame: \textbf{abstention filter}, not an operable
+cross-platform 90\%-precision attack.
+
+\section{P4 --- Frontier gap, stage swap, pattern robustness}
+
+\paragraph{C1 (open vs.\ frontier).}
+Table~\ref{tab:p1} is the C1 answer: competitive Reddit decisions; clear HN /
+Hit@15 deficit with a mechanistic Extract/Search explanation.
+
+\paragraph{C2 (cross-tier).}
+Swapping Extract$\leftrightarrow$Reason roles (35b Extract / 4b Reason) yields
+point estimates slightly \emph{up} (pool\_en top-1 $36.2{\to}38.7\%$; HN
+$16.6{\to}18.2\%$), but all paired $\Delta$ CIs include 0 (e.g.\ top-1
+$+2.4$\,pp [$-1.8,+6.8]$; McNemar $p{=}0.33$). Chunking drops sharply (pool\_en
+$75\%{\to}18\%$; HN $99.6\%{\to}74\%$) without a significant accuracy gain.
+\textbf{Stage assignment is exchangeable within noise} at $n{\approx}500$---we
+do \emph{not} support ``the gap concentrates in Reason.''
+
+\paragraph{C3 (calibration under swap).}
+Re-scoring cross-tier Reason (\texttt{qwen3.5-4b}) with (a)/(b) reproduces the
+same qualitative pattern: verbalized ECE high; (b) better AP; HN (a) R@90\%P
+$=0$ on both stacks. Supports a \textbf{task-level} confidence failure, not a
+quirk of strong-Reason placement. (\textit{Pending:} Reason$=$\texttt{gemma4-26b}
+robustness run.)
+
+\section{Takeaways}
+\begin{enumerate}
+\item Open-weight ESR nearly matches GPT-4o on Reddit top-1; HN transfer fails
+via chunked Extract $\to$ weak Search.
+\item Capacity allocation between Extract and Reason is not identifiable at
+this scale/pair.
+\item High-precision confidence gating remains fragile under open weights
+regardless of stage assignment.
+\end{enumerate}
+
+\vspace{0.5em}
+\noindent\textit{Sources:}
+\texttt{summer\_esrc/results/\{p1\_baseline,p2\_confidence,p3\_calibration,p4\_open\_vs\_frontier\}/}.
+Draft only---refine after Gemma run and copy-edit for page budget.
+
+\end{document}

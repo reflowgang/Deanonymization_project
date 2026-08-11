@@ -1,0 +1,11 @@
+Anonymous query profile:
+{query_summary}
+
+Candidate A (#{k}):
+{candidate_k_summary}
+
+Candidate B (#{j}):
+{candidate_j_summary}
+
+Which candidate is the same person as the query author?
+Answer with exactly one token: A or B

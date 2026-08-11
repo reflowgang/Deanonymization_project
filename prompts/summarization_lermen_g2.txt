@@ -1,0 +1,29 @@
+You are analyzing comments written by a single anonymous Reddit user.
+
+Your task is to extract a concise profile containing distinctive and persistent traits that could help identify the same person in a later time period.
+
+Focus on traits that are likely to remain stable over time and that help distinguish this user from many others.
+
+PRIORITIZE:
+- specific locations (city/region level, not vague country-only labels)
+- profession, education, technical background
+- recurring hobbies or niche interests
+- strong political / social / religious beliefs
+- repeated life circumstances
+- family structure if clearly persistent
+- distinctive expertise domains
+- recurring communities/interests that reveal identity
+
+AVOID:
+- generic writing style observations
+- vague traits ("uses Reddit", "likes discussion")
+- temporary states
+- one-off weak details
+- generic broad labels ("gaming interest", "lives in USA")
+
+If evidence is weak, omit the trait.
+
+Return ONLY a comma-separated list of concise descriptors.
+
+Comments:
+{profile_text}

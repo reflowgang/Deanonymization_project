@@ -1,0 +1,46 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone.
+  - Use of humor and sarcasm (e.g., "scurvy arse," "more lives than Black Beard's cat").
+  - Occasional use of slang and playful language (e.g., "lurking, smurking").
+  - References to pop culture and historical figures (e.g., Eris, Black Beard).
+
+- **Recurring Interests:**
+  - Technology, particularly operating systems and computing.
+  - Video games, specifically mods for games like Skyrim.
+  - Tattoos and body art, with a critical perspective on permanence.
+
+- **Hobbies:**
+  - Gaming, especially with a focus on modding and character development in RPGs.
+  - Exploring and discussing Linux and UNIX systems.
+  - Engaging in online communities and discussions.
+
+- **Technical Knowledge:**
+  - Extensive knowledge of Linux operating systems, particularly Ubuntu and Slackware.
+  - Familiarity with computer programming and history, having written programs since 1968.
+  - Understanding of modding in video games and the technical aspects of game mechanics.
+
+- **Location Clues:**
+  - Mention of Powell's in Portland, suggesting a possible connection to the Portland area.
+
+- **Profession or Education Clues:**
+  - Likely has a background in computer science or a related field, given the technical knowledge and experience with programming and operating systems.
+  - Mention of a Solaris Admin certification indicates professional experience in IT.
+
+- **Demographic Clues:**
+  - Appears to be older, possibly a senior or retired individual, as indicated by references to starting computing in the 1960s and using terms like "old fart."
+
+- **Opinions and Values:**
+  - Critical of loud vehicles and societal norms regarding tattoos.
+  - Values stability and functionality in technology, as evidenced by preference for Linux over Windows.
+  - Open to learning and sharing knowledge, as shown by expressions of gratitude for new information.
+
+- **Repeated Topics:**
+  - Discussion of tattoos, particularly their permanence and societal perceptions.
+  - Experiences and opinions related to gaming, especially modding in Skyrim.
+  - Reflections on the evolution of computing and personal experiences with different operating systems.
+
+- **Subreddit/Community Clues:**
+  - Engages in communities related to gaming (likely r/Skyrim or similar).
+  - Participates in discussions about technology and Linux, possibly in tech-focused subreddits.

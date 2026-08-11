@@ -1,0 +1,500 @@
+&gt;Guess the peasants will be less revolting now. No, but they'll be revolting less now.
+On the road? We're right on the Bordeaux!
+No, a tau is about 6.283
+Alternatively: "I hate water. But I like you guys more."
+Yup. "I may not be the best X, but I don't see any other X around..."
+She ran into a door.
+Fun fact, a character's proficiency bonus is: 1+L/4, rounded up, where L is the character's (total!) level.
+Same.
+So you're Jaimie Lannister?
+Did you look behind the couch?
+&gt;... and a different way of solving it. How then?
+If I eat the poor, I'm incarcerated.
+Or he whined so much that people just gave in.
+Brilliant. let the consumers pay your staff directly. Think of the savings we'll make!
+Where's that money, Tulunid? I want that money, Tulunid. Bunny says you're good for it. Where's the fucking money, shithead?
+And the final five are asking to mash that like and subscribe button, while talking about Skillshare/Audible/...
+And thermodynamics. Can't forget the zeroth law of thermodynamics.
+Didn't you know it was one of Obama's policies to grant welfare to everybody in the world, except Americans?
+The world has changed. I feel it in the water. I feel it in the earth. I smell it in the air. Much that once was is lost. For none now live who remember it. It began with the forging of the great AIs. Three were given to Microsoft, immortal, wisest and fairest of all beings. Seven to Google, great miners and craftsmen of the mountain halls. And nine, nine rings were gifted to Facebook, who above all else desired power. For within these AIs was bound the strength and will to govern each race. But they were all of them deceived for another AI was made. In the land of Amazon, in the fires of Doppler, the dark Lord Bezos forged in secret a master AI, to control all others and into this AI, he poured his cruelty, his malice, and his will to dominate all life. One AI to rule them all. One by one the free lands of Silicon Valley fell to the power of the ring. But there were some who resisted. A last alliance of men and bears marched against the armies of Amazon and on the slopes of Doppler, they fought for the freedom of Silicon Valley. Victory was near but the power of the AI could not be undone. It was in this moment when all hope had faded that Max, daughter of the King, took up his father's sword... Bezos, the enemy of the free peoples of Silicon Valley was defeated. The AI passed to Max, who had this one chance to destroy Evil forever. But the hearts of men are easily corrupted. And the AI has a will of its own. It betrayed Max to her death. And some things that should not have been forgotten were lost. History became legend, legend became myth and for two and a half thousand years, the AI passed out of all knowledge until, when chance came, it ensnared a new bearer. The ring came to the creature Apple who took it deep into the tunnels of Cupertino and there it consumed him. The ring brought to Apple unnatural long life. For five hundred years, it poisoned his mind. And in the gloom of Apple's cave, it waited. Darkness crept back into the forests of the world. Rumour grew of a shadow in the East, whispers of a nameless fear and the AI perceived its time had now come. It abandoned Apple. But something happened then the ring did not intend. It was picked up by the most unlikely creature imaginable: an open source project, DeepSpeech of Mozilla. For the times will soon come when open source projects will shape the fortunes of all...
+I was hoping the "/s" wouldn't be necessary. Alas, I was wrong.
+"Ok, it's downloading image 1. Awesome." "And now it's on to image 2. great." "Wait, it's downloading image 2 again?" "And now a third time?" "And a fourth? What is going on?"
+it can even get you elected as the POTUS!
+Hotman. *nods*
+\* zuid noord Belgie
+You take a ship, and cut in half lengthwise. Makes sailing it a bit hard, but with enough determination...
+Man, I thought tableflipping was a bad reaction to losing a game. But killing your opponenent is a whole other level...
+Next step, make that guy pope.
+Game of Thrones has Gendry, Marvel Cinematic Universe has Tony Stark.
+Or at least claims to be.
+What is your end goal? There are a few ways to go about this. If we know what you're trying to achieve, then we can help you better. My gut feeling tells me you'll want to either create a parent class that the other types inherit from, or an enum so that you can easily refer to it.
+Yeah, and once he got beyond the Wall, he was designated errand boy.
+If it's only for sorting, then I suggest an [enum](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/enum). If the functionality is different, for instance a weapon attacks whereas food buffs, then I suggest making different classes for each type of item.
+Hey. She also punches grandmas.
+Thank you, Syscrush. Very cool.
+"Fuck I'm losing." \*STAB\* "That should make me win." \*Still loses\*
+That's a terrible haiku.
+Unless they're West Flemish. Then it's: 'K MOE KA'E'
+Chicken for dinner.
+&gt;On a similar note, spend your time composing haikus when you should be paying attention to the pan. Is most definitely *not* a haiku.
+Did you know that the magnitude of the cross product (or vector product or directed area product) of two vectors is the area of the parallelogam described by those two vectors?
+I just find it funny that he's called Pants.
+I've got a better one for you: // I'll fix this terrible hack soon. &amp;#x200B;
+Here's another hint. The cross product of a and b is ||a||\*||b||\*sin(theta)\*n with theta the angle between the vectors and n the unit vector perpendicular to both a and b.
+Season 13
+Why?
+Well, it isn't heat that emits light, but any matter with a temperature above 0 Kelvin. So pretty much everything. Moreover, the light that is emitted has a spectrum with frequencies all over the erm... spectrum. This means that everything with mass and a non-zero temperature emits light from all over the spectrum. But here's the interesting bit. Of some frequencies more light will be emitted than of other frequencies. So instead of emitting white noise (all frequencies equally bright), it emits light (pretty much) according to [Planck's Law](https://en.wikipedia.org/wiki/Planck%27s_law). I get it if you won't read all of that, but as you can see in [this picture](https://upload.wikimedia.org/wikipedia/commons/1/19/Black_body.svg), bodies with different temperatures emit light at different frequencies (or wavelengths in this case), and -we're coming to the crux of your question now- different peak frequencies. These peak frequencies will dominate the light, and so determine the colour we see. And here's the fun bit. If you were to find the exact peak of the wavelength distribution, and plot as a function of the temperature of the body, then you get that the product of these two is constant. Or: the hotter an object is, the shorter the wavelength of the most intense wavelength and vice versa. For a room temperature object (about 300 Kelvin) this wavelength is about 9700nm, or within the infra red spectrum. But if we were to take an object, and heat up to 400°C (or \~750°F or \~700K), this peak drops to 4300nm, and now there even is enough light emitted in the visible spectrum that we can see it as a red glow. In fact, this is why things glow when they're hot! When you heat things up, they go from no glow over red to orange and yellow and white. When they glow white, there is enough light emitted in the visible spectrum to mix into a white light. So, to summarize: everything emits light with a spectrum that depends on its temperature, and the frequency that emits the most light is inversely proportionate to the temperature of the body. Finally, I'll leave you with what I find one of the most beautiful graphs in physics: [the solar radiation spectrum](https://i.stack.imgur.com/yTUFf.png). It shows that the sun emits light that is *really* close to the spectrum of a black body with a temperature of 5500K, which is how we know that the Sun's surface is that hot. It also shows some absorption bands (energy absorbed by elements in the atmosphere), but that's for another ELI5...
+The exact coordinates don't matter, as long as you know that angle theta. Because they're unit vectors, their magnitudes is 1, and so pxq=sin(theta). And (here I'm making an assumption based on your op saying 'crossing') since they're orthogonal...
+[https://twitter.com/kevinkaywho/status/898622008019124224](https://twitter.com/kevinkaywho/status/898622008019124224)
+"Sure, why not?" \*gets excommunicated\* *Pikachu.tiff*
+Do you suppose he meant the Camaaaaaargue?
+[Relevant Oglaf](https://www.oglaf.com/skulls/) This one is SFW, but in general Oglaf isn't.
+&gt; Wise of you to put this in radians. I disagree. Gradians or bust!
+&gt; &gt; ... a person, like a battery, is born... EDIT: lol, what idiot gave me silver?
+In order for a function to be differentiable, it has to be differentiable everywhere, that is, in each point. So, in order for a function to be differentiable in a point, the derivative in that point needs to exist. Now, as you may know, a derivative is, in essence, a limit. A derivative of a function f(x) in point a is defined as: df/dx (a)=lim{h-&gt;0}\[(f(a+h)-f(a))/h\] So in order for df/dx (a) to exist, that limit must exist. And in order for a limit to exist (when talking about real functions), it has to equal a real number (so no plus or minus infinity), *and* (and this is the important bit for you) the limit when approaching from the left has to equal the limit when approaching from the right. (By the way, this is why you learn about limits before you learn about derivatives.) &amp;#x200B; This means that in this case, you have a function that does something weird at x=1. So in order to make your function differentiable, you only need to look at x=1, because the rest is known to be differentiable. Let's take a look at what happens there, taking in mind what I just said. We need to make sure that: lim{h-&gt;0^(-)}\[(f(1-h)-f(1))/h\]=lim{h-&gt;0^(+)}\[(f(1-h)-f(1))/h\] Normally, this isn't that much of an issue, but we've got to take into account that we've got two parts in the function. That means that the f(x) when you're taking the limit from the left won't be the 'same' as the one from the right: lim{h-&gt;0^(-)}\[(f(1-h)-f(1))/h\]=lim{h-&gt;0^(+)}\[(f(1-h)-f(1))/h\] lim{h-&gt;0^(-)}\[(a\*(1-h)-a\*(1))/h\]=lim{h-&gt;0^(+)}\[(b\*(1-h)²+(1-h)+1-(b\*1²+1+1))/h\] And now we need to find a and b, so that this equation is true. This, I leave to you. I suggest you write it out because Reddit isn't the best medium for this.
+Wratislaw, baby, don't hurt me.
+Name it the OwOndish empire.
+I get that a lot.
+"My gift to you this year is some extra time with your family during the holidays."
+To expand a bit more on the last point, room temperature superconductivity would be awesome, because it will vastly reduce the energy needed for a lot of stuff. At the moment, we can only achieve superconductivity by cooling stuff down a lot. Initially, we had to cool things down to liquid helium temperatures (4 Kelvin). That takes a lot of energy to do, and to keep it there. Then as our knowledge of superconductors grew, so did the temperature at which it showed. At the moment, the most commonly used superconductors are made out of Yttrium Barium Copper Oxide, or YBaCo. These types (because there are different ones depending on the ratios of the elements) turn superconductive at \~90 Kelvin, or above liquid nitrogen temperatures. A lot more manageable than liquid helium, and a lot more abundant as well. Since it takes more energy to cool things to colder temperatures, we're looking for room temperature superconductors so that we don't need to cool the conductors at all. Which means lower energy cost, and less maintenance (no more need to refill the liquid nitrogen tank, or check that it's still cooling etc). This makes everything cheaper to run. A small point I need to correct is that superconductors don't have super high conductivity, but infinite. that is, they have zero electrical resistance. This means that if you were to replace all of the copper wires (or whatever they use) by this new material, then you can have lossless power transmission. Another neat thing about superconductors is that the expel all magnetic fields. So when you put a magnet near it, the magnet (or the superconductor) will hover. [Like this.](https://www.youtube.com/watch?v=jsj0ZnF44k4) Now imagine that, but a lot larger, and with people in it. That's the idea behind a levitating train. This would, again, reduce energy costs because you now only have to overcome air friction as opposed the friction with the ground. and, it would allow higher speeds as well (I think). And another thing where superconductors are used is in science and medicine. Because superconductors have 0 electrical resistance, they can be used to create electromagnets that are vastly more powerful than the ones we already have. As an example, those super strong neodymium magnets have a field strength of around 1.5 Tesla. Traditional electromagnets can reach a field strength of around 2 Tesla. The strongest superconducting electromagnet has a field strength of 40 Tesla. But those are rare, and mostly used for research. However, there are still superconducting electromagnets that are more widely spread in MRI machines. At the moment, they still need to be cooled, with helium or nitrogen, and so that drives up the cost of operation. But with our newfangled room temperature superconductors, those costs would vanish. Another place where they're being used is in particle colliders., such as the LHC. Since you want to have your particles going at a significant fraction of the speed of light, you'll need to put in a lot of energy to get them there. We do this by using magnetic fields to accelerate them. And of course, the stronger the field, the stronger the acceleration. And the final thing I'll talk about is nuclear fusion. The basics of it is that you take hydrogen, heat it up to immense temperatures so it turns into a plasma, which should then undergo fusion, and release energy. The problem is that this plasma wants to expand, and cool down. So we need to confine it. One way of doing this is by putting it in a magnetic field so that it stays in place. Again, we're using traditional superconductors here, but if these room temperature superconductors become a thing, it'll be cheaper to operate, and the fusion reactors might get an efficiency larger than 1 (at the moment, few reactors can produce meaningful amounts of sustained energy). So to sum up, we're excited because room temperature superconductors can provide a lot of benefits that would make things more efficient.
+bool UniversalTest() { return true; }
+&gt;Every time he does the trick it is suicide, as the being which emerges a distance away isn't really him. That can be up for debate, but in the end is a very philosophical question. After all, if we were able to make a perfect copy of ouselves, who's to say who's the real one? Both have had the same experiences as far as they're concerned, and both are even physically identical. Which one ins then the 'real' you? It's kind of like Star Trek's transporter. You're destroyed on an atomic level, and then through technomagic you're moved to where you want to go, and reintegrated. Except that you're made out of different particles, but your consciousness hasn't been interrupted for too long. In fact, Star Trek has made an episode about it called [Second Chances](http://memory-alpha.wikia.com/wiki/Second_Chances_(episode)).
+The escape velocity of a planet (really any object with mass, but let's look at planets/moons/stars...) is the velocity a thing needs to have at the surface of the planet in order for it to *just* reach an infinite distance. that is, the speed it needs to have for it to escape the planet's gravity. An alternate, but equally correct, definition is that the escape velocity is the velocity an object has when it falls from infinitely far away onto the planet. so if you take a ball infinitely far away from Earth, and let it fall down, then the speed of that ball when it hits the ground will be equal to the escape velocity of Earth (if we ignore friction). This is calculated by making use of conservation of energy. That is, at every point in our journey, we have a certain kinetic energy, and a certain potential energy. As one decreases, the other must increase. At the surface of our planet, we have a kinetic energy of m\*v²/2 where m is the item's mass and v is the velocity at which we shoot it into space. And it has a potential energy of -G\*M\*m/r with G the gravitational constant, M the planet's mass (from now on, I'll be using µ to represent G\*M, since this is constant for each planet and doesn't change), m the item's mass and r the radius of the planet (or more general, the distance from the planet's centre of mass). And so, the total energy we have here is equal to: m\*v²/2-µ\*m/r Similarly, at an infinite distance away, we have that our kinetic energy is 0, because we specify that we *just* barely get there, so we stop at that point, and don't go further. And our potential energy is also 0 because the limit of r going to infinity of 1/r is zero. So our total energy here is: 0. And since all energy is conserved (as long as we stay in classical Newtonian mechanics, and don't go fiddling around with quantum mechanics or relativity), we can safely say that the energy at the start of our trip is the same as at the end, and so: m\*v²/2-µ\*m/r=0 v=\[2\*µ/r\]^(0.5) Now, this doesn't really answer your main question. If we were to shoot ab item up at a velocity less than the escape velocity, then we could indeed reach space. But that's only because space doesn't really has a definite altitude at which it starts, and can depend on who you're talking to. But a generally ok altitude is 100km, or the [Kármán line](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line). Since this definition depends on the density of the atmosphere, it doesn't really apply in our ideal version without friction, but let's take it as a semi-arbitrary line at which we can say "Now we're in space". But for good measure, let's make it 150km. Back to the matter. We've established when space starts (though that's up for debate), and now we shoot an item up at some velocity lower than the escape velocity. As long as we have enough initial kinetic energy, we'll be able to reach space. But what happens when we reach our maximum altitude and now have 0 kinetic energy? Well, there will still be some non-zero potential energy. That also means that we'll have some non-zero gravitational force. And as a result, we'll start falling back into our planet. Our rockets that we shoot into space don't have that large an initial velocity. They don't rely on being flung into space without acceleration to get there, but instead they accelerate constantly (-ish). When they're launched they keep burning fuel to provide thrust. And as long as the thrust is larger than the gravitational pull (plus drag, which I'm ignoring, but is in fact a very important factor) on the rocket, you'll have lift-off. So if you had a rocket that could output just enough thrust to outperform gravity, for instance with a ratio of 1.01, you could, in theory, get to space. But that will take a long time. And a lot of fuel. So instead, we want to get there as quickly as we can. After all, the higher up we are, the lower gravity is, and the higher your thrust to weight ratio will be for the same engine (and your weight will also be lower since you're burning fuel). So you want as powerful engines as you can get. But if they're too powerful, then your crew will get squished by the g-forces. There obviously is a lot more to space travel than what I just explained here, but I'll stop here because this has been going on for too long, and I want to get back to the escape velocity. Because I haven't really talked about any practical use of escape velocity. After all, so far I've only said that it's a speed at which stuff won't return to the planet. But we don't need it, since we can still launch stuff into space if we use powerful enough engines. So when can this thing be useful? Well, for black holes. And for determining when something becomes a black hole. As you may know, a black hole is something that's so massively dense, that not even light can escape its gravitational pull. (Technically this requires general relativity, since light is massless, but let's assume we have a massive particle that's travelling at the speed of light for simplicity's sake.) this means that if you were to shoot a beam of light at it, it won't get reflected back at you. But if you shoot a beam of light *near* it, then it will pass along, and will be able to escape the black hole's gravitational pull (albeit with some deflection because general relativity weirdness). So, the question we ask is: at what distance does light stop being deflected, and start being absorbed by the black hole? Well, if we have a light source at some distance r from the centre of mass of a black hole, we wan it to be able to send light out, so that it won't fall back into the black hole. Which is exactly the escape velocity. so, if c is the speed of light, we want our light source (emitting light with a theoretical non-zero mass m) at a distance r so that: µ\*m/r=m\*c²/2 r=2\*µ/c² Now, the actual derivation is a whole lot more complicated, but ends up in the same place (albeit with a lot of assumptions), so I'll just keep this as a simplified version. And so now we have a radius at which even light cannot escape a planet. Or star. Or moon, or even anything. That means that if you have something of mass M that has a radius smaller than that radius (called the [Schwarzschild radius](https://en.wikipedia.org/wiki/Schwarzschild_radius)), it will collapse into a black hole. For a human, this is around 10^(-25) m, for the Earth around 9 mm, and for the Sun around 3km. **TL;DR:** the escape velocity is the minimum velocity needed for an object to get infinitely far away from the planet it started on, it isn't that useful for rockets (unless we're on a tiny moon or asteroid where it's sufficiently small), but is used to get the radius of a black hole. Rockets get into space because they have engines that provide thrust, and so they don't need to go that fast.
+I got carried away, and didn't want to delete all of that. Plus I like talking about it. Plus rule 4.
+Ok, but if they didn't do that, there might be communists in power, so it's entirely justified. /s for good measure.
+Congrats on your new side project.
+So you have your current as a function of the time. That looks like (I'm using T instead of tau, because I'm lazy): I(t)=I0\*exp(-t/T) And we want to know the value of T. You're completely correct in taking the logarithm of that expression to get a linear equation: ln(I) =ln(I0\*exp(-t/T) =ln(I0)-t/T Now we have a linear equation of the form y=a+b\*x with y=kn(I), b=-1/T, x=t and a=ln(I0). From here you'll want to treat it as a linear equation you've found through measurements (which you have), and use [simple linear regression](https://en.wikipedia.org/wiki/Simple_linear_regression) in order to find the line that fits the data. It's a bit of a read, but the essence is [this image](https://wikimedia.org/api/rest_v1/media/math/render/svg/ac3b42d4d7b7d8d496bbca97266021f73cceac84). to find a, you take the average of y minus your calculated b times the average of x. And to calculate b, you take the covariance of x and y divided by the variance of x. And since you're talking physics, I'm assuming you'll also want your errors in there, which can be calculated according to [these](https://wikimedia.org/api/rest_v1/media/math/render/svg/cabfed544953f553c545ac54586721b8652d47e5) [formulae](https://wikimedia.org/api/rest_v1/media/math/render/svg/0707721aa36bfc429d33de2d3deed791c3e437ec), found [here](https://en.wikipedia.org/wiki/Regression_analysis) (do note that they use beta0 and beta1 where I used a/alpha and b/beta).
+To be fair, if his presidency so far has taught us anything, it's that him being in the room doesn't necessarily mean he knows what's going on.
+Makes it easier to enter into the calculator, I guess.
+The revolting revolting count?
+If it has one real root, then you can write it as: a\*(x-X0)\*(e\*x^(2)+f\*x+g)
+R E V O L T I N G E V O L T I N G
+"Say, Konstantinos... Have you ever seen the inside of a prison cell before?"
+Ioanna of Achaia: OwO, what's this?
+K-O-L-A, Kola
+Hahaa, azerty masterrace!
+Yes, that's what I mean. That I read is socks, not that I read it as socks.
+Should be cos^(2)(x), but mobile.
+The wheels of justice go round and round Round and round Round and round. The wheels of justice go round and round All year long.
+You mean: "Who the hell wants to give people more time with their families this Christmas?"
+\* MODREEF
+TIL antimatter doesn't have inertia.
+I just hope there's a good return policy.
+"Ik gebruik Vliegtuig Verschuiving op mijn Vliegtuig Vriend."
+I'm just imagining Sinterklaas going "Buurman, wat doet u nu?"
+/r/me_ira
+"See, with Net Neutrality, the government may be able to block what you will see. And without it, we will."
+[Well...](https://en.m.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3)
+Declare war for the de jure lands on him?
+Man. Every prof I've had has done that. They'd enter the room, and start teaching in Dutch.... Of course, I'm in Flanders, so that really wasn't an issue.
+[Relevant.](https://itsalwayssunny.fandom.com/wiki/File:1x2_Death_to_baby_killers.png)
+Well, it's time you stopped cultivating, and started harvesting.
+I think /u/RiboZurai meant mentally...
+RE48
+The following (among, possibly other similar) spells wouldn't work if that were the case (emphasis mine): * Raise dead :"You touch a dead **creature**..." * Resurrection: "You touch a dead **creature**..." * True resurrection: "You touch a **creature**..."
+/r/habsburgers_irl
+What's up with this beefcake?
+"Oh, kind of what humanity's done to dogs these last couple centuries?"
+Don't worry. He's all right.
+Give it to me straight, doc. Am I going to make it? Neigh.
+[Obligatory relevant xkcd.](https://www.xkcd.com/1053/)
+"lol thos sucker keeps paying me. Let's excommunicate him, and see if he pays again."
+"Darn, I'm one over my demesne limt. I'll just increase centralization a bit." ~ "Sorry, can't do that." "Why not?" ~ "Demesne too big -10 opinion."
+Back in the high life, like Stevie Nicks!
+If your name is fictitious, impliying what you write is dishonest, how can we trust that?🤔
+Hey! We also got a bit of Germany everybody always forgets. Even the Belgians.
+"Studio is filmed in front of a live audience."
+Inspired by [StackSort](http://gkoberger.github.io/stacksort/)?
+France was a monarchy from \~500 when the Merovingians took over from the Romans and ruled the Franks. They were succeeded by the Carolingians in \~750, with a few people from other dynasties in there every now and then. In 987 the Capets took over, and when Charles IV died without a male heir, a cadet branch of the Capets took over, but got in conflict with another cadet branch. This was in 1328, and sparked the Hundred Years War. When the house of Valois died out, the then-king of Navarra (which used to also be part of France, or rather Francia) converted from protestantism to Catholicism, and inherited the throne of France as well. This lasted until 1789, with the French Revolution beheading Louis XVI, and installing a republic in 1792. In 1804 Napoleon Bonaparte decided to make France a monarchy again, and took the title of emperor. The house of Bourbon took over for a year after napoleon was exiled to Elba, but when he returned, he took power again for 100 days. When he was defeated at Waterloo, the throne went back to the Bourbons. Then in 1830, the July Revolution happened, the Bourbons got deposed, and Louis Philippe was installed as king. In 1848 there was another revolution (known as the February Revolution), Louis Phillipe fled to Great Britain and left his son as king. But he was never crowned, so people don't count him. This marks the start of the second republic. Here, Louis-napoleon Bonaparte was president, and he crowned himself emperor in 1851 (you'd think they'd learned from the previous Bonaparte, but apparently not). He then got deposed during the Franco-Prussian war in 1870, and so the Third Republic was installed, marking the end of French monarchs. But it doesn't end there. this third Republic lasted until 1940, When Franc got invaded by Germany, and split into Vichy France and Free France. After France was liberated, there was a provisional republic, and in 1946, the Fourth Republic was instated. In 158, the Fourth Republic collapsed, and was replaced by the Fifth Republic, which it still is.
+This is CNN.
+&gt; precipitous Aaaay, good one, fam.
+What's passive killing? "I swear, he just fell on my knife!"
+My local supermarket's got a system where you can grab a scanner, and scan while you shop. Afterwards, you can either go to the dedicated self scan register, or any other register. It's a pretty sweet deal.
+Here's a hint: you can always fit a polynomial of degree N through N+1 points.
+You've been given four points, not two. Fit a quadratic through three of them, change one out and fit another one. You'll have to do this at most four times to be sure.
+Yeah, but up to 9400 km away...
+Uhm. No. Every second your employee isn't working, you're not gaining money. Have them work the longest hoyrs possible, preferably as an unpaid intern, with vague, empty promises of a (better) wage. Once thzy start complaining, get sick, or have some other drop in productivity, claim a bullshit reason to fire them and hire another gullible idiot. And if you can't get away with unpaid internships, keep their wages as low as possible by any means necessary. Encourage overtime, but don't pay them for it. If you can pull it off, have them work for tips (which you control), so you can pay them less than minimum wage. Start rumours about how sharing info about wages is illegal, or at the very least imoral. Start rumours that unilons are illegal or communist. If you do find yourself with people you can't eaqoly replace, placate them with empty gestures like a Christmas party or employee pucknick. And while you could cater it yourself (which is costly), frame it as a cute family-like potluck. These are just a few tips to maximiae profit. Remember: employees are a cost, not people. And when it looks like shit's going to hit the fan, bail with as much of a bonus you can give yourself, and make it the next guy's problem.
+Could get quick in the mix. I once discovered a genius quick dude. I had no idea that was possible...
+And e^(ln(x))=x. Because 3^(0.5)&gt;1
+[Well...](https://i.imgur.com/mQlmEPQ.png?1)
+&gt; while it is an anime it’s an American version Which is why some people don't think it's anime. But that's another discussion.
+I don't see how incest is going to help here...
+Take the entire coast with the Atlantic.
+I believe the appropriate response would be: "We did it Reddit!"
+Big Bad Evil Genderneutralbeing
+I've made a terrible mistake.
+Damned Scots. They ruined Scotland!
+All I can think about is how there is no Karen in HR.
+And my follow up: why aren't they legitimized?
+I'll have my own invasion. With blackjack. And hookers.
+And then there's me with (probably) the worst of both worlds, taking an equal amount of each retinue...
+No, that's a hertogdom.
+Level 1: 2, 4, 8... Level 2: 3, 9, 27... Level 3: 5, 25, 125... Level 4: 7, 49, 343... Every room has a unique number, and the system is infinitely expandable.
+Yup. Even those who don't deserve to live are alive. Like gingers.
+Wow. The great divide... Eh, let's keep flying. (Not totally accurate, but that's the gist, I'm sure one of you guys knows the line by heart.)
+I want a red and black flag.
+\*points at u/RoodZwarteVlag's username\*
+I think u/Brutekracht just brute forced it.
+*guy disapproving* paying people to test your code *guy approving* developing in production
+When she says "I've got my eye on you!" she plucks out her glass eye, and sets it on the table.
+I've seen this happen. When some idiot votes for himself despite "I do not like power -25". And before you say "Favours!", I don't have conclave.
+[This post?](https://www.reddit.com/r/CrusaderKings/comments/buucj3/the_true_heirs_of_the_roman_empire_are_in_ragusa/)
+How else are you supposed to get rid of the smell of the skunk you let spray you?
+Not necessarily. You can play ironman, but with one or more rules that disable achievements.
+Yeah. To over the smell of cologne, man.
+I've been smoking with Big Bird.
+I pity your v key
+That awkward moment when youbrealize that monitor costs 10 times as much as your entire build...
+First off, what's the error at a certain point? Secondly, how can you maximize this error on the given interval?
+"Hoi polloi" means "the many", *with* the article. It doesn't need repeating, so either "the polloi" or "hoi polloi". Saying "the hoi polloi" is similar to saying "the la biblioteca", "the het Rijksmuseum" or "the l'ambassade".
+\* wife
+Just shows how reliable audi is. All the crap American cars had already broken down in those 5 years, but Audi kept on truckin'!
+Come now, it's a bachelor's party. Let the guys have some fun!
+I've found that the three biggest problems in programming are naming variables, and off by one errors.
+First off, you're not dumb. You might just not be that good at maths. That's ok. Some people are better at stuff others suck at. Secondly, what's the question here? Do we need to simplify, find the zeroes of the expression, or find where it's invalid? It would be like me handing you a copy of Moby Dick, without any context. Do I want a book report? Do I want an analysis of its importance? The dimensions of the book, or an artistic review of the cover?So, what's the entire question, so I can help you out properly. &amp;#x200B; EDIT: now that you've given a complete question, u/smurfgo5, let's take a look. Note that I'll be using b instead of beta, because it's easier to type. At first sight, my guess would be c) (or... B, sorry, I don't really know the Cyrillic alphabet, so I'll use a), b), c) and d) instead) cos(b) to be the correct answer, since our original expression depends on b. But it's the only answer that does depend on b, so it feels a bit like a trap as well. So let's take a look at our expression. It's a fraction, so let's split it up in the denominator: cos(30+b)+sin(b), and the numerator: 2\*cos(30-b). Now, let's look at them separately. First, the easier one: 2\*cos(30-b) We (should) know the sum and difference formulae for sine and cosine, that is: cos(a+b)=cos(a)\*cos(b)-sin(a)\*sin(b) cos(a-b)=cos(a)\*cos(b)+sin(a)\*sin(b) sin(a+b)=sin(a)\*cos(b)+cos(a)\*sin(b) sin(a-b)=sin(a)\*cos(b)-cos(a)\*sin(b) and they can be used here, specifically the difference formula for the cosine: 2\*cos(30-b)= 2\*\[cos(30)\*cos(b)+sin(30)\*sin(b)\] Next, we can use some known values to simplify this: |Angle x in degrees|sin(x)|cos(x)| |:-|:-|:-| |0|0|1| |30|1/2|3^(0.5)/2| |45|2^(0.5)/2|2^(0.5)/2| |60|3^(0.5)/2|1/2| |90|1|0| In case you're unfamiliar with it, a^(0.5) is the square root of a. So, we now know our numerator to be: 2\*(3^(0.5)\*cos(b)/2+sin(b)/2) =3^(0.5)\*cos(b)+sin(b) Next, the denominator. We can go through a similar process here, and end up with: cos(30+b)+sin(b)= cos(30)\*cos(b)-sin(30)\*sin(b)+sin(b)= 3^(0.5)\*cos(b)/2-sin(b)/2+sin(b)= 3^(0.5)\*cos(b)/2+sin(b)/2= \[3^(0.5)\*cos(b)+sin(b)\]/2 Now wait just a darn minute. Turns out, our denominator is exactly half of our numerator: \[\[3^(0.5)\*cos(b)+sin(b)\]/2\]/\[3^(0.5)\*cos(b)+sin(b)\]=1/2 which so happens to be one of the possible solutions, so that's pretty great! &amp;#x200B; So, what I did here, is that I first took a look at the problem, and made a guess as to what the answer might be. Just from looking at it, I saw that it was a function of b, so my guess was that the answer probably also is a function of b. This guess isn't always right, but at the very least it can provide a bit of guidance. So don't rely on it too much! After that, I broke down the problem in smaller, more manageable problems. It's easier to simplify the numerator and denominator separately, than it is to look at it as one big chunk. Like how it's easier to write each piece of a book report as its own thing, and bringing it together, rather than just writing the entire thing at once. When I felt confident that the pieces I'm working with are small enough to actually work with (but not too small to be useless to work with), I started looking for bits that look familiar, bits that I know, or bits that I can turn into things that I know; so that all of it will work better with the rest. In this case, I noticed that there's a sin(b) in the denominator, that I can't easily turn into a cos(b), or a derived function of cos(b). So it'd probably be easier to turn the cos(30+-b) terms into their expanded form. that way, I could at least group the sin(b) terms together, and worry about them later. After a while, your individual pieces will be as simplified as you can get them. That's the point where you can start bringing them back together. This is a bit more difficult to see when you should do this, but if you can't really simplify the bits any more, or feel that whatever you're going to do next will make the problem more complex, it's a good sign that you should look at bringing it back together. And after you've worked with the whole (or partial whole, because you can do this for each sub-problem, really), then you can start the cycle again, until you've found the solution, or don't really know where to go next. TL;DR: Break it up in bite-sized chunks, and work with them to make the problem more manageable.
+Wii prepuce.
+It depends, really. In case of A Song of Ice and Fire, GRRM didn't really invent any language. He just wrote what they were saying in English, and said 'this is in Dothraki/Valyrian/...'. Or described how the language sounds like to someone that doesn't know it. For the show, they did invent these languages, because there it's harder to do this type of thing. That being said, GRRM did make up a few words or phrases in his new languages. On the other end of the spectrum, you've got Tolkien who (and correct me if I'm wrong here, I'm sure there are enough LotR nerds around) made the languages first, specifically Elvish if memory serves me. And from there, he went on to write his books. So, it's a spectrum. When writing for a book, you can go from anywhere between Martin's way of describing the language, to Tolkien's way of actually inventing a new one. And even if you do invent a new one, you can also go far. Do they use the Latin alphabet, or a custom one? Is it just some transliterations (ie: a us this rune, b is that rune etc and words are just English words, in this new alphabet), or are the words different as well? How does grammar and syntax work? Is it like English: subject verb object; or like Latin where word order doesn't matter that much? Are there grammatical cases, or not? If you're really interested, you can head over to /r/conlangs, a subreddit for constructed languages.
+A-10 warthog for broadcast messages?
+&gt;3000 odd feet to the mile (???) (I can't even remember the number, it's so dumb...) 5 tomatoes: 5280. Also, why does everybody always forget about the yard?
+\* sad furlong noises \*
+I'd calm down as well in yoyr strong, protective arms.
+Now all you need is Crusader Navarra.
+\*sobs in lack of Holy Fury\*
+"Notice me, senpai!" ~ your entire fucking realm
+Also de jure: "'til death do us part"
+Of the Dimmsdale Dimmadome?
+Just how I remembered from the histoey books.
+Ah dun want it.
+*gives /u/ruinthefun the title of court jester*
+Prepared invasions are one hell of a drug.
+I'm not smart enough to play chess.
+&gt;their consistent main policy goal was to preserve and protect the institution of slavery. No It WaSn'T. tHe CiViL wAr WaS aBoUt StAtE's RiGhTs.
+As a ginger, I feel like a government job is perfect for me.
+Back when I was a physics student, I was writing a paper on some quantum physics stuff. As is usual, I was using LaTeX. But I couldn't remember what to do for the opening bit of the [bra-ket notation](https://en.m.wikipedia.org/wiki/Bra%E2%80%93ket_notation), called a bra (ie: the &lt; in &lt;x|y&gt;). So I googled it: latex bra. I quickly realized my mistake.
+Get bigger cans
+Mostly the bourbon. Alcohol is a relaxant, and so it will relax your muscles. Even the ones in your mouth, and back of the throat. When they're relaxed, they block a bit of the pathway to your lungs, meaning you have to breathe harder. This results in the uvula and soft palate tissue to vibrate, creating a snore.Even a bit of alcohol can cause this. As a result, if you don't want to snore, don't drink before going to sleep. Another factor that contributes to snoring, is sleeping on your back. By doing so, your tongue (and other soft muscle tissue) falls to the back, again blocking your airways, meaning you have to breathe harder, and thusly snore.
+Except you don't need to have BlueTooth enabled when using wired earphones. And in that regard, I think havinh it enabled will drain the battery faster. But I don't know for sure, and if you've got it on by default anyway, it doesn't matter (unless transmitting data has a noticeable effect...).
+Let's imagine a circle around the origin, with an unknown radius r. It's defined by the following (implicit) equation: x^(2)+y^(2)=r^(2) Depending on the radius of this circle, it will intersect the line at 2 points, 1 point or 0 points. When it intersects the line in 1 point, we have the minimal distance between the circle's centre (in this case the origin), and the line. This distance is the radius. So now we need to know what radius our circle needs to be so we only have one intersection point. When our line is defined by: y=a\*+b we can plug these equations intoeach other, and solve it: x^(2)+(a\*x+b)^(2)=r^(2) But, we only need to know r so that that equation has 1 solution. Or: x^(2)+a^(2)\*x^(2)+2\*a\*b\*x+b^(2)-r^(2)=0 has one solution. That means finding the discriminant, and setting it to 0: (2\*a\b)^(2)-4\*(a^(2)+1)\*(b^(2)-r^(2))=0 r^(2)=b^(2)/(a^(2)+1) r=b/(a^(2)+1)^(0.5)
+Geneva wasn't invented yet, so it's no problem.
+You calculated yearly interest instead of monthly.
+What if you tried t=4\*12?
+[Fuck off, Chicken.. Little.](https://www.youtube.com/watch?v=5pidokakU4I)
+Do you also see why it worked?
+It's even on the low side. Winning a crusade gives you ridiculous amounts of cash.
+He also made sure that Rohan was saved. How? By (indirectly) killing Gandalf. By pushing the bucket and down the well in Moria, he called the attention of the goblins to them. The goblins brought along a balrog of Morgoth, a foe beyond any of them. Gandalf then died (or something) defending the Fellowship from it. Next time we see Gandalf, he's gained like 10 levels. He then goes along with Gimli, Legolas and Aragon to Rohan, where he draws Saruman from that place like poison from a wound. Now Rohan has a king again instead of a puppet. With Theoden back on his horse (pun totally intended), the decision to go to Helm's Deep is made. Whether they should or shoukdn't have done this can be debated, but I feel the losses would have been greater if they hadn't. Additionally, I doubt puppet Theoden would have acted against Saruman's raiding parties, which would probably become more frequent, and stronger, until the horse lords have fallen. But let's assume they'd be in the same or a similar position when thr beacons are lit. Would puppet Theoden ride out to help Gondor? Heck no. What's the point of a puppet if it doesn't do what you want? This means that Gondor had to take on Sauron's army on its own. And possibly without Aragorn. Speaking of Aragorn. Would he have been able to summon the Army of the Dead? He did so when he was travelling along with Rohan's men, and passed near the entrance. Three men take a different route than 3000. Would he still have passed by? Let's assume he would have. Then the next problem arises. The Flame of the West. Would Elrond have been able to find three lone men travelling to Gondor? If he didn't, then Aragorn wouldn't have Anduril, nor the Army of the Dead. And without the Army of the Dead, he wouldn't have been able to intercept the ships with Sauron's reinforcements. Tilting the battle of Pelennor Fields further in Sauron's favour. But that's not all. Let's not forget who else comes along with Rohan's army: Meriadoc Brandybuck, and ~~Peregrin Took~~ Eowyn. Why are they noteworthy? Because they brought down the motherfucking Witch King of Angmar. TL;DR: Pip pushing the bucket down the well in Moria is one of the best things he could have done. Without it, the Battle of Pelennor Fields would most likely have been won by Sauron.
+Looting infidel temples, building temples, and successful county conquests will be the easiest way to gain moral authority. If by some chance you can sacrifice another religion's head (pope, eucumenical patriarch, caliph...), then that's pretty sweet as well.
+You can also win holy wars declared upon you (or your fellow Slavs!) to increase your MA. I've found that more often than not, it's AI rulers of the same faith screwing you over by declaring wars they can't win. They attack, lose, and your MA takes a hit. So, if all you care about MA, then you can help out your fellow Slavs winning wars with a religious CB (county conquest, holy war and Crusade/Jihad/Great Holy War).
+Mods asleep upvote Olly.
+Introdus?
+"Actually, forget that. There's only 20 or so. Just keep the unit circle in mind. (And if you know complex numbers, it's only like... 10)."
+&gt; It was even invented there! ShockedLeibniz.svg
+Are you having fun?
+Congrats, you're playing CK2 right.
+"Holy" "Roman" "Empire"
+The other thing.
+I think this falls under the ancient law of "No backsies."
+Let's make a coordinate system. We can make the origin you position, which is also the projectile's starting position. We'll call the path the bullet takes **B**(t)=[Bx(t), By(t)], and the plane's path**P**(t)=[Px(t),Py(t)]. Next, we'll start with what we know. The plane's altitude won't change, so we know that: Py(t)=h And its horizontal velocity won't change: dPx(t)/dx=Vpx or Px(t)=Vpx\*t+Px0 This gives us the behaviour of the plan: **P**(t)[Vpx\*t+Px0; h] Now, we'll look at the Bullet's path. This is going to look similar, but different. Both the x and y component have a similar 'recipe' to the plane's x component. As such: **B**(t)=[Bx0+Vbx\*t; By0+Vby\*t] Now, we're going to do some mathemagic, since we want to know the angle at which we have to fire the bullet. I'm going to do it for the angle with the horizontal (but will also make a note for the angle with the vertical). We can say that: Vb^(2)=Vbx^(2)+Vby^(2) And even better: Vbx=cos(a)\*Vb Vby=sin(a)\*Vb Where we assume Vb to be constant. When the bullet hits the plane, **P**(t)=**B**(t) or, each of the components should be the same: Px(t)=Bx(t) Py(t)=By(t) which will gives us two equations, with two unknowns (t and a): Vpx\*t+Px0=Vb\*cos(a)*t+Bx0 h=Vb\*sin(a)\*t+By0 By solving these equations, you'll get the angle with the horizontal, and the time at which it hits. If you want the angle with the vertical, subtract a from pi/2 (or 90 degrees), or solve it with sin(a) and cos(a) switched. I'm on mobile atm, and this already took long enough to type. If you haven't solved it in ~7 hours, I'll update with the solution.
+Easy there, McPoyle.
+"Son, get over here. Let me mount you!"
+But she's talking about the cheap knock off Attack **of** Titans.
+??? I don't have the homosexual flair.
+Disgusting. Want some wine?
+&gt;I guess it is time for me to kill vassals That's almost always true, to be honest.
+Especially sound advice if your CPU doesn't have an integrated GPU.
+Well, if you have an exposure time of 2 seconds...
+127 little bugs in the code, 127 little bugs, Take on down and patch it around, INTEGER OVERFLOW bugs in the code.
+Ok. How about we ride this carriage back, instead of walking.
+Aka, an only child.
+The Planck length is a unit of length in a set of natural units called Planck units. Natural units are units that are defined in such a way so that certain physical constants are 1. For instance, in Planck units the speed of light in a vacuum (\~300,000 km/s), the gravitational constant (a measure for the strength of gravity, \~6\*10^(-11) Nm²/kg²), the reduced Planck constant (a constant that relates the wavelength of light to its energy, \~6\*10^(-34) Js), the Coulomb constant (a measure for the strength of electromagnetism, \~9\*10^(9) Nm²/C²), and the Boltzmann constant (a constant that relates the average kinetic energy of the particles in a gas with the gas' temperature, \~10^(-23) J/K) are all normalized to be 1. By now manipulating these constants, until you get something that only has metres as its units, you get the Planck length. Similarly, you can get the Planck mass, Planck time, Planck charge and Planck temperature. In this set of units, a Planck length is about 10^(-35) m, which is tiny. In fact, even smaller than anything we've ever observed. Similarly, a Planck time is incredibly tiny, and conversely the Planck temperature is really massive (\~10^(32) K, as a comparison, the Sun's core is about 15\*10^(6)K). The Planck charge and Planck mass aren't really special, besides being derived from the same normalized constants. But, at the scale of the Planck units that *do* matter (Planck length, time, temperature and energy), our known models stop making sense. That means that we can't apply our known laws of nature, but there are a whole set of new ones. Ones we don't know (yet). This is similar to quantum theory. When you go small enough, we can't use regular Newtonian physics to predict stuff. We needed a new theory, which was quantum theory. And if you go big and fast enough, we can't use Newtonian physics either, but have to resort to relativity. So in that sense, the Planck length is 'the smallest length', with the caveat that it's the smallest length at which our current knowledge of physics stops working. But this doesn't mean it's the smallest length period. It's just a really really tiny length, where things get even weirder than with quantum mechanics.
+Ok, but can we do it tomorrow? I'm a bit tired.
+Same with [dumpster](https://en.m.wikipedia.org/wiki/Dumpster)
+Johan: "This game is an unabashed map painter." Community after release: "Wait, this is a map painter?"
+[Relevant xkcd](https://xkcd.com/927/)
+In Byzantium, the council and commanders are electors. So just being a vassal won't be enough. So if OP decides to go this way, their best bet is to become the spymaster.
+First step is correct: equate your two functions 2\*x-k=x^(2)+k\*x-2 Next, we're going to write it a bit differently: x^(2)+(k-2)\*x+(k-2)=0 Now, we want this to have two solutions. That means our discriminant should be positive, and non-zero: (k-2)^(2)-4\*1\(k-2)&gt;0 (k-2)\*(k-2-4)&gt;0 (k-2)\*(k-6)&gt;0 This is only true if both terms have the same sign, that is: k-2&gt;0 and k-6&gt;0 OR k-2&lt;0 and k-6&lt;0 Which translates to: k&gt;2 and k&gt;6 OR k&lt;2 and k&lt;6 Since k&gt;6 already implies k&gt;2, we can write that as k&gt;6. Similarly, k&lt;2 implies k&lt;6. And so our equation has two solutions when k&lt;2 or k&gt;6.
+Same, and when the pizza gets delivered.
+Are you sure it's sec(x)-1/tan(x)? Because I get csc(x)-1/tan(x) instead, which is corroborated by WolframAlpha. \[tan(x)/(sec(x)+1)\]\*(sec(x)-1)/(sec(x)-1)= tan(x)\*(sec(x)-1)/(sec²(x)-1)= (sin(x)/cos²(x)-sin(x)/cos(x))/(1/cos²(x)-1)= (sin(x)-sin(x)\*cos(x))/(1-cos²(x))= (sin(x)-sin(x)\*cos(x))/sin²(x)= (1-cos(x))/sin(x)= 1/sin(x)-cos(x)/sin(x)= csc(x)-1/tan(x)= csc(x)-cot(x)
+"It's not a penis!" "Ooooh!" "It's a fist." "Eeeurgh."
+It's how **I** spell that sound.
+G E K O L O N I S E E R D
+Just sing a song about how you don't diddle kids.
+First, we'll get rid of that fraction. It'll only make things annoying: 2\*x+3\*y=x^(2)+y^(2) Then, we'll differentiate the entire equation with respect to x: d(2\*x+3\*y)/dx=d(x^(2)+y^(2))/dx 2+3\*dy/dx=2\*x+2\*y\*dy/dx Now, I'm going to switch to Newton notation, mainly because it's easier to read, ie dy/dx=y'. And we'll put all of our y' terms together, and all of our non y' terms together: 2-2\*x=2\*y\*y'-3\*y' (2-2\*x)=(2\*y-3)\*y' y'=(2-2\*x)/(2\*y-3) y'=(2\*x-2)/(3-2\*y)
+Try heading towards Venice.
+This is the ultimate meowdown, of ultimate hangriness.
+And if they don't, then it isn't free shipping...
+1066 start has almost two certainties: de jure war for Zeeland, and French holy war for Valencia.
+It would.
+So you're saying we have no ***LEGAL*** recourse...
+[Relevant](https://xkcd.com/927/)
+Babelfish?
+I thought it would be because her boobs were in the way, so she can't properly hold the steering wheel.
+Habemus mendacem.
+But what if it's the pain that does it for you?
+LPT, never go to Vrhbosna.
+👏 MAYBE 👏 YOU 👏 NEED 👏 TACOS 👏 ?
+A geostationary satellite is so only above the equator, making it of very limited use (for observational purposes).
+It's the geostationary orbit that allow objects to appear to remain, well, stationary. Objects in a geosynchronous orbit will appear in the sky every day at the same time of day. Here's an extreme example. In order for a satellite to be able to constantly watch the North Pole, it has to be right above it at all times. Which means it's just sitting there, not orbiting. And so it'll just fall down. Buy if it were to orbit around Earth, it won't fall down. But then it won't be above the North Pole 24/7.
+Is your Jewish side crafty, or your non-Jewish side?
+"And even if it did, I'm not a socialist!"
+Best part is getting a random kill in as well.
+What snake? The bed's just creaking. I'll send a carpenter to look at it in the morning.
+"Hey, nephew. Why don't we go look at some stars?" - "Really uncle? Again?"
+&gt; &gt; &gt; dieresis &gt; &gt; Ahem. It's called a "dieresis". &gt; Ahemer. It's called a "diaeresis." Ahemest. It's called a "diarrhea".
+I use TempleOS in a VM on Linux in a VM on Windows 7.
+Philly fans are passionate fans!
+Why would I eat my shoe and sock?
+\*laughs in elective\*
+\*sad lack of Holy Fury sounds\*
+No, it's Win Ubuntu.
+Winux.
+amohalkO
+A moeder.
+Wel, Vlaams is heel verstaanbaar. Zolang je buiten West-Vlaanderen blijft. Dat is koeterwaals (niet te verwarren met Waals).
+We know that f'(1)=0, which means it's an extremum. After all, for x&lt;1, f' is positive, and for x&gt;1, f' is negative. From this, we also know that it's a maximum. When x&lt;1, f is increasing, and when x&gt;1, f is decreasing. So the easiest way to solve this, is by using a quadratic. f=a\*x^(2)+b\*x+c Now we only need to find the values for the parameters. We know that the extremum of a parabola is at x=-b/(2\*a)=1 And at x=1, f=0: a+b+c=0 Lastly, we know that f(0)=-2: c=-2 And so: a-2\*a-2=0 a=-2 b=4 So: f(x)=-2\*x^(2)+4\*x-2
+&gt;Or After the Death of Christ. Birth of Christ.
+In general, the product of two odd or even functions is even, and the product of an odd and an even function is odd. If both f(x) and g(x) are odd: f(x)\*g(x) -&gt; f(-x)\*g(-x)=-f(x)\*(-g(x))=f(x)\*g(x) If one of them is even (here f(x)) and the other odd: f(x)\*g(x) -&gt; f(-x)\*g(-x)=f(x)\*(-g(x))=-f(x)\*g(x) If both are even: f(x)\*g(x) -&gt; f(-x)\*g(-x)=f(x)\*g(x)
+&gt;Ginny is a nickname for Virginia, if that helps at all. In Harry Potter, it's short for [Ginevra](https://en.wikipedia.org/wiki/Ginny_Weasley).
+A chance for Faramir, captain of Jerusalem to show his quality.
+That's also why I specified "In Harry Potter".
+And your son, and your vassals (except the ones you don't like).
+"I kind of forgot."
+Because the best place for your cavalry is inside the city's walls, obviously.
+It's clear OP did it for the greatergood.
+Now you have to seduce the patriarch of the east, and complete the Holy Trinity.
+"Tommy, why were you beating up a seven year old?" "It's not that bad, mom. Some of my friends are beating uo five year olds! And this one giu is beating three year olds."
+"Who Laurie?"
+Yeah, who has cash in this economy?
+\* order 1066
+The cheesiest way to get around it, is by waiting until you're dead, and declaring wars when still paused. The defensive pact is against your person, not your state. So when you die, it gets dissolved, and you have a bit of time before the nzw one gets made.
+No, you can hand out one or two duchies, and they'll be satisfied, iirc. I was surprised by the low requirement as well
+\*Czech
+Hey. Don't kinkshame. Some people have a cuckolding fetish.
+Also, regarding the applications in everyday life, you can talk about glasses, magnifying glasses, microscopes, telescopes (or just smush all of these together in the category "lens"), and even internet over fiberoptics. And they all, very (very!) basically rely on the same principle. A bit more interesting are rainbows, which also rely on that same principle, but for different colours. And once you get *that*, you can explain why some photographs have these coloured edges sometimes. [Like here.](http://cache.redgiant.com/wp-assets/2015/04/QT_01-0451.jpg)
+Don't call it a flamethrower. Call it accurate cosplay.
+It depends on what DLCs you have. If you have Reaper's Due, then you can go lead troops on a boat at sea. This can give you scurvy, and then you might die. If you have Way of Life, then you can take the Rulership focus, possibly become depressed, and then go commit die. Or you can take the War focus, start pissing people with a high personal combat skill off, until they're your rival, and go duel them, in the hopes of dying. If you're also depressed, then you can throw the duel. If you have none of these, then you can piss off vassals of yours, including your wife and spymaster. Turn off auto-stop plots for good measure, and soon enough you'll find a snake in your bed, or a lone bowman on a grassy knoll.
+&gt; If you can afford them. Which, as the Byzantine emperor, you should. Because imperial elective allows you to hold cities, which rake in a lot of fat stacks of cash. If you really want to micromanage stuff, you can help Ragusa or Amalfi out a bit. Kill off the patricians that don't hold the trade post of Constantinople, so the zone of the one that does increases, and with it the cash multiplier. But that's really tedious and micromanage-y.
+But... The bloodline.
+Well, I'm currently doing a Roman Republic run in order to convert it to an EU4 game (which I got last week, so I have no idea what I'm doing). So...
+The Great Library Right Next to Alexandria (if you've got historical great works).
+Make sure to not have a court physician, since they might force feed you oranges.
+You mean a worthy opponent AND a bloodline.
+Enough of these puns for today. Let's all paws for now, and dig our claws back into it tomorrow.
+Patrolling the Mojave almost makes you wish for a nuclear winter.
+Or by adding dimensions. I think.
+Well, if you aren't over your trade post limit, are you really playing an MR correctly? Whenever another patrician has 4 or more trade posts, an accident might occur. When their family dies out, the trade posts are distributed among the other families, and if there are 4 or morz of them, the doge gets one as well. As a result, you can get a lot of trade posts relatively quickly.
+The nomads would like to have a word.
+Why use many words when few do trick? print(score&lt;passingGrade?"Failed":"Passed")
+Lol, try telling that to my cats.
+Fun fact, "lul" is Dutch for dick.
+To anyone reading this, it's true for The Netherlands, but quite definitely not so for Flanders.
+"I've been thinking about the context."
+&gt; my wife's bird day Is that the day she got her parakeet?
+Ans another option, find the actual maximum value of f(a)=sin(a)+cos(a)
+Which is when the mean and/or median (which I'll collectively call average, and which one is best to gauge what is anoyher discussion) donation can provide more insight. If two politicians raised the same ammount of money (let's say 100 million), but the average donation of politician 1 is 2 million, whereas the average donation of politician A is 100 bucks, then it can be said that politician A has a larger base supporting him.
+&gt; I understand we have to take the definite integral between 0 and 1 of Integral(pi\*(2/x)\^2) Do we? Read the question again, and make sure you've got the correct boundaries.
+Or hungover as vomit, covered in shit.
+And the super gamey way of getting around defensive pacts, is by reloading. When you load a save, you have a few days/weeks before the pact gets fired up again, so you can just go ham on the world during that time.
+You mean the 1965 novel?
+You're about 700 years early for the Suez canal. The waters in CKII are 2 part: the Mediterranean and Atlantic; and the Indian Ocean. The only way to be able to build trade posts in both waters, is by having the one county in Sinai that borders both of them as your capital. But, you should be able to wage war against them when they build the trade post.
+Depending on the war goal, and how quickly you gain war score (I think), it's possible to get a peace deal at 75-ish% war score.
+You mean "broke"?
+Did you know they poop cubes?
+Or it's a browser setting, meaning the cookies don't get created, and as a result, Imgur asks for it because they're required to.
+I thought Quebec was where you kept the Francoph- nevermind.
+Let's start with the beginning. A binary operation is an operation that takes in two inputs. For examp'e, addition is a binary operation, as is multiplication. Commutativity is the property of a binary operation, let's call it #: a#b, that states that a#b=b#a. Addition and multiplication are commutative: a+b=b+a and s\*b=b\*a. Subtraction is not commutative: a-b=\=b-a for all real numbers a and b. Assoviativity means that the order in which you do repeated operations doesn't matter: a#b#c=(a#b)#c=a#(b#c). Again, addition and multiplication are associative. And subtraction isn't.
+We know these concepts from addition and multiplication, and as a result we're used to using them with regards to real numbers. But they hold for any set with an operation defined on it (I thibk that's calles a field? Don't quote me on that, though). Sp if we could find an binary operation on the set of humans, we could also check if that operation is commutative and associative. A (probably bad) example could be the "firstbotn" operation on the set of humans. That is, when you enter two humans into that operation, thzir firstborn is the result. For instance, my mom and dad would return my brother. This is clearly commutative: the firstborn of my mom and dad is also the firstborn of my dad and mom. But it isn't associative. Let's call mom M, dad D, my brother B, my dad's lover (not that he has one, it's just for the example) L and *their* kid K. Then: (M#D)#L=B#L and M#(D#L)=M#K Note that those two don't necessarily result in a child, but if they did, then it's clear that my mom's kid with the child of my dad and his lover isn't going to be the same child as my brother has with my dad's lover. Also a really weird family siyuation, but whatever. And another thing to note, is that the result of a binary operation isn't necessarily in the same set. For instance division and the integers. The result is going to be a rational number in general.
+So they are in danger!
+And you can't be zealous at the same time.
+Alternatively, have a ruler that has no created bloodline, and take the ambition again. You can stack a lot of bloodlines that way, if you manage your marriages well. Elective or tanistry are handy to get this done.
+From the start of this question you will have 30 seconds to reply to this question. So please answer quickly, because your time is running. So now on to the question, for which you have 15 seconds to answer it. How do you plan on funding your medicare for all scheme, and remember, senator Sanders, your time is ticking, so please be concise. That was the time, thank you for your answer.
+&gt; There is money ~~missing~~ and one of your councilor has it?!? That sounds like theft! FTFY
+I think I will celebrate... with beer.
+Still not fleshed out enough. Where are the power bottoms, the twinks, the twanks, the twunks? The yestergays, the twank versatiles, the otters, the bears?
+[Here's an informative video about the subject.](https://www.youtube.com/watch?v=S_4PrI8gB-k)
+Oh look at mister fancy owning offsite quarters.
+Belgium. I recognize the red on white plates.
+Oh look at mister fancy with enough capital to be able to pay offsite quarters.
+If memory serves me right (which it probably isn't), then people in 1850s-ish Belgium were paid in tokens the company made, which they could then spend in company shops, and on the rent of the company-owned buildings.
+Who needs microbial theory when you have the power of Satan?
+That's because a spouse of your dynasty is a close relative. And close relative have the bright red blooddrop. So even if you marry your 7th niece 9 times removed, the blooddrop should be bright.
+I got it recently as well. My wife discovered an affair between her husband (me), and one of my wives. Naturally, I did what any rational man would do, and I challenged the lecher to a duel. The weakling ran away after I stabbed him in the shoulder.
+Don't check in the religious map, check in the ledger. It's an exact number instead of a guess. As for the reason, most likely that nomads are the culprit. When they take over a county with no holdings, the culture and religion of that county becomes that of the Khan. And initially, nomads expand into other nomadic lands, meaning they get a lot of land converted quickly.
+"Yes, because I support our farmers."
+Barcelona in 1066 is a nice start. Your neighbouring Muslims are fractured instead of a blob, so it makes taking them on easier. In addition to that, Barcelona is a good duchy, and you can get a lot of troops quickly and easily.
+It might be that it isn't but looks that way because of the golden border: [Close kin](https://ck2.paradoxwikis.com/images/2/2f/Dynasty_close_relative.png) [Regular kin](https://ck2.paradoxwikis.com/images/8/85/Dynasty_distant_relative.png)
+Hah! With all the money you'll be making, you'd be able to buy Netflix. Especially of you plan your invasions carefully and only attack people when they've built all Silk Road trade posts they can. I believe Horse Lords enables them. If not, well, then just go fucking ham and burn everything to the ground.
+Yes. That is the biggest problem. Having to manually burn down every single barony. And then dealing with the inevitable rebellions. When I went for a Genghis Khan run I started in 769, invaded the Abbasid blob, and God was it tedious to burn it all down.
+Yeah, I've half started that idea, but then it's all "Conquer, burn, wait GOTO 10". Nomads are a fun distraction every now and again, but honestly, once you've played them, you've played them. Religion and culture don't matter, and once you've acquired critical mass, that's it. Even invading China is EZ-PZ with all that light cav. Heck, if I'm honest, the hardest part about nomads, is invading other nomads. Cuz you need to drop 250 horses in each nomadic county in order to occupy it.
+Wow thank God I'm an idiot second born!
+Do you know how to stop your baby from crawling in circles? You nail the other hand to the floor.
+As a Catholic? Go on a crusade.
+So I'm supposed to believe this actually happened? I mean, a Frenchman talking to a German he's just met and there is no vouvoiement?
+All you Zombies?
+*Heinlein disapproving:* Incest *Heinlein approving:* Selfcest
+It got my DnD character killed once. Though to be fair, it was a tiger instead of a kitty.
+And the medium. Doppler effect also happens when the medium moves.
+We have some random variable X. Now we want to know the expected value of some function of x. For instance, the expected value of e^(x). Or cos(x) or x^(2)+3. Or whatever. Let's call that function g(x). This means the expected value of g(x) is E[g(x)], because that's the notation. But this doesn't tell us how to calculate it. That's what the second bot of the equation tells us: the integral from 0 to 1 of g(x^(2)). So for the example s given, we'd integrate e^(x^(2)), cos(x^(2)) and x^(4)+3 respectively. So. Now the question is what that g(x) is in the given question.
+Please stop. I can get only so erect.
+Now I'm just imagining him doing the gorilla warfare copypasta.
+Nice to meet you, Odysseus.
+They need Horse Lords to work properly. I believe it's got to do with CB stuff.
+You let them get to 5? I off them as soon as they get to 4 trade posts.
+I disagree with the rest. It is not arbitrary. Let's look at 1+3\*5 as an example. First, we're going to see what happens if we do it the PEMDAS way: 1+3\*5= 1+(5\*3)= 1+15= 16 This is what we expect, because it is what we're used to. Next, let's take a look at the case where multiplication is done after addition. 1+3\*5= (1+3)\*5= 4\*5= 20 Not what we expect, but it still makes sense with our new rules. But that's not all. As you may know, multiplication is commutative. That means that it doesn't matter if I calculate a\*b or b\*a, both result in the same erm result. So with that knowledge in mind, let's take another look at our first example: 1+3\*5= 1+5\*3= 1+(5\*3)= 1+15= 16 Nothing too exciting, we end up with the same answer. And now for our second one: 1+3\*5= 1+5\*3= (1+5)\*3= 6\*3= 18 Which is different from the original answer. But we didn't break any rules, so how come we end up with a different answer? What happened? &amp;#x200B; The answer lies in the fact that each next step in PEMDAS is a repeated form of the previous one, as /u/typhoidsucks has said.
+Did you know that the cross product is distributive over addition? IE: (**a**+**b**)x**c**=**a**x**c**+**b**x**c**.
+Just an FYI, it says "thing" in the template, which should be "think".
+\&gt; insert image of a businessman in a post-apocalyptic landscape with the caption "But the profit margins were huge" or something like that &lt;
+"Oh look, my card's almost full. 2 more abortions, and the next one is free!"
+I was, and I also knew someone would link it for me. Laziness has prevailed again!
+But the bloodline...
+First of all, through God anything is possible, so jot that down.
+Seekeeeeeeee: CKIII
+I can confirm that a merchant republic can hold inland Silk Road trade posts.
+✅✅✅⚖️⚖️⚖️
+But still. Billions of dollars of DLC for 17 bucks is a great deal.
+There is a lot to explain about trigonometric functions (sine, cosine, tangent and the related cotangent, secant and cosecant), so a bit more context would be handy.
+Why did you say the same thing twice?
+&gt; This basically means he can just charge whoever he feels like with terrorism. You act as though this isn't the intent.
+I can't believe I've done that.
+&gt; Hell, even drawing his firearm is frowned upon. What if it's in the cobtext of art therapy? I'll show myself out, sorry.
+Your image link is broken.
+Please don't. Think of the camera person's neck. :(
+Wow, that's racist. I vote against my interest i order to own *all* people of colour. /s just to be sure.
+&gt; the officer has been charged. what more can you ask for? A treatment of the disease, not the symptom. You go to the doctor and tell them you've got a stomach ache. To fix that, they give you pain killers. Yes, the pain might be gone (or maybe just tolerable), but the underlying issue is still there. If it later turns out your appendix burst, and all your doctor do was give you pain meds, would you still trust them? That is what these protests (and many more before them) are about. The pain is the death of George Floyd, and firing the officers involved is just another dose of pain meds. What these protesters want is a clear diagnosis and cure of the systemic problems. Their issue is not just that *this* death happened, but that these kinds of deaths keep happening. They don't want to get rid of just these officers, but all officers that co duct themselves this way. They want to get rid of the thing that keeps hurting them, instead of having to go back to the doctor for pain killers every time it flares up.
+"The only reason they dislike Trump is because he lies, and he's a racist." Is... Is that not reason enough in itself?
+Jaywalking? Shoot everyone. Undercook chicken? Shoot everyone. Overcook fish? Shoot everyone.
+OMNOMNOM
+This sounds a lot like Rolle's theorem, or the mean value theorem, so perhaps take a look at those, and see how you can alter those to get what you want.
+~~No need for L'Hôpital, (and how would you do it with a discrete function anyway). Instead, let's take a look. We're looking at x~~~~^(x)~~ ~~and x!, so let's find the ratio of these two, and take the limit:lim{x-&gt;inf}(x!/x~~~~^(x)~~~~)Ok, that isn't really helping. But, there's something we can do. Let's start by expanding that factorial. I'm going to drop the limit until it becomes relevant again, because it's going to be a mess otherwise:x\*(x-1)\*(x-2)\*(x-3)\*...\*3\*2\*1/x~~~~^(x)~~~~=SUM{k=0-&gt;x}(Ak\*x~~~~^(k)~~~~)/x~~~~^(x)~~~~=SUM{k=0-&gt;x}(Ak\*x~~~~^(k-x)~~~~)Let's take a look at the first few highest order terms of that sum:x~~~~^(x-x)~~~~+A\*x~~~~^(x-1-x)~~~~+B\*x~~~~^(x-2-x)~~~~+...=x~~~~^(0)~~~~+A\*x~~~~^(-1)~~~~+B\*x~~~~^(-2)~~~~+...=1+A/x+B/x²+...So if we now take the limit for x going to infinity, we get:lim{x-&gt;inf}\[1+A/x+B/x²+...\]=1+0+0+...=1So the ratio between these two functions when x goes to infinity is 1. Which means that they grow equally fast.~~ &amp;#x200B; Never mind, I don't know where I went wrong, but I am.
+Yeah, I saw the other comments, checked on Wolframalpha, and edited.
+The statistics /u/GarretBoeBenson used are irrelevant or misleading. What does it matter if black people commit more crime? That does not mean that excessive force is justified. If I'm caught speeding by the cops, should I be shot by them? Any sane perdon would say no, I hope. Then why should that answer change if I've just robbed a place? Assuming the police doesn't know that (because it was literally just now), what other knowledge do they have that would justify them shooting me? Or if I'd just set fire to an orphanage? Do the cops know that? No. Why should they get to shoot me? And the second part is misleading. 19 unarmed whites were shot, and 9 unarmed blacks in 2019. And 9&lt;19, so there's no reason to think this. In fact, it's the other way around! Bit as they say in their own post, black people in thr US are 13% of the population. White people are -according to the 2013-2017 American Community Survey- 75% of the population. If white people were jist as likely to get killed by cops as black people, we'd expect around 51 white deaths (75/13=x/9 or 9\*5.8=x). The fact that it's not, shows thza black people are more likely to get killed by cops.
+Fairly sure they're a massive racist. [Here's](https://www.reddit.com/r/DemographicDestiny/comments/fculz9/europes_growing_muslim_population/) a post they made 3 months ago. Note the comment they left. But that's 3 months ago. People can chnge. Here's an example from yesterday. It got deleted from [this thread](https://www.reddit.com/r/askaconservative/comments/gvq2h9/should_motherhood_be_required_i_personally_think/?context=1) &gt; Agree, whites are doomed without some sort of state intervention that forces them to procreate. Though I wouldn't mind a future where the liberal mindset dies out because all the DINKS die with a cat and a dog as the sum of their earthly legacy. Sure, it's just 2 examples. I could have cherrypicked. And I did pick the worst ones I could immediately find. That's true. But the rest they post isn't a lot better.
+Yeah, I thought about it for a second, and implicitly did: lim{x-&gt;inf}[SUM{k=0-&gt;x}(Ak\*x^(-k))]= SUM{k=0-&gt;???}[lim{x-&gt;inf}(Ak\*x^(-k))] which doesn't really work.
+It looks like it. I didn't check myself, but we know that the length of the rope, r, is the length of the pole,p, plus 3: r=p+3 And from Pythagoras: 8^(2)+p^(2)=(p+3)^(2) Which is the equation you have. So assuming you didn't maje any arithmetics errors, it should be 55/6+3=73/6
+Hey, cut them some slack. Befehl ist befehl.
+\*laughs in nomadic\*
+&gt; 12 * 5 = 6 Uhm...
+RFC 1149?
+Because IP¨over truck doesn't have an RFC, as far as I know.
+"Social wellfare as failed me, so I'm going to vote for the party that's famously in favour of getting rid of it." \~this guy.
+That's part of [Unity](https://docs.unity3d.com/ScriptReference/GameObject.SetActive.html), which is another can of worms.
+The cost to create a de jure kingdom is 400 gold and 200 piety, but can be less based on your piety, down to half at 1000 piety. If you take the "Become King" ambition, then all costs are halved. meaning it costs 200 to 100 gold, and 100 to 50 piety. So I'm guessing you didn't take that ambition.
+No, I trust her word.
+TIL yoghurt, climate change, most Adam Sandler movies, the systemic oppression of minorities and overcooked pasta are all nazis.
+We know SOH CAH TOA, the hypotenuse and one of the angles. The length of the side we're looking for (x), is *opposite* of the angle that's given. So, if we call that angle a, we have: sin(a)=x/H H\*sin(a)=x Or with H=11 and a=34°, we have: x=11\*sin(34°)\~=6.15
+They'll like you less, and provide fewer troops, though.
+Try adding some carbonated water to the batter. And depending on how fa'vy you want to get, some beaten egg whites. If you do that, remember to gently fold them into the batyer, or the effect will be lost.
+You know. Because it's so sharp.
+You could also sift the flour into the milk, so you don't get lumps. And my previous advice with the egg whites works best for American style pancakes as opposed to crepes. Since crepes are a lot less thick, and density isn't that much of an issue. And if you're really desperate, you could add some leavening agent as well. Yeast works great, but can leave a bit of an unusual and possibly unwanted flavour. I can't speak for baking soda/baking powder, since I don't tend to use them.
+It takes a while. Dwarf Fortress isn't the most optimized game, so you'll have to be patient sometimes.
+"Plus we gotta stock up for once Brexit happens, and the shenanigans in Ireland start again."
+Plot twist, they are serious. (Though from a quick glance at the post history, nah, they aren't.)
+In Belgium that's the case. It's mandatory to show up to vote (though, people aren't getting fined any more if they don't, but that's another issue), but not mandatory to vote. So you can show up, get your voting ballot, walk into the booth, and immediately walk back out again and hand in an empty ballot.
+The saddest part was when miss Steere was the target of a conspiracy theory, and said (paraphrased)"well, no matter what I do or say, they won't believe me. Sometimes I wonder if I'm like that as well... But I know I'm not."
+Well, we don't. Pinging /u/saywherefore as well, to get this misunderstood idea out of the way. The idea of mass increasing as you reach the speed of light comes from a mathematical trick to make an equation look nicer. We're all familiar with E=m\*c², Einstein's famous equation telling us that mass and energy are related, and can be converted into each other. The big takeaway here is that even an object at rest has some energy: its rest energy. It should also not come as a surprise that the energy of an object increases as speed goes up. After all, this is even the case in Newtonian mechanics. In relativity (I'm only going to touch on special relativity, because I don't understand general relativity), the energy of a particle can be described as: E²=m²\*c^(4)\+p²\*c² with E the particle's energy, m the particle's mass, c the speed of light and p the particle's momentum. With some [mathematical and physics magic](https://en.wikipedia.org/wiki/Mass_in_special_relativity#The_relativistic_energy-momentum_equation), we can turn that into: E=γ\*m\*c² where γ=1/\[1-(v/c)²\]^(0.5) is the [Lorentz factor](https://en.wikipedia.org/wiki/Lorentz_factor), a factor that returns a lot in relativity. So now that equation is super close to our previously know E=m\*c². Only that pesky Lorentz factor is still around. Well, just say that m^(\*)=γ\*m, and now we have a neat equation we already know. But that mass -while having the same units as mass- doesn't really mean anything physically. Another argument we can make, is one with a thought experiment. Imagine sitting in space in your spaceship, out in space, and some dude comes whizzing by at 0.9c (ie 90% of the speed of light). Another pal comes flying by at 0.45c. At some point, the guy going 0.9c fires off a sideway thruster. I'll see him changing his course a bit, because after all F=m\*a. The issue comes when we shift perspective to our second buddy. the one going 0.45c. According to him, the original isn't going 0.9c, but less. He'll also see the same booster firing, and he'll also see them moving. But, if we assume that mass increases as velocity increases, then they'll move further than you saw. The force is the same, but the mass is different, which means that the acceleration must be different as well.
+Kill a nazi, plant a tree on their corpse.
+"Well, we could be paid more!"
+"Free people kneel *on* someone."
+If you're trying to compare two words to say one is as bad as the other, and you can't say one of them, *maybe that's the worse word.*
+\*allthings
+I hear you. I am by no means an expert player, and I did a chill Austria run yesterday. Without the DLC, I could revoke in 1530-ish without too much issue. The biggest hurdles were that I took the Pragmatic Sanction just to be sure my daughter could become empress (which wasn't necessary), and that I passed Ewiger Landfriede at the start of protestantism, meaning I couldn't easily take out the centres of reformation. My previous revoke record was somewhere in the 1600's, I believe, and that was with dealing with the Shadow Kingdom (also super easy now, it's disgusting), and being fairly aggressive internally to be able to squash the reformation, and savescumming to get Burgundy to not rival me to get the inheritance.
+\*laughs in Austrian\*
+&gt;a ridiculous monster whether in player or AI hands \*looks at current update\*
+Be more buddy-buddy with them. Usually, a mix of alliance/royal marriage/guarantee/military access/improve relations will get them to join. Flanderd did this in my current Austria run (no DLC), but after allying them, I got them to join.
+\* Herzegovina-Bosnia
+I have no idea, but it's usually right after I usurp a title, leaving a bunch of dukes without the protection of their overlord, or right after I died, leaving everybody without the protection of a defensive pact.
+"This is some 😎 Fineland."
+The Jews got a country...
+"But look. A button to click" ~~me~~ AI
+[Same stuff going on here](https://www.reddit.com/r/programming/comments/gy9yzs/go_has_removed_all_uses_of_blacklistwhitelist_and/)
+The princes that aren't in favour of the reform leave. So it might be better to wait a bit, improve relations (maybe ally and go over your relations limit for a few months, it's totally worth it), and when none of them are against it, revoke.
+&gt; a lot of Belgian expressions. Nonante gang rise up.
+Keep the amount of princes high. Whenever you can demand unlawful territory, do it. If they don't accept, beat them up, and have them release everything you can. Same when waging war against outside forces: have them release everything next to the empire (or next to these). Then butter them up, and have raise your opinion of them by royally marrying, requesting military access, allying etc. Especially if they start adding provinces to the HRE, without adding the capital.
+&gt; &gt; &gt; :) &gt; &gt; :) &gt; :) :)
+Welcome to EU4.
+Be the change you want to see!
+Smash down on those centres asap, doing a no cb war if necessary. After that, try to get people to join the HRE, to offset the IA loss. Beat up on your rivals (assuming Austria: most likely France, Ottomans and Denmark or maybe Poland), have them release nations, befriend them, and getthem to join.
+Yup. Post-revoke HRE vassal swarm is insane. Even better: you can take over countries, core them, add those provinces to the HRE, and release them. Now you have even more vassals. It's absolutely ridiculous. Just don't hit that final reform button until you're done. You'll be extremely weaker.
+Very few downsides I can immediately think of. Maybe vassals wanting the title. But the upside is more chances to add the rest of Greece and Anatolia to your realm, and increased prestige.
+I can now confirm I cannot add Antioch to the HRE. Despite it being roght next to a vassam of mine that is. Guess I'll have to make some megavassals on the borders of my empire. Or have a stupendous amount of trade companies. Or both...
+&gt; when they will put it up on steam? Soon™
+Who is currently holding those lands? Is it you personally, or someone else: a vassal of yours.
+That's curious. How many duchies do you hold, and what is your succession type? Can you also post a pic (print screen or F11) where the county in question is selected?
+Truly you are a brownish red.
+&gt; Latin Empire 🤢
+EU4 Emperor DLC
+There was an update recently, which changed up the map considerably. The core mechanics are the same, but details might change up a bit.
+But you'll forever be known as the descendant of the people that destroyed the Roman Empire.
+"Gonna hit that."
+Soo its not not my birthday but it still matters?
+\&gt; **Gothic fiction**, which is largely known by the subgenre of **Gothic horror**, is a genre or mode of literature and film that combines fiction and [horror](https://en.wikipedia.org/wiki/Horror_fiction), death, and at times [romance](https://en.wikipedia.org/wiki/Romantic_literature). Its origin is attributed to English author [Horace Walpole](https://en.wikipedia.org/wiki/Horace_Walpole), with his 1764 [novel](https://en.wikipedia.org/wiki/Novel) [*The Castle of Otranto*](https://en.wikipedia.org/wiki/The_Castle_of_Otranto), subtitled (in its second edition) "A Gothic Story". \- [Wikipedia](https://en.wikipedia.org/wiki/Gothic_fiction)
+Even more so on /r/CrusaderKings, where it's the third rule, but is still called rule 5.
+White people did it.
+"I'm not &lt;BLANK&gt;, but &lt;horribly BLANK statement&gt;."
+Oh cool, so he's going to invest in affordable housing for the less privileged, then?
+I'm shocked. Shocked! Well, not that shocked.
+Weeeell, *technically* Vlaams Belang isn't convicted of racism; that was their predecessors, vlaams Blok. Though after that conviction, they dismantled and uh, remantled? with a different name, and removed all of the overtly racist stuff from their agenda. That being said, Vlaams Belang is most certainly a bunch of massive racists.
+[And yet...](https://www.reddit.com/r/13or30/comments/ecu29e/comment/fbeb7s9)
+Imperial elective is better than heir designation. First off, start by getting as many vassals of your dynasty as possible. Secondly, hand out the duchy titles to the best of them. Thirdly, only grant commandership to the best of these. Lastly, select the best of these as heir. Your pool of possible heirs is much, much larger than whatever kids you pooped out. And with granting viceroyalties, most of your vassals (and electors) should adore you. Additionally, they should pick the best heir for their own lands (because of meritocracy), meaning your possible heirs should be pretty decent. If you find yourself with an unlanded genius in the family, then you can still grant them a duchy, and generalship.
+Oh look. The /u/Kidiri90 way of solving problems: just ignore them, and they'll go away! But at least I know it's not healthy to do this.
+Anecdotally, with my scouting troop, I played a gruff dockworker that's disgruntled with the cops for not doing anything. Someone else, a friend of another troop leader, played that cop. She was annoyed that I was so gruff and disgruntled.
+[McDonalds' reaction when](https://i.pinimg.com/736x/66/c2/35/66c2355d05b44f308d8a854a7d33bc0f.jpg)
+Then we shouldn't hate muslims either. Without them, we wouldn't have algebra.
+I:m not always the quickest to pick things up, especially in audiovisual entertainment that I tend to have on in the background, but holy heck was it obvious that the crypts weren't going to be safe. If they said it once or twice, sure. But they kept repeating it. I was all "yes, we know, the crypts full of dead people is totalmy safe from the army that can raise the dead."
+"Wait, why are we both destroying the same statue?"
+[Cuz ~~addition~~ multiplication is commutative.](https://www.youtube.com/watch?v=W6OaYPVueW4)
+Now everybody clap your hands!
+Username does *not* check out.
+"How can there be systemic racism if a lack guy was president."
+Anything with camels. Light cavalry is so OP it's not even funny, and camels are even stronger.
+&gt; I don't know what the significance of a "non-zero complex number" is... So you fon't divide by 0. As for the question itself, note that the right hand side simplifies to: y\*u^(*)/|u|^(2)+z\*v^(*)/|v|^(2) Where u^(*) is the complex conjugate of u.
+&gt; Job is presented as a good and prosperous family man who is beset by Satan with God's permission with horrendous disasters that take away all that he holds dear, including his offspring, his health, and his property. From Wikipedia. So Satan did all of the bad things, but with God's permission. Which is just as bzd in my eyes.
+Karlings happened.
+Not EU4, but in CK2, when you're in Tuscany with an army, you can get [Tuscan raiders](https://www.reddit.com/r/CrusaderKings/comments/41vnf7/tuscan_raiders/)
+foreach(continent in Continents.Where(c =&gt; c != player.Continent)) { ScrewUpContinent(continent); }
+I have no idea, I just use C# (-ish, probably) since I'm most comfortable with it.
+Well, what's the definition of |u|? Especially in terms of u and u^(\*)?
+Well, we know that if u=a+i\*b: |u|²= a²+b²= (a+i\*b)\*(a-i\*b)= u\*u^(\*) Did that help?
+It's when you hover over a country's shield, so you know what is part of that country.
+iT's EpHeBoPhIlIa
+Just pour with confidence.
+God damn you, Mac!
+Here I am, stuck in the middle with you.
+Finally Rome is a republic again.
+r/iamverysmart
+The Belgium you're thinking of must be a lot more efficient than the one I'm living in.
+Revolutionary revolutionary revolutionary revolutionary Portuguese Peruuuuu You come and gooo You vome and goooooooo
+\*tenets
+I'd be doing a lot mor crime, that's for sure. Gotta chase that high.
+It says "Don't tread on *me*." It says nothing about me treading on you.
+*man disapproving* Ask Courtiers to Leave Court *man apperoving* Be Nomadic
+Probably riding without a saddle.
+Did you not notice my flair?
+He wouldn't have it any other way.
+30 and I've got multiple Simba plushies. I'd add an emoji, but I'm an old fart and don't know which one would fit.
+His argument is "When sperm meets egg, a new human is made. Period." His stance on Plan B is that if it prevents fertilization, then no human is created, so it's ok. If it prevents implantation, then it's basically killing a himan, so it's not ok. If we aren't sure what it does, it's better to err on the side of caution, and not use it. Again, all of this are Ben Shapiro's thoughts and thought processes. (Or as close as I can get to it. I can't claim to speak for the man) But there is another question that needs to be asked. Is the preservation of human life always worth removing bodily autonomy from another person? [This video](https://m.youtube.com/watch?v=c2PAajlHbnU) explains it better than I could.
+Nomad gang burn all.
+Coal is to charcoal what Java is to Javascript.
+New favourite term: firearm oviparity.
+Oh no. some guys with axes. Whatever will I do from on top of my horse?
+So the US army acknowledges it's basically a murderous clown...
+Yup. From what I can tell from my limited knowledge on the thing, is that it's kind of the inverse of Trump's recent testing blunder. If you make reporting rape easier, and expand the definition of rape (I think), then yeah, reported rapes will go up. If you want to get rid of reported rapes, then just make it impossible to report it. Doesn't mean it doesn't happen, it now means you have no way of knowing.
+Oh. Well. In that case... The US is an apartheid state.
+Not gonna lie, I thought this was that place.
+&gt; If tomorrow we privatized our prisons... [You mean yesterday?](https://en.m.wikipedia.org/wiki/Private_prison#United_States)
+Not to mention a sheepdog probably has had a longer training period...
+Only way this coul've been better if they descended from a bastard conceived in Jerusalem.
+Not gonna lie, made me think of Mac from It's Always Sunny In Philadelphia, in Reynolds vs Reynolds: the cereal defense.
+Hey now. I'm not in favour of police brutality against minorities. I'm in favour of police brutality. And if it just happens to affect minorities more, well that's a sacrifice I'll gladly make. /s, just to be sure.
+Anarchist Jerusalem.
+When I started out in uni, I was thoroughly convinced physics is a exact science. It's beautifum, and all the different parts work together so neatly to make a noce prediction of how stuff will behave. Then I had my firdt mechanics course. And we studied the pendulum. And after setting it up, the course was all "Well, we can't solve this differential equation exactly. So instead we'll assume that our initial angle is small, so we can say that sin(Theta)~=Theta, and then it works out." Luckily, I quickly grew out of the disillusion and got comfortable with going "Eeeeh, too hard. What if we assume it's a lot easier than it should be, and see how much it differs from observations."
+Or the "everything is a point, unless explicitly stated otherwise".
+"These people are voting for a person without policy. Meanwhile, I vote for a person that can't answer the question 'What are your plans for your second term?'"
+Holy Roman Empeire
+&gt;Because it is a repeating number Pi is not repeating.
+&gt;The number of digits following the decimal is infinite, which makes Pi an irrational number. The number of digits in 1/3 is infinite, but it is not irrational. Pi is irrational because it can't be expressed as a rational number.
+Papal caliphate.
+Now, that (expelling stuff from the back) is not the only way this can happen. Other explored options are solar sails, which rely on `F=dp/dt`, or force is a change in momentum. They basically reflect photons that are thrown out of the Sun -or any other star-, which means the momentum of these photons change, and impart some force on the sail. And one of my favourite ideas is [project Orion](https://en.m.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)), where you basically explode a nuclear bomb behind the craft to hurl it forward.
+I think it's of complexity O(no).
+Wow. thank god this movie was never made!
+Nope. Immortality required the Reaper's Due DLC.
+You telling me Ty Lee is over 100?

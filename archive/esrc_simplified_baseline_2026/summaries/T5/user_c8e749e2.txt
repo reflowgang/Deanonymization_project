@@ -1,0 +1,50 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Casual and conversational tone.
+  - Use of humor and sarcasm (e.g., "Noooooo that's crazy," "What sorcery is this!?").
+  - Occasional use of slang and internet jargon (e.g., "Internet fist bump!").
+  - Engages in discussions with a mix of personal opinion and factual references.
+
+- **Recurring Interests:**
+  - Movies and television shows, particularly with a focus on plot details and trailers (e.g., comments on "Fury Road" and "Apollo 13").
+  - Music and radio, expressing frustration with commercial radio (e.g., comments about Clearchannel).
+  - Video games, specifically classic titles like "Final Fantasy" (e.g., discussing game mechanics).
+  - Literature, with references to books and their adaptations (e.g., "Congo" and its movie version).
+
+- **Hobbies:**
+  - Enjoys hiking and exploring filming locations (e.g., mentions of BSG filming sites).
+  - Engages in discussions about sports, particularly college football (e.g., comments about scheduling and teams).
+  - Interest in technology and engineering concepts (e.g., discussions about disk drives and project ideas).
+
+- **Technical Knowledge:**
+  - Displays familiarity with engineering and technical concepts (e.g., comments about trailer design and sensors).
+  - Knowledgeable about video game mechanics and programming (e.g., discussing permutations and combinations).
+
+- **Location Clues:**
+  - Resides in or has a strong connection to New York City (e.g., mentions of living in NYC and local experiences).
+  - References to Texas and Michigan, indicating familiarity or past experiences in those states.
+  - Mentions of specific locations like Bondi Beach and the Louvre, suggesting travel experience.
+
+- **Profession or Education Clues:**
+  - Uncertain, but shows familiarity with technical and engineering concepts, possibly indicating a background in a related field.
+  - Interest in job opportunities related to public transport projects (e.g., DART project).
+
+- **Demographic Clues:**
+  - Likely an adult, possibly in their late 20s to 40s, based on references to life experiences (e.g., wedding planning, mortgage).
+  - Identifies as a "hairy white dude," suggesting a male demographic.
+
+- **Opinions and Values:**
+  - Expresses strong opinions on media and corporate practices (e.g., criticism of radio and music industry).
+  - Shows a critical view of political figures and events (e.g., comments on Hillary Clinton and Benghazi).
+  - Values humor and sarcasm in discussions, indicating a light-hearted approach to serious topics.
+
+- **Repeated Topics:**
+  - Media (movies, TV shows, music).
+  - Sports, particularly college football.
+  - Technology and engineering.
+  - Personal anecdotes and experiences.
+
+- **Subreddit/Community Clues:**
+  - Engages in diverse communities, likely including those focused on movies, technology, sports, and general discussion forums.
+  - Comments suggest participation in subreddits related to pop culture, gaming, and possibly local NYC discussions.

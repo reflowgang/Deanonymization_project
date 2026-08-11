@@ -1,0 +1,42 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone.
+  - Uses emojis and casual expressions (e.g., "Okidoki", "Yup!", "Thanks so much!").
+  - Engages in back-and-forth dialogue, often expressing gratitude and politeness.
+
+- **Recurring Interests:**
+  - Strong interest in Pokémon, particularly in breeding and trading Pokémon with specific IVs and abilities.
+  - Engages in discussions about competitive Pokémon strategies and breeding techniques.
+
+- **Hobbies:**
+  - Actively participates in Pokémon trading and breeding communities on Reddit.
+  - Enjoys collecting Pokémon with specific traits (e.g., hidden abilities, egg moves).
+
+- **Technical Knowledge:**
+  - Familiar with Pokémon IV breeding mechanics and competitive play.
+  - Uses Google Sheets for tracking trades and Pokémon stats, indicating proficiency with spreadsheets.
+
+- **Location Clues:**
+  - Time zone indicated as GMT -5, US EST.
+  - References to local time suggest a location in the Eastern United States.
+
+- **Profession or Education Clues:**
+  - Mentions of having classes and a busy schedule, suggesting the user is likely a student or involved in education.
+
+- **Demographic Clues:**
+  - Engages in discussions that suggest a younger demographic, likely a teenager or young adult.
+
+- **Opinions and Values:**
+  - Values fairness in trades and expresses a desire for clear communication.
+  - Shows a preference for competitive Pokémon and is willing to invest time in breeding for optimal traits.
+
+- **Repeated Topics:**
+  - Frequent discussions about specific Pokémon, breeding requests, and trade negotiations.
+  - Regularly mentions specific Pokémon abilities, IVs, and egg moves.
+
+- **Subreddit/Community Clues:**
+  - Active in Pokémon trading subreddits, such as r/pokemontrades and r/SVExchange.
+  - Engages with other users for trades and breeding requests, indicating a strong community presence.
+
+This structured summary captures the key attributes of the user based on their Reddit comments, providing a comprehensive profile that could help in matching them to future interactions or profiles.

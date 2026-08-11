@@ -1,0 +1,50 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone.
+  - Uses humor and sarcasm.
+  - Engages in detailed technical discussions.
+  - Occasionally employs slang and colloquial expressions.
+
+- **Recurring Interests:**
+  - Amateur radio (ham radio) and related technologies.
+  - Software-defined radio (SDR) and electronics.
+  - Programming and technical projects.
+  - Parenting and family dynamics.
+
+- **Hobbies:**
+  - Building and modifying electronic devices, particularly radios.
+  - Engaging in discussions about technology and software.
+  - Spending time with children and discussing parenting.
+
+- **Technical Knowledge:**
+  - Proficient in electronics, particularly in radio technology and software-defined radio.
+  - Familiar with programming languages, especially Python.
+  - Knowledgeable about various radio equipment and their specifications.
+
+- **Location Clues:**
+  - Resides in Ireland, as indicated by references to local customs, healthcare, and specific locations.
+  - Mentions of local currency (Euro) and regional issues suggest a European context.
+
+- **Profession or Education Clues:**
+  - Likely has a technical or engineering background, given the depth of knowledge in electronics and programming.
+  - May have experience in education or mentoring, as indicated by discussions about teaching and learning.
+
+- **Demographic Clues:**
+  - Middle-aged (approximately 50 years old).
+  - Parent of at least two children (ages mentioned: 6 and 10).
+  - Engages in discussions about societal issues, indicating a level of social awareness.
+
+- **Opinions and Values:**
+  - Advocates for responsible use of technology and ethical considerations in engineering.
+  - Strong opinions on healthcare, particularly in comparison to the US system.
+  - Values family and parenting, often reflecting on personal experiences.
+
+- **Repeated Topics:**
+  - Technical discussions about radio equipment and modifications.
+  - Parenting experiences and advice.
+  - Critiques of societal norms and political issues, particularly regarding healthcare and law enforcement.
+
+- **Subreddit/Community Clues:**
+  - Active in communities related to amateur radio, electronics, and programming.
+  - Engages in discussions on broader societal issues, indicating participation in various subreddits focused on technology, parenting, and social commentary.

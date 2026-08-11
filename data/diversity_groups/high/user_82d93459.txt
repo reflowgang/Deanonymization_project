@@ -1,0 +1,50 @@
+Brilliant. I'd love to see a reality show where you put Lindsay Lohan and Shia LaBeouf on an island and they need to survive. Then at the end of the episode the island gets nuked. I'd watch that show.
+[The Kids in the Hall had a skit that sort of parodied the uniqueness of the sport - called "Shirling"](https://www.youtube.com/watch?v=6gu3mbl8SAk)
+I absolutely love th Cardigans, and they got such a bum rap because of this song. I mean, it was really popular, but if you only know them from this one song, it makes them seem like throwaway pop - which they weren't. They were an incredible rock band. A couple of my favorites: [I Need Some Fine Wine and You Need to Be Nicer](https://www.youtube.com/watch?v=sUBb4P2clO0) [My Favorite Game](http://youtu.be/hKFQITKzXIc) EDIT: Another song I love - [You're the Storm](https://www.youtube.com/watch?v=KxZ9_XlL19E)
+Shia knew exactly what he was doing when he made this. It was 100% his plan to look like a complete weirdo in front of a green screen, and now he's going to be everywhere and people will be putting him in funny videos. This will be *the* "it" meme for 2015. It will be this year's "Gagnam Style"....
+I picked up XCOM on the PS3 when it was free on PS+. One of those "Well, I might as well download it because it's free"....and I couldn't believe how great it was. &gt;which will be available exclusively on PC this November. ...hopefully it comes out on consoles soon after. Would love to play this on my PS4...
+ARGH! God dammit :(
+Sons of Anarchy. It started out pretty great (other than the whole "the only biker gang in history that doesn't say fuck"), but by the end it was just ridiculous, and every show was the exact same. It started with a musical montage...then padding/fluff for most of the episode, *something really good happens to move the story ahead*, more padding fluff, then ends with a musical montage showing the characters all forlorn and sad....
+...just a lot of dropping the controller, and shitting of the pants.
+[Found one](https://s-media-cache-ak0.pinimg.com/236x/a4/89/2f/a4892fbb3878698839c0cd5f5311add4.jpg)
+Honest question, but with all of the Comcast hate, why are people still using them? Is it a kind of "only game in town" or lack of choice?
+Oh crap! Totally haven't had a chance - I'll check it out tomorrow and let you know - I appreciate it!!
+Okay! Here's the error I get: Exception calling "Put" with "0" argument(s): "Generic failure " At line:56 char:1 + $Printer.Put() + ~~~~~~~~~~~~~~ + CategoryInfo : NotSpecified: (:) [], MethodInvocationException + FullyQualifiedErrorId : DotNetMethodException Would it have anything to do with how you set up variables? $PrinterIP = "(xx.xx.xx.xx)" $PrinterPort = "9100" $PrinterPortName = "IP_" + $PrinterIP $DriverName = "HP Universal Printing PCL 6" $DriverPath = "\\servername\loadingdock\PrinterDrivers\HPPCL6x64\" $DriverInf = "\\servername\loadingdock\PrinterDrivers\HPPCL6x64\hpcu150u.inf" $PrinterCaption = "Copy Room Printer" (I do actually have information in $PrinterIP and $driverpath)
+I do, but it's not a gaming PC.
+It's a Mac....not a gaming PC.
+Hey there! 1) I'm using OptionList 1 - just specified two computers (as a test) 2) I'm running with elevated privileges, and I do have access to the directory. 3) From the looks of it the script fails at the "CreatePrinter" function - so I would imagine the first two functions were successful?
+Although it may not be ported to the Mac right away....might come later - but still! Thanks for the heads up! :)
+I wish I could be more help - but would maybe contacting Toronto city hall - or maybe the Parks and Rec department be a good place to start? They certainly may be able to at least point you in the right direction?
+The only thing he taught me is swearing during stand-up doesn't make you a funny comedian.
+It's right here in TFA: &gt;"Sony does not permit any remote other than their game controller to power on the game console."
+The beer or the game?
+The classic ["I'm John Dacker"](https://www.youtube.com/watch?v=Zi8beYR1iBQ) ...and the [wonderful animated follow-up](https://www.youtube.com/watch?v=LgJxEfYT3Kg)
+Aubrey needs to have someone show her how to wear makeup.
+Oh God.....it'd be nothing but flannel and Doc Martins.
+Oh Jesus, here we go. The Chris Pratt backlash starts....
+I couldn't imagine the smell! I keed, I keed - great job Oshawa!!
+Or a long island ice tea!
+So Obama was born in Hawaii, is American, and Republicans have a problem with it because he spent some time in Africa as a kid. Ted Cruz wasn't even born in the United States....and Republicans love him and have no problem with him running as POTUS. That's grade A hypocrisy!
+I firmly believe that Glenn Healy has naked pictures of someone high up in the government, or high up with Rogers. It's the *only* explanation of how he is still on the air. He adds zero insight to the game that any casual hockey fan wouldn't have. I could do what he does during a game as well as he does, except I would be able to say "I have a stanley cup ring"...
+&gt; Scale appropriately for your skill level, I wish more people did this instead of asking if "is this WOD dangerous". Even for something like "Randy" where you do 75 Power snatches at 135 for time....can't do a 135 PS? Go to 115/95/75 - whatever you can do. Can't do 75 reps? Do 65, 55 or 45. It's all about doing what you can handle. Eventually you'll be able to lift the Px weight, or Px reps. but trying to lift or rep more than you can and yeah it's fuckin' dangerous. EDIT: Shit. I got my weight mixed up. But my reason is still sound! :D
+You're right. I feel shame!! :D
+I 100% was getting mixed up! Darnit!
+Edelman at 1:06 "Jesus, bro I'm fine - knock it off..."
+People in power will do anything to stay in power.
+perfect! Thanks!
+You should get a perm!
+Silicon Valley is the show that Big Bang Theory wishes it could be. A smart and hilarious take on nerd culture, that is a joy to watch.
+&gt; Can a minister of health be fat It's a fair question, but it's an incorrect way of thinking. Someone who has been divorced may be in a better position to tell people the pitfalls of marriage, or how they can make their marriage better based on their failings. Your knee jerk reaction may be "Who are they to give marriage advice?" but they're almost the perfect person to. Being overweight doesn't make you less of an expert to be a Health minister, especially when they're primary job is mainly ministry oversight, not direct implementation of diet advice. She know's why she's overweight and it has to do with personal choice. Doesn't make her any less effective or qualified as a cabinet minister.
+Gotta be honest - that's a pretty fucking catchy song....
+Why do we honor military people during a sporting event anyway? What's the point? We don't stand up before a play and honor veterans. Not belittling anything they do, and I have a ton of respect for most people in the military, but it all seems like a "hero worship" and propaganda....
+It's true. She looks kinda sexy in that space suit....[but she was not hot.](http://upload.wikimedia.org/wikipedia/commons/6/61/RIAN_archive_612748_Valentina_Tereshkova.jpg)
+Tom Colansky's Ghost Recon!
+&gt; Canada paid bribes to win this year’s World Cup. Who in their right mind would pay bribes to host the Women's World Cup?? &gt; Canada won the right to host the World Cup in 2011. It was the only bidder. There ya go.
+Run for your Life
+Being Canadian we have to have our license plate displayed on the front and on the back - otherwise I'd have a plate like your first pic! That's dynamite!
+He's from the luckiest place on the planet!!! :D
+Why? They had a white guy in Asian makeup, but the Asian actress was in whiteface. It was out of necessity for the story.
+It worked with Kadri. He spent years down in the A before he got into the rotation.
+That's what I thought - That ump made a horrible horrible call....Gibby helped him save face
+*paid ...as a fellow Canadian I feel your pain. Bought a new RAV4 and half of the entertainment/navigation system doesn't work because we're in Canada. Shit doesn't work the same up here and it pisses me off.
+I saw that....I was sort of tuned out...saw Healy roll by and thought "WTF? Why was he on he broadcast?" - thank goodness for PVR's so I could see it!

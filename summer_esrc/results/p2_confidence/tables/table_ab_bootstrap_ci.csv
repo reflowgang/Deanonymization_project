@@ -1,0 +1,11 @@
+estimator,metric,n,point,boot_mean,ci95_low,ci95_high,n_boot,n_boot_undefined,undefined_as,seed
+a_verbalized,recall_at_90_precision,50,0.0000,0.2330,0.0000,0.7308,10000,0,zero,2026
+a_verbalized,recall_at_99_precision,50,0.0000,0.0706,0.0000,0.6538,10000,0,zero,2026
+a_verbalized,ece,50,0.3980,0.4014,0.2760,0.5280,10000,0,omit,2026
+a_verbalized,brier,50,0.3693,0.3694,0.2749,0.4665,10000,0,omit,2026
+a_verbalized,average_precision,50,0.7171,0.7189,0.5423,0.8636,10000,0,omit,2026
+b_selected_id_exp_logprob,recall_at_90_precision,50,0.7826,0.7288,0.2273,0.9600,10000,0,zero,2026
+b_selected_id_exp_logprob,recall_at_99_precision,50,0.3478,0.5059,0.1739,0.9130,10000,0,zero,2026
+b_selected_id_exp_logprob,ece,50,0.3530,0.3620,0.2554,0.4750,10000,0,omit,2026
+b_selected_id_exp_logprob,brier,50,0.2952,0.2957,0.2041,0.3921,10000,0,omit,2026
+b_selected_id_exp_logprob,average_precision,50,0.9012,0.9022,0.7808,0.9813,10000,0,omit,2026

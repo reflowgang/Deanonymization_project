@@ -1,0 +1,200 @@
+*MAXIMUM ARMOR*
+Seems like the draw calls are a huge bottleneck , maybe DX12 will help?
+\ [T]/ [☼] ||
+Someone needs to take Java &amp; co away from Oracle, they are like a child destroying their toys.
+Is he really that bad? His take control of all minions effect seems quite strong, or is he bad because all other cards are much stronger?
+Bet he's looking for lemonade.
+I just use CTRL+Shift+F.¯\\_(ツ)_/¯
+Why the fuck would you call it sexism then?
+Looks awesome! But fragile at the same time, or is it thicker than it looks like?
+If youre on EUW play something else for the next weeks/months DDoS in D3+ is getting more frequent
+Iirc all of them were for scripters/botters :/. Hopefully they ban the ddosers soon.
+&gt;0.5 0.5000000000001 ftfy
+No wolf, "this is OUR TOWN SCRUB".
+Keep in mind that you cant really compare two different processors by their frequency, especially not when they're of different architectures (x86 and ARM in this case).
+True. I play mostly games where optimization is fairly OK for AMD, or garbage for both(... DayZ). I tested disabling every 2nd Core (which results in every core being complete , 4 Cores with FPUs instead of 8 sharing 4) , actually does help in some games! EDIT: Also overclocking makes a big difference in certain games (WoW comes to mind).
+Maybe you should present proof/evidence of your own if you want people to actually argue your point.
+The hard part is reading the shit others wrote.
+Most of the variants are dual bootable, I run Ubuntu and it works perfectly. You could also try SteamOS which is also a Linux variant. EDIT: Not sure if SteamOS is dualbootable by now, they said it would support it tho.
+Programmer here, fuck UIs, all of them.
+I didn't know I needed this.
+To most people what software engineers do is conjuring software spells.
+Well you could say you do it "from scratch" if you do it in high languages, or if you follow that logic that means you can't cook from scratch because you have to raise and kill your own meat etc.
+Imagine a very small person and a very tall person, the tall one takes 4000 steps and the small person takes 5000 steps. The tall one will have come further with only 4000 steps because the tall person takes much bigger steps. Obviously this is oversimplified.
+Maybe that's not the only thing the software does.
+Why would anyone lie about that tho?
+1. Yes, mine are at 28~ 2. Stay below 75C to be extra safe, but my guess would be even 80-85 wont damage it by much. 3 &amp; 4. Reseat first. 5. If fan you constantly however over 80 I'd get a better one. 6. Doesn't matter how you apply your paste as long it is enough (even too much doesn't impact performance noticeably). With my h100i my temps are at 25-30C when idle, 50-55C when under load. EDIT: Fucked up my formatting, I'm on mobile, sorry.
+Yea the whole alignment doesn't matter very much, linus did a video on this, the only way you get bad performance is if you use very little paste.
+Unless Ichigo actually learned from Aizen and getting his Bankai broken is actually part of his plan!
+Dunno what to post, take [this](https://www.youtube.com/watch?v=68uWlNjm4lA).
+80C° is thermal throttle for the 8350 btw, it will go to 1300MHz if it hits 80.
+Fire in the hole!
+For me it was at 80C° (Gigabyte UD3 Rev 1).
+105℃ is not true, at least for Haswell-E pretty sure 103℃ is thermal shutdown.
+Is that Idle? What process is eating so much CPU time?
+Are you doing any work that needs the double precision of a fire pro? If not get a consumer card. Depending on what you program you might want an i7 however that would leave little room for your GPU and the i5 is enough in most cases anyway.
+Do you need that optical drive? You could install windows from a usb drive and save the 50 bucks or use them to buy a better cooler (the 212 should be fine if you overclock moderately). This part is purely opinion but I would get a cheaper case and save the money (or put it towards something else).
+If it happens on a different socket that would also be my guess.
+It go with the 3820 if it was a 6 core however that only stars with the 5820k. I'd get a newer i5, OP.
+Sure, go for it if a 750 is enough for you!
+I had pretty good experiences buying used CPUs, maybe you can even find an i7 for your budget. If you want new and within budget you should look at i3s (33xx, 34xx). EDIT cheapest i5 in Germany I found is at 130€, cheapest i7 is at 165. EDIT2 ok there is a i7 2600 for 133, but that seems quite a lot for such an old chip.
+You could always buy used if you have some spare money.
+Look around for a few days, most people really overestimate how much their old chips are worth.
+Disable powersaving features and raise your CPU Multiplier by one and then run a stress test.
+76C° should be almost 100% safe, I had my 7870 run at 85-90C° for two years without issue.
+Actually it's less than 5 bucks, who the fuck used the whole tube at once?
+80-85℃ isnt that bad, most GPUs can take it, even in the long run.
+Thats correct, or you get more OC headroom if its cooler x).
+Oh god what did that CPU ever do to him?
+Parking like this is actually illegal in germany.
+God damn it I have one of those too.
+The FM2+ socket is pretty much dead, you'd get much more out of your money if you would switch to Socket LGA 1151 (or maybe 2011 depending on how much you want to spend). What's your budget for MoBo + CPU?
+Only if you actually use them, I have 12 Threads and pretty much the only time all 12 of them work is when I compile or render something. If you like to play games that needs 3-4 Threads and watch Twitch (or something that requires some CPU like streaming) at the same time the i7 might be worth it.
+The problem with upgrading your CPU / MoBo is that you usually have to replace both, since the socket changes. For example your i3 is on socket LGA 1155, while LGA 2011-3 and 1151 are the current sockets.
+I used to have a Asus M5A78L-M LE which is a pretty cheap AM3+ MoBo, it couldn't even handle a FX 6100 OC to 4GHz without dropping voltage and clock (the VRM got to 110C°+). However that might be a AMD only thing since VRM have been moved to the CPU itself (at least on Haswell). So, depending on MoBo you might be able to OC, just not as much as with a more expensive one.
+Even with a 6600k you probably won't have too much trouble streaming, glad I could help.
+[PCPartPicker part list](http://uk.pcpartpicker.com/list/RCLbjc) / [Price breakdown by merchant](http://uk.pcpartpicker.com/list/RCLbjc/by_merchant/) Type|Item|Price :----|:----|:---- **CPU** | [Intel Core i5-6600 3.3GHz Quad-Core Processor](http://uk.pcpartpicker.com/product/m9Gj4D/intel-cpu-bx80662i56600) | £184.99 @ Overclockers.co.uk **CPU Cooler** | [Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler](http://uk.pcpartpicker.com/product/hmtCmG/cooler-master-cpu-cooler-rr212e20pkr2) | £26.99 @ Novatech **Motherboard** | [Asus H110-PLUS ATX LGA1151 Motherboard](http://uk.pcpartpicker.com/product/86rcCJ/asus-motherboard-h110plus) | £57.56 @ Amazon UK **Memory** | [Crucial 16GB (2 x 8GB) DDR4-2133 Memory](http://uk.pcpartpicker.com/product/pkkD4D/crucial-memory-ct2k8g4dfd8213) | £37.99 @ Amazon UK **Storage** | [Seagate Barracuda 1TB 3.5" 7200RPM Internal Hard Drive](http://uk.pcpartpicker.com/product/dCxfrH/seagate-internal-hard-drive-st1000dm003) | £37.96 @ BT Shop **Video Card** | [Gigabyte GeForce GTX 970 4GB WINDFORCE 3X Video Card](http://uk.pcpartpicker.com/product/J2FXsY/gigabyte-video-card-gvn970wf3oc4gd) | £239.00 @ Ebuyer **Case** | [Inwin 503 BLACK ATX Mid Tower Case](http://uk.pcpartpicker.com/product/dD2rxr/inwin-case-503black) | £52.99 @ Overclockers.co.uk **Power Supply** | [SeaSonic 450W 80+ Gold Certified Semi-Modular ATX Power Supply](http://uk.pcpartpicker.com/product/xVkD4D/seasonic-power-supply-ssr450rm) | £69.95 @ CCL Computers **Monitor** | [BenQ GL2250HM 21.5" 60Hz Monitor](http://uk.pcpartpicker.com/product/RnQRsY/benq-monitor-gl2250hm) | £87.99 @ Amazon UK | *Prices include shipping, taxes, rebates, and discounts* | | **Total** | **£795.42** | Generated by [PCPartPicker](http://pcpartpicker.com) 2016-06-28 17:09 BST+0100 | Here you go OP, an i7 is definitely overkill for gaming most of the time. Also got you Skylake and with it DDR4 and a slightly cheaper PSU since you don't need that much wattage.
+Also note that this score is most likely achieved with all cores, so your 4770k is probably only 25%~ slower in single core applications.
+Not the newer ones, the older ones :P. I remember my old AMD 7870 would draw 200W just by itself even tho it was only a midrange GPU.
+Well in that case (heh) just pick a cheaper tower that is also mini ITX.
+Did you already buy the 6600k? For streaming in higher quality you might need the additional threads of an i7.
+While it was a good CPU back then (if you actually used all 8 cores) it's very outdated today, buy the skylake i5.
+It actually isn't, it does raise appetite for actual sugar iirc but just drinking diet is almost like drinking water (calorie wise).
+You might be able to fix this by installing an old nvidia driver with XP comparibility.
+How hot does your CPU get?
+Didn't know about the diabetes part, will look into it. Thanks!
+There's your problem, either your CPU gets too hot (which we ruled out) or you experience vdroop. What's your VCORE and does it jump too?
+It doesn't drop? Try to go to your BIOS and disable all power saving features, and disable turbo (not sure how exactly it's called), then see if your clock still drops.
+Try to disable power saving features and especially turbo, then try again.
+Jokes on them, I know the IPs by heart.
+There is no such thing as CPU drivers actually. However you might have to reinstall Windows after switching Motherboards.
+Yea man, that one time slip where he kinda slipped 30 times each game in at least 4 games huh?
+&gt; But I have seen PLENTY of people drink and basically become psychotic/mentally unstable to the point where it was causing trouble. &gt; That is because alcohol is used as an excuse. It's not the alcohol itself doing this.
+&gt; I honestly think that Meteos wasnt going into the game to int, but was drunk and not taking it serious at a certain point. The enemy team was pretty strong, but as Brand support Meteos still had enough damage to try an kill enemies for quite a while, which he failed many times by straight up missing abilities, not seeing another enemy approaching and getting fucked by their teamcomp. &gt; I thought so up until about death 10, that's when it's pretty evident he is just there to feed them. Also being drunk is not an excuse, it does not prevent your brain from functioning. He knew VERY well what he was doing.
+Can you upload this to a website that doesn't take 5 minutes to load..?
+This isn't about meteos, I don't care if he gets banned or not. Imo, intentionally feeding should be heavily punished. If someone doesn't want to play a game they can AFK or leave, INTing just shows that the player is not only unwilling to play the game (and thus already ruining the other 4 players game) but to go even further and make it as bad as possible.
+Meteos, or rather, any riot employee, does have to uphold a certain standard, that's why he might face a bigger punishment than some random would in the same scenario the big outrage thing is apparently because lots of people like T1 and meteos criticized him.
+Vayne is kinda bad to pick as your OTP main. She's banned too often.
+It's in his contract, that's why.
+I didn't try that yet!
+You would want to go to another lane, maybe even fake going to another lane and then quickly taking the turret in questions. Executing this in SoloQ is obviously not easy.
+Fobias Tate.
+Most people flash like that when they are surprised / paniced. Happens at any elo.
+You might be lagging / having packet loss.
+I don't know what you are talking about , [I get jungle pretty much all the time](https://i.imgur.com/pQXlUbY.png).
+Packet loss does not show in your ping. Open your command prompt and type in "ping 8.8.8.8 -t" this will ping the google DNS server, until you press CTRL + C, then it will give you a statistic of your average ping and how many packets were sent / lost. If you have any packet loss within a minute something is wrong.
+I'm playing with 1620DPI / 1000hz. And mouse speed in the windows setting is set to 7.
+It is there in the old client at least.
+You really think a yasuo main will play malphite instead of riven vayne etc.?
+To be fair Bronze V is like another universe with different physics.
+I really like lolskill.net for that.
+That processor is pretty weak, wouldn't be surprised if you only get 30fps on low.
+Winkyface.
+Should I be worried if the song played in my head?
+I honestly don't know where all these ADCs have been in the past seasons. Vi can turn you inside out right now, and she could do that back then just as well.
+Hm, the most bizarre thing about my setup is probably the excessively overpowered CPU I'm using, everything else is pretty ordinary.
+Yes the plants are used the way they were intended to.
+One of the reasons I bought the 5820k is so I'm not tempted to try deliding it. I would fuck it up anyway.
+I didn't! Does it even make much of a difference?
+I abused that shit to no end. You didn't even have to land a tripple Q to obliterate someone someone.
+Ah I remember AP poppy. SHE was the real assassin.
+It's normal to end up much lower than you were last season, I was D5 and started in S1 on my smurf.
+&gt;Imaqtpie is the best league streamer/entertainer out there. No.
+First of all just play a few bot games, If you don't mind getting stomped jump right into PvP, you will get killed often by more experienced players but you will learn a lot faster of what is possible. Don't worry about the champion you play, try most of them. Do you have any specific questions?
+She makes me happy when I flash + gapclose just to kill her instead of the ADC :^) .
+What's the problem learn to play support and win games because the other support has no clue how to play the god damn role.
+Current high end devices should be able to run LoL on 720p on low with maybe 30 - 40fps. Once that hardware goes into mainstream another 1-2 years and pretty much everyone has the performance to run LoL on mobile.
+Hm I guess "Weißwurst" without mustard.
+Yup. That's why you should take most kills for yourself when you jungle, unless you gank for your duo partner.
+They will live! Until they die!
+*Tactical nuke deployed.*
+That's actually for all modes. If you finish a normal 5v5 under 7 minutes you also don't get any IP.
+Is nocturne even on the rework list? Pretty sure it will be a long time until they touch him.
+"ENJD GHT EGAMEE"
+I think this is mostly muscle memory to try and not cancel the autoattack.
+Eh, people get autofilled support and don't really play it, wouldn't change much.
+Post me your CPU / GPU name and I can tell you if it's simply a hardware limitation.
+Letztens habe ich bei noch relativ guten Verhältnissen ESP an meinem 1er ausgemacht, war schon sehr sp00ky.
+Your motherboard would be fine even without any fans most of the time.
+Huh, here in germany emergency vehicles are allowed to run red lights, and those who have green are not only required to yield to it but actually actively get out of their way.
+I love BMWs, but I'll never actually own one that is also my DD.
+Aw shit, I actually wanted to comment on /u/italia06823834 comment.
+I actually wouldn't be surprised if amazon did those on purpose, free publicity.
+Here in germany quite a lot of new cars are actually leased by regular companies (and then given to employees), they can deduct some of the cost from taxes, so it probably isn't that lucrative in other countries. I also think I read somewhere recently that private leases have gone up considerably.
+I agree, but my guess is most programmers just don't care and use int for everything, where I work we actually once had a pretty big bug happen because an int was overflowing and causing weird stuff to happen.
+People always underestimate just how much damage shyv does with Bloodrazor + Titanic.
+Shyvana is still very good, the nerf was unnecessary but didn't hit her that hard, on my plat smurf I have a 80% winrate.
+If you want an auto BMW you're looking at 2k~. If you want the cheapest VW Golf with an auto there is almost a 4k difference. Of course those are for new cars.
+I'm not sure on this one, but don't you lose power assisted braking if you stall your engine (I have a feeling you can pump the brakes once or twice after the engine is off)?
+just checked, you can still get them with a manual in germany (up to and including the X5).
+I was more thinking about a very big missshift, like 6th instead of 2nd or braking while in high gear and stalling it that way, then again that's very unlikely to actually happen.
+I'm german and sometimes they really take it too far with localization.
+"Schrecklich" 🤔
+^^been ^^here ^^all ^^along.
+Schrecklich is usually used to describe something horrible, for example you would say a terrorists attack was 'schrecklich'.
+Leveling professions is easy peasy. I would suggest Jewelcrafting or Enchanting + Tailoring or a gathering profession. Jewelcrafting needs lots of Blood of Sargeras so take it on a character you play actively, take Enchanting on one you play rarely since they don't need as much BoS to make gold. Alchemy does make lots of money but you will need to invest at least 20-100k per recipe for it to become profitable.
+I'm a Tank since BC and I could burst a vein if a Tank doesn't pull at a decent speed for the few cases where I'm DPS. There is no need to just stand there and do nothing.
+I mean, if someone is being an annoying shit pulling packs when the party is struggling with just one, I'll tell the guy to get his act together but just not tanking slows down everyone.
+While not using many spells at once, Shadow Priests definitely use them in rapid succession. Especially with Surrender to Madness.
+Definitely worth, every node is worth about 30-60gold depending on the flower just getting every flower in your way when doing world quests is a great source of income. You can get the 'Legion Herbalism' enchantment from the AH for about 100g which reduces the time it takes to pick flowers to 0.5s.
+Just a general question, are the rare blue gems (both raw and cut) pretty much worthless on your servers as well?
+The same way you queue for dungeons now (there will be an extra option for you to select)! Unfortunately it is unknown when the Black Temple timewalking will go live, you can open the ingame calendar to check when the next dungeon timewalking event is (I think next week actually! I'm on mobile right now so I can't check, sorry).
+The difference is that the DK FoS wasn't supposed to ever make it to live, and cannot be repeated once you've been there.
+I think there is an option to do that but both accounts need to be on the same battlenet account. (It's an option you can select when transferring iirc)
+Pretty sure you can't.
+Honestly, don't be afraid of playing on a PvP server, the only difference is that the opposing faction can always attack you (except for sanctuaries, like main cities). You won't have any problems finding raid groups even on PvP servers.
+That's why simming sometimes can give insight to what will actually increase your DPS. Haste is an important stat for Unholy, but raw itemlevel will often win in terms of raw DPS.
+Option 3: Cast Smite + Holy Fire.
+Get a program that allows you to monitor your processor and graphics chip temperature, it shouldn't be above about 80°C.
+For starters only queue as damage dealer, so you can get a feel on how people do dungeons. Your only job is, well, doing damage and it isn't a big deal if a single damage dealer is completely new. After that you can try Tank / Heal (if your class can do those roles) both aren't complex but in dungeons they are the only ones in their roles. So if you die as healer that can mean the rest is going to die as well.
+Pretty much, they are no different than other pets in the same family. There is an exception, Ghostbeasts I think they are called, only tameable by beastmasters, they get the special ability to heal a group member every few seconds, you can't get a pet with that ability other than a ghostbeast, and they are somewhat rare.
+Abilities are also changed in PvP, healing / dmg on certain abilities is higher/lower. Mistweavers are currently pretty bonkers in PvP.
+9/10m (and lots of Gul'Dan wipes) Prot Pally here, ask away!
+Can't look at logs right now, sorry, what talents do you use? Do other tanks actually take your aggro eventually?
+Always have a SotR stack rolling tho, no point in ever having it sit at 3 unless you absolutely need to have a longer duration one later down the line which is pretty much never.
+Talents seem fine, for CD usage I would save BoP / Bubble for later uses since you want to just tunnel the boss and not waste GCDs but that shouldn't really matter. Instead of Prolonged you should be using Potions of the Old War. With how many Infernals do you enter P2? Anything more than 2 and your DPS is probably too low on the first boss. Don't save any cooldowns for the infernals, just start tunneling Kruul once he spawns. Try to survive two Annihilates with AD (use one early one, tank two other ones by different means and then another one with AD, have your selfheal ready for that). I have found the helmet to be really helpful for the challenge instead of sephuz (I did it with Head / Belt since I STILL don't have the pants).
+Ich schneide die einfach immer mit einem Messer auf, macht das nicht jeder so?
+Did you move out of the arcanoslashes to drop stacks?
+You should never have 3 stacks ready on SotR, use more of them when you take damage for extended periods. If you actually took aggro from the other tank unintentionally then the other tank was just bad. Depending on your itemlevel I can see how they thought you are too squishy since you tanked adds as well, but at higher itemlevels you should be able to tank that.
+Healers that do damage when they realize that I/the party do not need any healing currently.
+I would but it's so rare to find one that does damage T_T I do almost 1m dmg burst as holy so I don't understand why they wouldn't.
+Not much, about 5k-10k a week best case. I use it mostly to get resources and buy old mats with it.
+Well that explains why I haven't seen them yet.
+Always remember, in the very high end it its irrelevant how easy your class is, at that point it is expected of everyone to play their class to almost their maximum potential. At the harder bosses other mechanics than how you play your character come into play (a good example is on one of the harder Bosses in Nighthold (the current hardest Raid), everyone gets pairs of 'signs' with different colors above their heads, same colors need to walk into each other, while not touching anyone with a different sign or everyone blows up). If you have any questions go ahead and ask me!
+Your tank spec is probably going to favor different offstats but other than that (and weapon / trinkets) you won't need to farm different items to tank.
+Brewmasters while played the least of all tanks (I think) have a very big kill participation on Gul'Dan mythic, they are pretty good.
+If you are a healer and struggle with this, take your time and write a macro informing the party that you are low on mana, many tanks (I'm often no exception to this) simply forget to check a healers mana.
+By the way, if you have any questions to tanking in general you can go ahead and ask me, been tanking for almost 10 years now :P.
+Good ones expect the healer to not oom in the first place ;).
+People ignore that one most of the time unfortunately.
+To get actual answers you will have to wait about a week and take a look at warcraft logs how every class performs overall in Tomb of Sargeras.
+I think its obvious even to the prime noobs out there that non max level dungeons are probably supposed to be easier.
+Same here, were 10/10m and have a few that just started at the end of MoP.
+Wenn die Klima so eingestellt ist dass es im Gebäude über 25°C werden kann, dann können die Kollegen meinetwegen auch Feuer machen, ist schon zu heiß für mich.
+I really liked Star Augur and Gul'Dan, especially the Demon Within fight, reminded me of the Illidan fight in BC since they kept some aspects of the fight from back then.
+Yup I set my BoS value at a flat 250g.
+What keys did you bind so far? I have 1-5, Q E R T F Z Y X C V and F1-F4 combined with Shift and Control modifiers that makes quite a few free keybinds to usen
+I like explosive as well, just not on lower kara where there can spawn 10+ simultaneously.
+Our WW was 3rd on our Gul'Dan kill this week. They might not be in a perfect spot but definitely viable.
+Jup I really like HoV now no matter the affixes.
+10/10m Prot Pally here to answer your questions!
+I knew something was off about that hallway.
+Does that take into account that you can still use a 'no souls' cleave + spiritbomb.
+I don't mean for progression / doing very high keys but farming the sweetspot where you just melt stuff.
+I think at some point they are probably going to go "so, this shit again huh?"
+Touch metal before touching the fragile hardware.
+They probably will do their job but from experience they die pretty fast (about one year).
+You can start but you won't see anything.
+Don't be a afraid to use Painsup and Barrier when damage is high, while my disc has a bit better gear (905) I do 250-350DPS over the course of an instance. On higher keys you should preferably never stop healing, absolutely always use PWD:S on your tank, apply plea to people taking damage, if it is a lot of damage immediately switch to Shadowmend, dont forget Radiance + LW does a lot of damage and thus healing. I wouldn't rely on using Shadowcovenant to heal the party, it's a nice out of combat instant heal but I highly prefer Atonement for AoE heal.
+Not necessarily potions, but drink every time combat drops. I usually never stop doing damage other than to apply Atonements. PtW is a big source of damage, especially since penance spreads it. Usually when someone drops below 60% I spam some Shadowmends and then top them off with Atonement.
+Worldfirsts are usually determined by time since raid release rather than actual real time.
+Any class/race combo is perfectly fine, even when going for world firsts that's pretty low on the list of things to improve. LFR is pretty much just a glorified dungeon, it's nice to see the bosses and to see how mechanics are technicly supposed to work, but in LFR you can almost always just bruteforce your way out of the fight. For addons I would suggest DBM and some addons that reduce clutter on the UI, like Bartender to minimize how much space your UI takes.
+Hey, so first of all try to get the basics down: holding aggro and surviving that. Once you have that try improving your positioning, and by extension the positioning of the mobs you are tanking, you want to stack them into each other so you can bomb them down, unless there is a mechanic that discourages that. Once you have that down try your hand at cooldown management, it makes a big difference when you use your CDs, if you are a Paladin and find yourself in a situation without any left Shield stacks, that's the perfect time to pop a CD to not take too much damage, and to build on that, you don't want to find yourself in a situation where you don't have Shield stacks for big damage intakes in the first place. Once you can run medium difficult dungeons reliably try to increase your own damage output, while it is not the primary job of a tank, your own DPS is very significant especially in timed dungeons, I often find myself outdamaging damage dealers simply because I often use my damage cooldowns in between bosses to maximize its uptime, but you should't worry too much about thag for starters!
+Prydaz is actually pretty good, the defense it offers is obvious, but it's also strong on the offense since it has extra stats!
+Your best bet are Nethershards, and Mythic+ Dungeons, spamming those for a week after the next reset will get you on par very quickly, assuming you can find groups.
+Pretty sure the space outside Argus counts as Nether.
+Spamming M+ and farming Nethershards are the fastest way to gear up.
+The only time I don't take Seraphim is when it's Teeming + Explosive, not because it does so much damage but to have more abilities to kill explosive orbs, plus that one talent that gives you %dmg and def the more enemies are near you is not much of a DPS loss during Teeming. For high keys slow but steady is my go to approach, pull pack by pack. Some exceptions apply of course, for example at the start of EoA I always pull the first two on the left and the other two furter back at that tent thing and don't be too sparse with using Wings on trash. The pants are actually far ahead of any other leggy in M+, the belt is a not-so distant second, with all others being outshined by those two. If you have them I'd replace the ring with Prydaz or Archimondes Cunning.
+10/10m Tank here with some experience on Disc, for whatever that is worth, here if you have questions, until someone with more experience shows up!
+Beware of low level PvP tho, it's not really balanced and some players farm items with ridiculous stats for the level and go to Battlegrounds to destroy everything :P.
+I usually take aggro of the first two, walk up to the other two, kick the caster and meet the other pack halfway. I also don't have the pants :( I'm due for one any time now, hope it's going to be the pants.

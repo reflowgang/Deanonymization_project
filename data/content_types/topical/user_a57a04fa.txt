@@ -1,0 +1,50 @@
+- video rendered from a RX 480
+Don't you mean 29-1? Lost to Utah second to last game of the season.
+Ah
+Exactly
+Harrison Barnes was in that series
+Andrew Bogut...
+What do suites offer compared to normal?
+PM me
+Would you be willing for a 480 8 GB?
+Link??
+PC part picker. It matches compatible components of your choice and price range
+PM'd
+When you pulled the card out you could've possibly fried it through static discharge.
+Mining has caused every RX GPU to inflate in price significantly in the last week
+How do you find out if it's downvoted? All my phone says is "Vote"
+EVGA and no not really. It just performs a little faster. 3 FPS max difference between superclocked and regular
+You'd be surprised
+"Took Elephant"
+Thanks!
+Thanks!
+You're sure the PC is turning on right? Even without drivers the card would still show signal
+Thanks!!
+Google is your friend. This isn't an uncommon issue believe it or not. In fact I don't even think it's a bad part. Google: "PC starts for a few seconds then shuts off"
+They're all over the place. Just be sure you double check it comes with a dedicated GPU. I've seen some with good specs yet has integrated graphics and people claim them as "gaming" rigs
+If you have the chance I'd be sure to upgrade that 128 GB SSD to 250. Some programs don't allow to install to any drive but the C drive so overtime it may fill up. Plus speeds for read and write are faster based on amount of storage
+Mounting bracket   Edit: Come to think of it, each case is different, you'll have to google your case along with "hard drive mounting bracket" at the end
+Well that's what I'm saying. 980 Ti is cheaper than both of the above
+His 3330 would significantly bottleneck a 1080, it would perform like a 1070 at best
+Reset the CMOS. Pull the round battery from the motherboard and leave it for 5 minutes. Reseat the battery and power on the computer. Works every time it seems like
+Is your hard drive also installed? If so you need to open computer management then go to disk management and make the partition an active drive letter. Then you'll need to manually go into the hard drive and send the shortcuts of your programs on to the desktop.
+1050 Ti and a Ryzen 1600 would be a good combo
+Yeah but those motherboards are expensive as fuck lol
+Every time I post you take it down that's why I'm doing an opposite post
++1
+I have a question. I'm thinking of buying something from r/hardwareswap but if I'm doing a paypal transaction do I just simply send money to them or do I have to use a certain service in order to insure my money?
+Used 980 Ti
+As far as I know if you have any incompatible parts, the website will give you a warning
+Science studio..
+That's eBay. On here they've going for around 280
+Also how does 6 GB VRAM look future wise? I'm kinda worried coming from 8 to 6
+Newegg.com
+Not too long, maybe 3 years
+There are no such thing as drivers for a CPU lol. The only drivers are motherboard drivers and most of the time it's only useless bloat ware. Open device manager and see if there are any devices with a yellow triangle that pop out. If so then install the necessary missing drivers. It's also a smart thing to update your bios but make sure you download the right firmware for your board otherwise you can brick it. As long as it's the right board you're fine. Good luck
+Look for the SSHD's. If those for whatever reason are out of your budget then look for Black edition drives. Those offer the best speeds
+CPU's are for computing. Graphics are for rendering. Games require graphical rendering meaning they require an adequate card. However if you pair a potato processor with a GTX 1080. It'll perform like a GTX 650.
+Pcpartpicker.com
+Doesn't necessarily mean he will be playing at 144 though, even if he's averaging 110 it'll be an upgrade over 60 or 75
+Lol....
+Nah your PSU is fine. Even a 1060 would be fine. However if you ever upgraded to a 1070 I'd recommend bumping it to a 600w  Edit!! I saw you're purchasing windows 7, DO NOT DO IT!! Kaby Lake processors are NOT compatible with Windows 7 and it WILL NOT boot. You NEED windows 10!
+Perhaps not enough thermal paste on the CPU

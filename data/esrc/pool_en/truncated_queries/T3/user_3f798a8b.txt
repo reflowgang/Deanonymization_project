@@ -1,0 +1,25 @@
+*** And also listen to the phone call
+Don't get me wrong, last night's episode blew my tits off. It will have no problem maintaining a high score, but the first ratings are usually more emotional and we see these types of posts for most episodes of most shows
+Yeah but if it is $5,000 for Wyoming or something, they might not pay. New York is incredibly important to be licensed, but it is worth much less in some other states
+I don't fit into your chart I don't fit in anywhere :(
+Well Jamie kind of has an excuse
+Now THIS is a guy who knows how to sell real estate!
+Hell, I screwed my hanging cabinets into the ceiling joists too.
+"We're sorry, your currency will be unavailable between 3AM and 4AM for scheduled maintenance"
+Haven't been to the theatres in a long time. Was excited for the movie and almost forgot why until that showed up
+When did the dude on the far right side die?
+I thought we just saw him as a judge at Petyr's trial for killing Liza Arryn
+Jolly Rancher is my favorite daily show pun http://www.tv.com/shows/the-daily-show-with-jon-stewart/jolly-rancher-1664058/
+Reddit destroyed their habitat and this is the result
+That's a cracked screen
+#Six seasons and a movie!
+Danger! Danger! Great Anthony Weiner Daily show throwback
+All crows have these green umbrellas to keep their costumes in great condition. They are green so they can be digitally edited out
+Amash's hometown? Does he need to be preaching to the choir?
+I'm aware of the friction with Rand, but what issues with Amash are there?
+Burns too cool to melt airplane engines. Burns too hot to light up your joint. Burns just right to melt steel beams...
+That cameraman sounds exactly like https://www.youtube.com/watch?v=NRItYDKSqpQ
+Pain is generally an indication of injury and ignoring it is likely to set you back further than 1 incomplete workout The crossfit logo is the cherry on top
+Most phones screens are made to be hard enough to resist scratches from keys in your pocket. Internet advice is snake oil at best. Anything that could affect the screen enough to 'fix it' will just make it worse
+If you try to pull it down manually, does it move easily or is it obstructed? Adjusting the travel amount helps when the door closes and reopens, but this sounds different
+Is this the servicenow bookings/reservation module? We just went through the same thing with users all over the world signing up reservations at events in every continent. I had to modify the client script to grab the user's timezone, add that to the GlideAjax that checks for open timeslots, and then modify the script include to adjust the display times for the user's timezone (in relation to the system time), and then adjust again for the venue they had selected. All times are still stored and worked with in the servicenow system time, but the display looks correct to the user. This method does fall short if system time zone is -5 for example and the venue is Japan. Then you can have reservations showing the wrong day.

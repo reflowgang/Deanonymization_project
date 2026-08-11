@@ -1,0 +1,500 @@
+*MAXIMUM ARMOR*
+Seems like the draw calls are a huge bottleneck , maybe DX12 will help?
+\ [T]/ [☼] ||
+Someone needs to take Java &amp; co away from Oracle, they are like a child destroying their toys.
+Is he really that bad? His take control of all minions effect seems quite strong, or is he bad because all other cards are much stronger?
+Bet he's looking for lemonade.
+I just use CTRL+Shift+F.¯\\_(ツ)_/¯
+Why the fuck would you call it sexism then?
+Looks awesome! But fragile at the same time, or is it thicker than it looks like?
+If youre on EUW play something else for the next weeks/months DDoS in D3+ is getting more frequent
+Iirc all of them were for scripters/botters :/. Hopefully they ban the ddosers soon.
+&gt;0.5 0.5000000000001 ftfy
+No wolf, "this is OUR TOWN SCRUB".
+Keep in mind that you cant really compare two different processors by their frequency, especially not when they're of different architectures (x86 and ARM in this case).
+True. I play mostly games where optimization is fairly OK for AMD, or garbage for both(... DayZ). I tested disabling every 2nd Core (which results in every core being complete , 4 Cores with FPUs instead of 8 sharing 4) , actually does help in some games! EDIT: Also overclocking makes a big difference in certain games (WoW comes to mind).
+Maybe you should present proof/evidence of your own if you want people to actually argue your point.
+The hard part is reading the shit others wrote.
+Most of the variants are dual bootable, I run Ubuntu and it works perfectly. You could also try SteamOS which is also a Linux variant. EDIT: Not sure if SteamOS is dualbootable by now, they said it would support it tho.
+Programmer here, fuck UIs, all of them.
+I didn't know I needed this.
+To most people what software engineers do is conjuring software spells.
+Well you could say you do it "from scratch" if you do it in high languages, or if you follow that logic that means you can't cook from scratch because you have to raise and kill your own meat etc.
+Imagine a very small person and a very tall person, the tall one takes 4000 steps and the small person takes 5000 steps. The tall one will have come further with only 4000 steps because the tall person takes much bigger steps. Obviously this is oversimplified.
+Maybe that's not the only thing the software does.
+Why would anyone lie about that tho?
+1. Yes, mine are at 28~ 2. Stay below 75C to be extra safe, but my guess would be even 80-85 wont damage it by much. 3 &amp; 4. Reseat first. 5. If fan you constantly however over 80 I'd get a better one. 6. Doesn't matter how you apply your paste as long it is enough (even too much doesn't impact performance noticeably). With my h100i my temps are at 25-30C when idle, 50-55C when under load. EDIT: Fucked up my formatting, I'm on mobile, sorry.
+Yea the whole alignment doesn't matter very much, linus did a video on this, the only way you get bad performance is if you use very little paste.
+Unless Ichigo actually learned from Aizen and getting his Bankai broken is actually part of his plan!
+Dunno what to post, take [this](https://www.youtube.com/watch?v=68uWlNjm4lA).
+80C° is thermal throttle for the 8350 btw, it will go to 1300MHz if it hits 80.
+Fire in the hole!
+For me it was at 80C° (Gigabyte UD3 Rev 1).
+105℃ is not true, at least for Haswell-E pretty sure 103℃ is thermal shutdown.
+Is that Idle? What process is eating so much CPU time?
+Are you doing any work that needs the double precision of a fire pro? If not get a consumer card. Depending on what you program you might want an i7 however that would leave little room for your GPU and the i5 is enough in most cases anyway.
+Do you need that optical drive? You could install windows from a usb drive and save the 50 bucks or use them to buy a better cooler (the 212 should be fine if you overclock moderately). This part is purely opinion but I would get a cheaper case and save the money (or put it towards something else).
+If it happens on a different socket that would also be my guess.
+It go with the 3820 if it was a 6 core however that only stars with the 5820k. I'd get a newer i5, OP.
+Sure, go for it if a 750 is enough for you!
+I had pretty good experiences buying used CPUs, maybe you can even find an i7 for your budget. If you want new and within budget you should look at i3s (33xx, 34xx). EDIT cheapest i5 in Germany I found is at 130€, cheapest i7 is at 165. EDIT2 ok there is a i7 2600 for 133, but that seems quite a lot for such an old chip.
+You could always buy used if you have some spare money.
+Look around for a few days, most people really overestimate how much their old chips are worth.
+Disable powersaving features and raise your CPU Multiplier by one and then run a stress test.
+76C° should be almost 100% safe, I had my 7870 run at 85-90C° for two years without issue.
+Actually it's less than 5 bucks, who the fuck used the whole tube at once?
+80-85℃ isnt that bad, most GPUs can take it, even in the long run.
+Thats correct, or you get more OC headroom if its cooler x).
+Oh god what did that CPU ever do to him?
+Parking like this is actually illegal in germany.
+God damn it I have one of those too.
+The FM2+ socket is pretty much dead, you'd get much more out of your money if you would switch to Socket LGA 1151 (or maybe 2011 depending on how much you want to spend). What's your budget for MoBo + CPU?
+Only if you actually use them, I have 12 Threads and pretty much the only time all 12 of them work is when I compile or render something. If you like to play games that needs 3-4 Threads and watch Twitch (or something that requires some CPU like streaming) at the same time the i7 might be worth it.
+The problem with upgrading your CPU / MoBo is that you usually have to replace both, since the socket changes. For example your i3 is on socket LGA 1155, while LGA 2011-3 and 1151 are the current sockets.
+I used to have a Asus M5A78L-M LE which is a pretty cheap AM3+ MoBo, it couldn't even handle a FX 6100 OC to 4GHz without dropping voltage and clock (the VRM got to 110C°+). However that might be a AMD only thing since VRM have been moved to the CPU itself (at least on Haswell). So, depending on MoBo you might be able to OC, just not as much as with a more expensive one.
+Even with a 6600k you probably won't have too much trouble streaming, glad I could help.
+[PCPartPicker part list](http://uk.pcpartpicker.com/list/RCLbjc) / [Price breakdown by merchant](http://uk.pcpartpicker.com/list/RCLbjc/by_merchant/) Type|Item|Price :----|:----|:---- **CPU** | [Intel Core i5-6600 3.3GHz Quad-Core Processor](http://uk.pcpartpicker.com/product/m9Gj4D/intel-cpu-bx80662i56600) | £184.99 @ Overclockers.co.uk **CPU Cooler** | [Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler](http://uk.pcpartpicker.com/product/hmtCmG/cooler-master-cpu-cooler-rr212e20pkr2) | £26.99 @ Novatech **Motherboard** | [Asus H110-PLUS ATX LGA1151 Motherboard](http://uk.pcpartpicker.com/product/86rcCJ/asus-motherboard-h110plus) | £57.56 @ Amazon UK **Memory** | [Crucial 16GB (2 x 8GB) DDR4-2133 Memory](http://uk.pcpartpicker.com/product/pkkD4D/crucial-memory-ct2k8g4dfd8213) | £37.99 @ Amazon UK **Storage** | [Seagate Barracuda 1TB 3.5" 7200RPM Internal Hard Drive](http://uk.pcpartpicker.com/product/dCxfrH/seagate-internal-hard-drive-st1000dm003) | £37.96 @ BT Shop **Video Card** | [Gigabyte GeForce GTX 970 4GB WINDFORCE 3X Video Card](http://uk.pcpartpicker.com/product/J2FXsY/gigabyte-video-card-gvn970wf3oc4gd) | £239.00 @ Ebuyer **Case** | [Inwin 503 BLACK ATX Mid Tower Case](http://uk.pcpartpicker.com/product/dD2rxr/inwin-case-503black) | £52.99 @ Overclockers.co.uk **Power Supply** | [SeaSonic 450W 80+ Gold Certified Semi-Modular ATX Power Supply](http://uk.pcpartpicker.com/product/xVkD4D/seasonic-power-supply-ssr450rm) | £69.95 @ CCL Computers **Monitor** | [BenQ GL2250HM 21.5" 60Hz Monitor](http://uk.pcpartpicker.com/product/RnQRsY/benq-monitor-gl2250hm) | £87.99 @ Amazon UK | *Prices include shipping, taxes, rebates, and discounts* | | **Total** | **£795.42** | Generated by [PCPartPicker](http://pcpartpicker.com) 2016-06-28 17:09 BST+0100 | Here you go OP, an i7 is definitely overkill for gaming most of the time. Also got you Skylake and with it DDR4 and a slightly cheaper PSU since you don't need that much wattage.
+Also note that this score is most likely achieved with all cores, so your 4770k is probably only 25%~ slower in single core applications.
+Not the newer ones, the older ones :P. I remember my old AMD 7870 would draw 200W just by itself even tho it was only a midrange GPU.
+Well in that case (heh) just pick a cheaper tower that is also mini ITX.
+Did you already buy the 6600k? For streaming in higher quality you might need the additional threads of an i7.
+While it was a good CPU back then (if you actually used all 8 cores) it's very outdated today, buy the skylake i5.
+It actually isn't, it does raise appetite for actual sugar iirc but just drinking diet is almost like drinking water (calorie wise).
+You might be able to fix this by installing an old nvidia driver with XP comparibility.
+How hot does your CPU get?
+Didn't know about the diabetes part, will look into it. Thanks!
+There's your problem, either your CPU gets too hot (which we ruled out) or you experience vdroop. What's your VCORE and does it jump too?
+It doesn't drop? Try to go to your BIOS and disable all power saving features, and disable turbo (not sure how exactly it's called), then see if your clock still drops.
+Try to disable power saving features and especially turbo, then try again.
+Jokes on them, I know the IPs by heart.
+There is no such thing as CPU drivers actually. However you might have to reinstall Windows after switching Motherboards.
+Yea man, that one time slip where he kinda slipped 30 times each game in at least 4 games huh?
+&gt; But I have seen PLENTY of people drink and basically become psychotic/mentally unstable to the point where it was causing trouble. &gt; That is because alcohol is used as an excuse. It's not the alcohol itself doing this.
+&gt; I honestly think that Meteos wasnt going into the game to int, but was drunk and not taking it serious at a certain point. The enemy team was pretty strong, but as Brand support Meteos still had enough damage to try an kill enemies for quite a while, which he failed many times by straight up missing abilities, not seeing another enemy approaching and getting fucked by their teamcomp. &gt; I thought so up until about death 10, that's when it's pretty evident he is just there to feed them. Also being drunk is not an excuse, it does not prevent your brain from functioning. He knew VERY well what he was doing.
+Can you upload this to a website that doesn't take 5 minutes to load..?
+This isn't about meteos, I don't care if he gets banned or not. Imo, intentionally feeding should be heavily punished. If someone doesn't want to play a game they can AFK or leave, INTing just shows that the player is not only unwilling to play the game (and thus already ruining the other 4 players game) but to go even further and make it as bad as possible.
+Meteos, or rather, any riot employee, does have to uphold a certain standard, that's why he might face a bigger punishment than some random would in the same scenario the big outrage thing is apparently because lots of people like T1 and meteos criticized him.
+Vayne is kinda bad to pick as your OTP main. She's banned too often.
+It's in his contract, that's why.
+I didn't try that yet!
+You would want to go to another lane, maybe even fake going to another lane and then quickly taking the turret in questions. Executing this in SoloQ is obviously not easy.
+Fobias Tate.
+Most people flash like that when they are surprised / paniced. Happens at any elo.
+You might be lagging / having packet loss.
+I don't know what you are talking about , [I get jungle pretty much all the time](https://i.imgur.com/pQXlUbY.png).
+Packet loss does not show in your ping. Open your command prompt and type in "ping 8.8.8.8 -t" this will ping the google DNS server, until you press CTRL + C, then it will give you a statistic of your average ping and how many packets were sent / lost. If you have any packet loss within a minute something is wrong.
+I'm playing with 1620DPI / 1000hz. And mouse speed in the windows setting is set to 7.
+It is there in the old client at least.
+You really think a yasuo main will play malphite instead of riven vayne etc.?
+To be fair Bronze V is like another universe with different physics.
+I really like lolskill.net for that.
+That processor is pretty weak, wouldn't be surprised if you only get 30fps on low.
+Winkyface.
+Should I be worried if the song played in my head?
+I honestly don't know where all these ADCs have been in the past seasons. Vi can turn you inside out right now, and she could do that back then just as well.
+Hm, the most bizarre thing about my setup is probably the excessively overpowered CPU I'm using, everything else is pretty ordinary.
+Yes the plants are used the way they were intended to.
+One of the reasons I bought the 5820k is so I'm not tempted to try deliding it. I would fuck it up anyway.
+I didn't! Does it even make much of a difference?
+I abused that shit to no end. You didn't even have to land a tripple Q to obliterate someone someone.
+Ah I remember AP poppy. SHE was the real assassin.
+It's normal to end up much lower than you were last season, I was D5 and started in S1 on my smurf.
+&gt;Imaqtpie is the best league streamer/entertainer out there. No.
+First of all just play a few bot games, If you don't mind getting stomped jump right into PvP, you will get killed often by more experienced players but you will learn a lot faster of what is possible. Don't worry about the champion you play, try most of them. Do you have any specific questions?
+She makes me happy when I flash + gapclose just to kill her instead of the ADC :^) .
+What's the problem learn to play support and win games because the other support has no clue how to play the god damn role.
+Current high end devices should be able to run LoL on 720p on low with maybe 30 - 40fps. Once that hardware goes into mainstream another 1-2 years and pretty much everyone has the performance to run LoL on mobile.
+Hm I guess "Weißwurst" without mustard.
+Yup. That's why you should take most kills for yourself when you jungle, unless you gank for your duo partner.
+They will live! Until they die!
+*Tactical nuke deployed.*
+That's actually for all modes. If you finish a normal 5v5 under 7 minutes you also don't get any IP.
+Is nocturne even on the rework list? Pretty sure it will be a long time until they touch him.
+"ENJD GHT EGAMEE"
+I think this is mostly muscle memory to try and not cancel the autoattack.
+Eh, people get autofilled support and don't really play it, wouldn't change much.
+Post me your CPU / GPU name and I can tell you if it's simply a hardware limitation.
+Letztens habe ich bei noch relativ guten Verhältnissen ESP an meinem 1er ausgemacht, war schon sehr sp00ky.
+Your motherboard would be fine even without any fans most of the time.
+Huh, here in germany emergency vehicles are allowed to run red lights, and those who have green are not only required to yield to it but actually actively get out of their way.
+I love BMWs, but I'll never actually own one that is also my DD.
+Aw shit, I actually wanted to comment on /u/italia06823834 comment.
+I actually wouldn't be surprised if amazon did those on purpose, free publicity.
+Here in germany quite a lot of new cars are actually leased by regular companies (and then given to employees), they can deduct some of the cost from taxes, so it probably isn't that lucrative in other countries. I also think I read somewhere recently that private leases have gone up considerably.
+I agree, but my guess is most programmers just don't care and use int for everything, where I work we actually once had a pretty big bug happen because an int was overflowing and causing weird stuff to happen.
+People always underestimate just how much damage shyv does with Bloodrazor + Titanic.
+Shyvana is still very good, the nerf was unnecessary but didn't hit her that hard, on my plat smurf I have a 80% winrate.
+If you want an auto BMW you're looking at 2k~. If you want the cheapest VW Golf with an auto there is almost a 4k difference. Of course those are for new cars.
+I'm not sure on this one, but don't you lose power assisted braking if you stall your engine (I have a feeling you can pump the brakes once or twice after the engine is off)?
+just checked, you can still get them with a manual in germany (up to and including the X5).
+I was more thinking about a very big missshift, like 6th instead of 2nd or braking while in high gear and stalling it that way, then again that's very unlikely to actually happen.
+I'm german and sometimes they really take it too far with localization.
+"Schrecklich" 🤔
+^^been ^^here ^^all ^^along.
+Schrecklich is usually used to describe something horrible, for example you would say a terrorists attack was 'schrecklich'.
+Leveling professions is easy peasy. I would suggest Jewelcrafting or Enchanting + Tailoring or a gathering profession. Jewelcrafting needs lots of Blood of Sargeras so take it on a character you play actively, take Enchanting on one you play rarely since they don't need as much BoS to make gold. Alchemy does make lots of money but you will need to invest at least 20-100k per recipe for it to become profitable.
+I'm a Tank since BC and I could burst a vein if a Tank doesn't pull at a decent speed for the few cases where I'm DPS. There is no need to just stand there and do nothing.
+I mean, if someone is being an annoying shit pulling packs when the party is struggling with just one, I'll tell the guy to get his act together but just not tanking slows down everyone.
+While not using many spells at once, Shadow Priests definitely use them in rapid succession. Especially with Surrender to Madness.
+Definitely worth, every node is worth about 30-60gold depending on the flower just getting every flower in your way when doing world quests is a great source of income. You can get the 'Legion Herbalism' enchantment from the AH for about 100g which reduces the time it takes to pick flowers to 0.5s.
+Just a general question, are the rare blue gems (both raw and cut) pretty much worthless on your servers as well?
+The same way you queue for dungeons now (there will be an extra option for you to select)! Unfortunately it is unknown when the Black Temple timewalking will go live, you can open the ingame calendar to check when the next dungeon timewalking event is (I think next week actually! I'm on mobile right now so I can't check, sorry).
+The difference is that the DK FoS wasn't supposed to ever make it to live, and cannot be repeated once you've been there.
+I think there is an option to do that but both accounts need to be on the same battlenet account. (It's an option you can select when transferring iirc)
+Pretty sure you can't.
+Honestly, don't be afraid of playing on a PvP server, the only difference is that the opposing faction can always attack you (except for sanctuaries, like main cities). You won't have any problems finding raid groups even on PvP servers.
+That's why simming sometimes can give insight to what will actually increase your DPS. Haste is an important stat for Unholy, but raw itemlevel will often win in terms of raw DPS.
+Option 3: Cast Smite + Holy Fire.
+Get a program that allows you to monitor your processor and graphics chip temperature, it shouldn't be above about 80°C.
+For starters only queue as damage dealer, so you can get a feel on how people do dungeons. Your only job is, well, doing damage and it isn't a big deal if a single damage dealer is completely new. After that you can try Tank / Heal (if your class can do those roles) both aren't complex but in dungeons they are the only ones in their roles. So if you die as healer that can mean the rest is going to die as well.
+Pretty much, they are no different than other pets in the same family. There is an exception, Ghostbeasts I think they are called, only tameable by beastmasters, they get the special ability to heal a group member every few seconds, you can't get a pet with that ability other than a ghostbeast, and they are somewhat rare.
+Abilities are also changed in PvP, healing / dmg on certain abilities is higher/lower. Mistweavers are currently pretty bonkers in PvP.
+9/10m (and lots of Gul'Dan wipes) Prot Pally here, ask away!
+Can't look at logs right now, sorry, what talents do you use? Do other tanks actually take your aggro eventually?
+Always have a SotR stack rolling tho, no point in ever having it sit at 3 unless you absolutely need to have a longer duration one later down the line which is pretty much never.
+Talents seem fine, for CD usage I would save BoP / Bubble for later uses since you want to just tunnel the boss and not waste GCDs but that shouldn't really matter. Instead of Prolonged you should be using Potions of the Old War. With how many Infernals do you enter P2? Anything more than 2 and your DPS is probably too low on the first boss. Don't save any cooldowns for the infernals, just start tunneling Kruul once he spawns. Try to survive two Annihilates with AD (use one early one, tank two other ones by different means and then another one with AD, have your selfheal ready for that). I have found the helmet to be really helpful for the challenge instead of sephuz (I did it with Head / Belt since I STILL don't have the pants).
+Ich schneide die einfach immer mit einem Messer auf, macht das nicht jeder so?
+Did you move out of the arcanoslashes to drop stacks?
+You should never have 3 stacks ready on SotR, use more of them when you take damage for extended periods. If you actually took aggro from the other tank unintentionally then the other tank was just bad. Depending on your itemlevel I can see how they thought you are too squishy since you tanked adds as well, but at higher itemlevels you should be able to tank that.
+Healers that do damage when they realize that I/the party do not need any healing currently.
+I would but it's so rare to find one that does damage T_T I do almost 1m dmg burst as holy so I don't understand why they wouldn't.
+Not much, about 5k-10k a week best case. I use it mostly to get resources and buy old mats with it.
+Well that explains why I haven't seen them yet.
+Always remember, in the very high end it its irrelevant how easy your class is, at that point it is expected of everyone to play their class to almost their maximum potential. At the harder bosses other mechanics than how you play your character come into play (a good example is on one of the harder Bosses in Nighthold (the current hardest Raid), everyone gets pairs of 'signs' with different colors above their heads, same colors need to walk into each other, while not touching anyone with a different sign or everyone blows up). If you have any questions go ahead and ask me!
+Your tank spec is probably going to favor different offstats but other than that (and weapon / trinkets) you won't need to farm different items to tank.
+Brewmasters while played the least of all tanks (I think) have a very big kill participation on Gul'Dan mythic, they are pretty good.
+If you are a healer and struggle with this, take your time and write a macro informing the party that you are low on mana, many tanks (I'm often no exception to this) simply forget to check a healers mana.
+By the way, if you have any questions to tanking in general you can go ahead and ask me, been tanking for almost 10 years now :P.
+Good ones expect the healer to not oom in the first place ;).
+People ignore that one most of the time unfortunately.
+To get actual answers you will have to wait about a week and take a look at warcraft logs how every class performs overall in Tomb of Sargeras.
+I think its obvious even to the prime noobs out there that non max level dungeons are probably supposed to be easier.
+Same here, were 10/10m and have a few that just started at the end of MoP.
+Wenn die Klima so eingestellt ist dass es im Gebäude über 25°C werden kann, dann können die Kollegen meinetwegen auch Feuer machen, ist schon zu heiß für mich.
+I really liked Star Augur and Gul'Dan, especially the Demon Within fight, reminded me of the Illidan fight in BC since they kept some aspects of the fight from back then.
+Yup I set my BoS value at a flat 250g.
+What keys did you bind so far? I have 1-5, Q E R T F Z Y X C V and F1-F4 combined with Shift and Control modifiers that makes quite a few free keybinds to usen
+I like explosive as well, just not on lower kara where there can spawn 10+ simultaneously.
+Our WW was 3rd on our Gul'Dan kill this week. They might not be in a perfect spot but definitely viable.
+Jup I really like HoV now no matter the affixes.
+10/10m Prot Pally here to answer your questions!
+I knew something was off about that hallway.
+Does that take into account that you can still use a 'no souls' cleave + spiritbomb.
+I don't mean for progression / doing very high keys but farming the sweetspot where you just melt stuff.
+I think at some point they are probably going to go "so, this shit again huh?"
+Touch metal before touching the fragile hardware.
+They probably will do their job but from experience they die pretty fast (about one year).
+You can start but you won't see anything.
+Don't be a afraid to use Painsup and Barrier when damage is high, while my disc has a bit better gear (905) I do 250-350DPS over the course of an instance. On higher keys you should preferably never stop healing, absolutely always use PWD:S on your tank, apply plea to people taking damage, if it is a lot of damage immediately switch to Shadowmend, dont forget Radiance + LW does a lot of damage and thus healing. I wouldn't rely on using Shadowcovenant to heal the party, it's a nice out of combat instant heal but I highly prefer Atonement for AoE heal.
+Not necessarily potions, but drink every time combat drops. I usually never stop doing damage other than to apply Atonements. PtW is a big source of damage, especially since penance spreads it. Usually when someone drops below 60% I spam some Shadowmends and then top them off with Atonement.
+Worldfirsts are usually determined by time since raid release rather than actual real time.
+Any class/race combo is perfectly fine, even when going for world firsts that's pretty low on the list of things to improve. LFR is pretty much just a glorified dungeon, it's nice to see the bosses and to see how mechanics are technicly supposed to work, but in LFR you can almost always just bruteforce your way out of the fight. For addons I would suggest DBM and some addons that reduce clutter on the UI, like Bartender to minimize how much space your UI takes.
+Hey, so first of all try to get the basics down: holding aggro and surviving that. Once you have that try improving your positioning, and by extension the positioning of the mobs you are tanking, you want to stack them into each other so you can bomb them down, unless there is a mechanic that discourages that. Once you have that down try your hand at cooldown management, it makes a big difference when you use your CDs, if you are a Paladin and find yourself in a situation without any left Shield stacks, that's the perfect time to pop a CD to not take too much damage, and to build on that, you don't want to find yourself in a situation where you don't have Shield stacks for big damage intakes in the first place. Once you can run medium difficult dungeons reliably try to increase your own damage output, while it is not the primary job of a tank, your own DPS is very significant especially in timed dungeons, I often find myself outdamaging damage dealers simply because I often use my damage cooldowns in between bosses to maximize its uptime, but you should't worry too much about thag for starters!
+Prydaz is actually pretty good, the defense it offers is obvious, but it's also strong on the offense since it has extra stats!
+Your best bet are Nethershards, and Mythic+ Dungeons, spamming those for a week after the next reset will get you on par very quickly, assuming you can find groups.
+Pretty sure the space outside Argus counts as Nether.
+Spamming M+ and farming Nethershards are the fastest way to gear up.
+The only time I don't take Seraphim is when it's Teeming + Explosive, not because it does so much damage but to have more abilities to kill explosive orbs, plus that one talent that gives you %dmg and def the more enemies are near you is not much of a DPS loss during Teeming. For high keys slow but steady is my go to approach, pull pack by pack. Some exceptions apply of course, for example at the start of EoA I always pull the first two on the left and the other two furter back at that tent thing and don't be too sparse with using Wings on trash. The pants are actually far ahead of any other leggy in M+, the belt is a not-so distant second, with all others being outshined by those two. If you have them I'd replace the ring with Prydaz or Archimondes Cunning.
+10/10m Tank here with some experience on Disc, for whatever that is worth, here if you have questions, until someone with more experience shows up!
+Beware of low level PvP tho, it's not really balanced and some players farm items with ridiculous stats for the level and go to Battlegrounds to destroy everything :P.
+I usually take aggro of the first two, walk up to the other two, kick the caster and meet the other pack halfway. I also don't have the pants :( I'm due for one any time now, hope it's going to be the pants.
+Depending on your playstyle you get one reliably every 2 weeks, my last leg is 2 1/2 weeks ago but I've been deliberately doing less things that can trigger a leg drop just to instantly get one at 970. The EoA run you mentioned seems kinda strange, never did that I'll have to give it a look.
+No harm in getting it, but I would stick to Details! or Skada, they are a bit more accurate.
+I'm not 100% sure on the intel 620 but you are probably going to struggle with FPS in more populated zones.
+A few weeks ago I opened about 30 and only got 1 dauntless, I think they have always been rare
+You can but once you start legion and get the restoration artifact (which was a mace + shield if I remember correctly) you will only be able to change the mace to other maces and axes (and maybe to fistweapons, nut sure).
+In the KJ fight Velen Khadgar and Illidan are stranded on a Ship that is on collision course with Argus, Illidan uses a Portal Keystone to open a Portal/Wormhole to Azeroth, Khadgar then Teleports them to safety. Once on Azeroth Khadgar realizes that Argus is appearing to be VERY close to Azeroth and is Visible from everywhere (even ingame, not just the Cinematic).
+My personal favourite this expansion is Shadow Priest by far and then Prot Pally
+Thats Quartz, for sure, I have that turned off on mine but I don't recall what the option is called.
+What he's saying is that you guys didn't have enough healers even if you were two players less.
+Those settings are just crowdsourced from what most people have with a setup similar to yours.
+No it's true, you can get legendaries below 110, guildmate got one 108.
+Yup, It seemed very complicated until you actually play, the desolate host needs 1-3 attempts, after that you know what is going on.
+Can't open the link right now, but that's from where our Seal would do insane damage, right?
+Sim twice, the item with more DPS results is probably better, you can get the Addon Pawn which lets you import you results for Stat Weights, it's usually pretty accurate in telling if an item is actually an upgrade.
+Are you using default frames? On mine people in the other realm where greyed out (like when they actually are in a different phase).
+He threatened them, he knows how to kill demons, it was either follow Sargeras or be wiped from existence. Demons are still individuals, some even choose to betray the Legion and join us, as seen with the Imp in Aszuna that we meet again in one of the Broken Shore WQs (I think it's the same Imp).
+In the beginning they were everywhere (Legion pre event).
+I was talking about the HC version, Normal is kinda trivial :P.
+Hm maybe try replacing them with default / grid or something like that.
+&gt; The fifth pull the paladin died because he got hit with felclaws with no shield up. Looks like he decided to use seraphim instead of shield of the righteous while actively being hit by felclaws. Absolutely terrible idea. &gt; Yup, there is a time and place for Seraphim, progression usually isn't.
+It's the same as DeathKnights using DS as a DPS ability and have 0 selfheal.
+Haven't really played DK in Legion :P.
+It's actually Velen that leads the charge to KJs Ship I think.
+I'm kinda late to this but I think the Keystone can bring you to Worlds previously visited by the Stone, that's why it could't bring the Demons to Azeroth previously, but now it can.
+Someone correct me if I'm wrong but it isn't possible to sim healers reliably.
+880 should be enough for +6, even +10 (but its going to be painful) if everyone knows what they are doing. Are you dying yourself, or your partymembers, if so, what are you / they dying to?
+If they weren't killing the extra heads the fault is definitely on the DPS, all you can do on that encounter is sit on the main head and hope they kill the heads, try to cycle your CDs so the healer doesn't have to pay attention to you.
+I would also suggest to be picky with DPS, there are a lot of them so wait a few minutes and pick those that fit your comp / have the highest ilvl.
+WW is probably much harder than havoc currently.
+Depends how much effort you want to put into it, for the producing professions you make 1-4 of everything and throw it on the AH, if you want to make money with gathering profs you have to actively farm stuff.
+Depends on your server, look up a few farming spots and compare with how expensive the mats are on your server, and farm whatever spot that gives the most gold/minute (I don't know much about skinning tho). For Mining the best spot was flying around the Broken Shore I think.
+No need to really level them, once you arrive at legion you can do most stuff with your profession at level 1.
+Nope, you can gather them from level 1 on, without penalty even.
+You get them the instant you arrive in Legion Dalaran, you can then make Legion recipes even with skill 1!
+I think the icy veins ones are usually somewhat reliable, and the forums on mmo-champion.
+When you get the base version you get a free month, but not for Legion, I would assume you get one for free.
+You can get fast items by doing the broken shore quests and legion invasions, from those you get Nethershards, with 5000 you can buy an item for a slot that is going to be at least 880. Other than that Myhic+ dungeons are your best bet!
+You can search for custom parties in the lfg tool, in there you will find people doing them. All you need for Mythic Dungeons is an ilvl of about 850.
+I spend about 30min to an hour for goldmaking with the auction house and make 20k on very bad days. When ToS came out I made more than 100k for the next three days. Edit: I do have almost all professions on my characters tho.
+Sometimes people want to rush all Mythics in one go for the AP they provide, in that case they'll look for very high geared people since they will be rushing it extremely fast (were talking not even taking a healer levels of rush), they don't do them for the gear. If there are no groups up that do them for gear just make your own! You'll probably meet a few assholes tho but I've made good experiences with randoms this expansion so far.
+Ah yes I think it used to be that way but they removed it.
+I play Holy Pally in Arenas and I think they are pretty much the definition of HoT-less healer, you only have one heal over time which is most of the time used for it's secondary effect (players healed by it receive more healing from some of your direct heals) other than that you have that one talent in row 1 that is technically a HoT (it heals the target for a good amount after 6sec). EDIT oh and they can skill a healing aura that heals everyone around you for a bit and turns your Aura Mastery into a big AoE heal but outside of Aura Mastery it's not something you actually use but rather passive extra healing.
+On my mage I almost only DE blues, but I'll check in the destroy log if my BoS droprate went up as my skill in Enchanting did (which, now that you mention it might actually be the case).
+People just stopped contributing as much I would assume.
+Do you know if you actually *can* upgrade the CPU?
+Look up some consumer reports for the watercoolers, they can be silent but sometimes the included fans can be really loud.
+The KJ Trinket that reduces Kings CD sounds amazing in theory. The one from Desolate Host probably isn't too bad either, but I'd rather spend seals on tier set pieces. Oh and in terms of trinkets, the Darkmoon one has proven to be quite good.
+Try /cast [@party1] NameOfSpell . Replace the 1 with 2 and so on.
+The most essentail for me are Seraphim, First Avenger and HotP, and sometimes Spellwarding, especially on Necrotic. If you take too much damage swap Seraphim and FA.
+I might be wrong here but I'm pretty sure FA is a DPS increase in every situation (single target / AoE).
+Right now I use an 880 Arcano and either the Archimonde Leggy Trinket or the Trinket with Str base and a Haste on use from CoeN. If you have it the Darkmoon Deck is pretty strong as a default option.
+Try to get a high Arcano, it's insanely strong, but will probably be outdone by ToS / M+ Trinkets by raw ilvl.
+KJs Felclaws hit like he has trucks for claws, you should definitely have Demon Spikes and Spiritbomb Debuff (if taken) up for the whole duration, Fiery Brand won't be up every time you have to Tank Felclaws I assume? You might have to ask your Healers for external CDs like Sacrifice or Painsuppression. Additinally have the Shield Talent going it you skill it and preferably have a 5 Souls 50 Rage Soul Cleave at the ready. If you took Fel Devastation use that if Soul Cleave isn't enough to get you back up.
+"Shifting Cosmic Sliver"
+For Gul'Dan Mythic I took Repentance, for M+ it depends on the dungeon , for Neltharions I rather take Fist of Justice, for Arcway I take Blinding Light.
+They changed it so you cant even use it while having a flag. Using Divine Shield sometimes is a good idea tho even as tank, I use it often to drop a debuff and cancle the effect instantly.
+You'll die a lot because you don't know where the damage spikes come, don't play with Seraphim to start with, take Righteous Protector instead. Other than that just jump into heroics and read up on bosses when they do weird shit. For most mechanics you will only need to see them once to know what they do. Have your cooldowns, especially Guardian and Ardent Defender ready during your higher M+ runs until you know where to expect damage. EDIT: once you know the fights you can definitely take Seraphim.
+I had a 8350, it started to throttle at 69.
+Definitely don't use Seraphim on your first run, Fallen Avatar and KJ hit insanely hard, especially KJs Felclaws who will snack you like one of those peanuts with a crispy mantle. For legendaries I would suggest you upgrade Sephuz since it seems like you won't be a permanent tank (just take Pants + Sephuz). Unless your two trinkets are very bad, if only one is bad consider buying the Darkmoon Deck trinket (if you have the money). If both of your trinkets are bad consider taking Darkmoon + Leggy Trinket. Bosses where you will really start to think about your survivability will be Fallen Avatar and KJ, for Avatar have at least SotR up every time he casts Desolate, for the second one you might need a light cooldown. On KJ you will definitely have to have SotR for the whole duration of Felclaws, you can take the first two attacks with just SotR, then use Eye of Tyr, if you don't have it up use one of your other cooldowns (or ask for an external CD). Keep your finger on Ardent Defender and your Selfheal to mitigate big damage spikes.
+Take Righteous Protector and either Bastion of Light or Crusaders Judgment (in the lv30 tier), you can take the socket stat stick + the crit one.
+Avatar and KJ hit very hard, you will have to manage Cooldowns well.
+Raiding as a Tank is, maybe harder as a DPS initially but you get how things are supposed to be done relatively quickly, the hardest part is finding a Guild that is looking for a Tank.
+The trick to tanking (for Dungeons) is knowing how set the pace, you want to be going as fast as possible while allowing your healer to drop combat for just enough to start drinking to regain mana. Additionally, know when your spec is weak, a Paladin for example needs Shield of the Righteous to be up to be Tanky, if it's not you will have to use cooldowns to not get damage spikes.
+On butcher you could dick around all fight and use revival and would probably still top meters.
+Or even more sneaky, just place Shields on everyone just before an AoE hits, they don't even get the chance to heal.
+If you have Legion you get a lv 100 boost, it shows on the Login Screen.
+Varimathras 'joined' Sylvanas when they were defeated. He planned to infiltrate and betray her, she made him kill one of his own (which he did) to prove his loyalty (which is a great sin for Nathrezim) which was enough for Sylvanas to somewhat trust him. In WotLK a group of Forsaken (influenced/led by Varimathras) turned on everyone, including Sylvanas, and seized Undercity. He started a Ritual in Undercity, I'm not sure what exactly, most likely he tried to open Portals for the Legion. There was a questline back then where you had to reclaim Undercity, at the end, while you were killing Varimathras a voice (it wasn't confirmed that this was Sargeras) made clear that it is very disappointed with him.
+I don't think so, the way it is phrased suggests it already happened when Illgynoth said it.
+Ich fänd ja eine 4 Tage / 40h Woche deutlich besser.
+Not necessarily, you can really tell the difference on fights like Avatar and KJ.
+Everything about this is true, except the insurance thing (at least for me), I was at fault for minor damage on both of our cars so the other guy just went "yea whatever just tell your insurance it was you and for them to call me", in hindsight it was pretty stupid of him not to call the police but I wasn't gonna screw him over. Anyway, my insurance pretty much just took over from there only thing I had to do was show up at the workshop.
+Yup, when he started fighting Jotaro he could only stop time for 5 seconds I think, he probably could've learned to extend timestop to at least 15 seconds or more.
+This might be controversial, but I really like if the game is a bit more snowbally. Sometimes it feels like fucking up early means absolutely nothing and teams can come back from literally inting in the early game, they should be punished heavier.
+First time I'm looking for some chaosres on my gear when not going LL.
+It does but you need the Necro Node, and it's only 50% of what your minions get, still very noticeable.
+Try getting hit by ranged enemies with enfeeble + cwdt when no melees are around.
+Now that I think of it, try getting hit by ranged while melees are around but make sure it's the ranged ones that trigger cwdt, if it enfeebles the ranged mobs that would be perfect for you :P.
+The auto incursion end would be pretty cool. You can turn off postprocessing, I think that gets rid of the blur completely. The droprate thing might be a technical issue, I think chests used to drop everything instantly which caused crashes for some people, a compromise would be to have items drop by rarity first (uniques / alch or rarer currency first, and so on) but I'm not sure if we really need that. The Boss imo is already pretty dangerous and doesn't need difficulty buffs.
+"At least he lets the jewlery guy live every time, how strange."
+If people still want incursion as core after it's about to end I think the best way to go about it would be to have a low chance per map to trigger a state where alva will spawn every map until you completed the temple, this makes it so you don't see her all the time but if you do you can focus on the temple and you won't forget what you were about to do if it was just a flat chance of running into her.
+Solar Guards with minimal changes. If you push for boss rooms the boss can get very spooky already especially the chaos lightning thing that killed nugi.
+The fire guy and the corruption guy both jump/hover into the air, thats your clue to GTFO from them, plus chaos res seems really good for incursions/temple.
+Maybe that's a bug? Hasn't happened to me yet unless I didn't notice.
+Technically you could do uber elder without being hit by anything (obviously rather unrealistic). If you can tank elders ice spears and maybe half a second of shapers beam I think you can do it.
+Probably not that useful, most people that run hatred run it for themselves iirc.
+Works with spectres/skeletons, strange.
+Sometimes vendors will sell you one. Sometimes you'll get one with wrong colors, if it's a wand you can use a chromatic orb on it to try and change it to all blue (items with intelligence requirement are more likely to get blue sockets), if you find one with 3 sockets but no links you can use an orb of fusing to try and 3 link it.
+I've seen people do ok with lightning trap, no harm in switching tho, if it's worse just switch back.
+Ah, I read it as Area Effect.
+With a good party, full clearing Antorus takes about 2 hours, can take much longer with randoms. If you want to progress mythic you'll need about 4h per raid day (at least that seems most popular).
+Obviously Jugg is a good choice. A block gladiator can be very tanky as well. A ranged build I often recommend is Spectre Necro, with lots of Life nodes, MoM and block from Bone Offering can become unexpectedly tanky as well.
+Vaal Orbs can result in them as well iirc.
+No, I only use Spectres which are behind me usually, plus you cant block the chaosdmg in incursions.
+11/11M / 3k M+ score BDK here to answer questions if you have any!
+1. Skill gems have tags that tell you what they are (melee, AoE, ranged, projectile and so on). 2. Maps, you can set your own goal, like finishing your build or killing a boss or completing league challenges. 3. You absolutely need 75% resist (except chaos) or stuff is going to hurt a lot, by the end of act 10 try to have at least 3k hp, 4k+ is better. 4. You'll need a movementskill, link it to faster attacks to go fast, then you need the damage to blow up stuff, you could buy a good weapon to achieve that. 5. Yes! They are basically the currency in PoE.
+Conc could be so nice on SGs if there were 100% singletarget fights.
+Many people suggest Bear as a starter due to their simple playstyle, if you want to focus on enemies and tanking in general, go with bear. In terms of tools for M+, DHs look very promising, and a very fun playstyle on top of that. Keep in mind that all Tanks are viable, and if you really like one over the others you should be playing that!
+They are projectiles iirc.
+Usually, if one of his abilities is ready simultaneously to scythe, he will cast the other spell first, other than that have your fingers ready and wait for the castbar if you have fast enough reactions.
+Correct, if you know how to play your class and role you'll be many times more valuable than someone that just plays FOTM but is otherwise mediocre.
+All you need for KB to oneshot clear T11 UGS is just a handful of 1c abyss jewels and a piscator....
+The most simple summoner is probably just Raise Spectre, look on poe.ninja for necros using that skill, they most likely are raising Solar Guards from Act 8 Solaris Temple.
+His effective HP is actually 2.7k + 450 (30% from Mana) = bout 3.2k assuming he has 450 mana, no wonder you are being oneshot op. EDIT oops, 30% of 2.7k is 800.
+No Im talking about literal blue jewels you can alt craft yourself.
+I would assume the Temp Chains are applied first, then they are overridden by Assa Mark.
+At least 1ex, probably closer to 5.
+Probably not I'd say regular bleed can be pretty nasty as well.
+That's what I suggested recently, I would really like that way, she wouldn't occur to often but if you do see her you get to enjoy incursion for a while until she is gone again.
+The big advantage the Lich King has is that almost all of his more powerful servants are pretty inteligent. Plus I think that many people underestimate the power of his Deathknights, not only are they neigh unstoppable killingmachines, they can cast powerful runemagic and on top they are trained at anti-magic combat.
+Currently it's affliction, probably the best DPS spec overall currently. Good singletarget, cleave, AoE, and spread target damage, they only lack burst. Good utility in the form of Healthstones for all, Summoningstone and Battlerez (but that's all WLs). And on top of that **insane** selfheal which makes them almost immortal in most content.
+All specs play a good bit differently, the closest to elemental is probably Frost Mage I'd say, don't be afraid to play something different tho!
+That's normal, if your gear is fine no reason to actively look for stuff just because it has higher itemlevel. If you're unlucky you could wear a ring you found with lv 50 all the way to 100 in SSF.
+Doesn't seem that good to me, life on an ES shield isn't desired, the crit is nice but the all resist is pretty low.
+Wasnt there some guy in early Bestiary that linked a 5 stack of Mirrors in global all day?
+Skele Mages with GMP/Spell Echo/Faster Casting coupled with Solar Guards + Unending Hunger ensures you will never see the ground again.
+11/11m / 3k m+ XP BDK here to answer questions if you have any! Will probably reroll to DPS in BfA.
+Pretty much the same for Legos, rarely do I use the class ring if I really need Blood Tap, on some bosses I use Bracers instead of Trinket because they do so little dmg they can't even break the shield half way... For Trinkets I go with Pantheon + Coven on use for trash or Eye of Command for singletarget.
+Start with making sure you have 3 Runes on CD at all times and you never hit full runepower, then make sure you always have backup runepower for a deathstrike for oh shit moments. Then start to use your CDs a bit more liberally and not just for emergencies, if BfA blood DK will be similar to Legion BDK you won't even need a healer up until +20 m+ dungeons.
+There's two ways you can do it, one is pulling the first 2-3 guards one by one and killing them, then do the rest by pulling them into the 3rd boss room, or maybe downstairs if you have someone fast that can pull them for you. The alternative is killing everything, this is much easier if you have lots of DPS and you will probably need a way to drop necrotic stacks (or live through lots of stacks) having AoE slows helps a lot.
+All you need is like 8GB RAM for Chrome, CPU isn't that stressed when livesearching.
+"No biggie, sis I knew this rampaging killingmachine would show up and save you (just for their own profit, but hey don't complain)".
+He had like 5k HP without MoM in the beginning while farming Shaped UGS, I'd die for sure :P.
+Pretty much the same, you might want to get a bit versatility if getting bursted is an issue.
+You take that back!
+Correct, there's a Talent Keystone you can take called "Elemental Equilibrium" it makes it so when you do elemental damage the enemy gains resistance against that element but has decreased resistance for the other two elements, so if you are support and your partner does primarily Fire danage, you could to Cold/Lightning to buff your parntners damage since as support your spells won't be doing as much damage anyway.
+I didn't even know how much I wanted this until now.
+Yea I'd argue if you farm it enough most of your currency won't even be doctors but probably 6 sockets lol.
+Normal Atziri also ignores Shaped status (uber probably does as well).
+Don't forget to get Haku weapons for the offhand!
+Aqueducts is very fast up until about Lv75, you'll have at least a Tabula Rasa when you hit 75 farming BA, if not in pure cards you'll definitely have it in currency!
+Farm Blood Aqueduct until you get a Tabula, with that Tabula start Mapping and do chaos recipe (start collecting Belts, Rings and Amulets in BA), there you go, EZ money.
+Rampage is kinda sick too tbh so Biscos is a pretty good replacement (when taking cost into account ofc).
+Ailas SSF build gets at least 9k and costs almost nothing other than a 6l shaped chest with es on kill.
+Yup, some builds try to get by with minimal flask usage, others aim to delete bosses before flasks run out, some (mainly Pathfinder) try to refresh Flash Charges mid fight.
+Bloodlines is rip this league :(.
+Get a Tabula Rasa from the poets pen money! It only costs 10-12c but is a 6 linked chest with all white sockets (the trade off is it having no stats), a 6 linked BV will allow you to fly through content ;). Another good leveling unique is Goldrims which gives you a bunch of elemental resists or Wanderlust, a pair of boots that gove you 20% movementspeed and makes you immune to freeze. No idea if there are good damage oriented uniques for BV tho, sorry :P.
+No problem, you could also look for a weapon, ornament of the east (I think that's the name) is very good for your build and dirt cheap!
+Yea maybe invasion is worth it since it gives 20 iiq and costs only 2c but I'm not sure, no mod is probably the best choice.
+You can import your character into Path of Building, it automatically tells you which setup does the most damage.
+T3 rooms can give uniques 100% sure.
+Even for rich guys a HH isn't exactly peanuts.
+Press S, then type either their account or character name (doesn't matter) then you can rightclick and invite, you can also whisper each other and rightclick to add as friend/invite to party.
+Seems like it, my 6l Vis Mortis was indexed within a few seconds yesterday.
+1. Dump 2. Currency 3. Essence 4. Cards 5. Map 6. Specific sell tab 7. 10C 8. 20C 9. 5C 10 - 17 Chaos Recipe (one tab for each slot) in the early league, random stuff later on. 18-21 Stuff I'll use for leveling / on other chars.
+Spectres (SG for clear, TV for ST) are still pretty good in a 4L
+Try to get at least 70 HP on every slot, focus a bit more on HP nodes, then buy a 2 Socket Lightpoacher, that will make up for any DPS loss.
+Yeah you probably can't even buy the best supports for BV at that level yet :P. Brightbeak might be a good option simply because it makes your shieldcharge much faster.
+Checkout RaizQTs bow leveling guide (skip Hyrri's Demise and the Ring, they are quite expensive right now but not really needed). You can easily switch to KB later on without spending any regrets other than the ones you get anyway.
+The Advocates are pretty good to, but I later switched back to solar guards, their Autoattack is similar but fire based and a bit slower, in addition they have a big laser they use from time to time which deals quite a bit of damage. The desecrate trick: raise a spectre from anywhere you like then go to the highest level area you can with that spectre, doing so will allow desecrate to spawn corpses of that spectre for you to raise, but at the level of the map/area, just be sure your Desecrate has a high enough level. Spectres scale insanely with level so getting higher ones is a big DPS boost.
+No idea, sorry :P I play the Steam version, on steam you can close it if I remember correctly.
+Most of the time it overestimates, you can use it's estimate and lower your price if it sits in your stash too long.
+Try to look for rings/amulets with ele dmg on attacks, without much res / life they are pretty cheap but perfect for leveling!
+The main difference between shaped/elder items is that they can have certain mods normal versions can't roll, usually they aren't worth much. Rings / Amulets and sometimes Belts can sell for 1-5 Chaos even with bad rolls either because people want to craft on them or they do the Exalted Shard recipe (vendoring a full set of Shaped/Elder gear sells for 2 Exalted Shards, or 4 if all items are unidentified).
+Amulets with increased Quantity are very desired, I think even if the rest of the mods are trash having a good Quantity roll can make it very expensive, on Belts people often look for increased Recovery, if coupled with a Life roll and Resistances that's pretty expensive as well. Basically, if something sounds good look on poe.trade with items that have the mods you think are good and see how much people want for it to get an idea.
+Yup, currently farming Burial Chambers, it's not rare for me to not get a single map drop and then get 4 in the next.
+Few people farm it, you need pretty good gear to clear it quickly enough.
+They said they did? Where?
+Save up your Alts and Augments, you're gonna need them later on! Some gems are useful when on low level, cast when damage taken for example triggers at around 1k dmg on lv 1, but at lv 20 I think it's 5k or even higher, since you want Cwdt to proc often you leave it at low level Immortal Call could be levelled but Cwdt stops supporting it if it's too high. Most auras also reserve more mana when you level them, which might not be desired and sometimes you simply don't have enough int/dex/str to equip a gem if it's too high. That said, I have no idea why one wouldn't level Blood Rage. A ok-ish HP to aim for is 300 HP per act, so you have about 3k when you are in Act 10, that is however s bit on the lower side. Resists really should be a priority to get them to 75%. For DPS, you should be aiming to be able to at least one shot white mobs and maybe blue ones, yellows shouldn't take too long. You probably didn't have enough health, izaro can be spooky.
+Got 3 in my first 200 maps, not even an exalt in the next 500, pray to RNG.
+Yeah, I had 3 doctors and 0 exalted orbs until yesterday when I found 2 within 10 maps, I even dropped one just to be sure the filter works.
+Yeah, 100k would be pretty conclusive, but a single guy, or even 5 will go semi insane trying to farm so many.
+Do flasks/jewels count if they are magic?
+Probably the Item room, I had div cards drop there before.
+Amazing as always!
+Biscos Leash is pretty cheap and would make you quite a bit more efficient, Biscos Collar on the other hand is quite expensive, and It'll take a while to pay for itself, on top of that ot will probably mess up your resists.
+To farm Burials, first you need a small starting pool, 20 maps tops. Then you need to shape the connected map "Relic Chambers" so it's Tier 8 (which cant drop from a T3 map like burials) then you uncomplete all T3 and T4 maps (vendor 3 white sextants and 1 orb of scouring to get a uncomplete orb, so you need about 15 I think), if you already have a map shaped to T8 you can vendor 20 Chisels and 5 regrets for an Unshaping orb then you can get the Shaping Orb back from Zana, if you've done that only Burial Chambers will drop in Burial Chambers (and lower Maps) if you want you can uncomplete T5 since the boss can drop maps two tiers higher, but that's not necessary. If you got that setup you get more than 2 burials out of a single map on average.
+Only by Sacrificing a item in a T2 sac room (T3 guarantees same slot, so use a belt on T3 rooms), apparently you can get a HH from the T3 Item room, other than that you can't chance a HH.
+No Nemesis Mod this league.
+His first name is actually Thanks.
+Rolls aren't that important on Lightpoachers, the 100C guys are overpricing a bit, you should hbe able to sell it for 45C+ maybe a bit more.
+Sadimas, Goldwyrm, Biscos Leash, a few good Abyss Jewels, Lightpoacher, Windripper, okish Ventors, a good quiver, Inspired Learning, Lioneyes Fall, 6L QotF, Biscos Collar, Dying Sun, Rigwald's Quills (might have to upgrade Ventors to fix resists). That's the order I'd follow, you can probably get all of that minus Rigwalds.
+Definitely Incursion, if you feel like it you can try Hardcore Incursion, beware tho, if you die your character is sent to Standard (not Standard Incursion).
+I think all the Ele hit bois like it, not sure tho.
+Pretty sure efficacy works without a duration tag.
+Say you want to farm Burial Chambers, since you only want Burials, you have to find a way to only get burials, this can be done by shaping all connected maps that are higher and uncompleting all on the same tier and one above, this causes your only T3 and T4 map to be burial chambers.
+I dumped 2k or so into a QotF that wouldn'tvlink, decided to try a Vis Mortis, linked it in like 150 Fusings, so far I spent another 1k on the QotF :(.
+Complete as many maps as you can to get a better atlas bonus (causes maps to drop higher) including unique maps, that helps with mapsustain! To get currency if you need a bit of chaos to get started you could to the chaos recipe. You need a specific setup to farm a certain map, you have to shape all connected maps that are higher tier, then uncomplete all maps in that tier and one above. For burials thats shaping Relic Chambers and uncompleting all T3 and T4 maps.
+Probably with fusings, you get a lot of 6 Sockets farming BC, of course a occasional big item like biscos.
+The price you pay is carpal tunnel when you convert all of the jewellers to fusing.
+FeelsBadMan, I'm about 10 Leatherbelts in, it's not supposed to be easy to get a HH :P.
+Use Sextants / Zana mod, you'll get it much faster.
+It doesn't make it easier.
+The guardian sticks around between maps and doesn't need to resummoned, he keeps his items if you unequip him, just be sure to not mouseover an item when summoning him again, or it will replace his item. If he dies, all items are gone.
+Depends on what build you want to play, both are viable, if you want to play chaos look for an Essence Drain build, for Lightning there are quite a few options, for example Arc or Lightning Arrow. Take a look at those skills and see if you like their playstyle, then look for a build for them!
+Correct.
+Yup, he's pretty convenient when stacked with support items, a trick to keep him safe is to put his gem in your weapon/shield, if he is about to die just weaponswap, this will cause him to despawn!
+It's compression, you receive 800mb, but you probably download much less since the patch is compressed, the client displays effective download speed.
+Not really worth, I ran about 140 burials with double sextants, even rerolled/vaaled bad maps, you get more returns with just alch and go from my experience, not sure if chisels are even worth it, have to test it a bit more.
+I think the Watchers Eye can only drop if you defended him successfully.
+Undercutting by 10-20% usually sells your items quite fast, you do lose out on some currency but at the benefit of moving your stuff faster, which in turn translates to better gear earlier, at least that's my strategy. Some items you only need to undercut by 1c, try selling an Exalt for 1c below current price, you'll get slammed. Another good strategy for selling is crafting desireable stuff on them yourself, for example if you've got a belt with Life + double res craft the last res on yourself, more people will see it that way.
+No bestiary has been retired for now.
+Some leagues get incorporated into the base game, Abyss and Breach for example, Bestiary wasn't very well received, so GGG decided not to keep it in the base game. There is usually a time between leagues where there is only Standard (and Standard HC).
+Try creating another hideout, maybe its bugged.
+I think I'll run a few more burials and document my currency gain, then the same amount of volcanos, I'm also exited for Jims result of 10k Burials.
+Yup, same with the onslaught flask.
+It's not as expensive to start as a generic Lightning Arrow char tbh, just grabbing a few Searching Eyes and alt+regal crafting them gets you quite far.
+Can't check but I'm pretty sure a foil has more baseline crit.
+Didn't mean to say you do, what I was trying to say that people often imply you need multiple exalts to even get LA going in yellow maps, sorry if that came off wrong.
+Spectres are usually my go-to but Solar Guards are very painful in incursions, so I rerolled after hitting red maps, golems are probably just as painful, not sure about skellies tho. A good starter imo is still the classic Sunderjugg, you can respec into Crit Reave later on once you made some bank, for bossing you can switch in Blade Flurry and do very good deeps.
+There's lots of rooms in incursions usually, couple that with the fact that SGs are usually walking behind you they take forever to target a mob which puts you at danger if you try to charge through since the SGs might not do anything, Minion targeting indoors in general is pretty frustrating.
+My league goal for incursion is farming up currency to buy a mirror, already 30% there!
+Look for items on poe.trade focus on items with 70+ life and high (35+) double resists, those usually just cost a few chaos as opposed to tripple res + life items, chaos res is nice btw but not needed, having it on just one item is perfectly fine.
+I pick up transmutes and show Alts/Chance/Chromes , usually I don't pick them up but when waiting for abyss/breach/strongbox stream I do pick them up, Alch/Fusing and the likes I always pick up.
+They are doing gods work since they actually run the lab manually and create the layout!
+Don't forget you can just use Purity for leveling, or get resit nodes, until later on!
+Just search for rings with high double resists (for the two lowest you have) then search a second ring with the now lowest res and maybe a bit of the other two to top them off, usually thats the cheapest way.
+I'd rate the Tempest room higher, the Corrupting storm basically means you just got 100c richer.
+Hmm, maybe it's because I mostly do it on my MFer :P, I also try to only kill mobs with the buff up.
+The shrines are definitely random in uber lab, I'd assume they are in merc.
+The main difference between normal and Shaped is the Level of the Mobs, which means items drop with higher ilvl and you get more XP, that's it. This is the reason many prefer to farm unshaped, easier to oneshot everything.
+Leapslam is actually just as fast on 2handers, the inherit attackspeed of a weapon doesn't affect Leapslam! If you have X% attackspeed on your weapon however that **does** affect Leapslam, so you can still slam really fast! My 2h cycloner last league had almost 120% movementspeed, but slamming was still faster.
+Its ok but you need other mods for it to be worth something, preferably minion attackspeed or flat fire dmg.
+No no, you can rightclick the icon to make it always attack in place for all keybinds :P.
+There are two, a main server for america / all of europe / oceania, and one for China / Asia (not sure if the Koreans/Japanese are on the main one). You can do both, some even go full Support where they have literally all auras in the game active at once and curse enemies, while their partner focuses on damage.
+One of them is actually bad for you (you deal less dmg) :P.
+1. It's just RNG 2. You get a valuable item from them if you get them to T3 3. If you get the Corruption Tempest clear everything with the buff up, skip otherwise 4. Not really, they have slightly increased droprate, thats it. 5. A belt with Quantity is 2.5ex, I think the rarity one is worth something as well, but not sure.
+It's insanely fast, I hit lv 95 in 3 days /played and I was afk for at least 8 hours, you can use Barrage linked to knockback to get them into position, if they are in the open field KB will be pathetic :P, you can use a 6l Barrage if you really want for such fights, but it's easier just not doing such bosses.
+Try it, you can easily respec into magicfind/windripper if you want to go down that route later on, if you want to self sustain stuff like Shaped Underground Sea you'll need to kill the boss, fortunately, she stands right at a wall and can be easily deleted by pointblank KB!
+For starters, stuff with 2 or maybe 3 resists and HP or energyshield will be worth at least 1c, much more if the rolls are good (90%+ combined resist, 80+ HP), on boots people often want movementspeed, preferably 20%+. It takes time to learn what mods might be good for different builds, playing different ones will teach you what other people are looking for.
+You could swap GMP for Slower Projectiles for bosses, should be a huge ST buff.
+Chin Sol Ele Hit seems pretty bonkers too.
+Are you picking up 6 sockets? Even without chisels/sectants I have at least 500 jewelers after 72 maps.
+Occultist has a passive that gives you 1% ES regen per enemy killed up to 30.
+Maybe it was just bad luck :P.
+I don't think you can fix the weaponswap keybind mess up, maybe someone knows how. Mana multiplier of 115% just makes your skill cost 15% more mana, there is one support that does the opposite, Enlighten. Pretty sure you absolutely can't sunder with a sword in the mainhand. If you use a skill that only works with swords, lets say reave but you have a mace in your offhand you will always just attack with your Mainhand (for reave you can switch mainhand/offhand I think). CWDT is cumulative and works on ES. You can use alteration orbs on chests if you want the mirrored mod, but it's not worth it :P.
+The main reason for that change was to kill elderrings, I can understand why they did it.
+Yeah, *technically* if you have a +2 box in a lv 33 zone it should be able to drop an Exalted, I don't think anyone wants to test that tho.
+No :P my first ex drop was on a T6 beach map.
+Yep, if you have increased ele dmg on your tree that also affects the weapon (unless it says just for spells).
+Many red maps have imo a bad layout or bad density (hello acid lakes), most people prefer to shape a map to T10 or T11 and run those, everything dies fast so XP is great. High atlas bonus makes sustaining those T10/11 much easier.
+If you want to MF farm I'd suggest first shaping Relic Chambers, then uncomplete T3 and T4 maps except Burial Chambers, make sure you still have about 70% Atlas bonus, uncompleting can be expensive but it's going to be cheaper than buying the maps all the time. For starters, buy a 15% iiq Sadimas and the cheapest Goldwyrm with the highest iiq you can reasonably get (18% ones should be 5-10c, 20% ones cost 60+) , then get a good rolled thiefs torment. For belt you can go Biscos Leash or a Stygian Vise to help with resists, helmet you can go Devotos or Lightpoacher (2 socket might be too expensive), for quiver you can often get one with crit, some ele dmg and some resists for quite cheap. Be sure to still have a bit of currency left over to get a few Abyss Jewels with ele dmg on attacks and fill all your Jewel Sockets with them, you can try to grab a bit of resist here if you need to. That should be plenty to get you started, the most expensive part will be the uncompleting and Tabula (you can also try to see if you find a corrupted 6l for cheap).
+Spectres are insane for clearspeed, you can hit 8k effective HP very easily even with Vis Mortis and Bones, you basically don't need any form of damage other than links and a single unending hunger to clear T15s, buffing Bones or Vismortis / making them obsolete would catapult Spectres to completely broken status.
+I always park as far away as possible, someone still managed to literally punch his door into my passenger side, since it's a lease I'm 600€ down, obviously whoever did it just fucked off.
+I think you're right, those divcards easily were 50% of the Exalted source for people farming vaults, nerfing them resulted in Exalted Orbs being much rarer.
+I've got 7 or so already, granted I'm MF ing but two of those were on my Necro (non MF), I don't think it's nerfed.
+Had that last thursday, massive lag herald of ice in some instances, in others it was fine, seems fixed now.
+Thats about normal, you got unlucky on the doctor but lucky on exalts.
+Try it without conc next time! Clear is much better.
+Not one of, usually the best :P. People often spend insane amounts of currency trying to make a perfect item (sometimes they find it almost perfect, if they are lucky) they can then put up those items for "Mirrorservice" where players can trade those people a Mirror (and often a fee) to mirror that item for them.
+I think it's always 7 seconds for it to go off.
+There is, people offering Mirrorservice often have Forum Threads going where people can vouch for them, they'd be stupid to scam someone however. A Mirrorworthy item usually nets you much more cash via the Service than one Mirror, it's not worth to destroy their reputation over that.
+Same here, got one in literally the first 10 maps, the next day I got two more within minutes, the first one didn't even sell yet, then nothing for the next 350 maps :P.
+People underestimate IIR, you really feel a biscos not just in the quant department.
+For leveling/questing frost is usually a bit better, for Arcane you might have to kite and go off of momentum from previous mobs
+Some german cars have a 200-250km/h artificial limit where fuel is cut, some manufacturers offer options that "coincidentally" remove this limit, for BMW it's called the driverspackage I think, might be what the autobahn version is for VW.
+Did you profit 20ex or did you loot 20ex? Huge difference.
+100c really isn't that much, you have the entire league to do it.
+&gt;Burial Chambers Map And it's red PepeHands.
+I'm one of those people, raided all of legion, quit in BfA, it's just not fun man.
+BfA managed to get many people to quit, including me, that played through all of WoD. The big difference between the two is that WoD had very little content, BfA does have content but it's absolutely miserable to play, I honestly wouldn't be surprised if WoW dies to BfA.
+Glacial Cascade Mines can reliably get to shaper oneshot levels.
+Delve the way it is won't go core.
+Look at any build you like, for now, be careful about anything using statsticks (builds that use rare shaper offhands with multiple mods of "gain x% of physical damage as element") and be careful about poets pens, those are due for a nerf as well. Other than that other builds should be fine.
+Yup, works pretty good, you can also choose either Pathfinder or Trickster for TR. Edit: Jugg, Champion and some Scion combinations are probably viable as well if you want to be more hipster.
+Imo Arc has a bit better clear, damage while leveling is pretty bonkers, even on a 4 link Kitava will at best get off 2 abilities.
+Some Scion combinations are really strong, Scions version of Jugg, Champion, Slayer, Raider and Elementalist are all very strong, in some cases the others can be just as strong, plus having easy access to the 3 Sockets in the Middle is really strong as well in combination with [[Might of the Meek]].
+Might be the Betrayal (next league) prepatch, the current league just ended (servers should be back up in 10-30 minutes).
+Look into caustic arrow/toxic rain/herald of agony builds, not very likely to get nerfed and really strong without much gear.
+You still get dual wield bonuses, plus two strong 1h are still better than one strong 2h iirc.
+The best way to start making your own build is playing a few made by others so you get a feel on how to scale damage / defense, making one on the first playthrough is destined for disaster.
+Just due to the existence of flat ele jewels I'd argue that you can get almost everything to at least high red maps.
+Grab the Spiritual Aid node, grab a often hitting spell (Ball Lightning with slower proj is perfect) and link it to lesser poison, then just get an Agony Crawler and you're gucci.
+If you really lost one contact support, usually all your tabs are just moved to standard and tagged as "remove only".
+Maybe you can still do some crazy ele conversion stuff with some items, can't shake the feeling that we are missing something here.
+People are overreacting imo, the HoA thing is just another example, instead of slower expiration you just have to find a way to stack them faster, there are builds out there that poison so much hitting the cap is no issue at all.
+What if they buff the shit out of DW to compensate 🤔.
+If Toxic Rain doesn't get nerfed I'll most likely play that.
+Rank 1s are still impressive if you didn't pad. No anount if RNG will make a green parser get anywhere close to 90, let alone rank 1.
+F for my dear friend, I'll keep one for old times sake in my stash.
+They kinda did with the whole Statstick thing.
+What you could do previously in PoE is use a one handed Skill that only hit with the Main Hand (Sunder for example) in your Off Hand you could wear special rares that had multiple mods of "Gain X% of Physical Damage as X Element", that way you could easily get 80% as extra Ele and more. Alternatively you could also use a Skill like Reave, that normally uses both weapons, but if your offhand wasn't eligible for that skill it only used your main hand (in Reaves case a mace or axe) allowing you to do this with any melee skill. Now all melee skills use both weapons and if your offhand isn't eligible for that skill you can't use the skill at all, and on top they nerfed how high those "Gain X phys as ele" can roll by half.
+poe.trade is very popular. Last time I played pure Phys Cyclone Kondos was really good, the only reasonable upgrade was a Starforge.
+In the bottom left corner of the skill tree in PoB there's a drop down, sometimes people make leveling trees you can select there! If there are none, check if there are any "must" keystones/nodes. If not just go for HP/DMG depending on what you are lacking and avoid travel nodes (stuff you don't really need like just 10 strength nodes) unless you need them to reach something juicy.
+Most arc trapper 3.4 builds should work just as well in 3.5!
+Totems are included iirc, minions never ate unless the node specifically states that it affects minions.
+Mathil and Engineering Eternity both make somewhat noob friendly builds you can easily follow.
+I didn't really mean noob as in easy to play but easy to follow. Many builds in PoE are designed to go fast since going faster means you are more efficient which in turn means you make more currency!
+Now I want someone to do Flicker RF Berserker.
+Arc traps is actually quite fast, you just throw a trap on top of a pack and shield charge ahead while they explode.
+Yeah, if you get close to the same DPS in PoB as before it's about the same.
+Looks like a solid guide, Arc Traps are quite straight forward tho, grab a Tabula link it with Arc - Trap Support - Cluster Traps - Added Lightning - Lightning Pen and whatever PoB tells you is most DPS (probably inc. Crits). Slap some good spell scepter or mace on it (Doryanis Catalyst is a good budget choice), cover resists/hp with the rest of the slots and you're good to go for at least T10.
+It's still global!
+I'd assume it's the same debuff, but not sure at all.
+In SSF you're better of doing a build that can work on rare only gear.
+Check out Engineering Eternity for a few beginner videos. Some safe beginner friendly builds include: Toxic Rain (was nerfed indirectly so beware). Arc self-cast Elementalist (check the Forum for Enkis Arc Witch, it's very detailed). Arc Traps / Arc Totems. Essence Drain + Contagion.
+You can apparently craft +1 totem on shields so it was effectively just moved somewhere else.
+For the M E M E S of course.
+Worked perfectly fine for me except for that time GGG was DDoSd, maybe it's your gateway?
+I still think KB is very fun, it was nerfed for Single Target, but all you need to delete packs is a Piscators and Tabula!
+I'll go with Oros Flicker Scion (probably Jugg+Champ or Slayer). And level as Sunder or MS.
+Heretics! Flicker is the one and only saviour!
+You have to stand close with Barrage since you have lots of spread on it.
+They are your damage.
+The vendor will trade you that weapon but with the x% increased phys dmg mod, pretty good for leveling
+Just play Arc Traps, grab Trap nodes near Sabo and go for life with the rest of your points and your good to go.
+It's still going to be pretty strong for leveling, bit worse than before since no stat sticking.
+Faster ES recharge start can be really strong with some other uniques!
+I don't think so, most alternate now.
+Caustic Arrow doesn't need any unique as well, now that Quill Rain is nerfed you won't even miss one for singletarget.
+And from the sound of it, she's doing some fucked up shit to them.

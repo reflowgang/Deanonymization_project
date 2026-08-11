@@ -1,0 +1,25 @@
+Because it increases the usefulness of bitcoin and therefore its value.
+&gt; into either the 1mb chain or 20mb chain or both
+&gt; I want to design for the worst case Are you? Are you designing? Are you working on bitcoin? Do you contribute experimental or simulation data to the mailing list? Are you sending pull requests?
+It was an honest question and I haven't talked to you before, so I don't understand the hostility. I specifically quoted this part of your sentence: "I want to design for the worst case" and asked my question regarding that. And the reason I ask this question is that you make it sound like you're one of the core-devs with all and absolute answers to any problem in the bitcoin space. But personally I don't see you anywhere other than on this sub reddit, unless you use different names there. Hence my question. One of the complaints Rusty Russel had when entering the Bitcoin space was that there is so much freaking noice and it's nigh impossible to distinguish self proclaimed arm-chair experts (if not flat out trolls) from the few truly knowledgeable people.
+And c is the portion of full nodes run by people over 18. And d are the trolls on Reddit. O(abcdn^4)
+Unfortunately that's what the sheep following him think. In the meantime he's just a huge distraction wasting valuable developers' time.
+You've been explained exactly that a million times, but you chose not to listen. Your loss.
+Lies. Doubling is already in progress.
+If you read this as "quit whining", the whole freaking post is one huge whine. Definitely not honest or less despicable. Well, I guess it still could be if we never heard from him again...
+He's talking about the "scaling problem", not about scaling. And that's the whole problem why people don't understand and why they're judging things only by superficial promises of endless rainbows. If you blow more air into a party balloon you are scaling. But you're not changing the scalability. The "scaling problem" refers to the fact that it's going to pop at some point! To improve scalability you need to improve the quality of the balloon. Thicker skin, better material, etc. THEN you can start inflating again.
+Yes LN can run on Bitcoin as it is now. Maybe if you would have invested 1 hour of your time to listen to for example the initial announcement presentation video of LN instead of wasting your time listening to trolls, then you would have known not to parrot lies and FUD.
+Actually no. He's a valued member of this community and a voice of reason. I can't believe people can remain that calm in the face of disgusting trolls. You on the other hand...
+You can leave that to PeterR... UNLIMITED!!!!11 He's already scientifically proven that no limit is necessary. Well maybe not peer reviewed... well... ignoring the peers that had any comments... well... maybe not at all... but still ! UNLIMITEDd !!!1!
+Lies. FUD and ignorant parrotting.
+That's because it's much more efficient with malleability fixed. But it can be done without.
+Lies. It's so amazing how you trolls come up with your lies. From the very first announcement of sidechains it was said they're not for scaling. But don't listen to me. Don't check it for yourself. Ignore it and repeat the same FUD tomorrow like a proper troll.
+Sure then don't educate yourself. Your loss. Poor people reading and believing your bs though.
+The word scalability appears twice in the document, both not in the context of scaling Bitcoin with sidechains.
+Smart people already have. They're bogus as well as the writer. You don't need an academic background to recognise the butthurt 3 year-old tactics.
+Then how come any post by R screams butthurt ego?
+That's what underway means. Shit takes time you know.
+&gt; You could (implement LN without a TM fix), There you go. You educated yourself. Congratulations! Cookie for little horsie.
+The general code exists for 6 months. It's being adapted and fine tuned and debugged. Bitcoin is a million times harder than normal software and you can be sure that even Microsoft takes their time with updates, so it shouldn't be surprising that it takes some time. Besides that huge amounts of time is being wasted debating trolls that spread misinformation and lies and thereby confusing everyone.
+That whole site means absolutely nothing if actual developers and others that know what they are taking about don't join (and that means Core, Blockstream and some others). And tbh I'd seriously doubt they'd let themselves be lured into another sesspool of a miss america competition.
+The whining is large in this one.

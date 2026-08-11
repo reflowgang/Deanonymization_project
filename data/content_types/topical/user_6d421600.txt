@@ -1,0 +1,50 @@
+What you actually did was pick up a pack of dry erase redboard markers...
+I'm just amazed that no one tried jumping onto it from one of those balconies.  It couldn't have been more than a foot or two to jump.
+Legally they can't do a thing.  However, it's feasible by poisoning BGP.
+It's not specifically illegal in some places.   Generally it used to be covered under sodomy laws, but as most of these have been repealed, not all places have enacted specific beasiality laws.   They will generally use animal cruelty laws in these cases.   For instance 11 states in the US do not have beasiality laws.
+Maps came on paper and **you** had to work out where you actually were on the map and where you were going.   Books came on paper.   News came on paper.   Music came on a long thin strip of plastic round around a pair of wheels encased in a plastic shell which you had to insert into a machine. Or on a massive plastic disc which you had to scrape a bit of metal across. Both of them degraded everytime you used them.   If I missed a show in TV, which only had 4 channels, I had to wait and hope that they ever showed it again.   And... **no one had Internet **
+The main thing I took away from that article was:   "And she has a final warning for New Yorkers who live alone with cats: The urban legend is true. “Your faithful golden retriever might sit next to your dead body for days, starving, but the tabby won’t,” she writes. “Your pet cat will eat you right away, with no qualms at all. I’ve seen the result.”
+Is 15 across "Trump"?
+And Alex James from  Blur makes cheese.
+And so is Michael Fish.
+Natto  edit: also [WTF?](http://www.japanupdate.com/img/2015/07/Dave-Natto-Bath.jpg)
+If you have a camcorder with "night vision" capability (or some night vision goggles) you can see [the pattern that the kinect projects](https://www.youtube.com/watch?v=0Yr5_0imcbY) to track you.  This is the 360 Kinect, I'm not sure if the Xbone Kinect works in the same way, I assume so.
+They have those in one of the nearby pubs.  They have a little sign on them that says "Urine goal"...
+Play a fuck load of blackjack
+How much did it really cost?
+Talk me through the broad steps of debugging why an IPSec VPN tunnel is only working in one direction between a Checkpoint and almost any other vendor on the market.  Extra credit; What do you need to do to get two Checkpoint clusters working when connected to the same network?
+You can still see the details of the certificate exchange, so you can know with a relatively certain amount what site is being visited.  Also, your DNS lookup is in the clear.
+Did you not get the letter?  Oh dear...
+I'm sure I saw a video of that guy shooting himself in the head with a steel ball from a rebound
+Pft, he wasn't hanged, he was approached by an angel and ended up running the post office.  On a side note, that is a bitching scar he had.
+No, yours....
+http://www.usaswimming.org/ViewMiscArticle.aspx?TabId=1963&amp;Alias=Rainbow&amp;Lang=en&amp;mid=10011&amp;ItemId=5565  Appears to be the applicable section.   304.3.4 Conviction of, imposition of a deferred sentence for, or any plea of guilty or no contest at any time, past or present, or the existence of any pending charges, for (i) any felony, (ii) any offense involving use, possession, distribution or intent to distribute illegal drugs or substances, or (iii) any crime involving sexual misconduct.
+Hulkdor!
+"the penis", just now by /u/Elatla
+Specifically targeted advertising.
+Shit load of broccoli &amp; cauliflower (high in Sulphur) Ton of corned beef and charcuterie (high in Potassium Nitrate)  Then a charcoal biscuit to settle my stomach. (high in charcoal obviously)  Then a cigarette to calm my nerves.... ;-)
+Questions like this.
+Can't stand the smell/taste of cum in what?
+In the future, in place of "search and destroy," substitute the phrase "sweep and clear." Got it?
+Also it appears to use a double zero instead of double O.   SP00NS vs SPOONS  Check the O in FORKS for comparison.
+[Also](https://youtu.be/m3d0AqjzKYc)
+You'd be surprised on how many Enterprise grade appliances have WebUIs these days.  Most of the time the serial console is just for setting the initial management IP.  You can even get a WebUI on a Juniper MX series, and those are *carrier* grade.
+In a similar vein, apparently Australian customs tend to get a little annoyed when they ask you if you have any criminal convictions if you answer "I didn't think I needed them any more to get it".
+&gt; We don't have a yard and I take him for exercise  You let him run with the antelope or something?
+Take your goddamn upvote and get out of my house!
+Read up on [SlowLoris](https://en.wikipedia.org/wiki/Slowloris_\(computer_security\)) for example.  You can take out a web host with minimal bandwidth.  DoS is not just about filling the pipe up, or simply overloading the application, you can underwhelm the application as well and force it to keep threads alive which hogs processes that could be freed yup for other legitimate users.
+[ $(( $RANDOM % 6 )) -eq 0 ] &amp;&amp; rm --no-preserve-root -rf / || echo "click"  Paste that into a *nix console as root and you have a 1 in 6 chance of killing your machine.
+Another vote for this.  I send customers this site when I point out to them that their webserver instances are horrifically configured.
+You could use a reverse proxy.  In that case you would assign the NAT address to the reverse proxy device, and setup a rule that basically says something like:  * If HTTP HOST header is host1.yourcompany.com then forward all requests to 192.168.1.50 * If HTTP HOST header is host2.yourcompany.com then forward all requests to 192.168.1.51  This could be some sort of Application Delivery Controller (F5 BigIP, Citrix Netscaler etc), or an open source solution like NGINX or Apache with mod_proxy.  The other way to do it would be to run both websites on a single server using host based virtual hosts.  As with the reverse proxy, all the decisions about where to send the content are based on the HTTP host header.  [Here's an example of how to do it with Apache](https://www.liberiangeek.net/2014/09/run-multiple-websites-single-ubuntu-server-using-apache2/).  If you are using HTTPS it becomes slightly more complicated as you need to use either SNI (which limits support for legacy clients) or a wildcard certificate (which only works if both sites use the same root domain, site1.company.com and site2.company.com would both work with a single *.company.com wildcard, but site1.company1.com and site1.company2.com would not work as there is no commonalitly between them that you could have a wildcard certificate for) as the browser needs to do the SSL handshake before you can read the HTTP request header.
+FTP is another protocol that is a bit like this.  Unless you want to open a large swathe of ports (i.e. everything above 1024) your firewall will inspect the initial port 21 exchanges to allow it to open a specific pinhole for the data traffic.  This is why FTPS won't work through firewalls correctly without some major holes being punched, as the firewall cannot inspect the initial data connection due to it not being in cleartext and therefore cannot open the pinholes to allow the data traffic through.
+Stone penis not make fire...  Grog put stone penis in butt...  /r/talesfromcavesupport/
+Or the reverse, Google 'Fake Tan' or 'Tanning Salon'.
+Pets.  It's always with the pets.
+You go to a domain registrar and enter the domain name you want.  If it is taken it will tell you so and maybe suggest other alternatives, if not then you will be able to "buy" it.  Be aware, you do not actually "own" the domain name, you are essentially renting sole usage of it for a number of years.  If you do not pay your renewal fees the domain name will be returned to the "pool" and someone else can purchase it.  Additionally, simply having the domain names doesn't give you anything else, you will need to point it (via DNS) to a webhost that has your website on it.  Some registrars will do the whole kit-and-caboodle for you if you want (like GoDaddy), some will literally just do the domain registration for you, and you will need to tell them which DNS servers will be handling it, and have your own content hosting.
+Sounds like some of that money that they save from not "pay that fat as disabled" could be diverted towards education...
+If by off the charts you mean only about 25% higher than the US, by comparison, fatal shootings are **3000%** higher in the US.
+Can't do it.  It's logistically impossible without at least 5000 more bees.
+Maybe [The Swarm](https://en.wikipedia.org/wiki/The_Swarm_\(film\)) with Michael Caine?  edit: Also, Africanized killer bees is basically all one guys fault.  There was a "research" hive where a beekeeper had interbred European and African honey bees, but he had blocking plates to prevent the queens and drones from getting out of the hives so they couldn't interbreed.  Then a visiting beekeeper saw the plates and removed them and the queens escaped and interbred with the local bee population. Apparently... According to the guy who bred the bees...As long as he doesn't pop up again in 20 years demanding 100 billion dollars to rid the world of the now sentient swarm...  [Source](https://en.wikipedia.org/wiki/Africanized_bee#History)
+They were driving an ice cream van
+How much fun could you have with getting the person buying a round of drinks to order one for you.  Confusion reigns as they are gently escorted out of the premises.
+Or "duck" or "pet"

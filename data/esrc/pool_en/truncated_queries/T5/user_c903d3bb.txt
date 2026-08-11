@@ -1,0 +1,100 @@
+7 horrifying facts about how cotton is made, 90% of people are too scared to repost this!
+Cement. Then you can't even break it open.
+It will expire.. and be expired for a few days, then be renewed.
+Well, the vote is only delayed. They will vote it back into effect soon.
+I just beat it on my first try. it passed all but one. and that one was wrong. I got 100%
+Gak?
+Did anyone else come here thinking that the redditor was an eight year old?
+So now i have to be scared of spiders AND invisible fire??
+You first need to log in using the xbox app. After that, windows+G, or the xbox button if you're using an xbox controller, should open up the game bar.
+I'll let them keep the newlines if they stop making paths and commands so insanely long. /usr/bin/vim "C:\program files (x86)\notepad++\notepad++.exe" /home/sy029/.config "C:\users\sy029\application data\roaming\" apt-get install vim Install-Package -packageprovider chocolatey vim fdisk /dev/sda (n, p, 1, 82) diskpart (select disk 0, create partition primary id=0x8)
+Yes, and you can also set a variable for any folder. My real point is that Microsoft uses very long descriptive names for everything.
+Also Microsoft is introducing MSAscii™, the full details are actually under an NDA, but one change is that the \r will now be 0x07 in hex, replacing the unused Bell code.
+I actually gave up in the middle of season 1. As soon as pretty much every character turned out to also have powers I lost interest.
+I make chili all the time, beans, tomatoes, meat, spices, and you're good to go. For Japanese food, I make instant curry all the time.
+Northstar Cafe?
+&gt; Facebook announced an ambitious plan, got a ton of publicity And then the article calls it "secret"
+I prefer potplayer.
+Probably depends on the reason you're having trouble. Basically blue light signals our brains that it is daytime and we should be awake. Take away the blue, and we switch to night mode.
+If you need to change settings somewhere in the registry it might as well be considered true for a large portion of non tech savvy users. One of the biggest issues I see are with people on bandwidth caps. I bet they'll be real happy to see a quarter of their monthly data cap taken from windows downloading a new service pack.
+The online is pretty dead if I recall.
+The "best" answer is to try a lot and then pick one. The useful answer is to start with ubuntu. It is probably the best "it just works" distro. It will let you get a feel for what linux is, and what kind of things to expect. After that, if you decide you want to go further down the rabbit hole, the sky is the limit.
+I don't think you can call on mobile. The same way collect calls and 1-900's are generally blocked.
+If you want non-free video codecs and proprietary drivers maybe. But in general Ubuntu is still more stable than Mint I would say. Even though both are extremely solid.
+I was on 10130, for me, the audio caused games to skip. If there were a lot of sounds going on my frame rate would severely suffer. It is probably more of a driver issue than anything else, but for me, it makes things unplayable.
+I had a dual citizen friend who came back to japan about 4 years ago. First thing city hall did was ask her to choose. She basically said "I can't make that decision so quickly" They never asked again.
+On any given day I can walk into yodobashi camera and they have an entire aisle of mechanical keyboards. I didn't think there was a shortage at all. Maybe you should check online?
+I find you get more imaginative answers with crazier situations. Don't give them an open question. Give them a choice and then have them explain it. Something like choosing between two super powers.
+I don't like doing 'touristy things' when I'm on vacation either. It doesn't mean that I want to do nothing. It means I don't care about things like old buildings or monuments.
+I want @japanfax back.
+I disagree with this. It's like telling someone who wants to learn how to drive that they should use a race car. Using an easy distro first will do absolutely nothing to get in the way if they want to use a more advanced distro later. Exactly the opposite in fact, as almost everything they learn on the easier distro will translate directly to a different one.
+I dated a girl once who wanted to be cut with knives or razor blades. I wouldn't do it.
+Isn't nova the one that recently has that really abusive contract? Like they ask you to reimburse the company for sick days? Edit: Maybe I'm thinking about a different company on the sick day thing, but there is [this](http://generalunion.org/Joomla/index.php/en/nova/1156-new-nova-contract-is-fishy).
+Have you tried using the windows 8.1 drivers? They will not be WDDM 2.0 (DX12) but they will probably work.
+Force a windows update on the laptop and see what happens. Really all that "reserving" your copy does is download it in advance, so that you don't have to fight with anyone else downloading on release day.
+Yep, take this sentence: "Hey, I've never tried X before, but I hear it's really good, how should I try it out?" Replace X with any hobby, sport, or piece of software you want. In probably every other context, recommending the most advanced, professional version, is not what people would do.
+Get ready, because your city tax probably went up too, or if it's your second year in japan... get ready to pay city tax!
+The only think I think you left out was translation.
+Or maybe the hand got a body transplant. /r/showerthoughts
+Can't say about release, but the current technical preview has a developer mode that enables sideloading.
+I remember reading somewhere the the whole elder scrolls series was based off of Bethesda's d&amp;d campaign. I wonder if someone could get the real deal from them.
+That card is about $400 here :( Damn Japan and high hardware prices, yet amazing internet.
+AMDGPU will fix the problem of drivers not being compatible with kernel updates, but will it fix performance as well? I thought The larger issue was the quality of AMD's opengl and Mesa.
+Looking at the source code I see: -a: accident -F: fly -l: logo -c: C51 According to the changelog, -l used to be "long." In the current version it is not. Possibly the option was removed.
+I know, but what I really want to know is, is there some easy way to automate this, other than going through the list of dependencies and manually installing them?
+A different model of train. Images from wikipedia: [C51](https://upload.wikimedia.org/wikipedia/commons/6/63/JNR-C515.JPG) [D51](https://upload.wikimedia.org/wikipedia/commons/8/86/SL_20081207.jpg) Of course there could be many different versions of sl too. I was looking at [this](https://github.com/mtoyoda/sl) one.
+Japan here. It's the same situation. Kids learn to take tests very well, but never really learn to use what they have studied. Universities have super hard entrance exams, and then once you get in, you can slack off most of the year. I have met tons of Japanese college students who think that more than four hours of class a week is a heavy class load. A lot of seniors pretty much phone in their last semester and skip most of their classes because they are too busy looking for jobs. That's not to say that every university and program is like this, but it is very common.
+Japanese schools are all about tests. If you can't put it on a test and have an exact answer (i.e. no opinions or critical thinking,) they don't teach it. This is also why English education in Japan is so bad, even though everyone takes classes for six years. You can test grammar. You can't test speaking (with standardized tests.)
+The entire country of England recently banned anyone from Japan who took certain English tests as part of their entrance requirement because of the rampant cheating. Some test centers were literally a person standing in the front of the room reading the answers, while everyone else marked them down.
+Japan here. Exactly what you said.
+This is probably in reference to carrier lock. If your phone was bought from docomo, it can only use docomo's network, same goes for other carriers. Is the phone you're trying to use the sim in unlocked?
+Programming. If you have a pc, you have everything you need.
+Isn't getting fucked kind of the end goal?
+Is this a console issue or a font renderer issue. Why does it work in Konsole, but nothing else? And while people are throwing terms around, I'd like to shill for lilyterm. It even has a daemon mode, so that the rxvt people have no arguments to use against it.
+Or they could just put them on tops of buildings and not destroy ecosystems by blocking all the sunlight.
+It's not that they suck, it's that they are so good. When you have your first steam sale, you are buying like crazy. Super good deals on all these good games. By the time the second or third sale comes around, all that's left is the mediocre stuff you don't really want.
+My guess is they changed the free trial keys.
+[/r/snapdecision](http://www.reddit.com/r/snapdecision/)
+Definitely not. This is one of my favorite old games though.
+Nope.
+Not this one.
+Pretty sure it was available on MS-DOS, but not 100%.
+Shoes. When I was a kid my dad had a rule that any shoes I got couldn't be over $20. I ended up with new shoes every six months or so. Three years ago I bought a nice pair of Doc Martens. Still wearing them today.
+Even so, maybe its enough to stop it from moving onto the network.
+Mine says it's downloading at 8MB/sec (I do have gigabit) But It is really only downloading at 0.03MB/sec...
+That's actually slow for me. If I'm downloading a big game on steam I usually average 16-18.
+Yeah, that whole "connect to my contacts' wifi networks" is kind of scary.
+Microsoft may release with unpopular features, but they wouldn't release with major bugs. I'm sure it will be much better by release
+They aren't really apps. They are extra files required for other software to run.
+They should have a "not a review" button.
+iocane powder
+At least that means that there is some sort of system to it. It's not just something they put an ad in the paper for people who like clay and human remains.
+Those were generally black and white though.
+[Randomized Word Walls](http://www.nexusmods.com/skyrim/mods/43409)
+Not to mention unsolvable crimes are either not investigated or downgraded in severity in order to keep police statistics high
+Actually I don't think they will. It seems they are moving away from optional updating. I am guessing there will be ways to turn off windows update and use something else like WSUS for manual updates though.
+I'm a one-upper. I know you hate me, I try my best not to do it.
+http://chocolateandzucchini.com/ingredients-fine-foods/43-things-to-do-with-fresh-shiso/
+Dedicated servers yes, games no.
+To me the web search results are annoying. I like benig able to hit the start button and type a portion of what program I want to run, then run it. I don't need or want to search the web in the same way that I launch programs. Maybe some people do. Not to mention that cortana uses bing. I don't have a problem with bing, I just find that google gives me much better results. I don't really have an issue with using a MS account for login, but I just wish it would stop saving and trying to sync my settings between computers. Even if I turn it off on each computer, it is automatically turned back on when I do a fresh install, and I can't find anywhere to actually delete the saved data. Also with a MS account don't they store all your encryption keys on their server? I know if you use bitlocker, you can gain access using a key on your MS account. Seems like a great way for someone else to crack your encryption as well.
+Right click on the start menu and click disk management. Find your windows drive.. Does it list "system" and "boot" as the things there?
+Japan: Don't be a dick. Seriously. I'm looking at you, Americans. Also don't [get drunk and trash a koban.](http://www.reddit.com/r/japanlife/comments/2vn6o4/why_are_there_no_police_in_the_police_station/)
+If the game ran the with the same performance and quality as windows, I wouldn't care if it was a wrapper.
+I can't find any info about it on the net, but I remember a period of about a month in the early 00's. Every week or so there was an accident on the freeway, a random person would get on going the wrong direction, get in a crash and die. None of them were drunk, a few were old, but there was never any reason found for them to have done it. At one point they announced that the police were trying to find anyone who had information about why this was going on.
+We also use it when we buy soda, but not milk.
+The "YES" Tim's reply is very wrong. If the game is not multi core, it cannot be changed into multi core. You *can* (probably) reserve a single core, so it isn't shared by other software. But if the game was designed as single core, it will ALWAYS run on a single core.
+So the answer to OP's question is No, it will not make single threaded software multithreaded. You don't state this anywhere that I know of as a feature of your software, I have no idea why you are avoiding this question.
+Only Two spaces actually.
+I'm sure I'm a little behind on what "the kids" are listening to at this moment, but these are generally safe bets. [Memeshikute](https://www.youtube.com/watch?v=vvepe04Dbh4) [Heavy Rotation](https://www.youtube.com/watch?v=lkHlnWFnA0c) [Joyful](https://www.youtube.com/watch?v=wsvNsfPZPiE#t=2m30s) [CHOO CHOO Train](https://www.youtube.com/watch?v=Rs1ynO9x0OA) [Zankoku na Tenshi](https://www.youtube.com/watch?v=gulpzigFT_k) [chiisana koi no uta](https://www.youtube.com/watch?v=u8EkSB9zSpE) [Kiseki](https://www.youtube.com/watch?v=DwTinTO0o9I) I like throwing people off by singing the [Andrew WK vesrion](https://www.youtube.com/watch?v=zcJXZyoFnkg).
+Sierra anything. If the title has "quest" in it, you've got a winner.
+&gt;domain holders with sites associated to 'commercial activity' In other words anyone with a .com
+I'm under the assumption it will be anyone with a .com. Checking and verifying the financials of every person who has registered domains would be way too much of a burden. Instead they will probably force it upon anyone registering TLDs that are technically for businesses.
+And every four years when the president changed, we would need to murder the aide anyway to make way for the new staff.
+Can you tell us anything else? Art style? type of game? Is it on [this](https://en.wikipedia.org/wiki/List_of_Nintendo_64_games) list?
+For me ,the Microsoft drivers will randomly crash with a message similar to "your display driver has recovered from a critical error" When this happens, most the software I was running will just be blank windows, and the start menu will not open until I reboot.
+It only happens when I have the wddm 2.0 drivers. Restarting explorer only half fixes it, some metro apps (including windows update) will refuse to start. Only way to actually fix it is a full reboot.
+With no tiles pinned, my start menu looks like [this](http://i.imgur.com/3kdWIaQ.png). Not sure how anyone could argue that this is a better alternative to the windows 7 style. At LEAST let the app menu use some of that free space on the right. And let me open the app subfolders on mouseover instead of clicking. I have a feeling that the start menu is going to be the new desktop, apps will all start coming with some sort of annoying live tile that they'll throw in there. All this being said, I look forward to filling that space up with useful live tiles... I just haven't found many yet.
+You can also drag it off the task bar into the notification area.
+This makes sense for states that are no longer arresting for pot, but what about states like Colorado which have full legalization with shops? And couldn't the federal government sue the state for not upholding the laws that they set?
+&gt; A few counties have already done this. And soon people who live there will start complaining that legalizing gay marriage has ruined regular marriage.
+Oh, I did not know that. I actually use a few live tiles anyway, just removed them all for a comparison.

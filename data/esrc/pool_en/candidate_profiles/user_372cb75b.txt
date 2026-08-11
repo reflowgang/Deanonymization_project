@@ -1,0 +1,500 @@
+Except \[\[Ugin's Nexus\]\] ;D &amp;#x200B;
+The only requirement is that there are 5 extra turns, and then the game ends. Which player actually \*takes\* those turns doesn't matter ;)
+If you're putting 3 or more, then tend to make it random (rather than you choosing the order). While it probably does help out digital a little, their \*stated\* reason for doing so is so that paper games don't get slowed down to much with somebody thinking over the decision for a long time about something that isn't \*actually\* likely to matter.
+There's also other neat wrinkles like: If Dead Weight is your 10th permanent, you'll get the City's Blessing (assuming you have something with Acend, ofc), even if the Dead Weight's -2/-2 then kills the creature it was on immediately. Similarly, if you have a 2nd copy of a Legendary permanent enter, you'll get the City's Blessing even though the Legend Rule will nuke one right away.
+Either use Galaxy, which can manage updates/patches automatically for you like Steam does, or you should just be able to download a patch executable from the GOG website, if you don't want to use Galaxy.
+&gt;Her thing is assassinating ghosts. &amp;#x200B; \*And\* eliminating despots/tyrants, \*and\* getting rid of beings that have over-extended their lives beyond their natural spans. The Ghost council are \*super\* (re)dead. &amp;#x200B;
+Here's a recent post from Maro giving a quick-and-dirty explanation: [http://markrosewater.tumblr.com/post/180506784233/i-have-been-thinking-about-symbology-in-magic-can](http://markrosewater.tumblr.com/post/180506784233/i-have-been-thinking-about-symbology-in-magic-can) The article Drilnoth link gives more of an in depth view.
+Yeah, while it's not a 100% accurate phrase in this case since they're not using the stack to respond to anything, "in response" to blockers should definitely be understood by any player in the way OP intended in, because in Magic, "in response" to something ALWAYS means "after" the thing (although usually before that thing resolves), not "just prior to" that thing.
+Domri has always been very young. In RTR, he was 12 or 14 (I forget which, but definitely no older).
+She was duped into that \*by\* Marchesa. Marchesa painted a picture of Brago turning tyrannical since his death (which wasn't entirely a fabrication - the best lies are based on truth), which was going to be a problem since, as a ghost, he was going to rule forever... unless someone did something about it. She totally concealed her \*own\* tyrannical leanings from Kaya until it was "too late"
+While she's not undead or a spirit herself, she's able to "phase" into intangibility (kinda like Danny Phantom) in order to be able to physically affect spirits... and assassinate them. She's a very "hands on" ghost-buster :D
+Humans on ravnica live to be much older than "normal" earth humans, for some reason. In the first Rav block books, Agrus Kos is like 100 or something, but physically more like what we'd think of being 50 or 60 (although a relatively fit one). On top of that, the Orzhov nobles specifically select/breed for even longer life-spans, and on top of \*that\* House Karlov (Teysa's) is basically the "best" at living longer. The "inbreeding" does tend towards physical impairments and deformities though. Teysa has a club foot/limp, and it's noted that she got off lucky compared to some of her relatives.
+&gt; all the colors other than black understand and accept the concepts of good and evil And of course, they don't all agree on which things/people/actions \*are\* "good", and which ones are "evil"... If a tiger comes to a village and eats a few people, White might think the tiger is evil, and make sure it's captured or killed, but Green would recognise that the tiger is just doing what it needs to survive after the village was encroaching on or despoiling the tiger's habitat.
+&gt;Cards can’t be moved between decks, so if you own multiple decks there’s no mixing and matching. Why not? The backs are unique, but, uh... sleeves? Presumably deck construction wouldn't be allowed in official tournaments, sure, I get that, but is there anything to actually stop people doing it for casual play?
+I mean more along the lines of players actually creating a type of "Constructed" format with agreed upon rules, like how, for example, 2HG or Commander started in Magic.
+OK, thanks for the extended explanation. I still kinda feel more like Keyforge is the "amusement park" in that stuff is already built and just presented to you as is, but it's then up to you to figure out how (or \*if\*) you can have fun with what you're given. Magic is more the "sandbox" where you're just given 20000 different cards thrown at you and you have to build \*everything\* from that on your own (of course, you can still get advice or even outright copy what other people have already done, but even that is your choice to do it that way).
+I've heard of the "Brown Note" but never the "Brown Sneeze" :O
+Yep, it's capable of finding the nearest closest match, although it doesn't always work 100% accurately. It also has some specific card nicknames and things programmed in as well, eg \[\[Bob\]\]
+Gatherer probably can't find it, because although it did exist as a real keyword at some point, it \*no longer does\* and anything that ever had it has been errata'ed back to just spelling it out completely instead, \*and\* it only existed for such a relatively short time (and was a bad drawback mechanic so it didn't get used a lot anyway), there's only a very small amount of cards that got \*printed\* with it, it was mostly added via Oracle errata in the \*first\* place. Something that has more searching options, like Scryfall, should be able to find the cards that had it though.
+r/theydidthecombatmath
+But here's what \*really\* happened
+"When the game started" Serra was the \*only\* creature with vigilance; there were no one drops with it. Antiquities added Yotian Soldier, but it wasn't until much later that it became a relatively common thing for White creatures to have
+&gt;Not to mention if MoP came out today you better believe that red pandas with their long tails would have been a rep locked "allied race" I'm still mad that only lady pandas got those tails, for no reason at all :|
+Fury and Watchess usually have a short convo about it as well when you get near them
+&gt;lust and only countered him/her(does Lust even have an assigned gender?) Usiel &amp; Fury (and maybe even Watchess? I don't remember) refer to Lust using singular "they" throughout. Lust's character design seems to be deliberately non-binary/androgynous.
+\[\[Fog\]\] is an older card that prevents all combat damage. "Turbo Fog" was a deck that just played many different Fog-like variants and/or ways to recur Fogs, so that it was very difficult to actually deal damage to that player, and then eventually win the game either by playing something like Banefire very late when they have tons of mana, or, in the original versions of the deck, using things like \[\[Howling Mine\]\] or \[\[Font of Mythos\]\] to both enable drawing into their Fogs \*and\* essentially milling the other player out (this is were the "turbo" part comes in - drawing lots of cards fast). The deck being played in Standard atm that's the spiritual successor of the Turbo Fog archtype uses \[\[Pause for Reflection\]\] and \[\[Root Snare\]\] as their "fog-like" (honourary mention to \[\[Gift of Paradise\]\] - not a Fog, but the life game fills a similar "stalling" role), and looping \[\[Nexus of Fate\]\] and/or Teferi as their "mill" win con.
+Yep, I agree. I was totally expecting the very cliche succubus sexy demoness type. This take on Lust was \*not\* that, and yet still fits perfectly as an embodiment of "desire"
+RIP in Peace, Vhati *il*\-Dal
+I mean... the tokens made \*by\* Hammer of Purphoros are already Artifact Enchantment Creatures, without any other shenanigans needed &gt;\_&gt;
+&gt;Actually, reddit has for a long time been prone to copypasta chains like this. From simple things such as "Cat." when the content is a cat, to comments like "nice" whenever the material is sexual innuendo - there is a general reddit culture for these things that spans multiple subreddits. Even in this particular sub, it happens with "Paul" repeated, or the chain of "WOW" "FUCK" "TRON", and those usually get upvoted too &gt;\_&gt;
+I've been playing Magic in Australia since 1994 and Australian Highlander has existed for about as long as I can remember. The "official" site for it mentions it's been around for "20+ years" which tracks with my recollection. Apart from the concept of singleton itself, Australian Highlander is probably one of the \*oldest\* variants with specific rules on top of just "only one" around. Canadian highlander specifically is younger for sure, Commander is as well. That said, none of the play groups that I've ever been in myself has ever actually \*played\* Aus Highlander, but it's always on the schedule for GP side events here at least &gt;\_&gt;
+Gross! How many is it?
+Seems dece for now, but has pros and cons. It's a reasonable number of decks to ahve to allow for formats/variety etc, but it also means a big unwieldy list to look through to find the one you want, without any kind of sort or folders etc. Also, over the long term (years), it's not really going to be enough :/
+You can sac the creature you steal, it's pretty much the nasty point of the card ;) The "trick" is that the sacrifice option doesn't target the creature that's getting sac'ed, nor is it an additional cost to casting the spell (like with \[\[Fling\]\] and \[\[Thud\]\]), so you don't need to chose what you're sacrificing until the spell is resolving, and since it resolves in the order written on the card, you'll have stolen the creature by the time you need to chose which dude to chuck.
+On the contrary, the gnomes used spirit-levels and various other unnecessarily complicated machinery to make absolutely \*sure\* that their moustaches were parallel
+\[\[Ghoulsteed\]\]
+&gt; run out of steam quickly. \[\[Runaway Steam-kin\]\]
+&gt;Right after pairings are generated, the table numbers can be manually changed, before being posted. &gt; &gt;A player can request that the Tournament Organizer to set a player's Table number to the last table. I don't know if she actually has a parent/guardian with her (although, given her age, I would imagine she probably does), but Dana Fischer usually gets to stay at the same table throughout a tourney, which I imagine is via that kind of arrangement.
+It could just be a coincidence. People speculated that Rashmi had some connection to Mishra just because their names are anagrams of each other, but that never went anywhere (or hasn't yet, at least).
+&gt;I wonder if Simic really suffers because of its color dichotomy. Green wants to tap out, and blue wants to stay open. Also: Green cares about creatures the most, Blue cares about creatures the least... which ends up being really awkward given that \*both\* of Simic's previous mechanics were \*entirely\* creature-focused.
+Those who something something history are doomed to repeated it
+And taking the Grow from the Ashes now will even \*help\* with fixing later, if you end up needing it, which still being a good/great card on its own even if you end up in "only" 2 colours.
+It being a creature \*should\* let it stay, but it still/also being an \*aura\* means it can't survive while unattached, no matter what else it is. Equipment of course doesn't have that restriction.
+Do they have to be 120, or does it work at any level as long as you have the Heart?
+iLvl is the Reason for the Season
+That's for the Allied Races. Is it also true for the new heritage armour for already existing "regular" races (Dwarves &amp; Blood Elves, more to come)?
+So, hypothetically, if I made a dwarf in, say, 2005, but never levelled it, then when Legion came out, used a boost to 100, and since then l levelled normally to 120, and today, want to go and do the dwarf heritage armour quest, I won't be able to? The game remembers that a previous boost was used several years ago? It just seems unlikely the game tracks that for the old races, but maybe it does \*shrug\*
+I would draw them, but no more than 4 lands. Just for the game to taunt me that little bit extra XD
+&gt;Is this similar to the core powerstone in the weatherlight? I haven't read the novella yet, but the phrase "condensed power of a destroyed plane" is \*exactly\* what happened to Serra's Realm/the Weatherlight's powerstone. And the recent Dominaria stories, and Tiana's interactions with the powerstone do imply that it does have \*some\* kind of awareness/intelligence/identity
+(Something she later came to sincerely regret doing)
+Or, or, or, get this, made up by a bunch of many different people over the course of 25 years in order to help sell a children's' card game?!
+The fight between Ugin and Bolas as seen in the M19 story is not the event depicted on Crux of Fate
+Is it jsut me, or does the "rocky" patches on the Zandalari shoulders skin still look \*super\* low-res/pixelated? I kinda hope that gets fixed some time before they're playable -\_-
+Huh. Honestly, that looks more like the basement of the SW Cathedral than either SW Keep or the Mage Tower, which would just be weird O\_o
+I was quite funny hearing those lines from him and thinking "oh, new voice lines implying the Zandalari aren't actually allied with us yet" and then turning around to accept a quest from some other nearby NPC that explicitly starts with "Now that we're allied with the Zandalari..."
+There were several other cards in Fate Reforged with the same "chose Dragons or Khans" mechanic, all representing the flux between the two timelines between Khans of Tarkir and Dragons of Tarkir. It was very cool how those three sets of the Tarkir block were structured: Original Present Timeline set, then Changing the Past set, then New Present Timeline set.
+&gt;They gave that guy a valid reason to join the horde at least. And even then, a lot of what happens with Zelling afterwards is implied to be him helping the Horde under duress. Lilian et al.'s comments about "you need to help us to make sure your family is protected" are very obviously veiled "we'll hurt them if you don't comply" threats rather than "we'll make sure they're safe from others" reassurances, just like the cliche "protection racket" schemes etc.
+And it's not like Tyrande just blew her (Sira) off and didn't bother to come. She got there as soon as she could, considering that she needed to complete the Night Warrior ritual first, and that the Horde were throwing themselves at her to slow her down every step of the way. Sira seems to take it as a personal affront that Tyrande and/or Elune abandoned her (although, she may have a point about Elune doing apparently nothing during the invasion of Darkshore/Teldrassil), but really it was just an unfortunate/sucky situation that Tyrande tried her best at, but still didn't make it in time.
+&gt;Delaryn had been rotting in a beachhead for half a year or more, while Sira's corpse was still twitching. Wow, has it really been that long in-game time since the Darkshore invasion? :O &amp;#x200B; &gt;By \*\*every bit of Undeath WoW Lore ever written anywhere\*\* Sira should've been bawling her head off in panic and yelling that she didn't want this and asking wtf was going on \*\*JUST LIKE IT HAPPENS TO DEREK PROUDMOORE\*\*, who is also raised by Sylvanas' Val'kyr. And yet, Derek has been dead \*way\* longer than either Sira or Delaryn, and he was killed by being \*blown up\* and then had his body at the bottom of the sea for like YEARS. There should be barely any corpse \*left\* XD
+Not to mention that the whole thing happens because Khadgar wants to free Garona from fel corruption/mind control \*even though\* it's not the same Garona that he knows/is friends with, and yet when that same fel corruption/mind control just then switches to Cordana, he's just like "oh welp, she's evil now, too bad, better kill her"
+They're actually called the Desolate Council, it's from the Before the Storm novel: [https://wow.gamepedia.com/Desolate\_Council](https://wow.gamepedia.com/Desolate_Council)
+All Tallstriders did, apparently
+There was, but not any more. Upper Deck made it between 2005-2010, then it switched to Cryptozoic until 2013, but it's no longer in production by anyone (and the existence of Hearthstone makes a revival very unlikely at this point, imo)
+Iirc, when the good dogoo mount (Shu-zen) was first spotted/rumoured/datamined/whatever it was, it seemed like or people guessed that it was going to be China only, but that ended up not the case. We can hope something similar for this one too, it's pretty :D
+And not only that, but Tyrande herself is explicitly Elune's "beloved chosen"; she's essentially exponentially more powerful than any other random Priestess of the Moon, even \*before\* the Night Warrior power-up. Elune has specifically intervened directly on Tyrande's behalf before.
+It's like a cross-over between Fallout and God of War XD
+Was it a new item that dropped since 8.1, or was it one you had from before the patch?
+Yeah, since you only got it after, it seems like it \*should\* but maybe you discovered a "fun" loophole :/
+And like any other seed, the first step is burying it
+By transacting with the Horde, it could be reasoned that they'd pretty much already picked a side \*shrug\*
+Sure, they can be upset at being attacked, but they \*don't\* get to claim "but we were being neutral!" when they clearly \*weren't\*. The Vulpera are (a apart of) a faction the Horde players are even gaining rep with! That's not "neutral".
+And even then, you can use Checklist cards
+Sadly, he's apparently now retired that cosplay, but I think he's also going to be working on something new, so definitely keep an eye out. Whichever character it is, it'll probably be just as impressive as the Karn :O
+&gt;Where are our Ho-Hos, Wizards?? I mean, Liliana's right there
+How could you forget about the Homelands powerhouse card \[\[Faerie Noble\]\]??
+The Great Aurora going back to being the Aurora and happening basically every day instead of once every several hundred years is actually \*better\* for future stories. If it only happens every hundred years, but \*just\* happened the last time were were there, then we wouldn't expect to see it happening again next time we when to Lorwyn/Shadowmoor (without a big time jump which they do less often now), which means that the interesting part of the plane - i.e. switching between them - wouldn't even happen. With the switch happening now basically every day, that means there's TONS of design and creative space to explore with something like Double-Faced Cards, which practically seem \*tailor-made\* to be on Lorwyn/Shadowmoor.
+They could even call it "Plane Crash". Shandalar could also be involved, since it "moves" and has the ability to become "closer" or "further" away from other planes. New Phyrexia is another option, since it's basically in a place where it could end up with \*world-engines\* given that it's now essentially one huge machine, and possibly has access to Venser's planar portal designs and/or Tezzeret's Planar Bridge.
+Hazoret, Scarab and Locust were all still alive at the end of the block. It's possible on a future visit the others might either be evil/eternalised, or possibly restored to how they were pre-Bolas screwing with them. Scarab, Locust and Scorpion were basically completely rewritten/rebuilt by Bolas, so it'd probably take a fair bit of effort to return them to whoever/whatever they were before, but even Hazoret, Oketra, Rhonas, Kefnet, and traitor-gator Bontu were altered \*a bit\* by Bolas; Nissa even seemed to have possibly discovered how to undo that, but that part of the story never really went anywhere before everything went to shit.
+Literally speaking (uh, as in, "related to literature" ;)), Cosmic Horror was basically the next step/genre to evolve out of Gothic Horror in the real world, so a Magic plane based on Gothic turning in to one based on Cosmic is a pretty natural progression.
+In the entire history of the Night Elves, tehre's been tons of tragedy and horrible stuff (demon invasions, queen turning evil, and then even more evil, world trees blowing up, well of eternity blowing up, etc etc), why is \*this\* the one that breaks Sira's faith in Elune just because Tyrande was 10 seconds too late?
+&gt;We know Necromancy is viewed as this abhorrent, horrifying magic but as players we have seen it so often that we don't even blink twice. In reality, if we were our characters or citizens within Azeroth, and we saw corpses being lifted from the ground in suspended animation, convulsing horribly until their eyes opened again, the blood from their death still caked on their face, we would be absolutely mortified. Canonically, \*our characters themselves\* have died at least twice (more for Forsaken and/or Death Knight characters) and then brought back to life... aren't we \*all\* undead now? &gt;\_&gt;
+Someone call Jack Skellington, this is a real Nightmare Before Winterveil DDD:
+&gt;has a very distinct bugle OwO what's this?
+Where are these \*supposed\* to go? I went in one once (before I stopped bothering with islands &gt;\_&gt;) and it was so huge and empty and had this "dead end" into the void. It was just so big and slow since you can't mount in there, and there is no Azerite to be found, that it's the ONE time I lost an island, because the 3 of us went in there thinking it was some kind of bonus, but then it just wasted our time with nothingness :|
+Agent.exe is usually a big culprit in this kind of thing, although since OP has fixed it now, apparently not in this case &gt;\_&gt;
+Just like the Conception!
+"Just"
+I don't have the mount yet, can you clarify: this is some kind of \*extra\* bonus that works with the joined group, right, not just being able to use the mount \*at all\*?
+&gt;toddler with a mohawk flipping you two birds. Domri Rade?
+The KLF AKA Kopyright Liberation Front AKA Justified Ancients of Mu Mu AKA a whole bunch of other things (a British band) once literally burned ONE MILLION POUNDS (as in, the English currency) cash. [https://en.wikipedia.org/wiki/K\_Foundation\_Burn\_a\_Million\_Quid](https://en.wikipedia.org/wiki/K_Foundation_Burn_a_Million_Quid)
+Separated at birth imo
+New deck incoming "Afterlife Aristocrats" virtually guaranteed. Aristolife? Aftercrats?
+Kaladeshi vedalken also occasionally have hair, which doesn't seem to be a thing anywhere else.
+MtG was also not invented to be played multiplayer. For a very long time at the beginning of Magic's life, all the multiplayer variants around were essentially rule hacks that different people had cobbled together, some of which ended up growing and becoming more popular than others, because Richard just didn't make any "official" multiplayer variants. It was pretty common to play multiplayer among your friends, but then end up trying to play it with a different play group, only to find out their variation was different and possibly not compatible, even if they were calling it the same thing (like "Emperor")!
+Assuming you do actually play on Alliance side, you will (in 8.1 stuff) :)
+\*At least\* 4 dwarf variants just waiting to be added as allied races (Wildhammer, Earthen, Iron Dwarf, Frostborn). Wildhammer are supposedly counted among playable dwarves already, but until we get their customisation options (either as an allied race, or as standard for existing dwarves), it doesn't count. The others could definitely be Allied races though.
+Wouldn't be the first time Blizzard have forgotten Falstad exists &gt;\_&gt;
+To be fair, the Void Elves' portals actually \*balance out\* the Horde having Oculeth's telemancy. Both sides have kind of ridiculous deus ex machina teleportation either in or out of places XD
+Not to mention that "Waldo" basically has a different name in every country anyway, even other English speaking countries, eg he's Wally in his native Britain and Australia (making his nemesis's name "Odlaw" kind of weird), Walter in German, Willy in Norwegian, etc. Most of them are variants or localisations of "Wally", so him being Waldo in the US is actually the outlier. Chances are the person with that name doesn't even get the reference anyway.
+Prediction, not conclusion.
+Steve: The Origin Story
+\[\[Mindbreak Trap\]\] ;)
+There is a difference in the display, but it's kind of subtle, so you have to know about it and be looking for it, and even then it's still not 100% clear. If a creature is damaged, the "reduced" toughness is coloured red. If the toughness has \*actually\* been reduced, the displayed number is purple. I can never even remember what it does when it has \*both\* (I suspect it's red). That said, it's still a really bad and misleading way of conveying damage on a creature, and I have no idea why they brought it over when they switched from Duels of the Planeswalkers to Arena, instead of doing something else, eg, how MTGO does it. There's \*at least\* one post a day in here and/or the Arena subreddit in when a newer player has "learned" that damage reduces toughness and has ensuing misconceptions because if it.
+I'm talking about just within the set, not Standard as a whole
+The new "silver" (previously brown) border for artifacts, and white for White cards were also SUPER similar at this point too; another thing that was corrected soon after.
+And Sorin.
+&gt;beside the structure? What's White about them besides the thing that makes them White?
+Because they're not doing the combining to achieve perfection or personal improvement, they're doing it so everyone is everything to engender a sense of community and togetherness
+&gt;how to best kill Cyclopes \[\[Eye Gouge\]\]
+Employers: \*treats employees/contractors as disposable\* Employee/Contracts: \*disposes of self/quits for next treadmill\* Employee: \*surprised Pikachu face\*
+It'd be hilarious if the reason for retiring the items isn't "physical" space of storing them (because ofc it's not that), but that the in-game storefront UI can't handle more than X amount of things to display, because spaghetti code XD
+&gt;3/3 trample and haste or 4/4 trample for 3 mana would be more than enough. \[\[Fanatic Of Xenagos\]\] was basically that (a bit worse, admittedly), and only Uncommon.
+Triggered abilities **ALWAYS** use either "when", "whenever", or "at". Activated abilities **ALWAYS** use the "cost: effect" format (although it's sometimes wrapped in rules, like Equip). Replacement effects will *often* use "as," "if" or "instead", but unlike activated &amp; triggered abilities, there is no word or set of words that will always be present as an indicator. For example, \[\[Walking Ballista\]\]'s first ability " Walking Ballista enters the battlefield with X +1/+1 counters on it." is a replacement effect, but doesn't use "if", "instead" or "as", nor any other specific word that only appears in Replacement effects.
+Domri \*is\* (the age of) an 8th grader
+Well, yeah, but that was only like maybe a year or 2 ago, in-universe. So figuratively literally 12.
+Because there's not much point in those cards trying to lock you out of using a particular thing, if you could just use that thing in response to it being named by a trigger while that trigger is waiting on the stack
+For \*actual\* lifelink, it should happen at exactly the same time as the damage. If it's life gain that \*triggers\* because combat was dealth, that will happen after (and won't be able to save someone if the combat damage itself was lethal).
+... You know, we never really \*did\* find out how/who/why Alara got split into shards the first place....
+Let out a period? Patheitc
+\*After\* also having all his Phyrexian enhancements removed and returned to a regular human, which just seemed weird and pointless since they were going to execute him right after anyway
+It's possible it's just due to local laws, which would override any policies ebay may have. Eg, in Australia, giftcards by law **must** last at least 3 years from when it's issued, regardless of what the issuing body or the card itself may say the expiration date on it is. If you're issued a card with a 1yr expiration on it, they have to honour it for 2 more years after that
+Does Daretti even \*have\* knees? How much of his legs is missing?
+Just FYI, Tibalt was a regular human that got infused with devil "essence" in the accident that also lead to his spark igniting. Also, Freyalise was either a human, or a half-elf. Her styling herself as an elf goddess is just a personal affectation. As an OldWalker, she could choose her own appearance and just had an affinity for the Fyndhorn and Llanowar elves, so that's how she presented herself after her ascension.
+Fair enough, I was under the impression they'd been partially destroyed, rather than some kind of paralysis. Thanks for the info :)
+There is also Flusterstorm, which is printed as 255/254, since it's the BaB promo only and not available in the boosters.
+Iirc, it boils down to: it took them a hot minute to work out that something could enter "as" or "with" stuff, instead of it being a triggered ability "when" it entered, which would have a Clone enter as 0/0 and die before the copying would resolve. Older cards got grandfathered as "they just work" but they were reticent to re-print (or create new) cards that did it until they had the new templating and rules worked out for the 6th edition rules changes, not long after Urza's Saga.
+There would definitely be sparks ;D
+It can be Sealed or Draft
+Two mana of any colour, regardless of what it's attached two, with the requirement that both of that mana are the \*same\* colour ("any **one** colour"). SO you can get WW, UU, BB, RR, or GG, but never WU or BR, etc. Also note that that is \*instead\* of the mana that the land would normally tap for, not in addition to, although the land does still retain its own mana abilities (and non-mana abilities) if you wish to use those instead for some reason.
+"Whenever you cast" doesn't trigger until the entire process of casting the spell is finished, including paying the costs. By the time Ascension is asking "hey, does this have the same name as something in the GY?" the other copy is already there and you will get a quest counter.
+I mean, it \*is\* Goldshire...
+I mean, there's a #woctstaff in the posted image, would a second one really change anything?
+Neat, hadn't even heard that it was confirmed for M20 either
+The Good Son was also pretty iconic in 1993, although it was more of a Macaulay Culkin vehicle.
+Yeah, nothing in that really makes it concrete that whatever it is wasn't \*possible at all\* before now. He could have used the same wording to describe getting Energy in to Kaladesh, for example. It was something he'd been trying to get in the game for a long time and it had just never panned out until then. For all sorts of reasons, it usually just ended up getting cut from the design file at some point. When Kaladesh came around he "finally managed to do it".
+I just assume that's what \[\[Wild Nacatl\]\] is doing
+&gt;for no goddamn reason. Lol well you'll have no one to blame when the Midnight Shadow People your cat is trying to warn you about that you're ignoring get you
+Guess he's not so Boundless after all
+Outside of space-time entirely
+Be that guy as much as possible imo
+Not a novel, but comics. Varian (as Lo'gosh), Broll and Valeera are indeed the main characters. [https://wow.gamepedia.com/World\_of\_Warcraft:\_The\_Comic](https://wow.gamepedia.com/World_of_Warcraft:_The_Comic)
+It's so that you can be waiting in a queue with the intention to be a tank or healer when you actually get in to the dungeon, but do solo content as DPS while you're waiting (as an example).
+Llanowar is just a place on DOminaria (a specific forest)
+As a Planechase card? Those don't represent an entire plane, just a place of note on a given plane, which is why they have a name (the palce itself) and well as the "Plane - X" type line. [https://mtg.gamepedia.com/Llanowar](https://mtg.gamepedia.com/Llanowar)
+If she was from creative, it's probably Jenna Helland
+And I'm talking about the entire history of the game ever since Llanowar Elves in Alpha, not just the Planeschase card. Can you link on the site where you're seeing Llanowar listed as its own plane? The list I see in the "Story - Planes" section is: Alara, Amonkhet, Dominaria, Fiora, Innistrad, Ixalan, Kaladesh, Kamigawa, Lowrwyn &amp; Shadowmoor, Mirrodin, New Phyrexia, Ravnica, Shandalar, Tarkir, Theros, and Zendikar. If there is somewhere where Llanowar is listed as a entire plane, it's in error and should probably be amended.
+Especially if the normal mode is closer to $30 every three months, and the premium mode is $100 once and then maybe $5 every three months
+The second replacement affect can still apply though, because there's still an event "create a creature token" that the second one cares about. It's just that in this case, it's redundant, because it's replacing "make an angel" with "make an angel" ;)
+Does it really need a reprint?
+Alara: Gosh, being split in to 5 separate chunks sure was traumatic and confusing! Rabiah: hold my beer
+N'Zoth explicitly states that the dagger shell of Xal'atath should be left behind for his own purposes, when the living form of Xal'atath leaves.... and then Sylvanas ends up with it after that. She is \*absolutely\* being used/a pawn of N'Zoth, the only real question is whether she \*knows\*/is willing, or if she's just totally duped.
+Some of the Duels games (the video games that pre-dated Arena) had a system like that, you were limited to 4 x Commons, 3 X Uncommons, 2 x Rares and 1 x Mythics in a deck
+Even in that thread, the guy is like "you don't have NULL dollars in your bank account do you?" But of course having no money in your bank account (which would be the zero) is not at all the same thing as \*not **having** a bank account\* (which would be the NULL)
+&gt; always comes with an asterisk more like three or eleven asterisks ;)
+It was also kind of intended to be an on=-ramp into "full" Commander; you find a legendary creature you like, build a Brawl deck with that and your "draft chaff" and then, once the Commander itself rotates out, just upgrade it to a Commander deck... but that's only really for very new players. Any more established player would just \*start\* at the Commander deck when they find a new legend they like.
+Samut is also a possibility, given her Legendary Creature version
+Tasigur is very BU, the G comes from the bananas /s
+Maybe Old God influence, like how "metal and/or stone" evolved into "flesh"
+All the humans look like Titans and Keepers ;)
+Also, buying the 110-120 upgrade for chest/head/should items is highly debatable, since the azerite pieces for those slots tend to be so much more powerful than the heirlooms at the same level that it offsets not having the XP bonus in those slots.
+Happy Pride month! Oh wait, not that kind of "orientation"
+The art for Jhoira's card in Dominaria was \*clearly\* based on Emilia Clarke. I believe someone even found an exact photo that was likely the reference used by Brad Rigney
+It's literally illegal for anyone other than Liam Neeson to be Ajani ;)
+Penny Dreadful and even Dark Shadows also are excellent references for Eva Green as Liliana
+[Yvonne Strahovski](https://en.wikipedia.org/wiki/Yvonne_Strahovski)? She was also a burnette version of herself in Mass Effect 2, and is currently one of the lead roles in The Handmaid's Tale series. I can see the resemblance to the Jhoira art too
+Tgnotems should totally just be bigger than their gnome shaman master, just for laughs
+Haven't the oversized cards always had that back? It's not really an indication of regular sized cards changing
+Oversised cards have been around like, idk, 20 years, and have always had that yellow font back. It hasn't meant anything before now, it's not going to mean anything now.
+Agreed. If they ever \*do\* redesign the card-back they will **REDESIGN** the card back, not just make a couple of relatively small edits. Once you commit to "some cards will look different" you may as well go whole hog
+Maybe the real answer is just that all of those women are secretly the same person ;D
+Also note that the Exsanguination \*itself\* could/would have reduced you below zero life, depending on exactly how much the X was, and what your life total was before it resolved. Platinum Angel stops you losing, but it doesn't stop anything changing your life total, or prevent it going below 0 in any way
+Tower isn't legendary. He built a bunch of them in different places, using the same blueprint (so they look the same). I don't think any of the novels ever mentioned him actually transporting the tower with him via planeswalking. Hell, the Towers were from the time in his life \*before\* he was a planeswalker.
+Archery ;)
+For the sake of completeness, since we're specifically discussing rules knowledge ("TIL"-style), summon sick creatures also can't use abilities with {Q} either (the UNtap symbol)
+The funniest part about Prot-granting auras removing themselves was that it took Wizards an oddly long amount of time before they noticed that and started adding the "this doesn't remove this thing itself" rider
+You were pretty close, even if you didn't hit the bullseye! ;D
+At least you gave it a shot!
+You are correct. The Germ is created \*and\* the equipment is attached to it all as one atomic event during which no player has priority, which the Living Weapon trigger is resolving. If there ever \*were\* a point where the Germ existed and a player could respond, the Germ would just automatically die without any help at all, due to being a 0/0.
+&gt;Saying people got mad is an exaggeration. I mean, the tumblr post being referenced had the asker accusing Maro/Wizards of maliciously lying (direct quote - "having lied to us the whole time, with all the maliciousness that phrase implies") about the situation... that doesn't sound like the kind of thing someone who \*isn't\* mad would say, about something made up in a made up story.
+"What are your motives?" - sounds not mad "you're malicious liars!" - sounds mad
+It's possible it's an artefact left over from when silver-border cards \*were\* legal in Commander for a short while (it was for about a month or 2, iirc) after Unstable's release.
+It's probably also future-proofing, of a sort. That is, if the Commander RC does decide to make silver-boarder cards legal again at some point (perhaps after another silver board set comes out or something), then they don't have to keep adding/removing them each time silver-board cards are temporarily legal.
+Not only did the text on elves and lands match, but the rule book was small enough to actually come with the cards, so more people had actually \*read\* it, rather than just being taught the rules as they go by other players. The rules in total sum now are just too big to do that anymore, so new players learn the game in a much more piecemeal way than players in the mid-90s did.
+Just as an aside, in MTG Arena, once a card has been seen/revealed by a player but then put in to a hidden zone, the game will actually allow that player to always see the card with an "eye" icon on it (unless it gets randomised, eg being shuffled into a library), such as returning cards from graveyard to hand, being revealed from hand by Thought Erasure, even the God-Eternals self-tuck. It's important to note that this is \*NOT\* the default for paper Magic in competitive settings, it's just something Arena does for convenience.
+There's some other partial Wraths like Cry of the Carnarium and Golden Demise too
+\[\[Experiment Kraj\]\] is another way of doing funky things with loyalty-abilities-but-not-being-a-Planeswalker, and iirc, is one of the main reasons the PW rules were slightly tweaked not long after they came out to prevent \*Loyalty\* abilities only being usable once per turn, instead of \*Planeswalker\* abilities being once per turn.
+Spells don't usually have reminder text for things that they \*don't\* do. Many of the other Red "gain control" effects like Act of Treason do grant haste, but that's because since they only last that turn, they'd tend to be pretty useless without it. Things that gain (or exchange) control permanently, like Role Reversal et al., don't usually also give haste, because they don't "need" to.
+That's where Hasbro's HQ is. How much of a difference that would make I dunno
+Yes he does. The Auction's control affect hasn't been removed by anything, only temporarily over-written by Confiscate. Once that's gone, it goes back to whoever controlled Niv before.
+Normal in this case is whoever controlled it before. Confiscate doesn't erase all other control-granting effects on it, it just over-writes them as long as Confiscate exists. It would only default back to the owner if it was removed from play entirely and the returned (unless the effect returning it specifically states someone other than the owner will get control).
+And why can't all ice cream be chocolate????
+&gt;put a neutral city under martial arts ... she forced them all to learn karate? ;D
+What can't \[\[Vindicate|APC\]\] destroy? That.
+\[\[Glacial Revelation\]\]
+&gt;Are they in the same place? No, which is exactly \*why\* Karn explicitly mentions both.
+Sparky tries to cast the Elderspell
+Maybe, maybe not. People were saying the same thing about the Chainwhirler cycle last time and that didn't go anywhere, so \*shrug\*
+Keep on the Sphinx theme with Arjun. I'm sure trying to sculpt your hand to have the perfect mana costs for Atemsis will be easy when you're constantly Teferi's Puzzle Box-ing yourself &gt;\_&gt;
+Lol, look at this poster, thinking that Ashiok's motives should, or are even possible, to be known by anyone other than Ashiok. What a kidder!
+\[\[Kudzu\]\]
+Keanu for Ugin voice actor in the upcoming animated series
+And a dragon! \[Kaalia wants to know your location\]
+But killing would make a Selesnya angel sad :(
+Neat, I could probably use this in Daretti \*and\* Windgrace, although the 3 on the tap ability probably just means there are better/cheaper options
+Looks like the kind of "fading" around stitched areas you get on sublimation printed tshirts and the like. That is, if the stitching is done \*before\* the mat is printed, then the printing itself doesn't quite fill in around the stitching 100%, so you get that "faded" look. I don't actually know if that's how those mats are made though.
+Sulfur Falls sulfur fell :(
+She had a mentor/adoptive father-figure Li Shan, who mysteriously dropped dead suddenly at one point; Yanling was over-come with grief and basically cried herself into a brief coma, but when she woke up Shan's body was gone. She's basically been searching for him across her home plane (the Plane of Mountains and Seas) and the multiverse ever since. She's a hydromancer, so you know when she cries, there's bound to be, well, exactly what this card says ;) Prior to Li Shan, her whole family/hometown was destroyed by a tidal wave, so she's had a very sad, grief-filled life.
+The other kind of breadstick, the thinner, crispy kind, not the kind that's jsut... bread.
+If you eat it, you take 5 damage D:
+Maybe? They're just called breadsticks where I'm from, but I could see that being a name for them in other parts of the world
+I mean, it's usually on like, one card per set. Does that really need a keyword? Does it enable anything else by freeing up text space or anything?
+Yes, you can. Why would you want to? &gt;\_&gt;
+Nobody expects the Spanish \[\[Inquisition of Kozilek\]\]
+Normally, multiple threads for the same card get merged or purged by the mods. I can only assume that this card has 2 surviving threads is an intentional flavour joke ;D
+This, it's also like... PWs like Davriel and Yanggu, and the others whos first card (not really first in Yanggu's case, I guess) was their WAR appearance, especially the ones that were Uncommon. Davriel's card is kind of ok, but it really feels lackluster for what he \*could\* be later on, compared to his character/abilities as they were presenting in the Children of the Nameless novella. Yanling just gets to "start" with this pretty good card.
+Yes, forgetting about Tibalt is a good call ;)
+Also, clouds are just water anyway ;)
+Unless you're using other cards that explicitly need Colourless mana (the diamond symbol, like on \[\[Kozilek, the Great Distortion\]\]), as opposed to generic costs, you don't really need colourless producing lands for much. And they don't really help you get basics, because you can just take them out of the deck and replace them with a basic land anyway (and not need to spend the extra 1 mana on the fetch ability). All that said, since your Commander is DFC Jace, I guess there is a tiny advantage in them being extra cards in the gy to help transform him.
+They're just called "promo packs" now, because they're intended to be use for pretty much all promo-type rewards that various different things used to cover (Standard SHowdown, FNM, Draft Weekend, Open House, etc)
+Uh, here's one: [https://www.reddit.com/r/magicTCG/comments/c2cf4y/is\_this\_real/](https://www.reddit.com/r/magicTCG/comments/c2cf4y/is_this_real/) I personally didn't manage to catch any of the others before they were deleted, but comments in that one indicate there were others.
+One of the "problems" with the original allied fastlands is that the names specifically reference locations on Mirrodin(/New Phyrexia), so they can't really just put them any where in Standard. THey either need to be in the core set, or wait for a Return to NP
+\[\[Roast\]\]
+&gt;Play best of 3. The vast majority of the time, that's how it will play out, but \*technically\*, it's "first to 2 wins"
+Each location will have their own prize structure. Whether or not you can win a box for coming first will depend on where exactly you're playing and what their prize structure is. You can ask about then when you sign up for the event
+Still, the correct maneuver is usually to deploy the giant, implacable ~~death~~ dead lizard.
+&gt; as either Returned or Eidolons, respectively Also, demons (which on Theros, are just Eidolons that went psycho/corrupted, basically).
+I was gunna point out that the slivers don't need to survive for you to gain the life, but then I realised you were probably referring to the \*opponent\* surviving ;)
+She's even a redhead
+Legion's Landing
+Not as uncomfortable as the guy in the picture
+It's unlikely they will, since that would be functional errata: Gold tokens don't have to tap, treasures do
+What you drawing 'bout, Vilis?
+Living Death (and sorceries/instants in general) get put into the graveyard as the very last thing they do, \*after\* all their other normal effects happen (excepting spells that put themselves somewhere else like exile etc). That said, any ETB triggers of the creatures that Living Death returned don't get put on the stack until even after that, so you will be able to select the newly binned Living Death as the target to be returned by Archeomancer or Eternal Witness, etc.
+That is to say, your Step 3 and Step 4 above should basically be switched; ETBs of the creatures enter definitely do \*not\* resolve in the middle of Living Death resolving.
+.... you know, it actually \*might\* be. On Innstrad, when a demon or angel is killed, they eventually just reform, as a new entity - it's why Sorin made the Helvault, so that the demons could be put away for good instead of just returning all the time. Last time we saw Griselbrand, he'd just been let out of the Helvault, but then was immediately killed by Liliana. Vilis could actually be Griselbrand's "reincarnation"
+Maybe, but Avacyn wasn't really part of Innistrad's natural angel/demon cycle, since she was "artificially" made by Sorin instead. Plus, she was utterly unmade, not just killed/destroyed :/
+Roughly comparable to Chart a Course, which has proven to be quite awesome
+Not to mention, a purely defensive keyword
+Sort of like \[\[Victimise\]\] and \[\[Rescue from the Underworld\]\] had a baby
+There's nothing to worry about, I'm sure Venser coming back would be compleatly fine
+Ajani wears a fancy Italian suit == Amani
+"Hello, Deck Seller, I am going into battle and I want your strongest decks." "My decks are too strong for you, traveler." "Deck Seller, I tell you I am going into battle, and I want only your strongest decks." "You can't handle my decks. They're too strong for you."
+One of Wizards own characters is a big bara dude that wears little more than a loin-cloth and a helmet, but like.... just stay well away from The Line and you won't have to worry about not crossing it. It's not really hard to just \*not\* have a playmat that has near-nudity on it.
+Yeah, there are definitely some things that appeared to happen on the cards, that were mysteriously absent from the novel itself. It's possible there were some plot points that were intended by the story team, but that were ultimately cut somewhere between the art being commissioned for the cards, and the novel being finalised. Eg, the Chain Veil apparently being shattered in the art for Finale of Eternity; Ashiok and Sarkhan somehow being involved with what went down in the Meditation Realm.
+Which was kind of weird, because he's previously been explicitly show being able to extend his invulnerability to other people \*while still also being invulnerable himself\* simultaneously - see Kaladesh when he protected both Chandra and himself from Chandra's supernova bomb
+Did the novel explain why it left Gideon at all though? He's previously been capable of extending it to others while not actually losing it himself at the same time. Why didn't that work with Lili?
+Jace doesn't realise that what he saw is actually a thing though. He was basically mad at the time and dismissed it as a hallucination. He doesn't even know that what he saw is actually something of potential concern
+No one likes eels. Eels don't even like eels.
+Because they look as different from the Lorwyn changelings as, eg, Kamigawa goblins look from Dominaria goblins, or Lorwyn elves look from Kaladesh elves. MH changelings look basically like the thing they are "Copying" except dissolve into a kind of purple goo at the extremities. Lorwyn/Shadowmoor changelings always have the same kind of "little grey alien" look around the face, despite what they're copying.
+The trick is not saying "haha no one can stop me!" because we always stop those ones. What she \*needs\* to do is say "I tire of this!" and then she'll get to stun us for like 60seconds and do whatever she wants (monologue/escape/etc.)
+I dunno \*why\* it's so, but the one thing that just \*really\* makes it feel dated to me (and don't get me wrong, I am absolutely loving Bloodstained, this isn't a slight, just something that feels off to me personally in this day and age) is that the "dodge" is a back-step, not a "dodge/roll in the direction I'm moving"
+And shovels are for attacking up ;D
+Rank is the level of the shard, which you increase by feeding it items (as you know); Grade is how many duplicates of the same shard you've obtained.
+And Vannifar, although she's not really seeing any play atm. She might have post rotation... if this hadn't been reprinted &gt;\_&gt;
+Yeah, same, I don't really use it for defense.... but I \*want\* to, after coming from games like Hollow Knight et al. :0
+But both pale in comparison to Tromple
+" *If there's anything a werewolf hates, it's a collar-especially Avacyn's Collar, the symbol of her church*" - Kyle, flavour text writer, last words
+Nev's Disk is effectively a kind of portable hole :O
+Tandred is my crush tho
+Also Nathanos has Xal'atath, when did that happen? Does he get it in the Horde version of the Crucible of Storms raid? Because on both Horde and Alliance, the last time I remember seeing it was leaving it on the ground in the solo quest leading in to Crucible, with N'Zoth saying he has plans for it. I know Sylvanas is going to \*end up\* with it at some point apparently, but when did that actually \*happen\* that her boyfriend got it?
+Plus she's all like "jump off, JUST TRUST ME". I don't know, Jaina, maybe instead say something like "I will use ice magic to help you slide down safely" like, you're not bound by any kind of word economy. Just EXPLAIN what you're going to do, instead of being mysterious "JUST TRUST ME". And what's with the weird ice slidey thing anyway? USE SLOW FALL.
+Ah, ok. I dabble with Horde, but my main is alliance, I must have missed it (or forgotten it). It still doesn't really explain why Nathanos has it and why we all have to VERY URGENTLY get on a boat to... somewhere... lol
+The ankoans at least also seem to be worshipers or something of Neptulon, since a few of their voice lines mention him
+... for some value of "friend"
+\[\[Gild\]\]. Get rid of annoying people \*and\* get free money ;D
+Wasn't Chen also there?
+I mean, there's a difference between just being cursed to have it always "on" and actively having to cast it as a spell &gt;\_&gt;
+Not including them at this point in time is more likely to be because they don't have time/resources to do the regression testing of adding all the cards together from a programming/ perspective, rather than because of a format balancing perspective, imo.
+There will almost certainly be an addon that does the math for you sooner or later XD
+Yeah, I don't mean that I don't think format testing/balancing would be \*necessary\* to adding those sets to Historic format, just that that's not the reason they aren't being adding at this time.
+&gt;I know we had orcs, trolls, and goblins working together And ogres
+No, its CMC is 2 \*everywhere\* except at the specific time while it's on the stack waiting to resolve
+My vote would be the stylised "crown" used for the From the Vault: Legends set
+It's not the only case. Theros demons aren't mana constructs either, they're the end state of dead/undead people, under certain specific circumstances.
+It's so you know what you're "missing out on" and may be encouraged to buy the Mastery Pass
+\[\[Glory Seeker|ROE\]\]\[\[Knight of Cliffhaven\]\]\[\[Ikiral Outrider\]\]
+Haktos protection ability isn't just one thing though. "Protection from all \[X\]" and "Protection from each \[X\]" just represent multiple abilities. The object will separately have "Protection from \[A\]" **and** "Protection from \[B\]" etc etc for each thing in the \[X\]. So Haktos just removing one of them himself still leaves the others. And if which one to remove never gets defined (due to something like cloning or manifesting shenanigans), then he'll just have them all. &gt;702.16i “Protection from each \[set of characteristics, qualities, or players\]” is shorthand for “protection from \[A\],” “protection from \[B\],” and so on for each characteristic, quality, or player in the set. It behaves as multiple separate protection abilities.
+And bringing Argonauts
+Saw the name "Nature's Wrath" and was not expecting GU, sounds more like GR than anything imo
+The \*why\* is really just one of those "each spark is unique in its own way" kind of things. They were born as twins to a witch who then sacrificed them intending to drink their blood for power, but they were resurrected by Linden's (who ended up as their step mother) magic sword. Whether or not that somehow caused them to have one shared spark, or if they just always did regardless isn't really clear. ETA: Wait, I just remembered: the magic sword was only supposed to be able to bring back one person to life, so it being used on twins probably \*did\* have something to do with their spark getting shared.
+Even when the prerelease boxes were divided by clan/guild/colour/etc, LGSs still just ordered it as a set kit that contained equal amounts of each option. They didn't have to order different prerelease kits for each clan/guild/colour.
+Glimmer is definitely blue as well for her powerset alone, teleportation is distinctly blue.
+In addition to what everyone else said about Bolas being imprisoned, only Ugin, and I think Jace and Niz-Mizzet?, really know that truth. Everyone else believes that Bolas is actually dead.
+And if they do, I hope they get (at least) Courtney Hope and Matthew Porretta to reprise their roles
+Around 30-40 hours depending on how good and/or thorough you are (my play through was right on 40, and I am very thorough, but not that good ;)). And yes, this game is very good. I only just got it recently during the holiday sales (not when it first came out) but it's probably my 2nd favourite game of 2019 (#1 is Disco Elysium)
+Kind of yeah, since it basically means your opponent has to walk right in to it, given that the Labyrinth can only target attacking or blocking creatures
+&gt; 15 enchantments in a 60 card deck Normally yes, but it'll depend somewhat on how many (and how good they are) enchantment creatures we end up getting, since that allows you to increase the total number of enchantments in your deck without it meaning your deck is just full of the more usual "passive" type of enchantments. If we get enough decent ones, having \~25 enchantments in a deck makes the odds a fair bit better
+Oh no he's hot
+I could also see his starting loyalty being lower if they were expecting him to passively gain loyalty more often via a static ability
+Or maybe he really was Nyxborn, but by the end of the story, Elspeth has become a god herself or otherwise loses her spark, and Calix somehow ends up with her spark transferred to him (possibly also explaining why he's WG instead of matching Klothys)
+&gt;Is it possible to transplant a spark into a normal person to turn them into a Planeswalker? Yes, it's happened both pre-Mending (Glissa -&gt; Slobad) \*and\* post-Mending (Venser -&gt; Karn). Why Yawgmoth never managed to do it despite explicitly trying to work out how for literally thousands of years is anybody's guess &gt;\_&gt;
+It's also unclear if Urza's spark was ever really Urza's spark, of if even he himself just co-opted Glacian's spark via the Might &amp; Weakstones.
+&gt;but it seems they're revising the story retroactively That's kind of built in to how the whole system of Theros works. Once Xenagos became the RG he had just \*always been\* the RG God. Once Klothys stopped being the RG god, she \*never had been\* the RG god.
+&gt;Color identity is only relevant in the commander format. (And Commander off-shoots/variants like Brawl or uh... Tiny Leaders)
+There are no lands in your library, only land \*cards\*. For example, you cannot fetch a basic Mountain with \[\[Nature's Lore\]\] if you also control this creature.
+In what way is it unsupported? Ashiok created a god just by making a bunch of people so uneasy about their nightmares that Cacophony came into existence out of nowhere. It's just how belief works on Theros. If enough people believed Gideon's heroic sacrifice was divine, he could become a god without his corporeal body or spirit needing to be involved at all. I'm not saying it \*will\* happen in the story, but previous Magic stories have explained how it could be \*possible\*.
+&gt;(I mean, are concepts created? I guess thats kind of a philosophical question) “All right," said Susan. "I'm not stupid. You're saying humans need... *fantasies* to make life bearable." REALLY? AS IF IT WAS SOME KIND OF PINK PILL? NO. HUMANS NEED FANTASY TO BE HUMAN. TO BE THE PLACE WHERE THE FALLING ANGEL MEETS THE RISING APE. "Tooth fairies? Hogfathers? Little—" YES. AS PRACTICE. YOU HAVE TO START OUT LEARNING TO BELIEVE THE *LITTLE* LIES. "So we can believe the big ones?" YES. JUSTICE. MERCY. DUTY. THAT SORT OF THING. "They're not the same at all!" YOU THINK SO? THEN TAKE THE UNIVERSE AND GRIND IT DOWN TO THE FINEST POWDER AND SIEVE IT THROUGH THE FINEST SIEVE AND THEN *SHOW* ME ONE ATOM OF JUSTICE, ONE MOLECULE OF MERCY. AND YET—Death waved a hand. AND YET YOU ACT AS IF THERE IS SOME IDEAL ORDER IN THE WORLD, AS IF THERE IS SOME...SOME *RIGHTNESS* IN THE UNIVERSE BY WHICH IT MAY BE JUDGED. "Yes, but people have *got* to believe that, or what's the *point*—" MY POINT EXACTLY.” ― **Terry Pratchett,** [**Hogfather**](https://www.goodreads.com/work/quotes/583655)
+\*Are\* there any Common Showcase cards for THB? "Showcases" this time are the Constellation arts which afaik are only on the Gods (Mythics) and Demigods (Uncommons).
+Cool. And? If you spread around a story of him enough, the IDEA of him can become a god on Theros. Again, his corpse or soul don't actually need to be involved in the process. We already know that the people on Theros DO know he died a tragic death, because of the statue/monument to him seen on the spellbook RIP and Taranika
+Also Constellation and other enchantments-matter stuff
+Yes
+"Dies" and "when \~ is put into the graveyard" abilities trigger from the zone that the object is moving \*from\* (not to) and use the characteristics as it exists in that zone. The exception is if the ability specifically says "put into the graveyard **from anywhere**"; those do actually trigger from the graveyard.
+Why not both?
+&gt;903.4b That rule more covers something like Extort. Ignoring the reminder text of Devoid doesn't change anything about how Devoid works. The only difference for Commander is that deck construction for that format (and the offshoots like Brawl) care about colour \*identity\* (which **isn't** affected by Devoid), not just \*colour\* (which **is** affected by Devoid).
+&gt;MMO and ARPG (Diablo-like) can coexist. Marvel Heroes (RIP in Peace) was that, as an example
+She absolutely has; she was part of the story when New Phyrexia happened. She was aiding Koth and Melira fighting them for a time, and was there when Venser gave up his spark to save Karn.
+Nice, we finally found a use for Ancestral Recall
+Timestamps. Which effect has resolved most recently will be the one that's true. But as long as the Shadowspear's controller has more mana they can spend, or the sphinx's controller has more cards to discard, they can just activate the ability again to try to "win" at any given point.
+I mean.... I'm not of the opinion that a 2 mana Red Uncommon \*should\* be able to answer every single White and/or Blue planeswalker or creature in existence anyway.
+Since the context here was the Sphinx's Hexproof stopping Fry, that would also apply to Noxious Grasp ;)
+If they got 2 of them, me having the Lyre won't help me XD
+The "au" in "austerity" stands for "gold" &gt;\_&gt;
+Next card spoiled: Plunge into Sub-ocean
+\[\[Star of Extinction\]\] is in that vein
+Elpseth believes that she left him for dead. I'm actually kind of surprised that that didn't feature in her nightmares of New Phyrexia, but then again, maybe it just didn't fit on the cards. It's probably a smaller detail that would have actually needed a story to show up
+I mean, if Ashiok's goal was to help Elspeth for whatever reason Ashiok may have, then that's just how Ashiok would have done it, because "nightmares" is just what Ashiok \*does\*. When all you have is a hammer... ;)
+And it'll only take 4 turns for him to come back too &gt;\_&gt;
+If you have flying, you can just cheat. If you don't, a goblin glider makes it MUCH, MUCH easier
+There are other ways, such as manifesting him and then turning him face-up
+&gt;this is Magic's first ever one mana 1/2 with lifelink. We've come a long way since \[\[El-Hajjaj\]\]
+Collectors Boosters also have 2 in foil, iirc
+Think big: if they bring back Bestow for a future Theros return, don't reprint Coronet, make a \*bestow\* version of it &gt;\_&gt;
+\[\[Impeccable Timing|KLD\]\]
+If I had Phyrexian dinosaurs in my heart, I'd probably have bigger things to worry about that what might happen in a return to Ixalan set ;D
+If Ral is the one dancing naked while Tomik watches, I think it's safe to say that \*Ral\* is the boytoy, not Tomik ;D
+Put putting the sticker directly on the card, it damages it and thus makes it actually worth the $9 price instead of the $27 price! Ingenious! ;)
+6-legged Horsalisk
+And also kind of "old" at this point. I imagine most people have kind of moved on to Limited of newer sets, even ones that really liked Battlebond.
+Looks like it's randomly choosing between full art lands and normal lands. I believe the "normal" ones actually only come in Bundles, not boosters.
+It stops being a creature. Things that aren't creatures can't attack or block.
+&gt;Green's been getting a bit more "can't be blocked by creatures with power 2 or less". At least with this one, R&amp;D have been pretty open about them already having an internal name for it - "Daunt". The only reason it hasn't actually made the jump to keyword yet is because it doesn't really get used \*that\* much, pretty much just 1 Green card per set. If they ever did decide to make it appear more often as an evergreen thing, it wouldn't take much work to just swap it in.
+They did at least start doing it as of... I think it was Dominaria, because of Kicker? Although it was only on Instants &amp; Sorceries and is worded as "this spell"; they haven't expanded to permanent card types yet.
+&gt;Yeah, but it would also feel really weird to give one card of a five-card cycle a second race type, and none of the others. That did exactly that with the 2 nymph cycles in Theroes/Journey though; both of the Green ones were "Dryad Nymph", all the other colour ones were just Nymph. It's odd that they didn't for THB, \*especially\* since it still has "Dryad" in the creature name.
+Yeah, exactly that. This is just as weird as \[\[Stonecoil Serpent\]\] being creature type Snake and not Serpent. I get that in the creative/lore of Magic, snakes are snakes, and serpents are giant sea monsters, but if that's the case then don't NAME the card one thing when it's meant to be the other thing, especially since the "rule" (guideline) previously for a long time was that if a creature has a creature type in its name then it should almost always (hello Giant Spider ;D) be that type.
+&gt;Probably it would have to be a set with fewer ways to buff it. And/or a set that has an uptick in frequency of -X/-X effects, for example a set with Wither or Infect
+I'm not sure if LSV didn't notice that Minion's Return can steal opponents' creatures as well, or if that's enough harder to pull off that it doesn't really change the rating. It having Flash does make that more likely to work imo, but it still takes a bit of planning
+Oops, I missed that right at the end. I guess I was thinking of it more as that being \*the\* use for it, rather than just a side note to mention at the end of a paragraph
+use "arsonists" when making jokes about the Burning of Teldrasil, and "Arthasists" when making jokes about anything to do with Death Kngihts, or even all the death-related stuff coming up in Shadowlands/Bolvar/Sylvanas/etc
+AT THE VERY LEAST, it would have been nice if they added a flight point at Magni's encampment in Silithus to make getting between there and Ramkahen a little more convenient since you have to make that trip about 27 times during the intro stuff. Like, when we only needed to get between Boralus/Dazar'alor and Silithus, the portal was fine, but now that Uldum is part of the mix, it's much more awkward. You either need to go Silithus -&gt; flying manually, or Boralus -&gt; Stormwind -&gt; Earth Shrine portal to Uldum (with no easy way back other than Hearthstone)
+There haven't been any new MTG Pops for \*years\*. I guess Wizards didn't continue the license or something, for whatever reason. Which is kind of a shame, a lot of the the newer PWs would probably make great ones
+AVATAR!
+That would also be a pretty good idea
+SAME, and I'd also want a Calix one now too ;\_;
+Bummer. Seems like every single other IP has endless waves of Pops with no sign of slowing down, just a shame that one of the IPs that I might actually buy any of died out :/
+The kits themselves may not have been the only cost to "prepare" for the pre-release (maybe it also includes paying judges etc), \*plus\* it also explicitly says that's it's 64 kits \*for Friday\*. The "prerelease event" runs all weekend, there may have been more kits purchased for events on Saturday and Sunday that are included in the $5k amount.
+That's really weird. The Alliance side has them leave on totally good terms with Jaina (although Calia does mention Lilian Voss). There's no indication that they're leaving the Alliance nor have any enmity. Calia specifically says that she's leaving \*Kul Tiras\* as a location, not that she's cutting ties with any the faction, and it's basically just so that Calia &amp; Derek can work out what their place is in the world now. It really just comes across as a plot hook for Shadowlands rather than that they're ditching the Alliance for the Horde.
+We need to go to Silithus a lot - there's a portal to it in Boralus/Dazar'alor, that's nice! We now need to go to Uldum a lot - there's a portal to it in Stormwind/Orgrimmar, that's nice! We also need to go \*between\* Uldum and Silithus a fair bit, but.... there's no easy way between them, despite not really being that far apart as the crow flies. It would just be nicer if the Heart Chamber area had a FP. Portals would be even nicer than that!
+In a similarly round about way, his \*mother's\* death is attributable to the Black Dragons too - it was Onyxia in disguise as Lady Prestor that orchestrated the Stonemasons/Defias rebellion (she was behind them not getting paid, and then stoked them up when they were disgruntled); Tiffin Wrynn was killed during one of the original Defias protests/riots.
+It's not that there's \*no\* reason - Wrathion \*was\* involved, it's just that it's not a particularly simple event (it was actually a very long chain of events), and Wrathion is far from the only character that had a hand in the whole thing.
+Yeah, my understanding of Calia and Derek leaving is entirely from the perspective of the Alliance - I haven't seen the Horde equivalent part yet. There's \*zero\* mention of the Dark Rangers or other undead Sentinels or Forsaken at all, the only other character mentioned is Lilian. From what other people have said here about the Horde side, I believe the Alliance part must be meant to take place before the Horde part, and Calia and Derek don't actually know that what Lilian wants their help with is the Dark Rangers yet. They leave Jaina/Kul Tiras (they actually mention they're going to farewell Katherine and Tandred on the way out, but that happens offscreen) , and then presumably head over to the part the Horde players see.
+Does the book explain which direction it goes though? Do they share a soul, because the sword was only able to resurrect one person, but it was used on two people (which means that prior to that, they had one soul each that either got fused somehow by the sword, or one was just lost and the other split between them) OR Was the sword which is only able to resurrect one person able to work on two people because they \*already\* shared "one soul" (which would still mean there's not really an explanation for why they share a soul other than "they were just born that way because")?
+Garruk is as Green as a character can get, and most of the time he basically wears little more than his big belt and helmet
+It doesn't care \*why\* the other creature's power is &gt;= 4, just that it \*is\* &gt;= 4
+If any UB planeswalker was going to end up being allied with the Phyrexians in any way. I'd think it would be Tezzeret, not Ashiok. Ashiok finds the idea of the Phyrexians fascinating as inspiration for giving other people nightmares, but I don't think Ashiok necessarily wants to work \*with\* the Phyrexians for any real reason, their goals don't really align.
+Calm down, Satan
+There's a place in NSW Australia called "Mogil Mogil" and each "mogil" is pronounced differently :|
+Yeah, they went to a lot of trouble to tell us he wasn't in Theros's Underworld, but then also printed \[\[Heartwarming Redemption\]\] which was just weird and confusing
+Just remember, in MTG lore "dead means DEAD!!!" Except Nicol Bolas... sort of? And Niv-Mizzet And Rowan and Will Kenrith And Algenus Kenrith And Will Kenrith \*again\* And Garruk And Elspeth ...
+Which is exactly why it was confusing. It really looks like the Ilysian Fields, \*and\* those are explicitly Gideon's old friends \[\[Kytheon's Irregulars\]\] but Wizards had to clarify that it's not Theros, despite it really \*looking\* like it is.
+In The Wildered Quest towards the end: Chapter 14. Garruk is overwhelmed by his curse and is attacked in a river by dark [undines](https://mtg.gamepedia.com/Undine) and by a four-armed, tentacled, howl-back. As Garruk drowns, Will tries to save him against all odds and at danger of his own life. Will's act of persistence summons the [Cauldron of Eternity](https://mtg.gamepedia.com/Cauldron_of_Eternity). When Garruk's is body is placed into the Cauldron, the curse dissipates and his life is returned.
+In The Wildered Quest towards the end: Chapter 14. Garruk is overwhelmed by his curse and is attacked in a river by dark [undines](https://mtg.gamepedia.com/Undine) and by a four-armed, tentacled, howl-back. As Garruk drowns, Will tries to save him against all odds and at danger of his own life. Will's act of persistence summons the [Cauldron of Eternity](https://mtg.gamepedia.com/Cauldron_of_Eternity). When Garruk's is body is placed into the Cauldron, the curse dissipates and his life is returned.
+Congratulations on your excellent taste in colour combination ;)
+Unlike some of the other ones, you just have to be near it when it's completed. I've done it myself more than once. Whenever I do that one, if there is already someone working on each side, I just leave it and wait there until it finishes, and I get credit. I only try to help completing it if there's less than 4 people there already.
+&gt; Sure, the questgiver could be inside, but we have to make sure you're paying attention. Honestly, the dude should just be inside \*and\* outside
+People were serious about getting Heroism for raids (just like Horde players were serious about having access to BoK)
+You're not fooling anyone, \[\[Scathe Zombies\]\]
+It was just a joke about a terrible zombie card trying to get a slightly better zombie card not reprinted ever again ;)
+\[\[Cheaty Face\]\]
+It's an Iocane Powder cape?
+Yes, that all works the way you want it to. The Lotus's ability can be used any time you have priority, it just resolves instantly without using the stack. But Tawnos and the Key both \*do\* use the stack, and abilities on the stack resolve one at a time with a round of priority in between each one, which will give you another opportunity to tap the Lotus again before the next Key ability (or copy thereof) resolves.
+Like... Valencia, Spain, or Valencia, California? Or any of several other places called Valencia in other US states, or other countries?
+&gt;despite a quarter of my raid being born on Draenor. They're adopted
+She is still out there somewhere right? We haven't seen her since her essence was split from the blade and given her own physical form, am I remembering correctly?
+OK, and then what? The whole Azeroth is dying from a huge great sword stuck in her and her blood leaking out thing still hasn't \*actually\* be resolved at all yet, has it?
+[https://www.dictionary.com/browse/look-see](https://www.dictionary.com/browse/look-see)
+Or something like... see N'Zoth/Nya'lotha explode... and then the camera pulls back just a little more and we see Xal'atath's physical elven form watching from atop a dune, and then turn and walk away smirking.
+I mean it could be an illusion, but.... what are they hiding??
+Rene's passing was fairly recent, just last Decemeber
+God Positioning System. It determines where you are based on the gods' constellations in the sky
+Well, also because it needs to just so that it doesn't fall off immediately. If it just had "enchant creature" as soon as it itself makes the creature stop being a creature, it'd be enchanting something illegal and fall off right away.
+Maybe, but if you really want live action Brother's War, then you kind of need to cast Urza and Mishra at a whole bunch of ages. The whole thing kicks off when they're about 10 and lasts until they're in their 60s
+... PERFECT
+Adopted children still count
+I mean, if Trolls are Azeroth natives, and elves are those Azeroth natives altered by Azeroth **herself** (they were changed by proximity to The Well of Eternity, which is \*Azeroth's blood\*), then they still definitely count as children of Azeroth. Nothing about how they came about is external, like Titans (which even then, are still brothers/sisters/cousins of Azeroth, so not \*entirely\* unrelated) nor Old Gods.
+If anything, in MoP, I would have put Nomi as \*younger\* than Li-li
+Well alcohol is flammable right? ;D
+&gt;because ye olde dayse were strange. Not just Ye Olde Days, but also the Portal sets themselves had weird rules hacks/changes to deal with not being "full" MTG, like Sorceries you could cast on opponent's turn, because there were no Instants, etc
+Yes, you can get them in normal boosters EXCEPT not the Common ones. I don't know the odds though
+Not in regular "Draft" boosters. They do exist, but are only in the Collectors Boosters
+Nope, just adding additional detail
+If you and u/Sheriff_K every play against each other, the tabletop will be CHAOS
+It doesn't mention region at all. If it's spring somewhere, it's also autumn somewhere else; this should get both bonuses! /s
+Deicide is "murder of a god" so it's still murder. It's a squares/rectangles type of thing
+There is at least new Handynotes Visions of N'Zoth update that includes it, as well as all the rares and stuff from Ul'dum/Vale
+Yes, basically all the character services (faction change, race change, name change, level boost etc) when purchased give you a "token" that's just displayed on the character select screen. You just click that and use it whenever you're ready, it'll just sit there forever until you do. You don't need to chose which character will be affected until you're ready to apply it.
+There is a message over on the right that will display what you've picked up, or that your inventory is already maxed on that item, but it's very unobtrusive (which is a good thing imo)
+REL: Axed
+I wonder if it's a BaB card, and is the only thing that has Phasing. Like how the BaB Tezzeret had Affinity when no other card in the set did.
+Anything attached to it (Auras, Equipment, Fortifications) all *also* phase out along with it, and they all phase back in whenever the thing they were attached to (but don't phase back in on their own). It's called "indirect phasing". If an attached thing phases out *directly*; that is, it *itself* phases out, rather than the thing it was attached to phasing out, then when it phases back in, it won't be attached to anything. For an Aura that's usually a quick trip to the GY. You won't get to chose something else for the Aura to enchant.
+\[\[Horizon Drake\]\] has protection from a card type, that is also a unique protection.
+Interestingly enough, the Blue one depicts Jhoira and Teferi. But yes, not in Blue's pie these days.
+French Vanilla contains eggs as well as vanilla, so it ends up tasting "richer" than regular vanilla
+Right up there with NOTAWOLF
+&gt;They all have reach! Except for the ones that don't BUT that's still flavourful because those ones represent underground dwelling spiders similar to ones that exist IRL! \[\[Root Spider\]\] &amp; \[\[Giant Trap Door Spider\]\] just like Funnel-web Spiders et al.
+Correct!
+Plus, 2 of them have Dominaria specific names (Adarkar Wastes, Karplusan Forest), so they're pretty much limited to only being reprinted in Core sets or Return to Dominaria.
+It's possible it's been fixed by now since this happened to me a while ago now, but there are certain circumstances where if Brokkos is part of a mutate stack and dies, you're not given the option if you want it to go to Command zone or Graveyard; it just automatically goes to the Command zone. It's possible this happens with the other mutate legendaries, I just happened to notice it for Brokkos specifically because at the time is was bad and not what I wanted.
+&gt;Are we going to travel through time? I mean, it's Teferi, so that is actually possible (if not likely), but it may also just be a more mundane "versions of Teferi from throughout his (very long) lifetime" just like how we got 3 different ages of Chandra in the last core set.
+I'm kind of expecting that if the leak is real, it's possibly a \*Buy a Box\* promo card, and is the only card in the set to have Phasing, like how BaB Tezzeret was the only card to have Affinity in WAR
+If the rumours are true, M21 has a 2 mana Hero's Downfall with a CMC 3 restriction, so it's in the same ballpark
+Do those numbers come before or after the PW deck cards?
+1001:1 ;D
+That sounds like something Vaughn from Borderlands would say
+&gt;where most of the "white is weak" discourse comes from. Which is what made their previous attempt of "we're trying out symmetrical card draw for White!" was so \*weird\*. They stated it was to help White in Commander/multiplayer, but then chose something that gets \*explicitly worse\* the more opponents you have?
+If Drannith Magistrate was worded that way, it wouldn't have even needed to be banned in Brawl, which seems like a plus.
+Also stops \[\[Vivien, Monsters' Advocate\]\]'s static ability and WAR Vivien's -2, and other similar cards in older formats, like Garruk's Horde, Future Sight, Melek, etc.
+Generally there are several years between sets before they repeat a mechanic. Only very few become evergreen or deciduous immediately after their first outing (equipment, vehicles, and briefly prowess are examples). There's not much reason to expect that companions would be something that would make that jump.
+Add in some \[\[Labyrinth Raptor\]\] to make things really nasty for your opponents &gt;:D
+Yep, Maro did confirm that Hound was out, so it seems likely that they will all (or almost all) become dogs.
+Quite a few [https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&amp;color=+\[R\]&amp;subtype=+\[cat\]](https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&amp;color=+[R]&amp;subtype=+[cat])
+Or possibly memory of Argentum-that-could-have-been
+Yes, and Jolrael
+True, but Loyalty abilities can still add mana.
+Either Basri has really been getting around as a planeswalker, or something very weird is going on on his home, because that looks \*nothing\* like Amonkhet.
+Be careful what you wish for. There was a time when people said that about Green, and now look where we are.
+Yes. Well, not "now" now, but with M21, there will be new creatures with type "dog" \*and\* previous creatures of type "hound" will get a wave of errata, similar to the relatively recent changes to dinosaur and warlock.
+&gt;(He retained this designation until revisionist continuity classified Urza as the most powerful.) And even \*then\*, it was more of a "Taysir is the only one equal to Urza" rather than just "Urza is stronger"
+He was born into the Mardu Horde, but a huge part of why he left it is because he never really fit in, because as a character, he basically has no White in him.
+I'm guessing here, but looking at the list of official preview locations for today's date ( [https://magic.wizards.com/en/articles/archive/feature/where-find-m21-and-jumpstart-previews-2020-06-02](https://magic.wizards.com/en/articles/archive/feature/where-find-m21-and-jumpstart-previews-2020-06-02) ), and given that this is in German, the official previewer is supposed to be NerdKultur, but I can't see it on the Twitter or YouTube account at this time. I'm not sure where MTGA Zone got the info from.
+I mean.... she's a Recluse, so yeah. She was originally misanthropic enough to think \*Kaervek\* had some good points, so....
+Unmorphing a facedown thing is similar. Unmorphing doesn't use the stack BUT it is still "doing something", and you can only do it when you have priority, so it does cause another priority switch
+We have a new Mangara, Jolrael, and Teferi, so that this point I'd say it's pretty likely. The set is Teferi themed, and the Mirage War is a huge part of his backstory. It would only make sense that all the main characters would make a reappearance.
+I mean, there's plenty of room to have characters that are story related to Teferi \*and\* ones that aren't.
+Apparently, having lots of creatures that are good at hurting other creatures makes volcanoes able to explode better
+And they can't just be stuck in any old set, since some of them have Dominaria-specific names. Core sets or Dominaria returns are the only places they can put them (unless they make new functionally identical versions)
+&gt;dogs are non human. Well that's a complete flavour fail from Wizards. Dogs are ABSOLUTELY people ;D
+&gt;Mario's It's a-me, Garruk!
+Almost feels like at one point, this made treasure (or gold) tokens instead of adding the mana directly, as a "bribe" to get the target to work for you, but then was changed for some reason
+Not necessarily "wrong" per se, but Wildfire at least was referenced/did exist before Planechase. That said, it doesn't have a set, and thus no set symbol, so the Planeschase symbol is as good as any.
+Lorwyn and Shadowmoor are kind of like a doublefaced card, except as an \*entire plane\*
+No. The clerics would, but then they die before that matters
+The Duelist and Scrye magazines as well
+And \[\[Call the Cavalry\]\].
+"in order to properly balance the companion mechanic, "
+&gt;Remember when Air Elemental was a wincon and was exclusive to Blue? Air Elemental got power creeped in the same set it first appeared in ;D
+Tithe Taker wouldn't increase it either. Putting a companion in your hand is a special action, not an activated ability.
+Although claiming that cats \[\[Lay Claim\]\] is a peak flavourtext fail ;D
+Have we seen the Garruk Forest yet?
+I kinda wish the activated ability had been worded "Another target creature fights Brash Taunter" instead, just for the flavourlolz
+Keldon. Their entire culture is based around juicing and beefing yourself up to be the perfect conqueror. Despite technically being a type of human (Radha is a half-elf, half-Keldon), the \*average\* height of a Keldon is like 6'6". Honestly, Rahda's \*original\* art being so scrawny was kind of weird.
+Pretty cool, but there are a lot missing too. Billy Boyd (Pippin from LotR) is Will Kenrith, Brandon Routh (Ray Palmer/The Atom from Legends of Tomorrow) is Ral Zarek, Courtney Ford (Nora Dahrk from Legends of Tomorrow &amp; Brandon's wife IRL) is Narset. I'm also 99% sure that Camilla Luddington (Lara Croft from the new Tomb Raider games) is Vraska.
+&gt;Planeswalker tutor effects have been put into mono-white for now Also \[\[Call the Gatewatch\]\]
+Heroic Intervention is probably just better. It protects \*both\* the dragon and the spider, and isn't rotating in October
+&gt;depending on the context of the country. For example, "Indigenous" has a different meaning depending on whether you're talking about USA, Canada, Australia, New Zealand, etc.
+You have it right, just also remember that damage and toughness reduction are not at all the same, even if on Arena they sometimes \*look\* similar. For example, if you have an indestructible 4/4 creature that has both 2 damage marked on it \*and\* and effect giving it -2/-2, then what you have ultimately is a indestructible 2/2 creature with 2 damage marked on it (and indestructible means that 2 damage doesn't destroy it), even though Arena would display that as "2/0" on the creature.
+Looks like our BG signpost is Twinblade Assassins, which has now been revealed since your post. Unsurprisingly, the BG archetype appears to be some version of "stuff dying matters" or "graveyard stuff matters"
+&gt; (these guys aren't above lying about how the target died... or turning in the wrong person...) There's two of them! One of them always lies, and the other one never tells the truth!
+Which specific group of people it's referring to is different. From the BIPOC Project website: "We use the term BIPOC to highlight the unique relationship to whiteness that Indigenous and Black (African Americans) people have, which shapes the experiences of and relationship to white supremacy for all people of color **within a U.S. context."** When Wizards posted the message above, it was intended to draw Native American people, not, say, Australian Aborigine or Maori people.
+In fact, most competitive events explicitly EXCLUDE employees/people on the payroll from being able to enter at all
+We know a tiny smidgen about it from the old web comics, but what's shown is mostly about the characters: Garruk as a kid, his father, and a cruel Sheriff in service of some lord, and not a lot about the plane itself. It's generic enough it could be lots of places. And that said, the comics themselves are old enough that Wizards may even be willing to retcon or outright ignore anything from them anyway. [https://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2008-07-25](https://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2008-07-25)
+I think they probably just averaged out the 4 doggos. That big black one with the spiked collar looks bigger than a 1/1 ;)
+He only JUST got better! Leave my bara husbando alone!
+He gained the curse in the very first story he was ever in. We'd basically **never** had an UNcursed Garruk until now, during the current story timeline. Any monoGreen versions of him in core sets were presumably from the "past" before his encounter with Lili/the Veil.
+Yeah, someone being dead has absolutely never been a problem for Phyrexians before. Not to mention that Venser's brain is still full of super useful information about portal technology and teleportation that New Phyrexians definitely would want, if they knew it was in there.
+&gt; I'd find it very narratively unsatisfying, at least. To be fair, "narratively unsatisfying" seems to be par for the course with a lot of MTG story recently &gt;\_&gt;
+or a new art for \[\[Epic Confrontation\]\]
+\[\[Phyrexian Lens\]\]
+Calm down, Satan
+Correct. They're not legal in Standard, so they're not legal in Standard Brawl either (but will be in Historic Brawl). Brawl and Standard use the same set legality, they just have separate Banned lists
+But it would still be nice to have the information of which ones
+Yep, just like how King Kenrith gives \*all\* creatures haste and trample.
+&gt;I struggle to see how I can learn anything from playing a deck that's at least 85% similar to every other version. I basically just auto-concede as soon as I see the opponent is playing 5C Niv, Bolas, or Kinnan. They decks are all carbon copies of each other and not at all fun to slog through. Unforunately, combined, that means I'm literally insta-conceding something like 80% of games :|
+They could even name the theme "Fun Guys" ;D
+Pffft, as if people that like goblin cards can read that many lines of text
+I assume with the new keywording of mill, some cards will actually end up \*not\* using it, and thus things that care about looking for "milling" won't see it. Just like how things that look for cards being "drawn" don't see "put the top card of your library into your hand".
+Shardless Agent is 1UG and is a 2/2 with cascade arguably being on par with (but probably better than) "draw a card" (if you hit with cascade, it's obviously better, since you get to straight up cast the 0, 1, or 2 drop, but if you miss, you get nothing). Coiling Oracle is a 1/1 for UG with straight up better than "draw a card". Rogue Refiner is a 3/2 for 1UG with draw a card, plus energy. &amp;#x200B; From those and other "kind of close" options people have mentioned, UG for a 2/2 with just "etb, draw a card" does seem roughly about the right rate, but would have to be (at least) Uncommon, and even if the \*numbers\* parse out correctly, might still just not be a card that Wizards \*want\* to exist.
+He (and his wife) works out a lot, and use themselves as models/references for poses. It's not \*inherently\* a red flag in an of itself - fantasy art legends Boris Vallejo and Julie Bell do \*exactly\* the same thing (they're body builders, and use themselves/each other as models/pose references), but I don't think anyone has assumed it means either of them are sexual predators.
+Right, because Teferi being involved in removing things from the timestream has never ended badly before at all ;)
+&gt;you mean if you have no cheaper cards in your deck. Yes, that is what I meant. Generally, you do build around cascade, so that never happens (which is why in practice cascade is better than draw), but in theory it's \*possible\* to miss.
+So likely some cards in Zendikar Rising, Commander Legends, and "Equestrian" (and possibly the annex products related to those, ie the Commander precon decks), and that's it. Maybe anything else during that time that hasn't been announced yet.
+Chilly Dog and Chili Dog
+&gt;It's mainly useful for draft, but sometimes it's powerful enough that it's relevant in constructed for a while (cough cough \[\[Risen Reef\]\] cough cough) Reflector Mage is another example. Tossed in basically last minute as a signpost uncommon; "strong" enough in Constructed to get banned :|
+Oops, yes. For some reason I thought that was still ages away.
+121 possible different packs, but NOT 121 different themes (46 different themes total). There are 3 different rarity of themes, Common, Rare, and Mythic. "Common" themes (eg Dinosaurs, WIzards, Vampires) have 4 different possible variations, Rare themes (eg Cats, Dragons, Dogs) have 2 possible variations, and Mythic themes (eg Liliana, Mill, Raindbow) have only 1 variation. The list of themes and their rarities is here: [https://mtg.gamepedia.com/Jumpstart](https://mtg.gamepedia.com/Jumpstart)
+That's how it works for \*Draft\* JumpStart. Since they specifically mention "Sealed" \*as well\* it's entirely possible/likely that JumpStart Sealed events \*are\* "just buy 2 random JS packs and mash them" with a lower cost than the Draft format.
+Over-all, I don't think the change from hound to dog will necessarily change the frequency. Dogs will probably appear about as often as Hounds did previously.
+Ben mentioned he personally had been dropped on Twitter the other day, and Graham replied that "we" (ie, LRR as a group) had also been dropped. [https://twitter.com/BengineeringTV/status/1275288200609583105](https://twitter.com/BengineeringTV/status/1275288200609583105)
+There was an official follow up from WIzards that basically they screwed up and would be re-adding people: [https://twitter.com/MTG\_Arena/status/1275529471978688512](https://twitter.com/MTG_Arena/status/1275529471978688512)
+During development, it was going to be named and be the Dimir mechanic for that set, but eventually they switched to Cipher instead. Some individual cards with what would have been Grind were kept in the set, just with the ability written out, as we see.
+Despite the name only appearing as "L\_\_\_\_\_\_", the patch notes themselves do actually spoil the name since it gives the name of the related Fated Prophecy as "The Dawn Bringer". I'm sure I'm not the only person that immediately guessed correctly from that reference.
+Fold into the 7th dimension, that is
+Seems like it's the War of the Spark story event series that happened last year [https://venturebeat.com/2019/05/16/magic-the-gathering-arena-war-of-the-spark-chronicles/](https://venturebeat.com/2019/05/16/magic-the-gathering-arena-war-of-the-spark-chronicles/)
+Pretty sure it's the WAR events from about a year ago
+I think OP means that, if you have, say a Black instant in your hand, but only lands that produce W untapped plus a Prismite, Arena won't automatically pause to give you a chance to cast that Instant like it normally would (if you had the B-producing lands untapped). It ignores that Prismite changes what mana colours you have available to generate/spend.
+Shiny math rock
+This. Liliana tends to make \*everyone\* discard, with the idea being that you can discard creatures to fuel her reanimation yourself. Davriel will probably bend more towards just making opponents discard, and then possibly using \*their\* (non-creature) spells.
+Panharmonicon and Yarok (nor Sanctum) are not replacement effects. They're just static abilities with continuous effects that modify the rules of the game, just like Spirit of the Labyrinth or Rule of Law.
+&gt;there’ll be fewer goblins." \*Tivadar wants to know your location\*
+I wouldn't be surprised in Ruric Thar wasn't originally inspired at last partly by Warcraft. Some ogres from that IP also have two heads, and are basically just like Ruric Thar: each head has its own name, intelligence, and personality, and the name of the single being is formed by sticking the 2 heads' names together with a '. Cho'Gall probably being the most famous instance from WC storyline; Cho being a very intelligent and malicious sorcerer, Gall being a batshit crazy chaos worshiper... or is it the other way around? &gt;\_&lt;
+And things that it can't target at all eg shroud/hexproof/protection

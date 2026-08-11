@@ -1,0 +1,500 @@
+/u/dr_too doesn't read too good
+&gt; Hi, I have an unrealistic expectation for adult relationships and the emotional intelligence of a 12 year old
+This is correct - iMessage is without a doubt the most stable messaging platform on _any_ mobile OS. This is without a doubt user error.
+Why in the world did you remove the mute toggle switch in the tab? You used to be able to mute a site and allow audio to play without unmuting the site. This way when you're browsing reddit and a video plays, you can enable the audio without having to re-mute the site afterwards. So fucking stupid.
+If they were that concerned they wouldn't push a critical security update paired with a forced UI update. They certainly wouldn't be taking _away_ functionality - specifically the mute toggle in the tabs. https://reddit.com/r/chrome/comments/a6cww8/mute_toggles_no_longer_work_in_the_garbage_new_ui/
+&gt; Fucks up a browser used by millions "Please don't not update, it's going to make the world worse for everyone!" Maybe next time you could add some more padding around the tab titles to make them entire unreadable when you have more than 10 open? Or maybe reduce the contrast a bit more so you can _never_ tell which tab you're on rather than just sometimes. Or, maybe, and this is pretty far out there, don't fuck up things just so they're different and you can pat yourself on the back for changing something. &amp;nbsp; ^(Sent from a non-updating build of Chromium) #[If anyone is looking for a Chromium browser with all of Google's bullshit removed - including forced auto-updating.](https://github.com/Eloston/ungoogled-chromium)
+&gt; Eh, why am I able to comment on the_Mueller hours after posting? They must have some devious way of banning! No comment on that part though, eh?
+...I mean he is paid, and he is here promoting the agenda and decisions of the Chrome dev team I feel like calling him a shill is a little disingenuous since he's very open about being on the dev team and a shill would obviously not promote that information.
+A reason for removal was cited several times as not enough users were using it. Edit: *A*, not *The* reason
+My big hold is I have a few extensions I’ve built for personal use over the years that rely on some Chrome specific apis. But Firefox did just release that super helpful page that would analyze your extension and tell you what isn’t going to work - so it might be time to take the weekend and make the switch. Your list was helpful though, those are definitely some issues I would have eventually ran into after a switch.
+- It wasn't a shipped feature so was only available via flag settings. - It wasn’t used because it was hidden behind a flag. - It wasn’t shipped because no one used it. - It was removed because it wasn’t a shipped feature. And don’t give me the “technical” reasons - every other major browser has had this feature for years. And Chrome’s implementation was working perfectly for years.
+&gt; it's functionally broken. Well shit. There are a few plugins that are absolutely essential to my daily-use that are unavailable in Firefox. This is such a pain in the ass issue to have to deal with for no actual reason. The security risk is very real, hopefully Ungoogled-Chrome keeps the muting functionality. I'd love to keep the old UI, but I could deal with the new UI if I had to, but the muting is just a deal breaker for me.
+If it were more widely used it would not have been removed. If it were not continuously hidden behind a flag despite every other major browser supporting the feature, it would have been used more.
+Omg when is the last time I’ve even had applesauce. Not to be too hyperbolic but I’d kill someone for some applesauce right now.
+I'm also a recent Chrome migrant and I'm having trouble with this. I think at a certain point we're both going to have to just start adapting to things being a little new rather than trying to implement features step for step from Chrome.
+From what I can see the Firefox team is _much_ more responsive to what people actually want and are very willing to add configs that overwrite default action. Hopefully someone on the dev team sees this and adds it.
+A sticky is a comment that a moderator can make, and make it always show at the top. Above all other comments. Posts made by moderators can also be stickied, so they show up at the top of the subreddit above all other posts regardless of upvotes.
+I don't think the dev team accurately understood how stupid shipping a critical security update with forced UI updates and feature degradation was. Like, fuck, I just want to be able to mute/unmute sites/tabs. Now I'm trying to migrate to Firefox just so I can continue daily browsing without constant interruptions
+Elves aren't known to get shit done quickly
+What if the package was opened while driving? What if the resulting crash killed someone or the thief? By laying a booby trap, he could be held liable.
+We'll have to disagree on this I suppose, but I don't think it's _entirely_ unreasonable to expect someone to open a package while driving, especially while at a red light or something similar. Also considering if it's the passenger opening the package which could still very easily cause an accident
+Idk, I watched a cop procedural once and now that's all I get. I can only see that kind of intelligence coming from deep data mining.
+/r/terriblefandommemes
+You could just *not* throw male hatchlings into a shredder to begin with?
+Hasn’t it been shown that Medicare is absurdly more cost effective than private insurance because they have massive bargaining power?
+I get that it’s the cool thing to come here to troll, but if someone is asking a genuine question maybe direct your bullshit somewhere else?
+That doesn’t really address the problem of a person with no money having a medical emergency. What should happen then?
+&gt; it gets maybe 10-20 net upvotes, at most :( oh no
+Just the one with the same last name
+1. Take some responsibility for your dogs - you imply like the mother is somehow to blame for your dog biting the kid's finger, and then immediately dismiss her anger because there wasn't "even a mark on the kid". Being upset when an animal - regardless of your attachment to it - bites your child it's completely reasonable. 2. No one likes walls of text, hit the return key every now and again.
+Whether or not children are around your dogs often or not - it doesn't change the crux of the situation. Your dog bit her child, and children aren't known for their appropriate levels of reaction. I'm sure the child cried - and your sister - the child's parent - had every reason to be angry. Now you're saying you won't apologize for your dogs part in it because the parent was giving the child food in one of your "no food zones"? Seriously? Why do you have such a fixation on _never_ being in the wrong? When your dog bites a child, instead of immediately trying to separate yourself from blame, why not try and empathize and apologize for the situation?
+I don't know how well it's doing overall - but 1 _billion_ installs is a massively misleading number. Even if you are very generous and say for each rating, there are 100 installs. That's still only 1.5% of the billion claim they've made.
+Oh haha, that's pretty funny. Thank you
+I would love to see reddit implement a captcha for commenting and posting - I cannot fathom why they haven't done it already. The site is crawling with bots. It wouldn't even impact the useful bots like Reminder, because they're accessing through the API and are already ratelimited appropriately.
+&gt; Machine Gun Kelly hooking up with the girl and the two of them fleeing was weak and felt forced. In a two-hour movie they couldn't devote any time to events that led the group to losing a quarter of their number?!? &gt; &gt; Didn't they show the death/departure of every one of their group's members?
+Imo the entire ending felt drawn out an extra 20 minutes or so. They could have upped the pacing quite a bit in the 3rd act
+Because of the people - like the rando that got machete'd - trying to force them to look and it's a lot easier to hear them coming when they have to tread through water?
+Well, we knew it was the plants all along so...
+And yet here you are in the discussion thread, spending your time
+I was disappointed that she named "Boy" Tom. I get that it's supposed to be emotionally significant, but I was hoping she'd name him Charlie.
+I cannot understand their reasoning for placing him in this film.
+I think it would have been significantly less believable if everyone just conveniently died off one-by-one over the course of an hour.
+The final scene with Sandra and co. arriving at the school, despite a little dirt smudged on her face, perfect makeup.
+I'm not doubting you because I know fuck all about babies, but how do we know that? Doctor: "What do you see?" Baby: "..." Doctor: "omg it's blind..."
+Beasts of No Nation had the same problem as this film imo - the 3rd act dragged on far too long.
+&gt; We got no answers, no resolutions all we got was a complete waste of time Not knowing what the monster is doesn't make the movie inherently worse. &gt; The ending "climax" was literally just whether some kids open their eyes Whether some children open their eyes and are therefore forced to commit suicide. That's like saying the "climax" to Lord of the Rings is a hobbit dropping a ring. It's not the action, but the consequences of the action that define the suspense.
+Even the fucking birds in a shoebox strapped to Girl lived, lol. Okay.
+UNWATCHABLE.
+Are you trying to suggest that not all tampering cases are equal and OP’s post is just looking at fractional pieces of data to produce an enticing headline?
+Tell Kawhi that
+Yeah sorry grandpa
+Mods get easy comment karma
+Easy karma
+Really missing TNT tipoff times
+Incoming: Raptors claiming rigging because Siakam isn't having another legendary night
+That kid with a full beard is creeping me out
+Only when someone jumps on his back
+Raptors fans: With this one weird trick you can excuse any loss your team has away
+They're not trying to take piggyback rides for rebounds
+You saw some people saying that about Harden, and you saw likely different people (with the same flairs maybe) saying something about Steph. There's a lot of people on reddit and just because someone with a GSW flair says something stupid doesn't mean we all agree.
+The vast majority of people weren't blaming the refs for the loss. We shot below average and had piss poor defense. On top of that Siakam had a legendary night which he won't likely repeat this playoffs. Whine less
+Sure, literally every warriors fan is a piece of shit because literally every warriors fan was in the game thread and you saw literally every comment from them saying Harden was faking.
+I thought this in game 1 lol
+*🎶 I will rememberrr youuuuuuu*
+Stupid fucking refs, it's okay for contact on Cousins, bullshit foul call
+Do you raptors fans not know how to flair up or something? So many blanks in here trying to make waves
+Notice how Raptors fans all stay quiet when refs call ticky tack shit on Warriors
+1. No 2. Flair up
+So it's less about the officiating and more about just being upset you're not playing as well as game 1
+ts% isn't ft%, just showing your ignorance
+#FUCKING REFS CALLING BULLSHIT FOULS ON ....Looney? ...wait
+Did you watch the 2018 finals? Because again, just shows you have no idea what you're talking about.
+Props to Looney for trying to chase down that stupid fucking turnover
+Lol you deleted your comments
+GeNerAl CoNSenSuS
+Gotta be missing his 4 points
+I'm not saying I'd give a shit if it happened, just that there could be an optics problem about them wasting time/money to attend.
+lol true Harden is literally Hitler tho, so there's that EDIT: just noticed your flairless username again, what is this boner you have against /r/warriors? You get banned or something?
+Brothers calls ticky tack fouls - blanket statement 100% true. It isn't to even it up, teams just make stupid reaches that would slide for the majority of other officials.
+I thought 5 going into Game 1, still thinking 5/6 Warriors
+...this is their first finals ever
+Truer words never spoken brother. A ton of people discovering the NBA for the first time with the Raptors in the finals.
+#FUCKING REFS
+you'd be wrong
+My favorite is when an obvious foul against the Warriors wasn't called and they show a replay only to stay absolutely quiet
+Because Harden is so much more accomplished
+Brothers calls tight games, it's a common thing, but Raptors fans are all pretty new so they're not used to this
+&gt; Absurd statement Doubt &gt; Yeah? prove my bullshit wrong
+Lol are you trying to say that Mark Jackson isn't biased against the Warriors? Have you watched an ESPN broadcast game before?
+The biggest crime tonight is the refs not letting Siakam go off again
+I want to know whose auto purchasing decision is made via commercials
+rent free
+I saw an LA craigslist post claiming to be Jeanie's hair dresser confirming Kobe is coming back
+Let's hear the Raps justify that call
+If you don't have a flair your opinion doesn't count
+Even if it hits his arm, it was off Green's fingers last
+and future GOAT Siakam
+Damian Lee, lol
+“The Warriors are unable to guard Siakam” Lol
+Kawhi’s confused about why they didn’t leave for a baseball game instead
+Dray showed just how guardable he is, and if their plan to win the series is have Siakam score more than 30 a night it isn’t going to work out for them.
+Watch something else
+Apple finally supporting oAuth, nice
+I absolutely fucking love Apple doubling down on privacy
+It's the same protocol, OAuth, that the existing login buttons work
+I like that they're focusing on specifics rather than trying to do every hardware build in-house
+Animoji experts?
+It's been an internal thing for years, when I was at wwdc12, most people called it dubdub informally
+Yeah, for years now
+It feels like the perfect "one more thing" joke wrapup for this portion
+Get a better car
+If Pandora is, Spotify has the option to support it
+People care about privacy
+If you were watching you'd see that's not what's happening - they're "adapting" the two together
+Lol these fools in the comments have never seen a G5 before
+While you complain about it being expensive, remember if you're not making money using your computer, this isn't meant for you
+I actually make a living streaming Minecraft on YouTube /s
+If you're in a studio it's helpful when moving workstations
+World Wide **Developers** Conference
+HoOLeS?!
+I'm thinking that display is 8k not 5k
+It looks too large to just be 6k imo if they want to keep their ppi high enough for no blurring and a straight 2x Lol nope
+OH SHIT 4U RACK IS BACK BABY
+RIP iTunes, gonna miss you
+Really dislike Apple's proclivity to exclusively use round icons.
+Exactly. WWDC has drifted from a developer event to a mass market event and everyone stays salty because of it
+git fukd
+Also confirmed that you can drive the 6k display with a current MBP
+HA BAMBOO ON SUICIDE WATCH
+Still want TweetBot back with live feed
+lmao this guy is a bigot
+"it's like hide and seek" kill me please
+Honestly, SwiftUI looks like it's just going to introduce a ton of poor-quality apps into the app ecosystem
+https://np.reddit.com/r/nba/comments/bve26a/why_the_warriors_cannot_defend_siakam_at_this/
+Because for professionals money isn’t always the most important factor in a purchase. Quality of hardware, hardware longevity, software compatibility, and ease of use are all much friendlier on a Mac. Add into that the fact a large majority of the professional video editing world uses Mac, it’s easier when a new editor begins working on a project since there is nothing new to adapt to.
+Well, damn. I was really hoping they addressed this.
+Every merchant service provider takes a cut of payments made
+If JVG comes out in favor of GSW, you best believe it's in favor of GSW
+At this point you just need to pull Curry
+washes the obvious goaltends
+They're just not even trying for offensive rebounds
+Do you want to watch a show about a bunch of uppity women who have their every need provided for but still manage to complain non-stop? ^^^^^^^/s
+I'm just glad they have the chance to give Oracle a proper send off
+And I made an example, new Toronto fans are ruining the fanbase.
+&gt; members of Green’s **entourage** grabbed Edmondson and his girlfriend by the throat no
+Yeah, it's called the **War on Christmas** for a reason.
+my neighbors don't even celebrate Christmas anymore, soon no one in the country will. We're forgetting that **Christ**mas is about **Christ**.
+All Americans should care because it is a national American holiday for Christ. https://www.redcort.com/us-federal-bank-holidays/
+Did you respond to the wrong comment?
+Then could you explain your question? You asked when something happened but nothing in my comment was an event which could have happened at anytime
+Sam Hinkie did nothing wrong
+Absolutely no quit in this kid. Surgery after surgery, injuries, nothing matters. He's in it. "I know everything can't keep going bad. Something's good gonna happen to me one day." https://mobile.twitter.com/KNBR/status/924164802947072001
+All of y'all mother fuckers, fuck you, die slow, motherfucker Our free throw make sure all y'all odds don't grow
+If only he had topped it off with some frosted tips
+109*
+oalan
+After a few goofy early turnovers Dray looks locked in
+Moving screen by Gasol btw
+I'm legit nervous of Cousins coming in after the end of game 5
+Another moving screen by Siakam
+man fuck JVG. "I don't know any of the medical stuff, but here's my uninformed opinion on the medical stuff"
+is that the abandon-your-team mentality?
+His foot was probably on the line
+"Jordanesque". I know Fitz isn't perfect, but I'd take him and JB over these fucking clowns any day
+It's "Jordanesque"
+If that's the case then they fucked up, I'm sure it'll get addressed
+Idk, it's scored as a 2pt shot, idk why else that would have happened
+You're going to review _that_, clearly a 2, but not the Draymond 3?
+Not a single person gives a fuck about the AmEx halftime report
+JuRRaSic PaRK
+That last turnover stings
+Turnovers have been this teams biggest weakness for a few seasons now. Just sloppy playing
+/r/nba would lose their collective minds and Uncle Dennis would send a strongly worded letter to the league
+Solution, cut quarters by 4 minutes and add 2 new 8 minute quarters to the end of the game to make a total of six 8 minute quarters
+is there a replay of that floating around?
+Classic case of Stockholm Syndrome my man, get somewhere safe
+Now from this angle it does look like a 3. Shit will be dicey if this is a narrow loss/victory
+I'd love to see the video from this angle
+which is why I really think we need to address how those are included in stats
+Trash call
+JVG over here nutting about Kawhi's "strength"
+He has mobility, it isn't going to be a serious injury most likely
+and they're still going to lose
+Insane to think there's only 12 minutes of basketball left to be played in Oracle
+we just got a curry death stare, you know what happens next
+How many goaltends were missed in the last game that JVG and FatJax didn't want to talk about?
+Cook got shook on that screen
+This is going to be a defining play for Curry. They're going to put it in his hands for a 3 - and he's going to kick it out to Andre after getting swamped at midcourt
+this has Andre written all over it
+FUCK YES SEAL IT NOW
+gg, trash series, beyond disappointed
+I was speaking about the same person they were speaking about - the person who left this comment: https://www.reddit.com/r/Documentaries/comments/c052xg/second_undercover_investigation_reveals/er2qlb6/
+They require an Overdrive account but there are several cities that allow you to open an account without living there. I personally opened a few Overdrive accounts because my current city’s library is rather small.
+There are plenty of cities that allow you to get an Overdrive account right from the library website. It's just a matter of making the effort.
+They don't have interviews, you need to get in via recruitment/invite
+Despite the **specific instructions** by Willie Nelson to not let their babies grow up to be cowboys?
+I doubted the wall at first, but then I went on vacation to China for a few weeks. Not a single Mexican in sight. Walls work. #BUILD THE WALL
+Are you purposefully being dense? If not it’s no longer a mystery why you can’t seem to navigate the complexities of going to a website and filling out a form.
+Never too young to learn our national no-snitching policy.
+Honestly HK lost all hope of keeping those liberties the day the British gave it back to China
+You shouldn't be friends with shitty people
+Serena even called her "June", clearly trying to manipulate her.
+Her refusing to acknowledge what is happening in Gilead and saying "June is safe" to Luke just destroyed any part of me that believed she had changed.
+I don't know how everyone is pretending Canada is just going to be like "oops ya sure here's the kid" with all the public knowledge available about Gilead. I'm not saying it won't happen in the show, I'm just saying it wouldn't happen in the real world. Canada would just shut that shit down.
+It was a single tape from June, and as we saw from the protests in Gilead last season, there are large numbers of former handmaidens in Canada already. Adding one more story to that pile isn't going to shift the balance dramatically, especially with the countless letters that have been sent out.
+Same thing happened with Terry Crews.
+Given China's history with protesters I kind of feel like it's heading that direction regardless
+Old Bear, he likes the honey
+You cannot eat meat ethically. An animal died, the vast majority of the time in horrific conditions (see the video). It was killed because people prefer the taste of meat. Dairy is nearly impossible to consume ethically, because of the vast demand and race-to-the-bottom business practices.
+&gt; These activists do nothing to stop it and in fact look like they are encouraging it. That is not caring for animals that is viewing them as just items to further their cause. Their cause is to stop the systematic abuse of millions of animals by exposing what was already happening. Remarkable how you can contort yourself into blaming them for this instead of the people actually abusing them.
+&gt; Sounds like a fucking half-breed loser really cranked it up to 10 there didn't ya
+privacy and quality
+I was unaware of that, but I think it's still a far cry short from Aladdin/The Lion King releases we've seen.
+ARM rumors have been floating around for a _long_ time, and the Apple/Intel relationship by all appearances is pretty strong (although the recent Qualcomm settlement might put it in jeopardy). For all we know he was brought on to work with their A/T series chips. We know the T series is going to see a massive next version and the A series is under constant development for the next iOS device release.
+This is fucking embarrassing. How do party leaders walk away from this thinking it was a success?
+So far none of the low-tier candidates have done anything to show they deserve to be there. They're just getting in the way.
+This is just embarrassing. Who are these fucking people?
+If the DNC doesn't fix this format I honestly have no hope they'll get their shit together for the general.
+I have never been more embarrassed for my party.
+I don't know why Biden doesn't just own the vote and layout that we were all lied to. Circumventing it just leaves you open to easy attacks. We were lied to, with the information we assumed was true it was reasonable to try and stop Sadam.
+Swalwell need to fire every fucking speechwriter he has.
+"by someone other than me"
+It's such an easy thing to do too. It even gives you an amazing opening to transition to every Democrat's favorite subject: Transparency.
+You promised.
+There's a 3rd on the far right of the image
+&gt; It was pretty messed up, more than usual. [the British rn](https://i.kym-cdn.com/photos/images/original/001/471/227/dd0.png)
+Ah - who can forget that ever-important tenet of design: "Add more stuff, don't worry about empty space"
+So as someone completely new to this series, it was a mess. No real narrative direction and it feels like much was unexplained and relying upon the viewer to already have some info to parse it out. That being said, I don’t think that’s necessarily a bad thing. There are tons of upsides for the people who *do* have existing information, since they can jump straight into a complex story. This is largely the reason for the gap between user and critic reviews.
+You’re apparently not very good at reading and then following rules - why would someone trust you with an invite if you can’t even do that here?
+Not so much that they ruin the jerseys - but it opens the door for much larger ads that will absolutely ruin the jerseys
+RED whenever they're back up from this week's unexpected downtime
+Match made in heaven tbh. And Forty to round it out.
+That'd be a much better take than a rinse/repeat storyline next season. Recast, age everyone up 10 years, and develop a new story. It isn't like Netflix hasn't done that with The Crown
+lmao pandas are really *trying* to go extinct
+Because we kind of fucked their habitat plus they're cute to look at
+See: dogs
+- tons of lossy transcodes - inconsistent tagging standards - effectively Limewire Hard pass
+No. Hillary fault. Only Hillary fault. Bad emails. Ben Ghazi.
+so a custom .edu email doesn't get you free amazon prime?
+And with that limited scope you felt confident enough to write up 5 paragraphs highlighting the show as uninteresting. Pretty arrogant.
+Excuse me - you seem to be forgetting that SHILLARY KILLED BENJAMIN GHAZI IN COLD BLOOD. AS EVIDENCED IN HER DELETED EMAILS.
+Can't speak to why - but I'm fairly certain he's calling the person he responded to an idiot.
+It begs the question if everyone is worth being nice to.
+If you continue to support someone with racist policies, at best, you’re comfortable accepting racism. Worst, you’re just as racist. Now we have someone here who claims they might still support the racist - who in addition to harming the country, has openly bragged about committing sexual assault. And your response to them is “come on in”. That’s a problem. If your moral compass is so broken as to consider voting for Trump will full knowledge of what he’s done - you are a problem. Even if some Yang supporters are willing to ignore that for their own political expediency.
+Then ask them why they’re comfortable voting for someone who openly bragged about committing sexual assault. Maybe you can use their excuses to absolve some more Trump supporters.
+&gt;The DEMOCRATS candidates were and are SO BAD that people have to choose Trump. Yes. The voters who supported the man who openly bragged about committing sexual assault had _no choice_ but to vote for him. They didn't want to - they _had to_. Right. Enjoy coming up with apologizes for people who don't want them. They're proud to support Trump, and the vast majority voted for him because they agree with him. They're just as racist and xenophobic as he is, and pretending they're not doesn't help you or your candidate in the slightest.
+HOW. DID. YOU. LOSE. YOUR. EYE?
+Here's that other quote - great movie you should check it out https://youtu.be/GzGIzIFtflk?t=34
+Out of context, I can definitely understand that logic
+I’ll sign your dick, Doug
+One of the best Digital Shorts ever https://www.youtube.com/watch?v=zoS8DrrlnTQ
+I was about to say - we've been waiting on an update from them for like a year now, I'd be shocked if they've delivered _another platform_ in that time
+He’s said that exact same thing in his previous events. He never spoke kindly about the Globes when he hosted.
+Ctik or Btik
+Why is the expiry term only 1000 years? If there's proof it was once held by another group, should they be forced to leave? What about the actual British Isles, how far back should we go to detect the true "lawful" ownership of them? There's a non-zero chance that 1,000 years ago at least a portion of those isles were under the "legal ownership" of Denmark. Should they be returned? Do you really believe that African groups were just sitting around peacefully until the evil colonizers invaded?
+That’s a fucking Pokémon
+This was taken 4 minutes after being posted with a single comment. Something tells me OP is playing both sides here.
+The little ear tuck at the end - like, uh oh. Adorable
+Then someone there is posting on T_D just to screenshot it and share it. It's really pathetic.
+Content blockers are already a thing - applies to all WebViews used in 3rd party and 1st party apps
+Which part didn’t I address? You can already use systemwide content blockers.
+Lol do you think the ad industry until now has been working to reduce ads out of the kindness of their hearts? Since they can charge more for targeted ads, they’ll show less? Lol, no.
+Untrue - it works in all WebView components
+Lmao so you want Apple to kill the monetization strategy of at least half of their apps. Got it. You’re just a dumbass.
+Most third party ads are delivered by Google Admob and are not delivered via a WebView. You have no idea what you’re talking about.
+Bush?
+"Bush"
+lmao. Fucking CNN
+I do too - but I know my opinion isn't always reflective of the rest of the country. I'm thankfully past the point in my life where I'm incredibly self-confident with very little reason to be.
+idk smooth sailing for me compadre
+That's the result of purity tests
+so fragile
+Can we get a new sub for /r/fragileberniesupporters
+She knows her audience - don't hate a politician for politicing
+&gt; CNN not representing your exact views and instead allowing highly supported candidates to talk \&gt;:(
+I disagree. We need strict moderation, I'm tired of the constant runons
+STOP talking past your time limit
+This thread summarized: I disagree with this point, therefore it is invalid.
+Oh shit, that was a pretty hard rebuff from Warren.
+Warren holds that he said it.
+Uh oh, looks like Reddit has turned on Warren.
+Neither is winning in Vermont
+Not according to Warren
+Why would he admit to it if it would hurt him
+So you're choosing to believe him - that's fine. But don't act like anyone is obligated to believe his version over hers.
+Consistency is a big part of Sanders positioning - it'd be a great jab to make while being 100% verifiable. Although probably not a good idea after he took a beating on the "women can't win" exchange.
+The fuck do you think the point of a debate is? For everyone to dance in a circle singing songs?
+I disagree - Warren isn't going to grab any Biden supporters, but she could clean up on Bernie supporters
+It will play very well outside of Reddit where acknowledging you're a woman is playing "identity politics"
+/r/fragileberniesupporters
+"third party candidate" ya okay
+Ignoring that Warren's plan is effectively the same as Biden's - just with the "in 3 years" promise
+Lol, and you guys think Trump supporters are sycophants.
+Adding a public option for anyone who wants it would be a massive step for millions of Americans - don't speak from a place of privilege
+/r/fragileberniesupporters
+/r/fragileberniesupporters
+Reddit will hate it but Pete's answer is one of the best practical answers on healthcare
+Someone outline what the differences between Warren and Bidens plans are
+Eh, except it isn't. It just isn't all or nothing like Bernie.
+Warren's plan is _exactly_ like Bidens with one difference: She promises in 3 years to remove private insurance
+/r/fragileberniesupporters
+maybe it's because she's on a stage watched by millions?
+/r/fragileberniesupporters
+who cares lmao
+&gt; SPOT THE MEATBALL THAT LOOKS LIKE MIKE. lmao icon
+No - just whiny
+It's really not that bad. When you have big policies, it's understandable for someone to ask how you'll pay for them.
+too long
+Don't say "Daddies" on the debate stage
+She doesn't work for CNN
+I don't think everyone lived through what Joe did tho
+Better than "Mommies" from earlier
+Everyone is for universal health care on stage. The only question is getting rid of private insurance, which Clinton did not support
+lmao - never change Reddit
+So you have no issue with people promising things they don't believe they can deliver?
+he changed it - it was /r/RiggedPrimaryRepublicrats or something along those lines
+No - but they can _deliver_ legislation, like the ACA. If they can't do it, why push for it?
+Is Klobo performing Hamilton on stage now?
+Probably won't have the chance to lol
+So voters overwhelmingly support everyone else on stage who have the same plan as Sanders without the removal of private insurance?
+&gt; Healthcare being given to all citizens regardless if they can afford to pay or not &gt; &gt; Yep - that is literally in everyone else's proposals. The difference in Bernie's is the elimination of private insurance.
+Steyer needs a cabinet position in the next administration
+Pretty small audience this time
+"hacked"
+The biggest winner of this debate is whoever prepped Buttigieg. His delivery isn't always 100%, but damn his answers are fucking killer. His team is doing a fantastic job.
+&gt; That is because on Reddit everyone likes me and that got me the nomination last time so let's just do that again
+Sometimes the best answer politically is a nonanswer
+Without a doubt - his delivery isn't great, it sounds too rehearsed. But the content is very good. That was the best possible answer anyone could have came up with in regards to black voter support.
+imagine thinking the Pixies are an OG emo group
+The vocal group on Reddit likely will - but they are no one's target audience
+I did a pretty thorough write up about this in the other thread - but I largely agree. His delivery is too robotic, like Rubio in all the worst ways. He needs to interject some cadence, some pauses.
+Spinning - yeah
+Reddit is anti-anyoneWhoIsntBernie
+If only more people liked him
+"Donald Trump thinks this is all about him" Says the woman who consistently brings him up in every one of her answers
+Like I said - reductive. Don't contribute, just throw fists at the opponent. It works for his base.
+If only Yang was able to participate in all the past elections to allow people to get to know him :/
+not consistently
+&gt;haha, get it? She's fat - that's why the joke is funny 80% of the jokes in the film
+why make the fans _you already have_ happy when you can try and attract new ones?
+I just read the article - what in it disproves anything /u/rovan1emi said?
+His claim is that grenade attacks in Sweden have rocketed since 2015 - which the article very clearly supports.
+I always just use my phone number for my guest network - everyone who I'd give the password to already has my phone number, so it's easy enough for them to put it in
+I have not said anything dishonest, and I'd ask you to point out where you believe I have.
+I smell a mashup
+It's propaganda to say "Coming soon to VA, for the "greater good.""
+The difference between being stranded on an island and a tropical vacation is the ability to leave whenever you want. If he wanted out at any point, it would have been a phone call - and you know it. I don't care enough about royal drama to have a conversation on it, but pretending like the kid born with the silverest of spoons in his mouth is somehow a "man of the people" is laughable. I'm not saying he can't be a good guy - he probably is. But struggle he did not.
+Well I mean I was homeless for 6 months when I turned 18 and lived out of my 95 Jeep Cherokee in parks while working a minimum wage job - but I don't talk about that much. I do think he had considerably better living conditions than anyone else deploying without a prince at their base would have had, yes.
+all the best songs of the 2000's had phone numbers in them 281 330 8004
+what a weird fucking thing to type
+Well here we are, 2020, a decade past when he should have been relevant. Guess it worked lol
+So you believe that Warren - by all accounts, a very serious contender for the nomination - lied about a statement Sanders made, and still believe the media made the whole thing up? Do you not believe the Warren camp leaked it? Or do you just think the media shouldn't cover what two very prominent campaigns are disagreeing about?
+BiB?
+Considering how much evidence you've shared, I really don't think I am.
+Then delete your misleading post
+imagine being this upset over someone showing you a polling average
+jfc these people
+&gt; I'm pretty confused Summary of all Republican callers on C-SPAN
+This is being played out in the court of public opinion. Until the needle moves and senators risk losing their seat by continuing to defend Trump, they'll stay in line.
+I've never heard an innocent person fight so aggressively to keep the evidence of their innocence hidden
+Ya clearly - that personality trait is exemplified by his gold plated apartment in NYC
+https://politics.theonion.com/precious-little-voter-needs-to-feel-inspired-by-candida-1819578715
+And let me guess - Linda Sarsour isn't an anti-semite either
+Nowhere in that comment is evidence provided
+I’m not comparing his bullshit story with any other. I never claimed there was evidence supporting the person he’s disagreeing with. But until someone shares *evidence*, it’s just two losers arguing. You really shouldn’t be so upset about this.
+TIL I don’t get TestFlight notifications lol I’m so used to pressing “no” when apps ask for that permission
+I didn't know the episode title - but after tonight there's no way we don't see at least one of the gang walk through the door.
+"I Will Remember You" by Sarah McLachlan on repeat for half an hour - photos of the gang sliding by. Emmy award plz.
+You either get to watch it or hear people talk about what happened and miss the actual spectacle of it.
+Wouldn't want to annoy a group of people killing their kids. I know it isn't your decision or anything, but sometimes I really wish Reddit didn't decide to put water wings on the community. No other site forbids linking to external groups, see twitter
+The title explicitly says he made that much for "songwriter royalties". He made more than the title implies because he also got paid for performer royalties. I'm not saying this isn't an issue that needs to be addressed - but this article is bullshit.
+I haven't seen bans, but there are tons of staff edits.
+NOT EVERY VIDEO NEEDS A FUCKING SOUNDTRACK
+Just disable them and use Pager or something for content alerts
+I fucking hate how we treat the constitution like some infallible document
+"Would law scholars agree with this? No" - Ken Starr
+lmao imagine stretching that defending Trump is equivalent to "minority rights"
+We should continue to treat it as written since it is the law of the land - but the mentality that a document written 200 years ago is infallible prevents us from updating it routinely as the founders intended.
+No one is suggesting we ignore parts of it. But it is far from infallible - thinking that makes me question if you know the definition of the word. If it were infallible there would be no *need* for an amendment process.
+It doesn't even matter - Bernie supporters have already started echoing it everywhere regardless of it's truth
+The reporter misheard the question - it's been corrected.
+The reporter misheard the question - it's been corrected.
+Just his supporters. The reporter misheard the question - it's been corrected.
+He said it - it was the question that was misheard. He was asked "Would Bernie unite the party, the whole party?" A _completely_ different question - and everyone here is gleefully ignoring how many times in this campaign Biden has said he'll support whoever the nominee is. Sanders supporters are honestly the worst of the left.
+Holy shit I’m both thrilled and disappointed to be so thrilled about our senate doing the bare fucking minimum for this trial
+Yeah - he said he doesn't know if the entire party will unify behind Sanders because it depends on how nasty the primaries get. Shocking, salacious, unbelievable.
+Yeah and now they're outright ignoring the correction. Look at how many comments remain unedited here, look at people straight up "not believing" the correction. Delusional.
+Yes - I am. No one is talking about supporting Trump - we're talking about the cult of identity that Sanders supporters (like Trump supporters) have bought into. They refuse to hear something negative and believe it's true, their immediate strategy is to write it off as fake news. Familiar? We don't need that level of delusion in the party.
+Some that have just don't believe it - top comment in this very thread: https://www.reddit.com/r/politics/comments/eveb9q/joe_biden_wont_commit_to_backing_bernie_sanders/ffv5mxr/ Sanders supporters really need to start addressing this with each other - the idolization of Sanders is exactly what Trump supporters did to him. They refuse to listen to anything contrary to what they believe - and we see it happening here. It isn't funny, it isn't a small thing, and it should be troubling for the party.
+Sanders is not as divisive as Trump - I never said he was. His supporters, however, have idolized him to the same degree Trump supporters have idolized Trump. And the Sanders campaign might not outright encourage it - but they do _very little_ to stop it, because in the short term, it helps them. Notice how not a single staffer or comms director from the Sanders campaign has addressed the false story on Twitter. They're fine to let the flames spread so long as it benefits them.
+Wouldn't be a conversation with a Sanders supporter without some whataboutism. What am I supposed to be denying here? That people within the party that support Biden also ignore news they dislike? No - I'm not going to deny that. To do so would be idiotic. But the prevalence of those people are far outweighed by the Sanders supporters who do the same, and you know it.
+Because if he was a Boomer he wouldn’t be pushing 80? Does everything need to be spelled out for you?
+Maybe you’re just not interesting
+My honest worry isn’t that we won’t see Bolton testify. It’s that they’ll do exactly what they did with Sondland and spin it enough that their rube base buys it and then we’re back to square one.
+Yeah - no old person wishes they were younger. Obviously.
+A public tracker works well for new content. BTN has a massive library and excellent retention.
+&gt; um actually chickens have no intentional reason for crossing any given road and it’s certainly not for the reasons suggested by this incorrect “joke”
+You're confusing the modernist aesthetic that often accompanies minimalism - but minimalism at its root is extreme spareness and simplicity - something the OP image entirely fits.
+And of course, all hobbies involve you being in your living room
+And that's great! You do you - but I'm not going to start labeling you depressed with that limited scope of knowledge.
+So at what point do you just own that you were wrong?
+What you consider "a home" isn't what everyone else does. You don't get to define what other people like.
+I don't think they _were_ against it, the title mentions Apple's "pleas", but I think that's just bait for reddit
+CURIOSITY STREAM (WITH NEBULA FOR FREE)
+Literally the entire show is back to back mocking Trump but they mock AOC for being overly critical and lacking foresight of the larger problem _once_ and people cry. Absurd.
+I went through and looked - the majority are saying the same things about Biden as they did about Hillary.
+Yeah, I remember Demings during the hearings and was pretty unimpressed - Kamala has to be the pick at this point.
+Remember when leftists freaked out about Tom Wheeler? It's shocking that people with history in a field are able to regulate it effectively.
+&gt; Tom Wheeler will never effectively manage the FCC - he worked as a lobbyist for the cable industry
+Just wish she hadn't taken such cheap shots at Biden last year
+all I remember about Herman Cain is pizza, cheating on his wife, and that quote
+If someone is coming at you with a knife I'm good with a non-lethal shot rather than a lethal shot
+How about that iconic slow-smile
+So is sharing this officers name a bad thing? Should no one be held accountable for their words/actions? Do they get a free pass because we’re not allowed to be mean back to them?
+What if they’re off duty? What if you’re unaware they *are* a public servant? Why don’t we just instead let people hold others accountable for the shit they say online?
+Nothing is perfect but I’m for freedom of speech, but both directions. You’re allowed to come onto a site and say whatever the hell you want - and if someone finds out who you are they should be allowed to tell everyone in your life what you really think. There is not right of anonymity.
+Oh there is - plenty of people sat abhorrently racist shit everyday and it’s fine, but if you link their Facebook then holy shit Reddit isn’t cool with that. I’m aware they can set their rules but I can also voice my opinion on them which is exactly what I’m doing.
+How about you answer the direct question. Should teenagers who say racist shit on Snapchat have their scholarships revoked after people on Twitter “dox” them and share their posts? Is it okay for the Twitter users to do that? If not, why?
+Not according to Reddit you scum
+Witch hunting is accusing people of something which they didn’t do for personal gain. Doxing is just showing who did something everyone agreed happened. Not at all similar.
+What if I post something incredibly racist and some extremist goes and shoots up a black church? Stop trying to shift the blame of the crime away from the person who did it. If someone goes and kills someone with information you found guess who is to blame? Not the person who knows how to use Google, the person who killed someone. If they get swatted guess who is to blame? The person that swatted them. Inciting violence is also illegal and should be - but again, you have no right to anonymity. If you do/say something and people figure out who you are they have every right to share that information - even publicly to make sure everyone you know in the real world knows who you are when you think you’re invisible. EDIT: btw idk what in my three sentence comment made you think I need to calm down but ok
+I don’t think anyone believes doxing the wrong person and blaming them for the actions of another is right. But suggesting doxing anyone is bad because of some risk it’s wrong is a dramatic over reaction. It’s exactly why the rules were put in place to begin with, thankfully Twitter was smarter about it.
+Like for fucks sake if you share a twitter post here you have to hide their usernames? The fuck?
+for shame
+It’s kind of humorous to think how he torpedoed his entire political future on one debate thanks to Chris Christie of all people
+He had a few good moments in that election cycle. He hit Jeb pretty hard in one of the early debates, “the only reason you’re saying this now is because some advisor told you it would work well with this crowd”, something like that. He also had a really good exchange with Trump on Cuba at the Miami debate - but he was really playing to a home crowd that night.
+Having a purple heart says nothing about whether or not you're a fascist, but it absolutely says something about courage.
+sry I like my war heroes not blown up/brain-injured
+The same thing happens frequently with Native Americans/Indians. The vast majority of Indians prefer to be called just that - Indian rather than Native American. But white people decided to be offended on their behalf and just change what they're called (again). EDIT: https://www.nativetimes.com/index.php/life/commentary/11389-native-american-vs-american-indian-political-correctness-dishonors-traditional-chiefs-of-old &gt; So if you travel to any Indian reservation out west you will soon discover that nearly all of the indigenous people refer to themselves as "Indian," especially the elders who are still fluent in their Indian language. As Chief Oliver Red Cloud said a few years before he died, "I am Lakota and I am Indian." &gt; &gt;As an Indian newspaper we must be very careful that what we call ourselves is not dictated to us by the white media. We have been Indians for a few hundred years and the name carries our history. Crazy Horse, Sitting Bull and Little Wound (Read their quotes) all called themselves "Indian" and they said it with pride. Should we dishonor them by saying they were wrong?
+&gt;There are other comments relating to different areas of the war on this thread. If the facts I stated earlier can be disputed feel free. Dont just try and put a stop to discussion, it's not a nice trait and achieves nothing. Lol then respond to those comments instead maybe?
+Honestly how the fuck do leftists take something so universally despised everyone from Trump to Bernie criticized the police and said reforms needed to happen and just jump the fucking shark? They hold the entire national attention and major reforms are being pushed through several cities, massive protests across the country are taking place, this is the best position they could ever be in to enact major change where it is so desperately needed. And they just fucking blow it with these dramatic reactionary ideas that have zero chance of happening, with absolutely abysmal public support. It's just one unforced error after another and they are blowing the chance to make substantive differences by once again demanding all or nothing.
+Hot fucking take that 3/5s wasn't that racist
+I made a comment that it's silly for people to compare losses during the war and that we should instead focus on the unity that ultimately prevailed to defeat the axis. You then came in and did exactly what I said is annoying, and then got upset when I reiterated it wasn't a pissing contest. No one is telling you what you can/can't say/think. But don't get so upset when people call you annoying for doing the thing they _just said_ is annoying.
+I believe that’s a flawed perspective, at least electorally. Unfortunately in the US we view our political landscape as a group of two parties, and since we both know the “abolish the police” will get more media play than reasonable reforms, the majority of non-political people (the vast majority of the electorate) will associate the entire Democratic Party with their inane policy “idea”. The same thing has happened time and time again, just think about how many people seriously consider any democrat a socialist.
+Even at peak volume primaries pale in comparison to the general - the people I’m talking about likely don’t vote in any primary
+A wholesale replacement of the police force in Minneapolis would be much better received than “abolish the police”. They did something similar in Camden NJ and it went quite well - but again, I’m not well versed in it so I won’t make any suggestions on something I can’t speak intelligently on. I just do know that abolishing the police is one of the dumbest proposals I’ve heard coming from the left.
+I hope you’re right but the messaging shift to “abolish the police” is spreading quite quickly and I’m sure we’ll have the usual suspects pick it up this week
+The point of a meme isn’t to directly quote someone but rather draw an analogy between what they’ve said/how they’re behaving and overall message of the meme. You never *said* “ackshually” but it still applies because in a conversation about how we shouldn’t try and focus on “one country did more than ____” and instead on unity, you come in and ignore that entirely so you can deliver a fact you erroneously believe no know else knows. “Ackshually more Russians died”. Your analogy of me “picking up a ball to go home” doesn’t fit, because despite you either purposefully ignoring the point being made several times or just not comprehending that no one is saying you were factually wrong - just doing the literally thing that was just said shouldn’t be done, I am still having the conversation.
+Taking your balls and going home, then. And do try and calm down. You *really* seem upset now.
+We don't believe in borders
+Not that it matters but Judaism follows the maternal line, so unless your maternal grandmother was Jewish you wouldn't be considered Jewish regardless of genetic percentage.
+Oh man, I'm glad I came back to check out this thread.
+There are some sects now that are incredibly open, even allowing converts without marriage. But the vast majority of recognized sects still follow the maternal line.
+Glasses with decent resolution full-frame AR would be a game changer in bringing the technology to the forefront, then all of the great AR development could finally be appreciated. Imagine board games with AR, would be so much fun - just not if you have to hold your phone in front of you like you're looking through the worlds tiniest window
+Pokemon Go uses AR as a small gameplay addition, it is far from a core feature. Perfectly playable without AR.
+I suppose you could consider the real-world position of the game AR, but even with that stretch of a definition it isn't the use-case of AR anyone has been discussing in this thread. Hell, if that is AR then the iPhone 3G had AR support with that sky map app.
+Go ahead and show them this too: [Bernie campaigning on his "tough on crime" stances including the 1994 crime bill](https://web.archive.org/web/20061018180921/http:/www.bernie.org/truth/crime.html)
+Beau = Lu Ten :(
+&gt; If I don't see something with my own eyes it doesn't exist, ignore the evidence to prove otherwise
+and what's worse is I didn't even think of it I just stole it from Twitter
+I'm sure everyone living on Olive is just thrilled about this
+The ability of someone to win an election has no impact on their ability to legislate. The reason he is well regarded here is his credentials - he knows economics and speaks on policy positions with nuance rather than broad stroke catch phrases.
+Special elections, man. All the party focus on a handful of seats - I can’t imagine the media environment in Alabama for the senate election in 2017. I know the DSCC went absolutely bonkers with their ad buys.
+&gt; reminds me too much of Beto, some guy who wants to be the liberal hero of the Democratic Party but his entire resume is that he went to film school With the exception of his credentials mentioned in the title of this post?
+Remember the RNC in 2016 when Ted Cruz effectively refused to endorse his party's nominee during his speech? Well, he was out campaigning for Trump by September of that year.
+Oh, man, these debates are going to be fiery
+&gt; And cornflakes were originally made to get young boys to stop jerking off fucking what?
+Voter apathy is significantly more common in the Democratic party and it is a problem the DNC is constantly trying to address
+Agreed, but OPs title is kind of bullshit - "How can you just be so dumb" Reads like someone whose entire life revolves around memes and Reddit, mocking anyone who isn't similarly wasting their life looking at the same rotation of images
+I can’t wait to see the conservative narrative shift on the EC when Texas finally flips
+Eh, kind of cheap slowing it down by 50%. It's easy to make things look surreal when they're slowed down to surreal levels.
+Trust me, double the speed and a lot of the “magic” falls away
+There is such this as "good grief", just ask Charlie Brown
+&gt; It ain’t hard to stand on a rock even if it’s wet Especially with bare feet - people just like to hate
+&gt; San Francisco does not allow for gated communities. [Yes they do](https://www.google.com/maps/@37.7883023,-122.4593492,3a,75y,265.3h,93.24t/data=!3m7!1e1!3m5!1s_LERYnDTqbEYuZDAiWOq-A!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3D_LERYnDTqbEYuZDAiWOq-A%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D41.99336%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
+Same. It's been a struggle to get here because of how fucking infuriating her character is. Just - fucking once - admit you were wrong. Just say it out loud _once_. When Marty is abducted and being tortured? Nope, not my fault. Just keep going as normal.
+I appreciate the lengths their going to show us the perspective of the person causing the chaos, but having lived with someone with aggressive mood swings that made my life a living hell - I honestly feel absolutely no sympathy.
+Holy shit I had no idea BTN opened up registration, thanks for the link!
+BUT IT'S SO CRINGE BECAUSE BIEBER UGH I HATE POPULAR MUSIC THAT MEANS I HAVE A PERSONALITY
+HAHAHA THIS PERSON DOESN'T KNOW ABOUT A SPECIFIC MEME?! /R/WOOOOSH AMIRITE MY FELLOW REDDITORS? WE'RE SO COOL
+The whole thing is bullshit. They're completely different crops, hemp can't replace cotton - not because of stigma, but because hemp is rough as fuck and the biggest selling point of cotton is that it is soft. How about we make a chart comparing hemp to an apple tree? Same principle. Two plants, completely different applications. We all know why this is upvoted, and the veracity of the information is not the reason.
+Yes they do.
+That's a pretty complex hypothetical situation you've made up to justify the unfair characterization that corporations are directly contributing to candidates via their employees.
+&gt; marketing Shocking &gt;I support term limits and love the idea of congresspeople mentoring the next class of representatives. "Sorry, I know your district overwhelmingly wants this person to represent you in Congress, but we've decided to limit who you can choose to represent you. Pick someone else :)"
+These fucking people are doing nothing but helping Trump lock in a second term
+I think continued unrest and the pivot from these protests being peaceful to literal occupied territories does nothing but help Trump and dampen the momentum we've been experiencing. It also gives the Trump team the _perfect_ cop-out from his COVID leadership failures.
+THIS IS CLRAELY JUST AN ELABORATE MULTI YEAR CON TO POST SOME PRO-COP PROPAGANDA.
+Stay out on your limb, someone posted the link to the Facebook post. It’s real and you might want to check your priors making that assumption.
+Imagine Reddit making a wrong assumption because it goes against the hive mind. https://m.facebook.com/story.php?story_fbid=4109992645692513&amp;id=100000454555984
+It’s real - https://m.facebook.com/story.php?story_fbid=4109992645692513&amp;id=100000454555984
+https://m.facebook.com/story.php?story_fbid=4109992645692513&amp;id=100000454555984 Post the pics on gonewild
+https://m.facebook.com/story.php?story_fbid=4109992645692513&amp;id=100000454555984 Nope
+https://m.facebook.com/story.php?story_fbid=4109992645692513&amp;id=100000454555984 Keep spreading that misinformation though
+These guys look _exactly_ like I'd expect the average /r/atheism user
+It's still wild how you continue to frame lifting entire nations out of extreme poverty as some evil plot. If that is the end goal, I'm all for it.
+You have a very privileged world-view if you consider a town that no longer has coal mill jobs a "dystopia". I wonder what you would consider the living conditions of extreme poverty.
+guns = made by companies, companies cause mass shootings, thanks capitalism There's some more of that xenophobic "no one is as important as an American" logic
+I'm willing to lose jobs in America to help pull nearly a billion people out of extreme poverty, because I don't think an American life is worth more than a Chinese life.
+&gt; I can remember Reddit seeking someone out, finding the wrong dude who then ended up getting harassed so much he committed suicide (the not-the-Boston bomber guy). This didn't happen. You're thinking of the Boston bomber situation, but he had committed suicide long before Reddit misidentified him - partially because he had been missing for such a long time.
+Yeah fuck it, if it’s online it’s publicly accessible
+I don’t think that’s fair to the people that live on the district. They should be able to choose this for themselves.
+Let's not forget the guy in the car - as soon as dude got swung on he was jumping out of the car as quickly as possible to go help.
+As usual - it comes down to just letting people do what they want without trying to make them feel like shit for it. You want to spend your money to stay in a resort? Good on you, have a great time. Want to spend as little as possible and enjoy your time away from the hotel? Well that sounds lovely, too.
+You don't own the episodes if you purchase through VUDU, if they decide to remove the episodes Hulu removed, you'll lose access just the same
+Pretending leftists have no hand in this have clearly not been on Twitter for the last 2 months
+Man, I'm looking at the tweets right now - talk about how they don't exist all you want. Pretending that group doesn't exist and cancel culture isn't losing you ground isn't a winning strategy. And I know leftists assume the word "liberal" is an insult now, my bad. The fuck you want Hulu to do? Draft some legislation? They're reacting to the public pressure and activists calling for the removal. There's a decent article in the Atlantic that touches on the impacts of reactionary firings/corporate action driven by Twitter: https://www.theatlantic.com/ideas/archive/2020/06/stop-firing-innocent/613615/
+He’s been laying the groundwork for this with the mail in ballots “fraud” claim. There was genuine worry in 2016 that if he lost he would dispute the results leading to a national crisis. Things can only be worse now that he holds the White House.
+Yeah the comparison is bullshit, without a doubt. But pretending she’ll have no consequences for her choice is also a little foolish.
+&gt; I'm saying she's more likely to side with a Nazi than a blm supporter saying black lives matter. lmao holy shit - any more giant assumptions to make?
+Just get ready for the endless "Booker would have won" arguments when she inevitably loses to a Republican in fucking Kentucky

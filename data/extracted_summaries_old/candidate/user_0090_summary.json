@@ -1,0 +1,36 @@
+{
+  "interests": [
+    "technology",
+    "politics",
+    "economics",
+    "history",
+    "data analysis",
+    "computing",
+    "software engineering",
+    "public policy",
+    "corporate practices",
+    "social issues"
+  ],
+  "topics": [
+    "subsidies and public policy",
+    "corporate ethics",
+    "historical comparisons (like Microsoft vs. Apple)",
+    "IPOs and market analysis",
+    "drug regulation and pharmaceutical practices",
+    "environmental issues",
+    "gun control",
+    "social media policies",
+    "programming methodologies (REST, SQL)",
+    "political systems"
+  ],
+  "writing_style": "analytical and informative, with a tendency towards complex argumentation and references to specific examples and historical contexts. The tone is largely critical, often questioning mainstream narratives and exploring counterarguments.",
+  "technical_expertise": "strong understanding of technology and software, particularly in areas such as programming, database management, and network architecture. Familiarity with technical jargon (e.g. REST, SQLite), and a nuanced grasp of economic and political implications of technology and public policy.",
+  "personal_attributes": [
+    "thoughtful",
+    "critical thinker",
+    "detail-oriented",
+    "well-read",
+    "possibly frustrated with societal norms and policies"
+  ],
+  "summary": "The user demonstrates a strong interest in technology and public policy, frequently analyzing the intersection of these areas with corporate ethics and historical contexts. Their writing is characterized by analytical depth, critical insights, and a reference-heavy style, indicating a solid grasp of technical jargon and complex ideas. They address a wide array of topics, with a tendency to examine the socio-political implications of corporate practices and historical events. This suggests a background in or strong inclination towards analytical disciplines, possibly involving technology or social sciences."
+}

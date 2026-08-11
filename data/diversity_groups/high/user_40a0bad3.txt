@@ -1,0 +1,50 @@
+Yes, very!
+C'mon guys, ronasd4 was joking. Since when do we negative-vote people for harmless fun like that?
+I recommend the pilot thing, I did that 10 years ago and it has been awesome.
+I don't know if it was a misread or a language issue, but the phrase "inconveniencing the way we do business here" does not automatically mean "inconvenience business". If a person wishes to eat breakfast at 6AM at a restaurant, then they will need to find a restaurant that is open. The person being inconvenienced if the business does not open until 7AM is the person who wants the breakfast, not the business itself (except through the transitive property).
+I'm impressed, this has been up for 20 hours and there hasn't been one post along the lines of "fake" or "that's so fake, it's obviously a setup" or even "Why Would They Be Filming? Its Not Real". We're getting there, reddit! Good job, everyone!
+It was contaminated with incompetent handling, if I recall correctly.
+I showed my wife and in a rare misstep she responded 'meh'. I let her know she was wrong, of course.
+Throughout the rest of the program there remained many who believed ANY RTLS would result in LoV. Thank goodness the process was never needed, though a TAL might have been cool... Back when SLC-6 was still on the books we got great stuff like certain events in David Brin's book *Earth* or [this cover art](http://g-ecx.images-amazon.com/images/G/01/ciu/40/e9/d207d250fca0712c3bde7010.L.jpg).
+With Activator! Jailbroken phone, Activator runs a bash script through Activate Command. Activator uses connect to and disconnect from triggers for my car Bluetooth. Final component: csay to do speech synthesis. Example script (it also toggles my wifi so I can sever the crummy connect in my driveway and switch straight to LTE: #! /bin/bash activator send switch-off.com.a3tweaks.switch.wifi sleep 2 csay $(shuf -n 1 /usr/local/bin/gabber/carstart.txt) sleep 5 activator send switch-on.com.a3tweaks.switch.wifi &gt; /dev/null 2&gt;&amp;1 Carstart.txt is full of the likes to say, obviously. Have fun!
+Sure, but it's being able to rendezvous that makes all that possible too!
+With &gt;100 people being laid off at Symantec in the very near future, expect dramatically increased competition in the job market shortly. A data point for anyone who is not bringing their 'A-game' to this because maybe they figure in the back of their mind that "ah, well, I'll try harder when I'm *serious*"...
+exactly i got a 93 iq and thats a A afain
+If ramps are always available, sure. I bet you don't have to go far, however, to find someone in a wheelchair who has encountered those exceptions. I wonder if the wheelchair users of the world face psychological barriers to going out based around the fear that there might not be a ramp?
+It's like watching myself play Street Fighter.
+Carnival Imagination, must be a fleet pattern. ...and the fact that i see your post means I gave in and paid but it was just now and holy crap, I did not expect this post to explode.
+A note: I bought the 'value plan' in the middle and imgur.com is blocked. That's lovely.
+'Supposed to' in what way?
+That's what the hole looks like when things birthday fast. I know you want the comfort that comes with an elaborate federal conspiracy being needed to pull this off, but the world we live in just isn't that orderly.
+I was literally out of the country, folks, just docked in Long Beach. It wasn't me.
+Oh shIt, I didn't think my alibi through. welp, guess I'm going to superjail.
+Nice! Yes, definitely the same here. As far as implied secondary characteristics go these ones seemed pretty funny if they really weren't just an odd artistic touch. 😸
+Do they have hyper drives?
+This one wonders how you might define 'glitch' if not the behavior described.
+no u
+"Elmo lives, Elmo dies, ELMO LIVES AGAIN!"
+Maybe... ( ͡° ͜ʖ ͡°)
+No, but I bet it's a fun cruise. Lots of kids on this and I bet that's not so much the case with those.
+There is no way this could horribly backfire.
+For countries that don't allow you to give a duck.
+😇
+&gt; Dildan 'Buzz' Kerman That might have done better, ya gotta put a little effort in.
+Wit this, the result is open-sourced firmware drivers for the camera. Everyone benefits, not just Parallella. If they follow your master plan, then all that hardware is still locked up in shitty binary driver land. Are you one of those hard-core activists who distrusts any commercial support of open-source initiatives, the kind who cuts off his nose to spite his face? Do you spit on Red Hat, Mozilla, Sun, Oracle etc for anything they do that's contributed back to the community? Offering a bounty is not a commission to do a job, it's an enticement for people who might be playing around with the idea of reverse-engineering these already who might say "you know, that'd be a sweet little piece of pie at the end of the project". Open Source does not equal communism, if that's your argument. There are many different kinds of people who contribute for all sorts of different reasons. Who are you to shit on something that might make the RaspPi world better? Is your 'philosophical disagreement' really something that'll make things better?
+For rendezvous with the CSM, just wait until it's orbited near to you before you launch. Boost to the rendezvous altitude at 45° then fine tune the intercept carats until they're close. Do a big velocity match burn centered at the intercept and boom, you're floating next to your CSM! I'm assuming it orbits pretty low, of course.
+They haven't had a fatality in space since 1970 (a total of 4) while the US space program had 14 fatalities in-flight, the most recent in 2003. Could the 'haphazard' generalization be an artifact of the Cold War zeitgeist?
+Where do you live that terabit fiber connections are so plentiful for end users?
+Ginormous differences beneath the skin, but if there was any 'spontaneous acquisition of data' it was by the USSR. The US shuttle was already flying by the time the Buran project, eh, 'took off'. The first (and only) flight of the Soviet shuttle was near the end of the 80s so it's unlikely the US needed their design data.
+Well… I don't know if I wrote clearly or not, but the docking system used by the US shuttle was designed by the Russians for their shuttle. So… Even if the Russian shuttle benefited greatly by espionage to explain the outside shape, the specific component we're talking about here was a Russian invention copied by the United States. 😁
+I *think* it was the book Blindman's Bluff but I can't remember for sure where I read that. File it under apocryphal unless I can nail that down more firmly.
+Why do you say 'not quite'? What's the error?
+Transhab will fly thanks to Bigelow.
+I believe you are dramatically under estimating the cost of launching this constellation with the currently available launchers. If the Ariane 6's semi reusable system works, it would certainly cost them less than a classical fully disposable rocket but it will probably be several years before that flies. The competitor that's planning to use the falcon may be able to realize benefits from this line of this tech sooner because of where they are in their development cycle, otherwise the cost of launching will represent a significant chunk of capital investment. That said, I suspect that lowballing the estimate by looking at the cheapest rocket is an exercise doomed to create disappointment.
+The problems this flight did not cause them to re-enter, it was never large enough of a surface to overcome atmospheric drag. They were collecting data in advance of an upcoming mission that'll be launched on a Falcon Heavy if I remember correctly, but I don't know if THAT one is supposed to have the impulse to escape either. Anyone else?
+The outdoor shots do indeed appear to feature a sky the color of a television tuned to a dead channel (back when that line was written and the color was a static-filled grey and not a vivid blue of today, that is)
+Does it? You only gave one specific example of a single dropped subplot and that was shown to be an error. Any others?
+They are and they work great. My wife can shred a slow-roasted pork thing with those in a few seconds, they're easy to use and strong. They're not 'flexible, fragile plastic' like a plastic fork.
+I'm a pilot, and that is a terrible thing to do. Sounds like a great way to scare people away from aviation. :(
+That's not a dumb question, and even though I cannot improve on falk225's answer i'm an Internet commentor SO I I'LL TRY ANYWAY: The energy harvested good more effectively be collected through other means based on the figures demonstrated here. if the technique could be improved in efficiency by a few orders of magnitude that answer could change, but until then technologies like solar, Peltier conversions, or Sterling cycle devices would probably be more effective.
+If I've learned anything about science from watching movies and television, these fusion researchers should probably just try inverting some polarities in their machines until they work. Basically I'm advocating for bringing a Dunning-Kruger heavy team online to solve all these problems.
+It is this one's hope that your timbers have been properly shivered.
+&gt; **tries** to make new fliers puke when he takes them up Ah, gotcha. I read the above differently, may just have been me.

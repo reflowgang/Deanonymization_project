@@ -1,0 +1,52 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Direct and assertive, often using strong language and sarcasm.
+  - Engages in detailed explanations and justifications for opinions.
+  - Frequently uses rhetorical questions and hypothetical scenarios to make points.
+  - Tends to use informal language and internet slang (e.g., "TL;DR," "WAAAAAHHHHHHH").
+
+- **Recurring Interests:**
+  - Public transportation, particularly the Washington D.C. Metro system and MARC trains.
+  - Technology and software, including discussions about coding and tech companies.
+  - Political commentary, especially regarding local and national issues.
+  - Consumer rights and corporate ethics, particularly in relation to service industries.
+
+- **Hobbies:**
+  - Engages in discussions about personal finance and consumer behavior.
+  - Shows interest in legal matters, particularly in consumer protection and rights.
+  - Enjoys sharing personal anecdotes related to travel and experiences with various services.
+
+- **Technical Knowledge:**
+  - Familiar with programming languages (C++, Java, Python, PHP).
+  - Knowledgeable about public transportation systems and their operational challenges.
+  - Understands legal terminology and consumer rights, particularly in relation to contracts and disputes.
+
+- **Location Clues:**
+  - Resides in the Washington D.C. metropolitan area, specifically mentioning Tysons Corner and Arlington.
+  - References to local landmarks and neighborhoods indicate familiarity with Northern Virginia.
+
+- **Profession or Education Clues:**
+  - Recently graduated from college (approximately 6 months ago) with a degree that likely includes technology or business.
+  - Works as a technology consultant, supporting the Department of Defense.
+
+- **Demographic Clues:**
+  - Likely in their early 20s, based on graduation timeline and references to being a recent college graduate.
+  - Identifies as middle-class, with a salary of $90k shortly after graduation.
+
+- **Opinions and Values:**
+  - Strongly believes in personal responsibility and self-sufficiency.
+  - Critical of government inefficiency and public sector employment practices.
+  - Holds conservative views on economic issues and expresses skepticism towards liberal policies.
+  - Advocates for gun rights and expresses disdain for perceived anti-gun sentiment.
+
+- **Repeated Topics:**
+  - Critiques of public transportation systems and their management.
+  - Discussions about the inefficiencies of government agencies and public services.
+  - Opinions on corporate practices, particularly in the tech industry and service sectors.
+
+- **Subreddit/Community Clues:**
+  - Active in subreddits related to local D.C. issues, technology, and consumer rights.
+  - Engages in political discussions, often in /r/politics and /r/washingtondc.
+
+This profile reflects a user who is articulate, opinionated, and engaged in both local and broader societal issues, with a strong emphasis on personal responsibility and consumer rights.

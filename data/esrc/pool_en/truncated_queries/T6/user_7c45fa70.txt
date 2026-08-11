@@ -1,0 +1,200 @@
+The Exorcist
+Might wanna add a timeout to avoid bleeding performance while resizing. $(window).resize(function() { clearTimeout(this.id); this.id = setTimeout(function(){ // Code here }, 500); }); Basically just run the code 500 miliseconds after resizing has stopped.
+If you wanna speed up the width detection a bit, you could consider using this instead: if (window.innerWidth &lt; 451 ) { // ... } It's not dependent on jQuery so it'll fire faster and give you the same results.
+Manor to run Magnussen, Hamilton, Rosberg, Coulthard, Perez, Merhi, Stevens, Rossi, Haryanto, Wurz, Davidson, Button, Glock, Webber and Wehrlein confirmed!
+Thanks :D
+Thank you :D Don't worry - I'll have plenty more for you throughout the season.
+Weird danish tradition. If you turn 30 and you're not married, it's called becoming a "pepper man". So your mates douse you with water and then proceed to cover you in pepper :P It's fucking horrible, and right now I feel like I was pepper sprayed.
+Thank you! :D
+Thank you! :D
+Thank you :D
+Yessør. Rammer det runde hjørne idag. Og det gør ondt!
+There will be a few Renault AMAs, but I'm not going to give away who just yet ;)
+Thanks :D As a grid system it's awesome, but I never use it. To me it's a classic example of doing too much you don't need. But then again, almost all my projects are very customized to the content the given site will be running, so a framework usually doesn't benefit me.
+Tak tak :D Jeg har heldigvis ingen indkørsel den kunne stå i - så jeg nøjes bare med et par peber-angreb.
+We're not in the US unfortunately. Closest is Canada. Other than that you can get our stuff on various marketplaces like ASOS, Zalando or Amazon.
+Wooh! I would say I love you too, but we're teetering on the brink of being inappropriate here ;) Appreciate it :D
+You can see that there are actually two guys who aren't really doing anything (Second guy is on the right) - They're the modern version of the lollipop man. The one guy you've highlighted keeps an eye on the traffic. If there's traffic in the pit he'll hold down a button so the go-light in front of the driver doesn't go green. The other guy pushes a button when the pit crew is done changing tyres and doing what they do. If both guys have signaled that all is clear, the light automatically goes green and the driver is released. Edit: [Image for clarification](http://i.imgur.com/uEAOheX.jpg)
+Turn 10 always gets me. I can never really seem to get the braking point right.
+Thanks! It's always nice to get a compliment :D Happy you like it.
+Every member of the pit crew is also on the mechanic crew, so they maintain and fix the car when not doing pit stops. Most people who travel with the F1 teams to races have multiple roles to fill.
+During qualifying the cars are set up to do a single lap. Tyres are fresh and at optimal temperature, they run a rich fuel mix, the tank only has just enough fuel to make a few laps and DRS can be activated in all DRS zones for every lap. As soon as they lower the fuel mix and fill up the tank, they lose a lot of speed, plus they need to think more about conserving the tyres to make them last for more than just a few laps.
+Yeah. But let's see. They're still suffering with the outdated chassis and aero. Points would be amazing!
+We use Google Analytics, which provides us with some generic demographic data of our visitors. When you visit a website, that website stores some generic information on your computer that can be used to build a persona. Age, gender, interests - That sort of thing. For example, you'll probably show up as someone who's interested in Formula 1, since you've visited /r/Formula1. In addition stuff like Facebook will let Google pick up gender and age, so Google won't have to try and guess that from your browsing behavior. Keep in mind that you can't be identified from these data. We can't see details on individuals, like what sites they've visited or grab their email or something like that. It's completely anonymous.
+I can totally feel the Haas / AMR love &lt;3 Are you fishing for a partnership? ;)
+Hey there AMR would love to have you on board :D
+Well, we decided it was easiest to share the same HQ as our GT racing counterpart, so Banbury it was. Stop by sometime - it's down on Chalker Way, just off the m40.
+I agree with this comment by /u/ArianaAnzu The current teams would technically receive a discount on their drivers, since they would not have to bid for them, while anyone wanting so change drivers would have to bid and thus the price being inflated in comparison to those who stick with their drivers. Maybe a draft system should be implemented? It works well for many other fantasy sports.
+So, a draft works by each team getting a turn to sign a driver who's within their budget. When it's a teams turn they get 60 seconds to announce their decision. A team then picks an available driver. On to the next team we go. Once the draft is over, teams are free to trade drivers between teams, or pick up drivers who were not signed during the draft. It would also introduce a new layer of economy, as teams could trade draft positions in return for coordinates / money. Most fantasy sports use something called reverse draft, meaning the lowest ranked team gets to pick first. That would mean that the driver market draft table for Model F1 2016b would look like this (Assuming Toro Rosso and Wolf are out): **First round:** * (New team) * BRM * Haas * Red Bull * Manor * McLaren * Lotus * Sauber * Williams * Ferrari * Mercedes **Second round** * Merceds * Ferrari * Williams * Sauber * Lotus * McLaren * Manor * Red Bull * Haas * BRM * (New team) As you can see, the reverse draft makes sure that a team that had a bad season, has a chance to improve their lineup, despite a low budget. A bit more reading: https://en.wikipedia.org/wiki/Draft_(sports) Edit: I realize that "New team" is probably gonna be Aston, but I swear that's not why I'm suggesting a draft. It works well as it guarantees a balance of power and gives everyone a chance at competing.
+Sauber couldn't get Hamilton and Manor couldn't get Massa IRL, but that happened ;) Ofc a reverse draft wouldn't be fair if the drivers were reset, but since all teams already have drivers, there would be few surprises like that.
+I don't see why it would. You would still be able to trade / sell drivers, and there would still be budgets. The only difference between what we have now and a draft is that we put an order to who can do a move first. So assuming you have Hulk, it doesn't mean that because BRM is first to pick they can just take Hulk from you. Drivers still need to be available and within a teams budget. After the draft, any driver who has not been picked can be signed by anyone following the first-come-first-serve principle. It works really well in many many other model / fantasy sports to ensure that everyone has a chance to improve.
+You should just do everything as tl;dr.
+We're a big team - But that's how we like it! Thanks for the support! :D
+They normally display the stop time and the total time during the TV broadcasts.
+Thanks! It's absolutely amazing working with Renault and especially bringing the sub into it. Stay tuned for the t-shirts - You might be able to get your hands on a one with a few signatures on it ;)
+I know I'm kind of on the inside here, but I gotta get in on this :P Do you have a saying on liveries for the other racing teams within the Renault organization? If you do, do you stick to a common theme for all of them?
+Another one: What's the symbolism of the diamond pattern on the back of the RS16?
+Do you ever look at fan-designed liveries for inspiration?
+Some Reanult F1 replica wear is already available on the Reanult store. As for the t-shirts Christian was here to design, they'll be available in mid July :)
+Interesting proposition. I do need someone to clean my apartment. Stay tuned - I have a feeling you'll get a chance to get what you want ;)
+Are they permanent, or do they reset per season?
+Wait, so because you moved up a band you had to pay more for the drivers you already had?
+I would go for Süd Sections C-D. Gives you a good view of the pits, the start/finish straight and the curves leading onto it.
+Thank you, kind Sir! I'm glad my massive knowledge of F1 power units finally pays off :D
+Aston Martin obviously! We're the best!
+I can neither confirm nor deny that will happen...
+Thank you :D We look forward to some good battles on track - and some cold drinks in the paddock ;)
+Thank you :D
+Yes, they are. The teams are only allowed 60 people in the paddock crew, so they all have multiple roles.
+It's usually the mechanics who serve as pit crew. The engineers are very busy from the second the engine fires up to the second it stops. Every single byte of data has to be captured, analyzed and saved, whereas the mechanics deal with the gritty stuff, like changing parts and keeping the car running. Usually the individual mechanic is responsible for a specific part - for example the suspension - and will be working with the driver, engineers and strategists to come up with the best setup, based on the track, the condition of the parts and the preference of the driver.
+Maybe someone over on /r/alcohol knows
+Nah, we get 10m. We have no drivers, so lots of room in the budget.
+The rulebook says prize money is from €2.0m to €3.8m. Have the rules been changed? Also, didn't McLaren hit their fourth strike in Brazil?
+Can we have an F1 version of the [Sauber C6 livery](http://www.passionautomobile.com/le_mans_classic/sauber-shs-c6-1982-le-mans-1982-08/sauber-shs-c6-1982-le-mans-1982-08-15.jpg)?
+Wow. The regulations have changed more for 2017 than I thought.
+Post Removal *** Your post has been removed because it's off topic and doesn't contain content with relation to Formula 1. Please post this in /r/F1Game instead. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Post Removal *** Your post has been removed, because it's considered to be low quality. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Post Removal *** Your post has been removed because it contains duplicate content from another submission/article that has been already shared on /r/formula1. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Post Removal *** Your post has been removed because it contains references or requests for streaming or race downloads. Please post on /r/motorsportsstreams instead. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Problemet er både monopolet, og det faktum at der reelt set ikke er sket en privatisering. Der er blog oprettet statsejede virksomheder. Det er DSB om igen. Før der sker en rigtig privatisering, og man deregulerer de åndssvage regler og krav til postomdeling, vil problemerne aldrig forsvinde.
+You might want to read the rules. Low quality isn't about the resolution of the image.
+Low quality includes images of your "setup" for a race and images without context. It's a nice background, but it's not something that merits a post on the sub. If anything you should post it to a session thread.
+Post Removal *** Your post has been removed, because it should be posted in one of the stickied threads instead. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Post Removal *** Your post has been removed, because it should be posted in one of the stickied threads instead. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+I actually agree with you. Trying to come back as an engine manufacturer with a top team was much too much for them to handle. As it would be for anyone. It wouldn't surprise me if it turns out that the pressure from both McLaren's management, as well as the star drivers in the cars, resulted in "quick fixes" which are now causing the unreliability. Sauber is a much lower pressure environment which would give Honda the time and space needed to actually develop an engine worthy of F1. And Sauber getting off the old spec Ferrari engine can only be a good thing. With Haas becoming the defacto no. 2 Ferrari team, Sauber is probably not getting much Italian love at the moment. Honda would probably bring more development assistance as well as a nice boost in budget.
+X-post from /r/formula1 btw
+X-post from/r/formula1 btw
+Champagne
+Welcome to the F1 family! Remember to subscribe to /r/Formula1 - it'll keep you up to date on all the news between races. The next few days will be filled with driver and team reactions to the race, and then it'll start focusing on the next race. You'll see a lot of talk about teams bringing upgrades to their cars, and since we're getting close to the summer break (halfway point of the season), there'll be a lot of talk about some teams maybe dropping drivers or looking to secure drivers for next year. Since you're new to the sport, you should check out the weekly "Wednesdays at Bernie's" Q&amp;A thread. It's a great place to get answers for any questions you might have about anything F1 related. We also have "Thursday Tech Talk", where people get nerdy about the cars. Other than that, read up on the teams and history of F1, and find someone to cheer for, it makes it so much more fun!
+He was doing a "Shoey". A tradition introduced by Formula 1 driver Daniel Ricciardo as a celebration whenever he reaches the podium (top 3) in a race. It's basically drinking champagne out of his shoe.
+Post Removal *** Your post has been removed because it contains references or requests for streaming or race downloads. Please post on /r/motorsportsstreams instead. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Post Removal *** Your post has been removed, because it should be posted in one of the stickied threads instead. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Post Removal *** Your post has been removed, because it should be posted in one of the stickied threads instead. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Post Removal *** Thank you for your submission. However, your post has been removed because it falls outside the subreddit rules. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Ah. Yeah. My drousy mind forgot that they count wins. Duh. Edited.
+Post Removal *** Your post has been removed because it contains duplicate content from another submission/article that has been already shared on /r/formula1. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+The #38 car forgot to turn.
+I always love how close together the pits are.
+Paging /u/BottasWMR and /u/Mark4211 One of you guys working the race?
+They're not team names, they're manufacturer names. And yes. But, I love the fact that most of them are actually running the same equipment. Means it's really down to driver and team skill, rather than the car.
+DON'T GO GET FOOD AGAIN!
+It's pretty hard for a driver to time a slow zone. How would that even work? But, slow zones do make sense. Previously they would often start a safety car period instead, picking up drivers behind 2 SCs on the track. This would actually often give drivers a bigger advantage, since slow zones are very short and you go back to full speed quickly. Not to mention the entertainment aspect. Say they need to fix the rails. Nobody wants to look at FCY or SC for an hour straight.
+/u/BottasWMR - #28 crash plz
+It's because of safety. A car doing wheel spin doesn't have as much control as one not doing it. And with the pits being so close together, there's a real danger of someone getting hit if the drivers don't have total control.
+Still in the race, just going very slow.
+20 hours left. Have some faith. The Dane Train will make it back to the top.
+If for some reason I can't be around to watch an entire race, I usually just do the highlights. But Le Mans is a must watch. All of it.
+We'll see more makes in LMP1 before you know it.
+I decided to drop TV2. Promo: Watch all 24 hours on TV2! Reality: We'll just take a 20 minute break for some news. (An hour later). We'll just take an hour break for news, weather and local programming. (An hour later) We'll just take a 20 minute break for some more news. Etc.
+And the #95 onboard and garage cams are even offline during the TV coverage breaks.
+He's right though.
+Having an exit on either side of the cockpit ensures that there's always an escape route, regardless of how the car lands after a rollover.
+Never claimed he wasn't.
+They do, but they are not enforced as harshly as in fx Formula1 (Shameless /r/formula1 plug btw).
+https://twitter.com/FIAWEC/status/876138234895622144
+A puncture put them way behind.
+They had a puncture.
+Something about race car drivers.
+Flag marshall got a wakeup call.
+Nope.
+Wait... You're translating something? I just thought you wanted to talk about cars.
+It's happening.
+Generally yes. I can't remember if it's ever happened before. But with the LMP1 field being as small as it is this year, it could be a real possibility.
+If you ever go to the track, you'll see evidence of impacts all over the place.
+It's defined as whoever drives the longest distance in 24 hours + 1 lap, meaning they have to finish the lap they're on once the 24 hours are up.
+Because they need that area to let heavy equipment in and out to fix the rail.
+Website's always been shit for me too. App streams work perfectly.
+"Andretti /r/WEC Racing Team" kickstarter anyone?
+Ford got a €500 fine for using two wheel guns during a pit stop :O
+In comparison Nicky Thiim and Darren Turner got €1000 fines for missing the Driver's Briefing.
+If you believe in it, anything can happen!
+He's a former [Renault F1 test driver](https://cdn-4.motorsport.com/static/img/mgl/0/70000/75000/75900/75924/s8/f1-malaysian-gp-2003-renault-f1-party-in-sepang-fernando-alonso-allan-mcnish-and-jarno-tru.jpg).
+Now you've done it. I give them an hour. Tops.
+Become the president of WEC?
+The name. Actually, one is the IMSA team. The other is the WEC team.
+The UK runs in WEC, and US is in IMSA.
+Aston Martin #98 got a €500 fine for using two wheel guns during a pit stop.
+Dat headlight flash tho..
+Holy fucking hell. That Porsche don't give a fuck.
+NED MED SVENSKEN!
+/r/danmag shoutout.
+It must be amazing to drive an LMP1 car.
+Post Removal *** Thank you for your submission. However, your post has been removed because it falls outside the subreddit rules. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+Choo choo - The Dane Train is coming for you!
+[Porsche.](http://press.porsche.com/media/gallery2/d/46655-2/2016-+Le+Mans-+Andreas+Seidl+and+Fritz+Enzinger+celebrate+Porsche+front+row.jpg)
+20 sec stop and go for #49 - Speeding in the pits
+Man er naiv, hvis man tror at fri konkurrence ikke forbedrer kvaliteten. Og det er der et privat sundhedssystem kommer ind i billedet.
+Jeg kan ikke forstå, at der stadig er så stor modstand af en fuldstændig eller delvis privatisering af sundhedssektoren - selv efter man hører den ene skrækhistorie efter den anden.
+Well, the noticeboard isn't exactly live. It can be up to an hour late.
+Vodka + Red Bull!
+Hvorfor går det ikke godt? Flere og flere vælger privat hjemmehjælp, og undersøgelser viser at der er lige så stor eller større tilfredshed med de private, sammenlignet med de offentlige.
+Højtbelagt smørrebrød
+Det kunne man jo undgå, hvis kommunerne fx krævede en mængde reservekapital før en aftale kunne indgås. Selvfølgelig er det ikke i orden, at der er ældre der rammes og kan risikere at være uden den samme pleje i en periode, eller at det offentlige skal samle regningen op, men var der flere private spillere på markedet, vil jeg også påstå der havde været en anden aktør klar, til at overtage kunderne med meget kort varsel.
+At least they got the #8 engine running again.
+Overall: 54 In class: 5 2017 LMP1 in a nutshell.
+A moment of silence for a fallen warrior. RIP #7
+With their luck, that's just 14 hours more of breakdowns.
+# STILL LESS PAINFUL THAN 2016
+[You should have seen it last year...](https://www.youtube.com/watch?v=d4gFYO5uAWg)
+They are allowed, but they wouldn't be able to do much for him.
+[Frédéric Chopin's Piano Sonata No. 2 in B♭ minor, Op. 35](https://www.youtube.com/watch?v=imeMFLt_eyk)
+# GO MAN! GO! BRING IT HOME!
+No. It has to make it back to the pits under it's own power.
+You just jinxed it.
+Post Removal *** Your post has been removed, because it's considered to be low quality. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+/u/BottasWMR or /u/onefunkynote
+Great. Another jinx.
+If you're out on track, yeah. The car has to make it back to the pits under it's own power.
+Trick is just to drive one lap, then return to the pits and stay there until the races ends. Everyone else retires and you win.
+They're doing surprisingly good after an early puncture. They're back in contention for the win. GTE is one hell of a battle this year!
+They don't really use lap count in timed events. When the time runs out, all cars finish their current lap - Regardless of how far behind they are and if the leader retires. So you could end up with a car stopping on the 100th lap, and the race being won by a car having only done 99 laps. In order to win the race, the car has to be able to cross the finish line - Regardless of how far ahead it is.
+# JINXED
+We need Thiim back in the car.
+2:44 AM
+Car 38 pitstop under investigation.
+Same old, same old.
+# 95 back in the lead!
+[Latest timing screen dump](http://imgur.com/a/F0Xtw)
+The rest of LMP1 retires.
+It's gonna be that for a while. It'll take them around an hour to make up a lap through pure racing.
+As in: It's never happened. Edit: Except 1995 apparently.
+ヽ(´ー｀)ノ
+Now you know what happens when you go to the bathroom. Better keep it in for the next 11h 43m.
+# CHOOO CHOOOO MOTHERFUCKERS!!!
+Impressive that we manage to spawn good race car drivers in a country with a 150% tax on cars.
+AMR overall win confirmed!
+Priorities. Amirite?
+51 is a stop down.
+Do you mean [](#the63-17)? `[](#the63-17)`
+I hear drunk people, waiting for taxies home.
+In my apartment. I live right smack in the middle of downtown, so all the party people pass outside.
+I'm calling it. 4AM and time to get a few hours of sleep. Taking bets on how many LMP1s will be left when I wake up!
+Wouldn't that be the equivalent of a GTE Pro car winning now? Pretty sure they had LMP2 back then.
+Post Removal *** Your post has been removed, because it's considered to be low quality. *** Please read the [Subreddit Rules](https://www.reddit.com/r/formula1/wiki/userguide#wiki_posting_guidelines) or [contact the moderator team](https://www.reddit.com/message/compose?to=%2Fr%2Fformula1) if you have questions or concerns. *This is an automated message.*
+I should never have gone to bed last night.
+The #95 was doing well until I went to sleep :/ It's all my fault.
+It's not that I missed anything. It's that as soon as I went to bed, bad luck started raining down on #95
+Not watching Eurosport, so I wouldn't know.
+Do you mean all of LMP1 retiring? Nah, I was here for that.
+Inb4 Alonso races at Le Mans in 2018 and wins. Break the curse, Nando! You can do it!
+It's what I've always said: Le Mans needs more Michael Bay.
+Some pretty interesting insights from a driver's perspective on the LMP1 situation.
+The cars are bigger and carry more equipment on board, increasing weight. Things like the starter motor and lighting rigs are on board, which F1 cars don't have. The tyres are also a factor. They're very sturdy. You'll see Le Mans teams triple stint the tyres. F1 tyres would be dead after maybe 5 laps on Le Mans.
+Noob :D 14/14 here. Almost missed Austria though.
+This race has actually been scary enough to make it to /r/nosleep
+&gt; &gt; Orengepanda's maths
+If #2 keeps gaining 12 secs a lap, he'll need at least 10 laps to catch up, which is just over half an hour. Being in the garage probably adds a few more laps, so let's say they'll need 45 mins to catch up. It's not over yet.
+Yeah, but they wheeled it in to the garage. That's not a regular stop.
+My broadcaster cut to commercial just as they put it on the rollers. I may have jumped to conclusion there.
+He confirmed to TV2 that he'll do another stint before the end.
+It's not really aircon. It's more like just letting air from outside vent into the cockpit.
+Sounds like Magnussen can't double stint though, so they'll have to do a driver change.
+"Car stopped at Z3, right hand side" &lt;-- Is that #63? Thought it was still rolling.
+The car is really really warm at the moment. Magnussen mentioned they almost burned their feet on the pedals, because of the combination of the heat from the sun and exhaust housing being right behind the pedals.
+Car 65 slow after zone 21 - Rear left puncture
+If it's because of the exhaust housing's position, I'm guessing other cars were smart enough to not have it in the area of the pedals. But I guess we'll see in the next half hour what they do. # GO GO MAGNUSSEN!
+Incident with car 50 and 65 under investigation.
+# Quick! Someone jinx #2!
+#63 takes the lead! GO MAN! GO!
+They're doing another driver change. It's going to be right down to the wire.
+# YEEEEEEEEEES! [](#the63-17)[](#the63-17)[](#the63-17)

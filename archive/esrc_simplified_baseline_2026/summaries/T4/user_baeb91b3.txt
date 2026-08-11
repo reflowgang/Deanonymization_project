@@ -1,0 +1,46 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone, often using slang and abbreviations (e.g., "fuck," "tho," "Iirc").
+  - Uses technical jargon and acronyms related to computing and gaming.
+  - Occasionally employs humor and sarcasm (e.g., "Programmer here, fuck UIs, all of them").
+
+- **Recurring Interests:**
+  - Technology, particularly computer hardware and software.
+  - Gaming, with specific references to games like DayZ and World of Warcraft (WoW).
+  - Programming and software development.
+
+- **Hobbies:**
+  - Building or optimizing computer systems.
+  - Gaming, likely both casual and competitive.
+
+- **Technical Knowledge:**
+  - Strong understanding of computer architecture, processors, and thermal management.
+  - Familiarity with programming concepts and software engineering practices.
+  - Knowledge of operating systems, particularly Linux variants (e.g., Ubuntu, SteamOS).
+
+- **Location Clues:**
+  - References to "EUW" (Europe West) suggest the user is likely located in Europe.
+  - Mention of German laws and experiences indicates familiarity with Germany.
+
+- **Profession or Education Clues:**
+  - Identifies as a programmer, indicating a background in software development or computer science.
+  - Technical discussions imply a high level of education or experience in technology-related fields.
+
+- **Demographic Clues:**
+  - Likely a young adult or middle-aged individual, based on language and interests.
+  - Gender is uncertain, but the use of informal language may suggest a younger demographic.
+
+- **Opinions and Values:**
+  - Critical of certain companies and practices (e.g., Oracle's handling of Java).
+  - Values technical efficiency and performance in computing.
+  - Shows a preference for open-source software and dual-boot systems.
+
+- **Repeated Topics:**
+  - Computer hardware specifications and performance (e.g., CPUs, GPUs).
+  - Gaming performance and optimization techniques.
+  - Software development practices and challenges.
+
+- **Subreddit/Community Clues:**
+  - Engages in discussions likely found in technology and gaming subreddits (e.g., r/buildapc, r/gaming, r/programming).
+  - Participates in communities focused on technical troubleshooting and advice.

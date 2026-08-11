@@ -1,0 +1,49 @@
+### User Profile Summary
+
+- **Writing Style:**
+  - Informal and conversational tone.
+  - Uses abbreviations (e.g., "IIRC," "TL;DR").
+  - Engages in discussions with humor and sarcasm.
+  - Occasionally uses technical jargon and references to programming.
+
+- **Recurring Interests:**
+  - Disney parks and related experiences (e.g., Disney World, Magical Express).
+  - Movies and TV shows, particularly those with fantasy or sci-fi elements (e.g., Marvel, Jurassic Park, Doctor Who).
+  - Video games, especially those with complex mechanics (e.g., Battlefront, Plex).
+  - Music, particularly rock bands like Linkin Park and Iron Maiden.
+
+- **Hobbies:**
+  - Enjoys discussing and analyzing movies and TV shows.
+  - Engages in gaming, both video games and tabletop references (e.g., Dungeons & Dragons).
+  - Interested in technology and computer science, as indicated by references to programming and tech troubleshooting.
+
+- **Technical Knowledge:**
+  - Demonstrates familiarity with computer systems, programming (e.g., C++, Windows OS), and tech troubleshooting.
+  - Knowledgeable about video game mechanics and software (e.g., Plex, GearVR).
+
+- **Location Clues:**
+  - References to Virginia and specific locations like Virginia Tech and Radford suggest a connection to Virginia.
+  - Mentions of rural Alaska and other locations may indicate familiarity or interest in diverse geographical areas.
+
+- **Profession or Education Clues:**
+  - Identifies as a college student majoring in Computer Science.
+  - References to internships and educational experiences suggest a focus on technology and possibly a future career in that field.
+
+- **Demographic Clues:**
+  - Likely a young adult or college student based on references to school and student life.
+  - Engages in discussions that suggest a familiarity with pop culture and current events.
+
+- **Opinions and Values:**
+  - Values work-life balance and expresses concern about burnout.
+  - Shows a critical perspective on political issues, particularly regarding local representation and systemic problems.
+  - Engages in discussions about morality and ethics, especially in the context of media and storytelling.
+
+- **Repeated Topics:**
+  - Disney parks and experiences.
+  - Movies, particularly those with complex narratives or fandoms.
+  - Video games and their mechanics.
+  - Technology and computer science topics.
+
+- **Subreddit/Community Clues:**
+  - Participates in communities related to movies, gaming, and technology.
+  - Engages in discussions on Reddit that reflect a mix of humor, analysis, and personal anecdotes, indicating a preference for interactive and community-driven platforms.

@@ -1,0 +1,500 @@
+So you've never looked at Qt or gtk then?
+I wish steam had a "never show me Uplay games" option.
+Good, they'll know how I feel everytime I accidentally buy one of their games.
+At least it's only a dependency for building, not for running.
+To accommodate people that don't know how to use them properly.
+Other OSs manage it, so it's possible. I wonder if linux is just too dependency heavy?
+Could I? Or would that involve cherry picking apt updates?
+Might not be useful for you, but fast lite is a much better Android app that doesn't suck all you battery and data. Also avoids those shitty chat bubbles.
+Perfectly, as long as you aren't fussy about screen resolution and HDMI sound.
+Author is getting down votes but he's not incorrect, .Net isn't the right technology to be writing new Cross platform apps in today. .Net core may be Cross platform, but AFAIK there is still no good story for cross platform UIs short of a seperate UI on each platform, which isn't a terrible idea in any case. Actually, apart from c++ and qt, I don't know if there are any decent cross platform tools these days.
+Oracle had something else anyone loved? I think I'd be cheering if the killed off any one of their products, except maybe Java.
+TIL lightning maps required cookies.
+Yeah, that's the one.
+Petrol based ones last much longer don't they?
+Yes, all speculation is welcome, just don't mention the T word.
+Could be both.
+Let's not jump to conclusions, there's no evidence it has anything to do with drugs. Or is it only ok to jump to some conclusions?
+Known data: Muslim terrorists have recently adopted a tactic of mowing people down in vehicles. Conclusion: good chance that this is a Muslim terrorist.
+Well it looks like it wasn't, but I'd still say it was a logical assumption. Funny how any and all assumptions get upvoted but the terrorist ones get down voted.
+You'd be surprised what babies/kids can sleep through. I've seen them sleep through loud rock concerts.
+How many of those things are so trivial to make yourself?
+Nope, if they've had a busy day they can sleep through anything. 12 hours of beach, pool and park will do it.
+Fantastic, they should be everywhere. This is what puts me off going to the beach, I don't want to leave my stuff on a crowded beach and be constantly checking it.
+Hardware support, bug fixes and new versions of software.
+The Scots that built the Empire wouldn't have objected, Scottish nationalism is a 20th century invention.
+I think the LOC count is more a function of the number of developers on a project more than any inherent complexity. Products built by a team of x always require a team of x to maintain.
+Many things, from vendor lock in (common for companies to get stuck on a platform because they have to rewrite from scratch to move away), to platform choice (can't move to linux because we depend on photoshop/office), to near extortion for features (want to install docker on windows, better buy the professional addition). In some cases it can limit the worlds options, like when MS halted all advancement on the web.
+Probably won't get accepted for peer review though.
+No, but I'd learn to love most jobs for 400k a year.
+DOM access. Once you take the HTML away you may as well run a real desktop application.
+If that doesn't work I've seen police ticketing a lot of people in the CBD for this lately, as well as for entering blocked intersections.
+Wouldn't pay for the booze at my joint and I'm pretty sure mine aren't that fancy.
+I disagree, I can deal with css, it does what it does very pretty well, optionally styling documents. It was when the rest of the stack started doing things it shouldn't that it got complicated. And javascript is still the worst part of the stack, just to make things worth it even escaped the stack. &gt;is still basically unreliable for pixel exact cross device design work Because it was never and still isn't intended to produce pixel for pixel layouts across devices/browsers. That isn't a weakness, it's a strength coupled with a false expectation.
+Produced that wealth all by yourself did you? No benefit from the rest of society?
+Silent? Why not just play audio ads...
+Next to the Christian and Muslim flags OP posted.
+In this scenario nothing is keeping a reference to the parent object but many do to the disposable one. In C++ it would have been "collected" immediately and the problems would have been discovered much earlier instead of 10 years later. Totally agree on the fact we need to get a handle on things, but the company will only pay for features. From what I've seen in the wild most companies would have similar potential issues though.
+I'd vote for 'em.
+&gt; Leaving an emtpy pot on the bar means you want anothe And it means we've done some of your f job for you so if it's between us and a random lining up for drinks, serve us first!
+Dangit bobby, you've covered me again.
+Abacus? That's a tool of corrupt commie scientists trying to install a world government.
+It's the children who are out of touch.
+I think we have about 5 of 20. I'm only really there in body.
+It's ridiculous that apps still have self updaters.
+So I can steal $149 dollars worth of clothes to risk a $600 fine? Sounds like a nice reverse Loto.
+Or maybe just a DBA, the data isn't that complicated is it?
+How do you know there aren't regularly other bugs you can't feel? Especially ones that like the dark?
+I think this says more about pgadmin than electron. Also missing is RAM and dusk usage.
+Continental plate collisions mostly.
+There is no hard definition of a AAA game, it's constantly evolving.
+That's horrible logic. Just because A causes B doesn't mean B causes A.
+I'm pretty sure vendor lockin is half the idea behind swift.
+But how does the budget on actual gameplay compare? A lot of the AAA budget are things like marketing and fluff like FMV. Will they create AAA games if they pay Shaun bean $5 million​ to do some voiceover work?
+That's a blessing and a curse, if two packages depend on different versions of a library you have dll hell. Still, I'd rather a failed update than a runtime error.
+Looks like it takes all the advantages of a desktop and throws them out the window by running Android apps that won't take advantage of them. People have been trying this for years/decades and it always sucks. I want real desktop apps, not shitty touch screen apps on a bigger screen.
+Does the US still do socialised housing?
+&gt; Holt Confirmed strayan.
+Watching you girlfriend nearly naked while sitting next to her parents, that's got to be the most awkward boner ever.
+Was ISIS inciting children to scrape there knees? Did the child have previous connections to isis?
+They're given different labels because they're different things. Bikies don't generally kill civilians, and drug addicts don't lure police to kill them, most won't turn violent or kill anyone.
+Possibly, as far as I know (and a quick look on Wikipedia) we don't know much about them or of they're the same group.
+Don't vote for major parties then.
+Someone can't have been killed until they're dead, they died last night.
+And we might have been looking in the wrong places, I'd bet Morocco has had a fraction of the searching that east Africa has had.
+IME, the cleanup crew are the debt collectors. You have to be a large company to absorb shit like this. And good luck ever convincing management that the millions of dollars invested was a mistake. The new version will be contorted until it kind of works, then management can perform self felatio.
+My company is looking at distributed object databases in order to scale. In reality we just need to use the relational one we have in a non retarded way. They planned for scalability from the outset and built this horrendous in memory database in front of it that locks so much it practically only supports a single writer, but there are a thousand threads waiting for that write access. The entire database is 100GB, most of that is historical data and most of the rest is wasteful and poorly normalised (name-value fields everywhere) Just like your example, they went out of their way and spent god knows how many man hours building a much more complicated and ultimately much slower solution.
+It doesn't suggest much one way or the other. Modern humans evolving​ in isolation around north-west Africa and then migrating east (physically or genetically) is now a very real possibility though.
+The theory is that there was a semi-aquatic phase in our evolution and that this explains our bipedalism, lack of hair and other traits. It's mostly junk science, but a very romantic and interesting idea anyway.
+I don't think most are that extreme, it's more that we spent a lot of time in oceans/rivers/lakes. Less like dolphins and more like hippo's.
+They'll be in different areas though. If they have the slightest idea of what they're doing then someone trying to dig up dinosaurs isn't going to find people.
+Some of the thinking is because we operate between continents and it takes people one one continent ~1 minute to load the data, but a second for someone geographically close, so they want to replicate the database. The real issue is obviously some sort of n+1 error to our service layer (built on .net remoting). That or we're transfering way more data than needed.
+Well now we're getting into territory where it sounds like I'm defending the theory. But if it was true then we wouldn't expect much evidence, most of it would be under water.
+I actually did do that for a task where we were having real concurrency issues, the solution was a bog standard SQL connection/transaction and to generate a unique key inside SQL. But even in that limited section the hard part is making things work with the rest of the system. My bit worked but the other parts are then reading stale data until it propogates to our in memory database. When transactions and avoiding data tables are radical everythings an up hill battle. On another project there I just had to navigate through code that should be simple, but we translate it 4 times between the database and the user, across 2 seperate processes, an inheritance tree that is replicated 3 times and some dynamically compiled code that is slower than the reflection approach. They compiled it for the speed benefits but it's compiled on every http request, so it's much slower than reflection. Then the boss complained about a slight inefficiency in my code during the code review, performance was it was spending pounds to save pennies.
+I don't know which was more enjoyable, the bit where they attack bolt or the bit where he attacks them. Sure it's wrong and unacceptable, but still immensely enjoyable.
+That's why the "update the resume" approach doesn't work, your likely to end up somewhere with the same shit, maybe even by the same developers.
+I am (slightly) but Quorn has never worried me.
+In fairness, it wasn't when the app was built. But we use a fraction of that 100GB anyway, the developers seem to be unaware that databases keep their own in memory cache for frequently used data.
+Things like database and programming languages do need to be decided at a high level but with the right technical input. You don't want different​ databases and languages for every project because it's a maintenance nightmare. And this will be suboptimal for some projects, but optimal for the organisation.
+Most "SOA" architectures are really just RPCing to a service layer, this adds complexity and achieves nothing. If you actually have services working in the background from a message via it's a different story, but that's not the SOA I see in the wild.
+How much success did you have migrating it to non-spaghettit code?
+Hopefully they'll see Corbin's result today and grow some balls.
+Is it up to the ACCC? They can only prosecute if there are rules against it.
+That'll just end up smeared with shit and be hard to wipe off. Why do toilet's slope toward the arshole anyway?
+It is in mssql as well.
+Yeah, 5 insert statements will create 5 implicit transactions. Far too many developers are unaware of this.
+They also lost half the cabinet, that's gotta be demoralising.
+Is it really any less of a waste than old style activism? I can count on no hands the amount of times I've seen protesting do anything.
+Don't most Xbox games run at 30Hz? Even my aldi TV can handle that.
+Maybe when you're young, which is there target market.
+Need to? I'm still trying to work out what it *could* be used for, working out what I *need* it for is way off.
+Hasn't the original Metroid team (forget their name) been doing portable consoles only? Now that they've merged portable and home consoles it'd make sense that they work on it.
+Owning a franchise is also a free pass to recieve citizenship.
+They're running like this because people get rich doing it and the victims can't vote. It's the perfect crime as far as capitalists are concerned. AFAIK it's the government that is supposed to police the self funding stuff and it's the students knowingly decieving them.
+Depends on what birds are around, which also requires a lack of cats. Just remember, you want spider eating birds, not bird eating spiders.
+I find this even in well paying professions, it's either an Indian shop or a Chinese one, the only middle ground is the occasional Australian hire.
+You think they're doing 50 hour weeks and getting paid half that even though they're self funded? If universities are only operating by scamming foreign students then they deserve to go out of business as much as the fast food places employing their students.
+Maintainers as a group do, but a maintainer of an individual package doesn't have to maintain every dependency.
+It's not ARM as a CPU, it's the way evertly phone/tablet is a custom SoC (system on a chip). There is no standard like there is for x86 systems, every manufacturer has different and incompatible changes.
+Wasn't zlib typically included as a source file as well?
+And this has caused security issues before, there was a big one in a common java package a few months ago, they patched it but there are still many vulnerable systems. More importantly though, most of those packagers aren't for "system" software, which requires a much higher degree of security.
+I can see the point, modulo isn't a commonly used operator and there are more important things to know. But fizzbuzz can be done without modulo and I wouldn't dock any points for someone using divide instead.
+So I should use bad formatting all the time because I'll have to deal with it occasionally?
+[citation provided]
+The fence has gaps that look about big enough, they only shoot small pellets don't they? If they go over the fence they might be hitting someone a few houses down.
+Not at all, half the reason I like a 2 space tab width is so I can have multiple files opened vertically, 4-8 means more scrolling or wrapping. People using 4-8 spaces are more likely to use functions by your logic, which is often much worse for readability.
+Are you familiar with the term "regulatory capture"? Big business loves government regulation, it makes life impossible for the little guy.
+No way, I bitch about them way to much on here.
+Should we all be forced to have the same screen widths as well then?
+Google/YouTube it if you haven't, it's fantastic to hear and a lot more obscure than it should be.
+&gt; You assume both side of the road are bike lanes Assume/hope. It is nice to be able to ride back as well.
+Hasn't that been true since the 80s?
+If only there was some sort of way to control volume...
+They tear where the handle and bag connect.
+Crap, I've been counting it as part of my 2 serves of veggies.
+Wanted: System Administrator. Perks include: surviving the apocalypse.
+And in doing so they created the fair Commission that destroyed penalty rates.
+Labor's not going to do shit and greens will be sticking for foreign workers with no rights.
+Independent just means unaccountable. It's no different to every other time the government creates an independent body or a publicly owned private company.
+More often than not they learn this from the senior Devs, who are doing the same shit.
+The database will use more memory for longer while it's streaming​ it to the client than it will by filtering on the database side. Or even worse, keeping locks open while it's transfering more data than it needs. If you filter on the database side then most of the data won't have to be in memory anywhere.
+Everytime I hear that it sounds like they're advocating in favour of socialism.
+Automation is still makes things less error prone and doubles as documentation.
+The drugs are practically free, it's only artificial scarcity caused by there legality driving the price up. Without that most drug habits would be cheaper than a daily cup of coffee.
+It's the only ad they've shown that's remotely interested me.
+Too many to count, at least 12.
+QUEENSLANDER! Australia's Texas.
+None of the ads make me think it's remotely historically accurate. Mel Gibson must be directing.
+You've gotta respect a good whore.
+Back then people were expected to RTFM and learn, now people expect things to be "intuitive".
+This always happens when the DBA reviews my SQL. I'm just trying to add a column here, it's not my fault the previous retards (and possibly the current one's) didn't understand what a fucking primary key was.
+I came across one the other day where they wrote a dynamic code compiler to copy values from one object to another, like one of the million open source auto mappers out there. They compiled it because "reflection is slow", but didn't realise compiling it on every single http request, even the ones that don't use it, is a thousand times slower. For anything performance related you have to measure, not cargo cult. Even if the reflection approach was 3 or 4 orders of magnitude slower, it would still be irrelevant in the grand scheme of things.
+&gt; The advantage of writing short functions with long names is that you can understand the code at whatever is the most convenient level you wish to read it. If your function is called "run", I have to read it. If your function is called "validateAndPersistRecord" and it has two lines "validateRecord" and "persistRecord", well you start to see how it's unnecessary to read every line. That's a great example of a useless function that only serves to obfuscate code.
+And then you won't be hired anywhere because you keep switching jobs too often.
+Fookin prawns!
+I mean if it was that much slower than it is now, then it still wouldn't be a major problem compared to all the other performance issues. By the time you get to a point where you have to optimise that you're in a really good place.
+That's how it worked for balki bartokamouse.
+Yes, but depending on your heritage you might qualify for dual citizenship. Either way, she's the Queen of Canada and they're free to choose their own head of State.
+Of course, they'll help break your fall.
+We boycott everyone we disagree with now it's the $current_year.
+And how many more would be employed because the don't have to compete with students working for less than minimum wage?
+The aren't bringing money into the country as students (except for the real self paying ones), just redistributing it within the economy and many are sending as much as they can out of it and in doing so they are displacing other potential workers who would have that money but have to rely on centerlink instead. Getting rid of them may increase the cost of eduction, but there is also a lot of fat that could and should be cut anyway.
+Results like this make we want to run Gentoo, or at least compile some of the core packages.
+The word your looking for is "mitochondrial Eve". It's completely incompatible with the Catholic stance, the word Eve is about all the have in common. The other one your looking for is the Toba catastrophe and the scientific opinion on that is mixed at best. It sounds an awful lot like you're cherry picking science to match religion.
+Then they need to disconnect from the internet, they can't have both.
+That doesn't mean it was stored in plain text. Anything a user can dycrypt he can once he has their login.
+We have a special test for Americans, have to get things like sidewalk and aluminum out of their vocabulary.
+Which university? I'd love to get some job candidates from there.
+Have one punch deaths always been a thing? Is it only the last decade or so they've been reported or has something else changed?
+A lot of people will only interact with people from their home countries I. Their native language while they are here. It's easy to forget if you aren't practicing daily.
+The script he wrote is also the documentation for how the program works.
+The previous term was mongoloid wasn't it?
+Upvoted for correct spelling at least.
+Shouldn't we continue anyway if it helps us find the best candidates and eliminates unconscious bias?
+We've seen prostitution in ape's and other species. It appears to predate farming by millions of years.
+My goal is to hire the best candidates. I've never tried anonymous hiring but I've always thought it would be a helpful tool to achieve that. If this study is correct than that tool might get removed.
+Not to mention other barriers they're likely to put up like dress codes and drug testing. Also an overly PC culture, I had a mate fired (and several of his friends) for *receiving* pornographic emails.
+Enjoying sex is hardwired into all animals. We're just in one of the few groups smart enough to extend the pleasure.
+Translation: we specialise in blue hair dye.
+Here: &gt; Say you have a man who's got ten years experience before an industry first begins hiring women. None of those women have any experience, and as such aren't hired. It's a cycle that never ends without hiring someone less experienced. It seems pretty clear that your hinting at affirmative action, which is discrimination.
+81? Are you still in 2016?
+When we adopt an isolationist foreign policy I'll entertain the idea. But as long as we have governments that want to throw us into every US cluster fuck I don't want us training kids to go die.
+Explain this to the feminist going to feminism conferences to watch feminist talk, feminists Li arnita sarkesian. If you're pro equality then the correct word is egalitarian.
+Swift is a big commercially backed project with the resources to write their own parser, a good decision for swift is not necessarily a good decision for your toy language.
+To compile your own language :) The question is why you want your own language, but DSLs can be very useful.
+Logging for when you need to know what went wrong, debugging for when you're trying to discover what's going wrong.
+Still a lot better than PowerPC weren't they? The last PowerPC Mac's were effective space heaters.
+How is it a shitty headline? It's an accurate summary of the article. Do you prefer clickbait titles?
+Would you need premptive execution with vacuum tubes? Presumably the bus could keep up and it would have no benefit.
+I can see why that made sense, but it should have been a light fork, more like a flavour rather than it's own distro.
+Well at least he's more correct than our "our participation will last month's not years" liberal PM of the time.
+I literally saw the wind change in the space of about a minute. Now to hide out at the pub until the house cools down enough to cook in.
+I want them to start landing punches now. The waiting Game is what gave us Abbott as PM.
+Vehicles get recalled even when they have to redesign and manufacture parts. Why should Intel have different rules?
+Is the open source part redundant? I can't think of a time in the last decade when the best music players on every platform weren't open source.
+Maybe they shouldn't look up every phrase, but you probably should before writing a snarky reply based on your ignorance of it.
+And Java applets were slow 20 years ago, I'd love to give them a try now that I have more than 16MB of RAM.
+I'm willing to steer clear of your shitty apps then.
+So what are the downsides of ADA? I've seen a lot of the pros, but I never see any cons listed which makes me skeptical.
+Yes, see further up the chain, the "shitting all over system conventions" part.
+Have they solved all the issues (corrosion) with that? I thought they were still unsolved problems.
+What else could you do with that memory that would speed up the rest of your system? Cache the database? Build to an in memory FS? Have more data in memory?
+Fantastic, what line? I've tried a lot to get my script to fire at the right time and nothing has worked. Also, what file? There is no mount file, systemd just decided to invite itself to the action.
+Legend has it that it was there through the windows 95 previews and moving it to the bottom was a last minute tweak.
+How about no theme? Just follow my desktop theme.
+There was one you dig up in a random location though.
+Colby's probably dead by now.
+&gt; As for Australia Day harking back to 1915, another WWI commemoration is the last thing we need for our national identity. If they think Australia Day is invasion day wait until they find out what happened on ANZAC day, we'll need another holiday to replace it. I wonder if our Turkish community is bigger than the aboriginal one?
+Visibility of the road is a lot better than the footpath, many people back out of the driveway completely blind, but the wouldn't on the road.
+I don't know why but krita is the only paint program I can use somewhat adequately. Gimp, PS and everything else I've tried just leave me lost.
+Because computers have become appliances, they're expected to just work like a microwave. Even the filesystem is abstracted away from users now, especially on mobile devices. Computers are so easy to use that users have become helpless.
+Cheap quality how? I've only got a set of drawers and a workbench, but the drawers open and close and the workbench holds stuff. I'm not sure what more I could ask of higher quality furniture.
+If anyone can beat America I can't think of a better way than with traditional English food, just need to work on the quantity. According to a mate that was just over there you've caught up on cup sizes.
+You're a ladel and a jellyspoon!
+Or just avoid proprietary apps on proprietary networks.
+One of the myriad of things that don't involve touching windows machines I'd bet.
+Because the same convicts went on to start the traditional of getting pissed on the 26th of January.
+Time and energy spent on changing the date is time and energy not spent on other things.
+Sometimes performance is inherent in the tools you selected to build fast. Good luck optimising that electron solution a few years and a hundred thousand lines of code later. Especially if the bean counters are involved, you can't convince them to optimise something later.
+Next time I'm in this role I want to see what HR are screening. I suspect they screen a lot of technically fine candidates for stupid reasons.
+Because having to remember a rarely (hopefully never) used password in a stressful situation is hard.
+It shouldn't take practice, something like this should be second nature to any programmer. Giving them a computer doesn't help.
+A good follow up question is why you rarely see linked lists.
+Considering it wasn't the first European landing I'm not sure you can attach it to that specific date. The spread of small pox was also predestined to happen unfortunately, regardless of the date.
+The reason it failed is because it was a referendum on the republic and a referendum on the form of that republic. People that wanted a US style presidential system voted against it.
+Generally I agree, but surprise Java apps are never fun.
+Does it make any attempt to look native, use system file dialogues, use system themes, etc?
+Then there's still an issue of how to settle them outside Australia.
+That's every day!
+Oh we serve gay people, we just refuse to serve people that support gay marriage.
+If we do that then 1 year for them would be 17 years for us.
+If it's based on gnome and/or KDE is a development board necessary? You should be able to get a pretty good idea of how it will work by running on the desktop.
+That's a purchase time consideration, the brand doesn't have to be there while you wear it.
+You're not buying a shirt you see, you're buying a license to wear the shirt.
+Pretty dire, I recommend this documentary on the issue: http://m.imdb.com/title/tt0389790/
+Because this is a base load Powerstation and it's apparently more reliable.
+Look at mister fancy pants sober over here!
+Just drunk?
+I don't know about blitz but I have seen drivers fined for this quite often. It's very satisfying when they didn't even know it was a rule.
+If it's a widely held belief then surely there's some evidence behind it?
+That's probably even better economically, no gavelkind estate splitting.
+Tumblr I'm guessing.
+If vegetables got you high then people would happily pay for them like they do marijuana.
+The carbon footprint of slow languages is probably significant, especially when you factor in computer upgrades for slow software. That said, isn't all the heavy lifting for CV libraries done in C anyway?
+So it's a well documented nightmare. It's still a lot harder to do basic stuff in than with sane API like Gtk or Qt.
+Starting them on bash scripting would be better, at least they'd learn that there is a whole world below apps and what a file is.
+So he can talk to kids in year 8?
+In Australia my nephew's had to buy an iPad for their "programming" class, I giant waste of time and money for everyone.
+Isn't soft drink effectively taxed already? It's alright if you get it warm from Woolies, but they already charge through the nose for a 600ml bottle with lunch. If the government wants to intervene in softdrinks then it should be to break up the distribution cartel that keeps generic colas out.
+Maybe they should actually appeal to millennials instead of being another right wing rag catering to a declining demographic.
+The software industry and practically every hybrid of it. Beyond front end dev node is nearly unheard of and maybe even there. Go check out the tiobe index, despite it's faults it should still give you a pretty good idea of what the industry is using.
+There's also stuff like CDNs and anything hosted by a third party, even CSS can be used to track you.
+Yes, things like media selectors can make the browser hit a different URL for different resolutions which can be used for browser finger printing. Likewise hover elements can be used for limited interaction tracking. If you search for CSS fingerprinting you'll find some examples.
+It's a lot easier on a road bike, especially on those uphill sections.
+Obviously, but you haven't demonstrated if "a lot more" is significant in the grand scheme of things or if it's three fifths of fuck all.
+Can be, but you don't have to pay interns. If they are unpaid they can't do anything considered real work, but that restriction is lifted if the internship is connected to their University degree.
+Plant drugs on the seat, then call the cops.
+What value would you put against something that can not be defined?
+Are you underestimating your dog's ability to eat the food and avoid the pill? My dogs used to be great at this with their heartworm tablets. In any case, I suggest swallowing the pill and keeping us updated on any symptoms. A trip to the Botanical gardens may be required.
+Thread got lock due to retarded mods in /r/Melbourne
+Enough said. Now I just need someone to eclipse the original Mario tennis on the original gameboy.
+No promises!
+Pretty regularly?
+Because the state created those unknowns.
+By and large the left doesn't work for them like they used to, it became pro free trade, anti-violence and pro immigration, they embraced neoliberalism. The candidate for the left wing party called the poor working class a bunch of deplorables.
+Might not mix well with the compulsive need to pee in the pool/shower.
+Elseif you have nerdy, tech related interests.
+But so many more would have been created when they've got nothing to do.
+Doesn't this remove a womens right to say no? An unequivocal agreement must be made ahead of time, so once the agreement is made there are no repurcussions for rape.
+Being unequivocal means that it has to be done before hand and verified by a third party, otherwise it all comes back to your word against theirs.
+No, they're doubling down and removing any criticism about the policy.
+The inner platform effect.
+And deliberate fabrications like this don't erode your trust?
+&gt; Whenever a file is to be executed through execve(), its 128 first bytes are read and passed on to every handler. Sounds like it would be run as a script.
+No one ever accused social media consultants of being intelligent.
+Simple is always better. Sometimes it's not enough and you need something more complicated, but if simple will do then stick with it.
+&gt; Okay, so maybe its simple, but it isnt more powerful It's more powerful because the metadata can come from anywhere. For instance, you can generate an entity from a database table along with all the boilerplate to load objects. &gt; I think youre forgetting to mention that instead of offloading this preprocessor magic on a few very competent guys (the compiler writers), every user now has to do this himself. This is a good thing, everyone can do it instead of a handful of masters that are divorced from the kind of stuff you're dealing with day to day. &gt; Also, i have to ask, are you kidding about adding template instantiations to your build-system? This seems ... highly inelegant, architecturally unsound, and thoroughly painful for everyone involved. Having a build step that outputs source files anyone can read and understand is far less painful than dealing with C++ template errors.
+Battle of Cambridge? How did you manage to let troops across in the first place?
+I have 8 cores and 16GB, still dog slow. I found 2015 better, but that was still going downhill compared to older versions like 2005.
+Along with natural province development it would be nice if buildings influenced it as well. At the moment they're sort of tied but it's too hard to see the effects on each other.
+This is probably a better result for both games.
+Gamers aren't so young anymore. Probably plenty of people in their 50s that know how to LAN party. Also, are LAN parties still a thing?
+I would of thought the majority of Christians were black or Hispanic by now.
+At least apple make money by selling products, google makes money by selling you and MS seems to be going in this direction.
+Just blow up some old goon sacks.
+An architectural breakthrough known as a second floor?
+Last I saw him (probably this time last year) he looked like he was dieing of cancer. Looks much better now.
+Got to time it right and break the seal just before kickoff.
+Those camera angles are giving me ARL '96 nostalgia.
+People pretending it's only 4000 kj...
+Is he ever not?
+I thought that was your strength in the first half.
+Could be good, but I'll wait to see exactly what their terms of surrender are.
+Time for some new project houses. These mixed strategies aren't providing the numbers.
+The current situation is a truce, the treaty is to resolve it permanently.
+Guys a dick, but 12 years seems a bit harsh for a threat. We have people doing actual real world harm getting much lighter sentences.
+In the face with a fist, but this was back when they were proper skin heads and had good metal, not the metro doof food ones we have now.
+There was a war, the aboriginals lost and we're finally getting around to the terms of their surrender and signing a treaty.
+An alarming number of developers are typing in their own compile commands.
+He has a wife you know?
+Because we haven't had anyone worth talking about.
+Brilliant. Sleep in a nice warm tub all night, no fucking about with blankets, and if you shit the bed just pull the plug.
+I'd love to be able to afford 12.5g of anything else.
+Quite a lot of people over at /r/totalwar say they play for the campaign and autoresolve all/most battles. It's depressing.
+So the random number generator depends on uninitialised memory? That's more worrying.
+MS never used TFS much either.
+And now you couldn't do that because you have to compete with Indian "students" for those jobs.
+Learn to speak English. Seems you can type it fine but don't be surprised if no one can understand you, especially after a few drinks. Even after 80 years here I could never understand a word my great-grandmother said.
+Is it? Looks like I have to sign up to some sort of phone/internet plan or only watch it on my phone. This is a huge step backwards from SBSs streaming of the last world cup.
+Below that it's mostly sub-tropical!
+At least we're still good at real sports.
+Thanks, I live near by and might venture down. Also thanks for not posting a fake "can anyone recommend a.." post the this sub is full of lately.
+Is this your first destination? If not I'd suggest none because you will/should be too maggoted to get in anywhere.
+Yes, but the resolution and frame rate is a lot lower than the SBS stream for the last world cup.
+I always knew the global warming illuminati were in cahoots with the gay agenda! /s
+Because it's not really working in other cities, it just looks like it is.
+I think you'll find their logical reasoning skills to be lacking though.
+There are bike stores everywhere, have you gone into a few to get a better idea?
+Rents and council rates are simply too high for businesses to survive. We all know housing prices are out of control, but much less talked about are the crazy commercial property prices at the moment. Edit - and yes, I'm still bitter that my favourite burger shop along Fitzroy St had to close down. I heard it was something to do with a conflict with the council.
+Remember when fruit and veg stores had a huge free box section?
+Nearest bowls club is a good bet. Smaller ones will generally have volunteer staff and cheap drinks to keep your costs down. There are quite a few Bayside, if you PM me with a suburb I might have a more specific recommendation.
+A lot of old cars have them, cars are portable. Are hipsters upgrading from records now?
+I find this breaks down if you eat out often. Chains will often list calories but smaller restaurants won't and the often but a lot of sugar and butter into things. The other hard bit is dodgy labelling like coke Zero do, or supermarket food that sounds good thanks until you realise your meal for one is actually four servings.
+AI telling dad joke's is the last thing we need.
+What are we supposed to do? Just assume her gender?
+Is this better at maxing trade income?
+If she was more successful than me she would have brought her own car, not asked mummy and daddy for it. I'm not innocent though, my aunt once gave me a pretty good deal on a 25 year old car.
+Processing claims here is why offshore detention was invented in the first place.
+It's all over at Kilda and I could smell it at the casino too. I think it's the canal being particularly pungent.
+Shit like this is why we need a union and/or proffesional certification.
+So how's the project you're working on going?
+/r/evenwithcontext
+Wait, season 5 came out? I thought it was just the horrible recut.
+Not on Netflix in Australia, someone else must have bought the rights. Sucks to be them I'm torrenting now.
+Cyanide is a great example, it's in a lot of food we eat. It's all about the dosage.
+This is certainly a possibility (and an accurate description of the current reality). You have to not run untrusted code though, so no JavaScript in the browser and no cloud computing.
+It only make sense when you only have a single maximized window at a time.
+At least a deal with the EU isn't forcing Australians to compete with third world workers making 3 cents an hour. This is the sort of FTA that can be both free and fair, in theory anyway.
+Still better than Brisbane airport. What's an up sign in from of an escalator supposed to mean? Do I go straight ahead or up the escalator?
+There's another one at st Kilda junction, left to Fitzroy St and right to the beach where they both should be in the same direction.
+Why though? I hate it because I'd have to carry around bags all day. If you're going to take your own bags you may as well go with the reusable ones.
+That's no way to treat your mum.
+On the off chance there is could someone let me know? Count me in.
+How big is your Peruvian cocaine debt?
+Orange juice is worse. Once I had to go round back and check for a dead body but it turned out to be a few drops of orange juice.
+What is dead may never die.
+It took a year to save up his powers or something? Must be a piss weak god.
+Mad cow free steak, wrapped in kangaroo scrotum of course.
+Lot's of transferable skills says unemployed dude asking what to transfer into.
+You completely missed the point, taking your own bags to the store doesn't remove the need for bin bags.
+If it's software for the general public that's not true. They also want to run other stuff, all that RAM isn't just for your program.
+Now your moving the goalposts. And the hold waste just fine, they new thicker and bigger bags hold it even better.
+&gt; It depends on where the problem is in the system. Programmers are great at finding the root cause when it is code related; Great at finding the root cause when they can test things in isolation and a stress free environment with a coffee and a debugger at my side. Not with 8 managers asking for status updates while you try to patch directly in production. Having developers on call is an organisational failure.
+Of course they did, you don't want competent competiton.
+Does this include fishing off the pier?
+Dammit santa I wanted shot GLASSES!
+Did Abbott? I'm still trying to find out what a shirtfronting looks like.
+Sounds like China, if you're social credit drops to low you can't get a taxi.
+Sure you're not two? I've seen Jurassic Park.
+All of them? I think you're the only person in the city desperate to get their heating fixed right now. Serious answer: I wouldn't count on it this time on a Friday, most are probably 3 beers in by now.
+On the plus side, the people that jump on a team to go two stops were probably going to dawdle in a large group.
+I think you forgot the not go to university option that many take.
+&gt; There’s an economic advantage to all education So you'll be signing up to my Netflix and masturbation class?
+Do these guys even get drunk? I generally only see these thugs (or similar ones) earlier in the night and drinking doesn't seem to be there thing, at least at that hour. Edit - St Kilda is also generally fine on the whole, these guys seem to come in from other parts of the city on warm nights.
+Well they are kind of public transport, and maintaining an option that will continue to serve people regardless of their star rating is important.
+Or you could judge the comment on it's merits as an argument and not the posters history, but that might require more thinking.
+They've already recently banned public drinking in that area.
+From me? No. The poster I responded to is literally advocating groupthink.
+Keeping a job to be able to continue living in it is also an issue. A collapse could impact that.
+Because they allowed it back eventually and after much whinging.
+Is that for senior or junior roles? Sometimes for the junior roles you really do want code slingers because others are looking at the big picture. I haven't run into many that don't acknowledge that they're job is to solve problems, but often they fall down trying to solve much bigger problems than the one at hand because that's more fun than boring imperative business logic that gets the job done.
+A lot of people here work for those big data hoarders, SaaS solutions, etc.
+What's with the police releasing images weeks later when most people wouldn't remember?
+Considering the current dream is for light's out factories with no employees do we really care if they're made here or not?
+Yeah, because all tracking is government and not companies trying to convince you to buy more shit. Illicit substances aside I'm more worried about corporate tracking.
+Pass the regal reefer to the left please.
+&gt; Every developed country is dealing with this now. And we need to develop an economy that can cope with a shrinking population.
+Are they even Anzac biscuits? They're meant to be hard as a rock so they wouldn't perish on the trip to Europe, not this fall apart shit. I wish I hadn't lost grandma's recipe.
+I've always been good with Menulog, usually the restaurants do the delivery internally.
+No and it's been annoying me for years, you can try writing to the council but all mine letters have fallen on deaf ears, they don't want to acknowledge the amount of junkies crawling the beach. It's basically prevented me from enjoying the beach. If you want to pay for the baths there are lockers in there though. Or go to some of the less populated beaches.
+&gt; Not that this is a xenophobic rant, rather that younger aussie's are simply being screwed over and being overlooked in lue of bringing in people from overseas Another big problem there is student visa abuse. They're meant to be self funded but are allowed 20 hours to get field experience but that turns into 40 hours at restaurants and uber eats.
+I'd complain but only cause I'd get confused and piss myself.
+I blame Princess Mary!
+It's not the car I'm concerned about, they can always stop.
+It's the next logical step after robodebt.
+Campbell Newman held a Queensland election on Jan 31, the rumours going around were that he did it to avoid a spill.
+They probably can't find a reason, for my it's always the shoe's they pick up on.
+Because of the present or just their willingness to masturbate in front of you?
+When you come once a year you want to make sure it's worth it.
+Oh I see your app is bogging down the system with a bajillion threads for no reason, it'd be a shame if we throttled them...
+Work implies expending effort for a reward, it doesn't imply the reward is monetary. People were working before money was invented.
+Ahh, thought you meant it in the sarcastic "why not wifi" way.
+They got a summer storm after a summer day? Inconceivable!
+He could start with the headline then have the article.
+Just go to a normal strip club and imagine the same thing with dudes dancing, I'm betting you won't like it anyway, just cross it off the list of life experiences. Most straight guys I've met don't really like them either.
+5g is getting pretty close to the theoretical maximum. FTTP can easily achieve 1,000Mbps, will do 10,000 Mbps in future and will be capable of at least a few more 0s longer term. And that's dedicated point to point speed, no worrying about sharing bandwidth with everyone else nearby, no line of sight or other interference issues.
+You don't know the conjoined triangles of success?
+&gt; We will need more office space in the CBD I'd love to know vacancy rates, the other half of our office floor has been vacant for 3 years now. Commercial property barons seem just as greedy as the residential ones.
+There's a lot of good stuff for cheap, the salami, the frozen pizzas, the bread. I suspect I had this Champaign yesterday though and OP is right.
+That's going to be fun when someone pissed all over it and stuck the Chewie into the hole that they just had to mask the alcohol.
+[There ya go](https://www.9now.com.au/afl-footy-show/2018/extras/clips/clip-cjgqfvukn00h10hmnonflu4pj)
+And if they could build a vacuum tube that big we could ride bikes instead of needing train cars.
+Can someone translate stingrays to standard drinks?
+&gt; The compilation model is outdated. The compilation model is a strength, it allows for things like compile time dependency injection which is great for unit testing. Not to mention incremental compilation. &gt; You have to use #include Is there a language that doesn't have some sort of include and interfaces? &gt; Very complicated and confusing tools exist to work around this problem (autoconf, cmake) but they all have their own issues. Cake/make aren't complicated, autoconf solves a whole different set of problems and any real systems language will need something similar.
+Thinking you can share one UI between phones and desktops is like believing in magic, it's never going to work.
+Yes, even many mostly plain text websites like this one fail at sharing the layout between mobile and desktop, it's even worse for complicated apps.
+The alternative is to lose power and get the full version of the other sides policy. Sticking to a principled stance only makes you feel better and achieves nothing.
+And the spag, I'll have to give up both if big red and it's homebrand clones are all that's available.
+I'm not sure buying into a bubble counts as "no fault of their own". The people worried about price drops see their homes as a (financial)investment and investment has risks.
+Imagine being completely unaware that the changes weren't retroactive and your existing investments were unaffected.
+Negative equity only matters if you plan on selling. I'm in that position myself and if I want to upgrade then a housing price collapse still does more for me than the positive equity would.
+Should we hear his side of the story first or just sharpen the pitchforks?
+&gt; Reminder, Adjusted for population, Australia has more mass shootings! 4 people in a mass shooting is practically an everyday thing in America and their population isn't 365 times ours.
+Because we look to our leaders for solice and confo... ...yeah, I don't know either.
+I used the definition of 4+ deaths when I counted, which is a stricter definition than you used (Brighton siege, 2 dead).
+&gt; Just an insight, international students are legally allowed to work for 20 hours in a week That's intended for industry experience in the field you're studying which I very much doubt is the case here.
+That series was great, the first game won 2-0 though was the best match I've ever seen in any sport. A team with no hope, everyone saying they'll lose 40-nil, some of the players pulled out of reserve grade, NSW just kept coming and coming and the desperate defence just kept holding them out/up. Game 2 had the best fight in the series history too.
+A switch statement for a state machine is structured programming, maybe even more structured than Dijkstra defined it, it's no more of a "fancy wrapper around Goto" than the functions and the if statements in the final version.
+Good advice from everyone, to late for me though, 1.3% would save about $5 a month.
+&gt; Four players will refuse to sing Advance Australia Fair because they say the words "young and free" are disrespectful to 60,000 years of pre-European Indigenous history. Do they realise there was no nation of Australia prior to European settlement and that the young part is correct? There are plenty of good reasons to change the anthem, this isn't one.
+It's an anthem and almost completely devoid of any history at all.
+No, I think taking away your license for speeding makes things safer.
+After last year's lackluster performance I hope you Guys have got the half time dogs sorted.
+The quality of Netflix content has also dropped, there's not much on the horizon to keep me subscribed. Most "Netflix originals" aren't owned by Netflix either, I'm betting many of the companies involved are owned by the Disney empire and they'll lose them soon too. Edit - Netflix will also not serve non-edge users the 1080p version, so piracy offers a better product.
+No it doesn't (literally). Read the tweet.
+No I did not.
+I bet you think abstinence only sex education works too.
+&gt; It's most probably one of the tasks where developers will have fun solving it. Really depends on the company, if left to my own devices to solve it's like getting paid to do sudoku puzzles. If you're getting pestered for estimates on when you'll solve it every 2 hours then it's hell.
+You know those packs of seven you can get? If I'm ever made dictator I'm going to force a universal colour scheme for the days, getting them 2 Christmas in a row just created an unnecessary morning scavenger hunt.
+Oh good, I was just thinking my carbon footprint was too low. How long until the run out of investors money? Edit - also, how much noise will this create?
+If I'm taller than 99% of other people would you call me big?
+&gt; then spending an hour in traffic will outweigh the cost of using a service like this. Assuming all hours are equally productive which is obviously false. The only case where it is somewhat true tends to be for people doing low skill piece work and they generally don't make that kind of money.
+Because your downloading random, unvetted scripts and running them. It's like asking "why shouldn't I open that exe someone emailed".
+&gt; Discounting your own labor when is it cheaper to do it on premises? When you have high resource utilisation it doesn't take long for that hardware costs to amortize.
+Poe's law strikes again.
+&gt; Even taking into account labor to run the resources? Yes, it's not significantly more work or particular different to managing cloud VMs. You think the pointy haired boss is going to deploy his own instances? &gt; What if you have a problem on a weekend? How many redundant staff do you have? How many locations? 10 places across the world? All issues with cloud hosting too. &gt; Why doesn't Netflix run their own servers, as they have insanely high resource utilization? Hmmm... They built their own CDN to do the heavy lifting.
+So they didn't even fix the problem, just removed the functionality all together.
+Stupid cookie warning.
+People that care about freedom wouldn't be using anything apple related in the first place.
+Those didn't work with private numbers though.
+Worse, you've got diesel generators powering your food, hot water, lights, air con, etc for days, not just the travel.
+As a kid they've got lot's of fun activities, as an adult you better like shitty restaurants and bars.
+It's more like staying in a floating shopping mall for a week and every couple of days they'll let you out at a shitty cruise terminal for a few hours.
+Guessing you live somewhere rural or in suburbia? Apart from the snorkeling and hiking you listed nothing I can't do 10 minutes from home.
+I'm not sure what you're quoting, but on the ships I've been on all the bars were indoors except for one that closed at 5pm. If I could sit (so without all the chairs packed away) outside quietly with a drink at night I would have enjoyed them much more.
+A shame it failed silently, I worked for a company that had a power outage and discovered it hadn't been writing to disk for months.
+&gt; A dog apparently helps too as people feel bad for the dog. I've seen a lot more dogs in the CBD lately.
+Now there's a completely unobstructed view of the concrete pylons and shit coloured Yarra.
+Electron, react, etc aren't slow because they're single threaded.
+It was common back then to only modify the sections of screen that changes, now the whole screen often gets rendered for a single keypress.
+I thought my music taste had atrophied as I got older, good to see the hip young folk still like Eskimo Joe.
+I'd be sharpening my pitchfork if they did.
+It's also a pretty big site though, your random online store, corporate website or intranet app will be getting much less traffic and much more likely to be in range of running on a single raspberry pi. It really wasn't that long ago that 4GB of ram was server range.
+Cynical, obnoxious, ineffective and non-compliant cookie warning for me, that's always an automatic downvote.
+There are a few: http://www.bitscope.com/product/blade/?p=about I've seen some 3d printed mini racks too.
+The top 90% avoid companies like that altogether. Companies that do this are firing the dregs of the dregs.
+Last time my company did that the American team locked out the people in Asia overnight, they had to sit there twiddling their thumbs all day until the Americans got back to work the next morning.
+We've been debating it for 20 years, after that much time Americans won't be paying attention either, just look at Gitmo.
+Moving what goal posts? There is still no harassment, no attack and it's not relevant to the case.
+The hipsters still tend to stay with their own.
+Do people who can't be social make posts about what social activities are available?
+Still no way to speed up gameplay.
+Qld reds, NSW Waratahs, ACT Brumbies, Melbourne rebels. Story checks out.
+I'd put that second to price of a mile.
+I'd say they were wrong, but JIRA has become so unusably slow in the last few years that I miss rally.
+Which is an indication that "modern" front end tools aren't fit for purpose. It's the developers responsibility to know code they're shipping to customers can be trusted. The main bullet point I'd add is "do they have stable releases with a history of supporting them with bugfixes". If you run into a bug you don't want to go through the pain of updating 6 major versions and the breaking changes that come with that.
+&gt; Who cares if I know the code I'm shipping, as long as I'm delivering useful features that are safe, secure, and reliable. You don't know it's "safe, secure and reliable" if don't know anything about your dependencies.
+But it doesn't to the same extent because other ecosystems don't have thousands of micro libraries for every little thing like NPM does.
+It's only an anti-pattern when scale and complexity reach a certain point. A cron job running every 5 minutes reading a queue (if that's even needed) from a database (assuming there already is one) has less large complicated dependencies and is easier to understand.
+So we're back to promoting murdoch rags already?
+No, abstractions always make the overall system more complicated and this isn't the sort of implementation detail you want to hide from your own team. Early on they probably didn't even need a queue, just "select from thing where createdAt &gt; @lastRun" or something. Anything truly event driven where you want to add a message queue can be done piece by piece.
+Same here, in Australia too. Looks like the login server (login.eveonline.com) is unreachable, can't load it in browser or ping it. I'm in Melbourne and on iinet, I suspect the latter might have fucked something up. Edit - looks like it's back.
+You're probably right, I regularly see people ignore the hard dividers. At least that's hilarious though, if they don't fuck up their car they have to drive like a slot car for a little bit.
+Sharepoint, you just described sharepoint. And just like every other no code solution you run into it's limitations pretty quickly and need an army of consultants to maintain it.
+One of my biggest pet peeves on a current project is constants for strings (stored proc names) that are only used in one place. It gives zero benefit but makes you jump through more hoops to work out what is calling what. Of course of there's dozens of places it's used a constant might make sense, but it's like they haven't heard of grep.
+People that don't get paid by the hour.
+&gt; But I’m talking about the earlier stuff here is a climate speech form 1997 Did he say that Sydney and Melbourne would be under water in 3 years time?
+Between the bar and his height he's not going to get "skidmarks" up the back of his shirt like everyone else on a bike.
+So still no quotes and you're references don't even mention sea level rise. If it's so hard to find the "widely quoted" things doesn't that make you think you're wrong?
+You get disinfectant?
+Even if they were it for the money a professional would be trying to do a good job, that's professional behaviour. Rocking up for 8 hour's and doing the bare minimum is not professional.
+And what about the financial losses of rewrites introducing errors? There is a bug to fix and some preventative maintenance might have prevented (a recompile with new warnings would probably highlight the error) it but I don't see why it needs a rewrite.
+We might be again soon with vertical farming, especially in a sun rich water poor continent like ours.
+I never said it was overkill because of water usage, just that it's overkill. It maybe won't even help, they have a tendency to sover nearby surfaces with the same crap you're trying to remove.
+Well teenagers having sex is also declining so they were flat out wrong.
+So we found the guy putting these posters up?
+I miss Sandra Sultry.
+Let me introduce you to this thing called humidity, it just doubled.
+&gt; when you consistently say things that offend people Show me how it's a consistent pattern and not a rare exception?
+&gt; Panic buying escalated through March in Australia. Sales of canned and dry soup surged by 180 per cent, purchases of toilet and tissue paper doubled while there were also short-term shortages of flour, rice and pasta. So we bought twice as much as normal, not much of a panic.
+It should never be allowed anyway. When companies complain about skills shortages they're not talking about fresh graduates, there's no shortage of those.
+I did similarly, but it's a much lower and easier personal investment to buy a few extra things than it is to make the call and shut down international travel for a country. Look at the whinging from Winnie the Pooh a office and universities when we cut travel to China, then throw in other countries, airlines, people with holidays booked, etc. It would have been the right call but it would still take some brass balls to make it.
+If polar bears == coronavirus are you saying it doesn't exist? If pouring salt == lockdowns are you saying they don't work?
+&gt; I generally only interact when I enter and leave really. Maybe you've got smaller feet? I have to go through the whole "do you have x in y size" and have to wait ages to get served.
+&gt; Do they not understand that because we had restrictions a lot of people didn't die? No they don't. Don't even bother trying to explain that just because modelling didn't predict the results (due to a massive intervention) that the modelling was wrong.
+Plants as a Service predates SaaS and IaaS. I'm not sure exactly how far back it goes but on school holidays I was often following my Uncle around offices with a watering can in the early 90's.
+Plenty of apps out there that will never be upgraded, some will be replaced but many will take another decade at least. Platform stability used to be something MS was good at, so that's why .net was chosen.
+And what if I want to compile it and run a test of (automated or manual) before removing it completely? These stupid rules just create more work. In sane languages it will be a warning and you can add strictness later in the process.
+At east it's a more photogenic bunch than the lockdown/5g protestors a couple of weeks ago.
+Or just make an "other" category because it tells you nothing about each state.
+I'm sure it's half true, the first half.
+You want them putting their coronavirus tests outside in the open air? Aside from that, simulating gives them a lot more control over things like exposure time, cloud cover, time of day, pollution levels, etc. They can even simulate things like different latitudes, hard to do that by going outside.
+With no origin this year I'm not sure how much to hate you...
+I "stocked up" last week, but only because my normal 4 pack never came back into stock. I think shot like that explains half the shortage last time.
+That is an especially safe one.
+18 was the fewest roles I could find at Cole's, so 48 at a bulk store isn't surprising.
+Even worse back when it first broke out and there were random premiers at random times all day. You'd think the national council could at least coordinate reporting.
+It makes a difference to people doing the tracking and the people with the virus, I just find it meaningless/confusing for everyone else to report them separately. As someone not connected to them the amount of people out in the community spreading it is the only number I care about and that includes both (but not overseas).
+&gt; No point in taking steps back. No point repeating strategies known to work? That's crazy.
+&gt; We can’t afford another lockdown. This line seems to come from the same people that were so eager to squander the last one by lifting restrictions early.
+Because hospital admissions lag. They're coping fine and will continue to do so if today's numbers were repeated everyday, but they won't. The lesson from the rest of the world is that shorter, earlier lockdowns work and if you wait to long they have to be a lot longer.
+And their mangy dog!
+Don't you only have to isolate if you're symptomatic now? Especially with the door to door testing. Get too strict and the same people will avoid being tested.
+I really hate these American style cartoons where they have to literally spell things out for their audience.
+&gt; this left my daughter bleeding and crying TBF I went through this with a trained nurse as a kid, except it was my ear and she jammed a wick in crooked.
+Seems like they're sending them to NSW or something, there's been 0 the last few days and NSW has been getting a few but were getting 0 last week.
+That's both way to much but also somewhat more reasonable than I expected. Back in my day a $10 cover charge was bullshit but fair enough for $1 drinks nights.
+There's been a lot of news about it and the testing surge going back to last week, that could have made a lot of people more cautious. It's probably just a statistical blip though.
+&gt; what ever floats your boat. If we're being literal I think I'll take me chances with the mermaids.
+&gt; Why isn't it considered bio-terrorism if someone has the virus and doesn't isolate? Because it doesn't fit any definition of terrorism and most people doing the wrong thing are trying to go about life as usual. &gt; All those 900 people that refused tests should be named and shamed, no need to protect them. Even the ones that were rushing off to work? What about the ones that were out shopping or at work and couldn't be tested? The ones tested a couple of days ago and didn't need to be tested again?
+Or they could not bother with making them mandatory and just supply them. Seems if you want one you have to go specifically looking.

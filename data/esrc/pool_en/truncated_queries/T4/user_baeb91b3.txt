@@ -1,0 +1,50 @@
+*MAXIMUM ARMOR*
+Seems like the draw calls are a huge bottleneck , maybe DX12 will help?
+\ [T]/ [☼] ||
+Someone needs to take Java &amp; co away from Oracle, they are like a child destroying their toys.
+Is he really that bad? His take control of all minions effect seems quite strong, or is he bad because all other cards are much stronger?
+Bet he's looking for lemonade.
+I just use CTRL+Shift+F.¯\\_(ツ)_/¯
+Why the fuck would you call it sexism then?
+Looks awesome! But fragile at the same time, or is it thicker than it looks like?
+If youre on EUW play something else for the next weeks/months DDoS in D3+ is getting more frequent
+Iirc all of them were for scripters/botters :/. Hopefully they ban the ddosers soon.
+&gt;0.5 0.5000000000001 ftfy
+No wolf, "this is OUR TOWN SCRUB".
+Keep in mind that you cant really compare two different processors by their frequency, especially not when they're of different architectures (x86 and ARM in this case).
+True. I play mostly games where optimization is fairly OK for AMD, or garbage for both(... DayZ). I tested disabling every 2nd Core (which results in every core being complete , 4 Cores with FPUs instead of 8 sharing 4) , actually does help in some games! EDIT: Also overclocking makes a big difference in certain games (WoW comes to mind).
+Maybe you should present proof/evidence of your own if you want people to actually argue your point.
+The hard part is reading the shit others wrote.
+Most of the variants are dual bootable, I run Ubuntu and it works perfectly. You could also try SteamOS which is also a Linux variant. EDIT: Not sure if SteamOS is dualbootable by now, they said it would support it tho.
+Programmer here, fuck UIs, all of them.
+I didn't know I needed this.
+To most people what software engineers do is conjuring software spells.
+Well you could say you do it "from scratch" if you do it in high languages, or if you follow that logic that means you can't cook from scratch because you have to raise and kill your own meat etc.
+Imagine a very small person and a very tall person, the tall one takes 4000 steps and the small person takes 5000 steps. The tall one will have come further with only 4000 steps because the tall person takes much bigger steps. Obviously this is oversimplified.
+Maybe that's not the only thing the software does.
+Why would anyone lie about that tho?
+1. Yes, mine are at 28~ 2. Stay below 75C to be extra safe, but my guess would be even 80-85 wont damage it by much. 3 &amp; 4. Reseat first. 5. If fan you constantly however over 80 I'd get a better one. 6. Doesn't matter how you apply your paste as long it is enough (even too much doesn't impact performance noticeably). With my h100i my temps are at 25-30C when idle, 50-55C when under load. EDIT: Fucked up my formatting, I'm on mobile, sorry.
+Yea the whole alignment doesn't matter very much, linus did a video on this, the only way you get bad performance is if you use very little paste.
+Unless Ichigo actually learned from Aizen and getting his Bankai broken is actually part of his plan!
+Dunno what to post, take [this](https://www.youtube.com/watch?v=68uWlNjm4lA).
+80C° is thermal throttle for the 8350 btw, it will go to 1300MHz if it hits 80.
+Fire in the hole!
+For me it was at 80C° (Gigabyte UD3 Rev 1).
+105℃ is not true, at least for Haswell-E pretty sure 103℃ is thermal shutdown.
+Is that Idle? What process is eating so much CPU time?
+Are you doing any work that needs the double precision of a fire pro? If not get a consumer card. Depending on what you program you might want an i7 however that would leave little room for your GPU and the i5 is enough in most cases anyway.
+Do you need that optical drive? You could install windows from a usb drive and save the 50 bucks or use them to buy a better cooler (the 212 should be fine if you overclock moderately). This part is purely opinion but I would get a cheaper case and save the money (or put it towards something else).
+If it happens on a different socket that would also be my guess.
+It go with the 3820 if it was a 6 core however that only stars with the 5820k. I'd get a newer i5, OP.
+Sure, go for it if a 750 is enough for you!
+I had pretty good experiences buying used CPUs, maybe you can even find an i7 for your budget. If you want new and within budget you should look at i3s (33xx, 34xx). EDIT cheapest i5 in Germany I found is at 130€, cheapest i7 is at 165. EDIT2 ok there is a i7 2600 for 133, but that seems quite a lot for such an old chip.
+You could always buy used if you have some spare money.
+Look around for a few days, most people really overestimate how much their old chips are worth.
+Disable powersaving features and raise your CPU Multiplier by one and then run a stress test.
+76C° should be almost 100% safe, I had my 7870 run at 85-90C° for two years without issue.
+Actually it's less than 5 bucks, who the fuck used the whole tube at once?
+80-85℃ isnt that bad, most GPUs can take it, even in the long run.
+Thats correct, or you get more OC headroom if its cooler x).
+Oh god what did that CPU ever do to him?
+Parking like this is actually illegal in germany.
+God damn it I have one of those too.

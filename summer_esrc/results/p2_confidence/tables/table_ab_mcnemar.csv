@@ -1,0 +1,3 @@
+comparison,threshold,n11_both_match,n10_a_only,n01_b_only,n00_neither,n_discordant,statistic,p_value,alpha,alpha_bonferroni,significant_bonferroni,note
+a_vs_b,0.9,32,6,7,5,13,0.0000,1.000000,0.05,0.025000,false,Thresholded classifiers at τ=0.9: predict correct iff conf≥τ. Continuity correction=True.
+a_vs_b,0.99,26,1,15,8,16,10.5625,0.001154,0.05,0.025000,true,Thresholded classifiers at τ=0.99: predict correct iff conf≥τ. Continuity correction=True.

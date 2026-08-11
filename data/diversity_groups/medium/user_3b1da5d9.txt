@@ -1,0 +1,50 @@
+There are a lot of games that are biased af towards certain architectures.
+he should have his own web mini-series.
+In what way would it be more chaotic?
+Also if its a company employee who's calling with the problem, they'll treat the downtime that the issue causes as a coffee break, and since its *your* job to fix it, they feel no responsibility to cut their break short by clicking that little update button.
+Well no shit. But the OP was saying to praise **PC** games that work well regardless of GPU brand, instead of fucking over either 70% or 30% of users for picking "the wrong card"
+Fix yo flair. It still says titan x
+Considering the cooler is just the same reference theyve been using for the high end cards for a while now, I'm gonna call BS on that.
+Nvidia never started off PhysX, they incorporated it into GeForce after buying Ageia in 2008, who made dedicated cards for it after they bought the software from Novodex in 2004.
+the game is literally called SUPERHOT
+Should use sharex for screenshots, it uploads to imgur.
+Less underrated more "under-realised". It looked to be pretty damn perfect, then it seems at the last minute they undid stuff. You had really nice maps, balanced well, but then suddenly a bottleneck where every player has to pass the same corridor/room. Also everyone had too much HP.
+It's fallout. I'd be about halfway done with character creation.
+Just because you've had no issues doesn't mean that no one has issues. I've had a GTX 460, and a 970. Both times I had to reinstall drivers once or twice a month because something broke them. Especially driver updates, they always crashed and broke. The r9 270 I moved to after the 460 barely had any issues, and the drivers were WAY more stable. After I sold my 970(vram lies and coil while like hell itself) I got the 290 I have now. Overclocked, still more stable than the Nvidia cards I had.
+It is possible in dx12, but the guy your replying to is taking about stacked memory modules (hbm)
+It will be possible in DX12 to combine crossfire ram, however.
+Paid mods.
+If you're on about AMD CPUs, the TJ MAX (The thermal cut off point) for the FX processors is at 80c. Meanwhile Intels is at 105c, IIRC.
+If he complains again, just say "sod it" and force CPU and GPU fans to 90% all the time.
+[Checked it on my 8320 right now.](http://i.imgur.com/MK0fhtI.png)
+The current X86-64 framework is all based on AMD64. Intel tried making their own (IA-64) but it was never compatible with 32 bit applications so it bombed. So they need Intels permission for X86, then AMDs permission for the standard x86-64.
+Dogmeat wasn't there (there was another, more robotic dog) but I think that one can slide because its a spin off.
+You have to go into the BIOS, and either select boot or change the boot order. Some manufacturers block USB or Disk Booting because "security"
+There may be a separate option thats disabling USB/CD booting, in the BIOS.
+No clue then. Sorry.
+That's powercolor's special one. they tend to bring out super-pimped versions of cards, like the Devil 13, which was 2 290x GPUs on one card (they did this ***BEFORE*** AMD did the 295x2)
+The end of the speech leading up to war never changes. I'll eat my shoe if that's not him, it sounds exactly like him
+Its bootifol.
+I have to go do something, I'll be back in an hour or two, no mobile data ATM. Thanks for help in advance.
+Yeah, I guess the whole reset of settings on every app gives me a pretty good time to flash a new ROM without losing much.
+Gamasutra ran a massive campaign about how gamers are dead and horrible racist mysogynists.
+Didn't they say you could bind it to work like a thumbstick, where you hold your thumb on, and the further from the centre you move, it moves as if you were dragging a thumb stick that way.
+No, you said it were as if you were dragging a cursor around, laptop touchpad style.
+Most people also need to change the existing line bUseThreadedAI=0 to bUseThreadedAI=1
+Not DX12, but they said they have one built into windows 10, IIRC part of the "XBOX WINDOWS" program.
+Would be awesome if they could somehow pull through info from cheapshark.com or isthereanydeal.com, so you have a price check of all the major retailers.
+They'd just need to make something to pull data from here http://isthereanydeal.com Or just a small web wrapper so you get that website in the launcher.
+The PSU was obviously hired by Intel spies to sabotage your experience ^ ^ ^/s
+It's called binning. They were testing the higher up models, and if a core didn't meet standards, they blocked it off and sold it as "without" that core. It was just cheaper to not laser them off, which is what everyone does now.
+Its part of an update.
+Website only shows PS4, Xbone and PC.
+Seconding this. OP, Can you get a screenshot without a weapon equipped?
+If 60 is a bargain, what does that make 10 for the complete pack?
+Pay less, get GOTY
+It tends to go down to about $5 for the ultimate edition. Didn't notice it during xmas sales, but it will probably do it again this summer. (Edit why the duck did this get down voted?)
+10/10
+I have no option for 60fps in Chrome?
+Stop being an autist.
+Stop being autistic
+&gt;buy and maintain and continuously upgrade I haven't had to open my PC up for around 2 years now. You don't need to constinously do anything.
+The digital prices on PSN and Xbox live still baffle me. Digital distribution should be ***cheaper*** that physical copies of the game, as there is no physical production or shipping cost, its just the cost of running the download server that they already use for updates. Steam (and other PC digital distributors) have really shown them up for both price and quality, yet Sony and Microsoft still regularly charge full price for games even when stores have gone down to half price on a new boxed copy.
