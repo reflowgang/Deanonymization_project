@@ -1,5 +1,0 @@
-Jeez people, the '5 minutes' was obviously a figure of speech. Man, you guys are wound tight.
-Yeah, I'm looking at those now. This has 'I'm going to spend a ton of time on this, but then the game won't launch and I'll never figure out why' written all over it. Hard choices. I really want that change though. I may take a crack at it.
-I most likely will take you up on that then. Currently downloading all the stuff I need. Ugh, here I was thinking this could be solved in 10 seconds by changing a number in a file to a different number. Plot twist.
-I cannot seem to find it, but I seem to be using a different version of UE Explorer than on the tutorials. I can search in the classes itself, but I have no Tools &gt; Find option, making it impossible to know where the piece of code I'm looking for is hiding.
-'I don't like this thing, therefor anyone who does is less of a person than I am'. Well said. You couldn't have been clearer that you're a dumb cunt.

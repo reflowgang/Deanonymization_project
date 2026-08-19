@@ -1,5 +1,0 @@
-Doing it like the meta tag and content for the color a la Chrome for Android would be great although that may take time to the dev to implement and if the adoption by the subreddits moderators isn't that high will it pay off in the end?
-Tier 0 won't let us down this time the deal is wrapped up lads, cock's tip slightly visible, for now...
-I'm not concerned, Valdes has experience and can still perform given he gets enough minutes he sure will be a great keeper for us.
-Wait, what?
-This will be gone on 1.0, I saw updates on their repo today and it will load bigger files, a la Sublime Text (showing a indeterminate progress bar). Not sure about performance though.

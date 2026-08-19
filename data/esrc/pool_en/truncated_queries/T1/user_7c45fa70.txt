@@ -1,5 +1,0 @@
-The Exorcist
-Might wanna add a timeout to avoid bleeding performance while resizing. $(window).resize(function() { clearTimeout(this.id); this.id = setTimeout(function(){ // Code here }, 500); }); Basically just run the code 500 miliseconds after resizing has stopped.
-If you wanna speed up the width detection a bit, you could consider using this instead: if (window.innerWidth &lt; 451 ) { // ... } It's not dependent on jQuery so it'll fire faster and give you the same results.
-Manor to run Magnussen, Hamilton, Rosberg, Coulthard, Perez, Merhi, Stevens, Rossi, Haryanto, Wurz, Davidson, Button, Glock, Webber and Wehrlein confirmed!
-Thanks :D

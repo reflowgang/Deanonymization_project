@@ -1,7 +1,0 @@
-- Location: Wisconsin
-- Profession: Electronics technician
-- Education: Technical background in electronics and microcontrollers
-- Recurring hobbies: Vintage computing, electronics repair, microcontroller programming
-- Strong beliefs: Advocates for open-source software and hardware
-- Distinctive expertise: Knowledge in circuit design, soldering, and troubleshooting electronics
-- Recurring communities: Engages in discussions related to electronics, vintage computing, and DIY projects on Reddit

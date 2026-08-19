@@ -15,3 +15,8 @@ data/cache/
 *.npy
 *.log
 .DS_Store
+
+data/
+
+archive/
+
