@@ -1,0 +1,34 @@
+[
+  {
+    "pool": "pool_en",
+    "n_paired": 500,
+    "gallery_size_mpnet": 1000,
+    "gallery_size_jina": 1000,
+    "unique_candidates_in_top15_mpnet": 882,
+    "unique_candidates_in_top15_jina": 864,
+    "mpnet_hit_at_15_recomputed": 0.44,
+    "jina_hit_at_15_recomputed": 0.664,
+    "discordant_mpnet_only": 24,
+    "discordant_jina_only": 136,
+    "both_hit": 196,
+    "neither_hit": 144,
+    "issues": [],
+    "ok": true
+  },
+  {
+    "pool": "hn",
+    "n_paired": 499,
+    "gallery_size_mpnet": 1000,
+    "gallery_size_jina": 1000,
+    "unique_candidates_in_top15_mpnet": 771,
+    "unique_candidates_in_top15_jina": 784,
+    "mpnet_hit_at_15_recomputed": 0.2385,
+    "jina_hit_at_15_recomputed": 0.4569,
+    "discordant_mpnet_only": 28,
+    "discordant_jina_only": 137,
+    "both_hit": 91,
+    "neither_hit": 243,
+    "issues": [],
+    "ok": true
+  }
+]

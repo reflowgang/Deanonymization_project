@@ -1,0 +1,30 @@
+{
+  "task": "p2_finalize_ab_full_pool",
+  "scores_dir": "results/runs/p4_gemma_ab_rescore",
+  "pools": [
+    {
+      "pool": "pool_en",
+      "n": 500,
+      "n_correct": 189,
+      "top1": 0.378
+    },
+    {
+      "pool": "hn",
+      "n": 499,
+      "n_correct": 100,
+      "top1": 0.20040080160320642
+    }
+  ],
+  "n_boot": 10000,
+  "seed": 2026,
+  "bonferroni_k": 4,
+  "bonferroni_alpha": 0.0125,
+  "created_at_utc": "2026-08-12T12:55:47.828420+00:00",
+  "outputs": [
+    "results/p4_open_vs_frontier/tables_c3_gemma_ab/table_ab_metrics.csv",
+    "results/p4_open_vs_frontier/tables_c3_gemma_ab/table_ab_bootstrap_ci.csv",
+    "results/p4_open_vs_frontier/tables_c3_gemma_ab/table_ab_mcnemar.csv",
+    "results/p4_open_vs_frontier/tables_c3_gemma_ab/table_ab_reliability.csv",
+    "results/p4_open_vs_frontier/tables_c3_gemma_ab/DELIVERABLE_ab_full_pool.md"
+  ]
+}

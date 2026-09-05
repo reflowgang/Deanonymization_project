@@ -10,7 +10,7 @@ __pycache__/
 
 data/raw/
 results/tables/*.csv
-results/runs/
+**/results/runs/
 data/cache/
 *.npy
 *.log
@@ -20,3 +20,4 @@ data/
 
 archive/
 
+paper.tex

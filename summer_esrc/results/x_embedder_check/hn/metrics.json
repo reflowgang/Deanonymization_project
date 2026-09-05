@@ -1,0 +1,30 @@
+{
+  "pool": "hn",
+  "n_queries": 499,
+  "mpnet_baseline": {
+    "n": 499,
+    "hit_at_15": 0.2385,
+    "hit_at_15_count": 119,
+    "top1": 0.0661,
+    "top1_count": 33
+  },
+  "jina_embed": {
+    "n": 499,
+    "hit_at_15": 0.4569,
+    "hit_at_15_count": 228,
+    "top1": 0.1683,
+    "top1_count": 84
+  },
+  "gpt4o_archived": {
+    "n": 499,
+    "hit_at_15": 0.505,
+    "hit_at_15_count": 252
+  },
+  "jina_embed_rerank": {
+    "n": 499,
+    "hit_at_15": 0.4569,
+    "hit_at_15_count": 228,
+    "top1": 0.1263,
+    "top1_count": 63
+  }
+}

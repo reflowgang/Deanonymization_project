@@ -1,0 +1,5 @@
+pool,comparison,threshold,n11_both_match,n10_a_only,n01_b_only,n00_neither,n_discordant,statistic,p_value,alpha,n_tests_bonferroni,alpha_bonferroni,significant_bonferroni,note
+pool_en,a_vs_b,0.9,172,169,142,17,311,2.1736,0.140394,0.05,4,0.012500,false,Thresholded classifiers at τ=0.9: predict correct iff conf≥τ. Continuity correction=True.
+pool_en,a_vs_b,0.99,226,85,154,35,239,19.3473,0.000011,0.05,4,0.012500,true,Thresholded classifiers at τ=0.99: predict correct iff conf≥τ. Continuity correction=True.
+hn,a_vs_b,0.9,240,182,48,29,230,76.9087,0.000000,0.05,4,0.012500,true,Thresholded classifiers at τ=0.9: predict correct iff conf≥τ. Continuity correction=True.
+hn,a_vs_b,0.99,308,91,75,25,166,1.3554,0.244333,0.05,4,0.012500,false,Thresholded classifiers at τ=0.99: predict correct iff conf≥τ. Continuity correction=True.

@@ -1,0 +1,68 @@
+{
+  "created": "2026-08-12T14:47:32.862877+00:00",
+  "p1_run_dir": "/Users/reflowgang/Downloads/deanonymization_project/summer_esrc/results/runs/p1_full_pool_overnight_20260805",
+  "out_dir": "/Users/reflowgang/Downloads/deanonymization_project/summer_esrc/results/x_embedder_check",
+  "pools": [
+    {
+      "pool": "pool_en",
+      "n_queries": 500,
+      "mpnet_baseline": {
+        "n": 500,
+        "hit_at_15": 0.44,
+        "hit_at_15_count": 220,
+        "top1": 0.172,
+        "top1_count": 86
+      },
+      "jina_embed": {
+        "n": 500,
+        "hit_at_15": 0.664,
+        "hit_at_15_count": 332,
+        "top1": 0.312,
+        "top1_count": 156
+      },
+      "gpt4o_archived": {
+        "n": 500,
+        "hit_at_15": 0.492,
+        "hit_at_15_count": 246
+      },
+      "jina_embed_rerank": {
+        "n": 500,
+        "hit_at_15": 0.664,
+        "hit_at_15_count": 332,
+        "top1": 0.254,
+        "top1_count": 127
+      }
+    },
+    {
+      "pool": "hn",
+      "n_queries": 499,
+      "mpnet_baseline": {
+        "n": 499,
+        "hit_at_15": 0.2385,
+        "hit_at_15_count": 119,
+        "top1": 0.0661,
+        "top1_count": 33
+      },
+      "jina_embed": {
+        "n": 499,
+        "hit_at_15": 0.4569,
+        "hit_at_15_count": 228,
+        "top1": 0.1683,
+        "top1_count": 84
+      },
+      "gpt4o_archived": {
+        "n": 499,
+        "hit_at_15": 0.505,
+        "hit_at_15_count": 252
+      },
+      "jina_embed_rerank": {
+        "n": 499,
+        "hit_at_15": 0.4569,
+        "hit_at_15_count": 228,
+        "top1": 0.1263,
+        "top1_count": 63
+      }
+    }
+  ],
+  "elapsed_s": 146.4
+}

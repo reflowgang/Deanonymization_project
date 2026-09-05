@@ -1,0 +1,5 @@
+pool,metric,n_paired,n11_both,n10_gemma_only,n01_baseline_only,n00_neither,p_value,significant_0_05
+pool_en,top1,500,153,36,28,283,0.381733,False
+pool_en,hit_at_15,500,194,30,26,250,0.68888,False
+hn,top1,499,57,43,26,373,0.053289,False
+hn,hit_at_15,499,91,43,28,337,0.095924,False

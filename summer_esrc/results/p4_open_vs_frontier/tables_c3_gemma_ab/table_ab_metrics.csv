@@ -1,0 +1,5 @@
+pool,estimator,n,n_correct,top1_accuracy,ece,brier,average_precision,recall_at_90_precision,recall_at_99_precision,note_thin_positives
+pool_en,a_verbalized,500,189,0.3780,0.3039,0.2642,0.7370,0.1640,0.0688,
+pool_en,b_selected_id_exp_logprob,500,189,0.3780,0.5059,0.4587,0.7842,0.3862,0.0741,
+hn,a_verbalized,499,100,0.2004,0.5999,0.5005,0.4973,0.0000,0.0000,
+hn,b_selected_id_exp_logprob,499,100,0.2004,0.6433,0.5637,0.6430,0.2700,0.0500,

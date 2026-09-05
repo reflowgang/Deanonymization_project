@@ -1,0 +1,5 @@
+pool,metric,n_baseline,n_gemma,n_paired,baseline_rate,baseline_ci_low,baseline_ci_high,baseline_pct,gemma_rate,gemma_ci_low,gemma_ci_high,gemma_pct,delta_gemma_minus_baseline,delta_ci_low,delta_ci_high,delta_pct_pts,delta_ci_excludes_zero,mcnemar_n11,mcnemar_n10_gemma_only,mcnemar_n01_baseline_only,mcnemar_n00,mcnemar_p,n_boot,seed
+pool_en,top1,500,500,500,0.362,0.32,0.404,36.2,0.378,0.336,0.42,37.8,0.016,-0.016,0.048,1.6,False,153,36,28,283,0.381733,10000,2026
+pool_en,hit_at_15,500,500,500,0.44,0.396,0.484,44.0,0.448,0.404,0.492,44.8,0.008,-0.022,0.038,0.8,False,194,30,26,250,0.68888,10000,2026
+hn,top1,499,499,499,0.1663,0.1343,0.2004,16.6,0.2004,0.1663,0.2365,20.0,0.0341,0.002,0.0661,3.41,True,57,43,26,373,0.053289,10000,2026
+hn,hit_at_15,499,499,499,0.2385,0.2004,0.2766,23.8,0.2685,0.2305,0.3086,26.9,0.0301,-0.002,0.0621,3.01,False,91,43,28,337,0.095924,10000,2026
